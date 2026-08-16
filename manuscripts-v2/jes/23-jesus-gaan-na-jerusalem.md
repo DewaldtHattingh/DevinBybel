@@ -19,52 +19,57 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/JES-23-p1.png)
 
 > **Beeldnota:** Jesus op pad; Jerusalem ver in verte; dissipels volg; pad lang en wyd.
 
-**Een dag, lank, lank gelede,** die tyd nader dat Jesus na Jerusalem moet gaan. Jesus stel sy gesig na Jerusalem. Hy is vasberade. Jerusalem is die stad waar groot dinge wag — nie maklike dinge nie. Jesus weet wat daar kom.
+**Een dag, lank, lank gelede,** die tyd nader dat Jesus na Jerusalem moet gaan. Jesus stel sy gesig na Jerusalem. Hy is vasberade. Jerusalem is die stad waar groot dinge wag — nie maklike dinge nie. Jesus weet wat daar kom. Toe die tyd naby gekom het, het Jesus sy gesig na Jerusalem gerig.
+
+Toe die tyd naby gekom het, het Jesus sy gesig na Jerusalem gerig.
 ---
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/JES-23-p2.png)
 
 > **Beeldnota:** Jesus met dissipels; ernstige gesprek; pad na Jerusalem; geen kruis in beeld.
 
 Jesus neem die twaalf saam. Hy sê: Kyk, ons gaan op na Jerusalem. Die Seun van die mens sal aan die hoofmannen en skrifgeleerdes oorhandig word. Hulle sal hom veroordeel en hom aan die heidene oorhandig. Hulle sal hom bespot en kwaad doen en hom doodmaak. En op die derde dag sal hy opgewek word.
 
-Die dissipels verstaan dit nie. Dit is vir hulle verborge.
+Die dissipels verstaan dit nie. Dit is vir hulle verborge. Hy het sy dissipels gewaarsku: Die Seun van die mens sal in die hande van die mensdom gegee word.
+
+Hy het sy dissipels gewaarsku: Die Seun van die mens sal in die hande van die mensdom gegee word.
 ---
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/JES-23-p3.png)
 
 > **Beeldnota:** Griekse mense vra vir Filippus; Jesus leer; menigte luister; ernstige lig.
 
 Sommige Griekse mense kom. Hulle wil Jesus sien. Filippus en Andreas bring die vraag. Jesus sê: Die tyd het gekom dat die Seun van die mens verheerlik sal word.
 
-Jesus sê ook: As een korrel graan nie in die grond val en sterf nie, bly dit alleen. Maar as dit sterf, bring dit baie vrug.
+Jesus sê ook: As een korrel graan nie in die grond val en sterf nie, bly dit alleen. Maar as dit sterf, bring dit baie vrug. Hulle sal Hom verwerp en Hom doodmaak — en op die derde dag sal Hy opstaan.
+
+Hulle sal Hom verwerp en Hom doodmaak — en op die derde dag sal Hy opstaan.
 ---
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/JES-23-p4.png)
 
 > **Beeldnota:** Jesus wys na Jerusalem; korrel graan in hand; lig van bo; wyd landskap.
 
 Jesus sê: Wie my liefhet, moet my volg. Waar ek is, sal my dienaar ook wees. Wie my dien, sal my Vader eer.
 
-Jesus sê ook: En ek, wanneer ek van die aarde opgehef word, sal alle mense tot myself trek. Jerusalem wag — maar Jesus gaan nie weg nie. Hy gaan vir alle mense.
+Jesus sê ook: En ek, wanneer ek van die aarde opgehef word, sal alle mense tot myself trek. Jerusalem wag — maar Jesus gaan nie weg nie. Hy gaan vir alle mense. Die dissipels het dit nie verstaan nie — dit was vir hulle verborge.
+
+Die dissipels het dit nie verstaan nie — dit was vir hulle verborge.
 ---
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/JES-23-p5.png)
 
 > **Beeldnota:** Jesus loop na Jerusalem; stad in verte; dissipels volg; kalm maar ernstig.
 
 Jesus gaan na Jerusalem. Die pad is nog lang. Lyding, dood en opstanding wink voor — maar Jesus stel sy gesig na die stad. Die korrel sal sterf en vrug bring. Alle mense sal na hom getrek word.
 
-En weet jy wat toe gebeur het? Jesus gaan na Jerusalem — en die volgende groot storie begin daar.
+En weet jy wat toe gebeur het? Jesus gaan na Jerusalem — en die volgende groot storie begin daar. Jesus het voortgegaan — Hy het geweet wat in Jerusalem wag, maar die Vader se wil was sy pad. Jesus het geweet wat Jerusalem sou bring — Hy het die Vader se wil gevolg.
+
+Jesus het voortgegaan — Hy het geweet wat in Jerusalem wag, maar die Vader se wil was sy pad. Jesus het geweet wat Jerusalem sou bring — Hy het die Vader se wil gevolg.
 ---
 ## Bladsy 6 — Geheue
 

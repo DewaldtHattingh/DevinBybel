@@ -27,7 +27,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Groot leër word klein; manne drink by water; drie honderd oor.
 
-**Een dag, lank, lank gelede,** het Gideon 'n groot leër opgeroep — twee en twintig duisend man. Die Here het gesê: Daar is te veel. Israel sal roem op hulleself. Hy het die leër laat krimp totdat net drie honderd man oor was.
+**Een dag, lank, lank gelede,** het Gideon 'n groot leër opgeroep — twee en twintig duisend man. Die Here het gesê: Daar is te veel. Israel sal roem op hulleself. Hy het die leër laat krimp totdat net drie honderd man oor was. Twee en twintig duisend man het opgeroep gekom, maar die Here het gesê dit is te veel.
 
 ---
 
@@ -37,7 +37,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Drie honderd manne met fakkels en kanne; Midian se kamp slaap; nag.
 
-Die Here het vir Gideon gesê: Met die drie honderd man wat gelep het, sal Ek julle red. Gideon het die Midianitiese kamp in die nag verken. Hy het 'n droom gehoor: 'n broodrol het die tent omvergewerp. Die Midianiete was bang.
+Die Here het vir Gideon gesê: Met die drie honderd man wat gelep het, sal Ek julle red. Gideon het die Midianitiese kamp in die nag verken. Hy het 'n droom gehoor: 'n broodrol het die tent omvergewerp. Die Midianiete was bang. Die Here het vir Gideon gesê: Kyk, Ek het die Midianitiese leër in jou hand gegee.
 
 ---
 
@@ -47,7 +47,7 @@ Die Here het vir Gideon gesê: Met die drie honderd man wat gelep het, sal Ek ju
 
 > **Beeldnota:** Gideon gee bevel; drie honderd gereed; spanning voor die aanval.
 
-Die Here het vir Gideon gesê: Gaan af na die kamp. Elke man moet 'n fakkels in 'n klei kan hou en 'n trompet in sy hand. Kyk na my en doen dieselfde. Gideon en sy dienaar Pura het die kamp verken en teruggekom.
+Die Here het vir Gideon gesê: Gaan af na die kamp. Elke man moet 'n fakkels in 'n klei kan hou en 'n trompet in sy hand. Kyk na my en doen dieselfde. Gideon en sy dienaar Pura het die kamp verken en teruggekom. Gideon het die drie honderd in drie kompanie verdeel met fakkels in potte.
 
 ---
 
@@ -57,7 +57,7 @@ Die Here het vir Gideon gesê: Gaan af na die kamp. Elke man moet 'n fakkels in 
 
 > **Beeldnota:** Drie honderd breek kanne; fakkels gewys; trompette geblaas; geen geweld.
 
-En weet jy wat toe gebeur het? Om die kamp het hulle die kanne gebreek, die fakkels gewys en die trompette geblaas. Hulle het geroep: 'n Swaard vir die Here en vir Gideon! Die Midianiete het in verwarring gevlug en teen mekaar geveg.
+En weet jy wat toe gebeur het? Om die kamp het hulle die kanne gebreek, die fakkels gewys en die trompette geblaas. Hulle het geroep: 'n Swaard vir die Here en vir Gideon! Die Midianiete het in verwarring gevlug en teen mekaar geveg. Die Midianiete het uitgeroep en gevlug — die Here het hulle in verwarring gebring.
 
 ---
 

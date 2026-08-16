@@ -19,55 +19,54 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/REV-02-p1.png)
 
 > **Beeldnota:** Johannes kyk na die troon; boek in God se hand; seëlringe; ernstige maar kalm stemming.
 
 **Een dag, lank, lank gelede,** in Johannes se hemelse visioen het hy na die troon gekyk. In die regterhand van God wat op die troon sit, was daar 'n boek — diggeseël met sewe seëls.
 
-Johannes het gehuil omdat niemand die boek kon oopmaak nie. Maar die Lam was daar — Jesus, wat oorwin het.
+Johannes het gehuil omdat niemand die boek kon oopmaak nie. Maar die Lam was daar — Jesus, wat oorwin het. Johannes het 'n boek in die regterhand van Hom wat op die troon sit, gesien — met sewe seëls.
 
+Johannes het 'n boek in die regterhand van Hom wat op die troon sit, gesien — met sewe seëls.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/REV-02-p2.png)
 
 > **Beeldnota:** Sterke engel roep; niemand stap vorentoe; Johannes hartseer; geen paniek nie.
 
 'n Sterk engel het met 'n harde stem geroep: Wie is waardig om die boek oop te maak? Niemand in die hemel of op die aarde kon dit oopmaak nie. Johannes het hard gehuil omdat niemand gevind is nie.
 
-Johannes het 'n boek in God se hand gesien — diggeseël met sewe seëls. Niemand kon dit oopmaak nie, en Johannes het gehuil.
+Johannes het 'n boek in God se hand gesien — diggeseël met sewe seëls. Niemand kon dit oopmaak nie, en Johannes het gehuil. Niemand in die hemel of op die aarde was waardig om die boek oop te maak nie.
 
+Niemand in die hemel of op die aarde was waardig om die boek oop te maak nie.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/REV-02-p3.png)
 
 > **Beeldnota:** Een van die ouderlinge wys; in die middel van die troon staan 'n Lam; wit, met teken van oorwinning.
 
 Een van die ouderlinge het vir Johannes gesê: Moenie huil nie. Kyk! Die Leeu uit die stam van Juda het oorwin. Johannes het gekyk — en in die middel van die troon het hy 'n Lam gesien. Dit was soos 'n Lam wat geslag is, maar dit leef.
 
-'n Ouderling het gesê: Moenie huil nie — die Leeu uit Juda het oorwin. Johannes het 'n Lam gesien wat leef.
+'n Ouderling het gesê: Moenie huil nie — die Leeu uit Juda het oorwin. Johannes het 'n Lam gesien wat leef. Johannes het gehuil — maar een van die ouderlinge het gesê: Moenie huil nie.
 
+Johannes het gehuil — maar een van die ouderlinge het gesê: Moenie huil nie.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/REV-02-p4.png)
 
 > **Beeldnota:** Lam neem die boek; engels en mense val op knieë; juweelkleure; eerbied.
 
 Die Lam het stap na die troon toe en die boek geneem. Toe het die vier lewende wesens en die ouderlinge geval en aanbid. Hulle het gesing: Waardig is U, Lam, om die boek te neem!
 
-Die Lam het die boek geneem. Al die hemel het geval en gesing: Waardig is U, Lam, om die boek te neem!
+Die Lam het die boek geneem. Al die hemel het geval en gesing: Waardig is U, Lam, om die boek te neem! Die Leeu van die stam Juda, die Wortel van Dawid, het oorwin — maar Johannes het 'n Lam gesien, soos geslag.
 
+Die Leeu van die stam Juda, die Wortel van Dawid, het oorwin — maar Johannes het 'n Lam gesien, soos geslag.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/REV-02-p5.png)
 
 > **Beeldnota:** Menigte in wit; palmtakke; nuwe lied; sagte, vreugdevolle lig.
@@ -76,8 +75,9 @@ Johannes het 'n groot menigte gehoor — van alle nasies en tale. Hulle het gesi
 
 Johannes het geweet: die Lam is Jesus. Hy alleen is waardig om die seëls oop te maak.
 
-Die hele hemel het gesing. Jesus is waardig — en Hy alleen kan die plan van God voltooi.
+Die hele hemel het gesing. Jesus is waardig — en Hy alleen kan die plan van God voltooi. Die Lam het die boek geneem — almal het geval en gesing: Waardig is die Lam wat geslag is! Die Lam wat geslag is, is waardig — Jesus het oorwin.
 
+Die Lam het die boek geneem — almal het geval en gesing: Waardig is die Lam wat geslag is! Die Lam wat geslag is, is waardig — Jesus het oorwin.
 ---
 
 ## Bladsy 6 — Geheue

@@ -19,55 +19,54 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/ACT-05-p1.png)
 
 > **Beeldnota:** Saulus op 'n perd op 'n pad; brief in hand; ernstige gesig; sonlig.
 
 **Een dag, lank, lank gelede,** het Saulus — die man wat toegestem het toe Stefanus gesterf het — nog steeds die dissipels vervolg. Hy het briewe gevra om Christene in Damaskus te arresteer.
 
-Saulus het gedink hy doen wat reg is. Maar Jesus het hom op die pad gestop — met 'n lig en 'n stem.
+Saulus het gedink hy doen wat reg is. Maar Jesus het hom op die pad gestop — met 'n lig en 'n stem. Saul het dreigemente uitgespreek teen die dissipels — hy het na Damaskus gegaan om Christene gevange te neem.
 
+Saul het dreigemente uitgespreek teen die dissipels — hy het na Damaskus gegaan om Christene gevange te neem.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/ACT-05-p2.png)
 
 > **Beeldnota:** Helder lig van die hemel; Saulus val van perd af; reisgenote staan versteen; geen geweld nie.
 
 Toe hy naby Damaskus gekom het, het plotseling 'n lig van die hemel om hom geskyn. Saulus het op die grond geval. 'n Stem het gesê: Saul, Saul, waarom vervolg jy My?
 
-Saulus het briewe gehad om Christene in Damaskus te arresteer. Hy was op die pad vol oortuiging.
+Saulus het briewe gehad om Christene in Damaskus te arresteer. Hy was op die pad vol oortuiging. Skielik het 'n lig van die hemel om hom geskyn — hy het op die grond geval.
 
+Skielik het 'n lig van die hemel om hom geskyn — hy het op die grond geval.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/ACT-05-p3.png)
 
 > **Beeldnota:** Saulus kniel met hande oor oë; stem uit die lig; ernstige oomblik.
 
 Saulus het gevra: Wie is U, Here? Die stem het gesê: Ek is Jesus, die Een wat jy vervolg. Staan op en gaan die stad in. Jy sal hoor wat jy moet doen. Saulus kon nie sien nie — sy oë was blind.
 
-Skielik het 'n lig van die hemel om hom geskyn. 'n Stem het gesê: Saul, Saul, waarom vervolg jy My?
+Skielik het 'n lig van die hemel om hom geskyn. 'n Stem het gesê: Saul, Saul, waarom vervolg jy My? 'n Stem het gesê: Saul, Saul, waarom vervolg u My? Saul het gevra: Wie is U, Here?
 
+'n Stem het gesê: Saul, Saul, waarom vervolg u My? Saul het gevra: Wie is U, Here?
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/ACT-05-p4.png)
 
 > **Beeldnota:** Ananias leg hande op Saulus; sagte lig in 'n kamer; vrede.
 
 In Damaskus het God vir 'n man genaamd Ananias gesê: Gaan na Saulus. Ananias was bang, maar God het gesê: Hy is my uitverkore instrument. Ananias het gegaan, hande op Saulus gelê en gesê: Broer Saul, Jesus wat op die pad aan jou verskyn het, stuur my.
 
-Saulus was blind en moes na Damaskus gelei word. God het Ananias gestuur om na hom te gaan en vir hom te bid.
+Saulus was blind en moes na Damaskus gelei word. God het Ananias gestuur om na hom te gaan en vir hom te bid. Ek is Jesus wat u vervolg. Gaan in die stad — daar sal u hoor wat u moet doen.
 
+Ek is Jesus wat u vervolg. Gaan in die stad — daar sal u hoor wat u moet doen.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/ACT-05-p5.png)
 
 > **Beeldnota:** Saulus staan met oop oë; glimlag; doop in water; nuwe begin.
@@ -76,8 +75,9 @@ Skaarsies het iets soos skille van Saulus se oë afgeval, en hy kon weer sien. H
 
 Saulus kon weer sien, is gedoop en het dadelik begin preek: Jesus is die Seun van God! Jesus het hom heeltemal verander.
 
-Saulus het 'n nuwe naam gekry: Paulus. Hy het Jesus begin preek — die een wat hy vroeër vervolg het.
+Saulus het 'n nuwe naam gekry: Paulus. Hy het Jesus begin preek — die een wat hy vroeër vervolg het. Saul was drie dae blind — Ananias het hom besoek en gesê: Die Here Jesus wat aan jou verskyn het, stuur my. Saul het sy naam verander na Paulus — hy sou vir Jesus getuig.
 
+Saul was drie dae blind — Ananias het hom besoek en gesê: Die Here Jesus wat aan jou verskyn het, stuur my. Saul het sy naam verander na Paulus — hy sou vir Jesus getuig.
 ---
 
 ## Bladsy 6 — Geheue

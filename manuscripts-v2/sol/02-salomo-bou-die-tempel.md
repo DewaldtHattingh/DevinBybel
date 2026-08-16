@@ -18,7 +18,6 @@ afr20_quote_check: pending
 **Verhaal-ID:** SOL-02
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/SOL-02-p1.png)
 
 > **Beeldnota:** Cedarbome; timmerhout; werkers; Jerusalem op heuwel.
@@ -27,12 +26,12 @@ afr20_quote_check: pending
 
 Salomo het 'n huis vir die Here laat bou in Jerusalem. Dawid het planne gemaak, maar die Here het gesê Salomo se seun bou die tempel.
 
-Dawid het goud en silwer versamel, maar die Here het gesê: Jy mag nie die tempel bou nie — jou seun sal dit doen.
+Dawid het goud en silwer versamel, maar die Here het gesê: Jy mag nie die tempel bou nie — jou seun sal dit doen. Salomo het met koning Hiram van Tyrus ooreengekom — hout van die Libanon sou kom.
 
+Salomo het met koning Hiram van Tyrus ooreengekom — hout van die Libanon sou kom.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/SOL-02-p2.png)
 
 > **Beeldnota:** Groot bouplek; klippe gestapel; jare verby.
@@ -41,24 +40,24 @@ Die bouwerk het jare geneem. Duisende werkers het klippe gesny en hout gepoleer.
 
 Ceder- en cipreshout het van ver gekom. Jare se werk — klippe gesny, hout gepoleer. Salomo het nie gehaast nie.
 
-Werkmense het jare lank geklop en gesny. Hulle het nie gehaast nie, want die Here se huis moes reg wees.
+Werkmense het jare lank geklop en gesny. Hulle het nie gehaast nie, want die Here se huis moes reg wees. Die tempel is sewe jaar lank gebou — presies soos die Here vir Dawid beveel het.
 
+Die tempel is sewe jaar lank gebou — presies soos die Here vir Dawid beveel het.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/SOL-02-p3.png)
 
 > **Beeldnota:** Tempel struktuur neem vorm; goue besonderhede.
 
 Hulle het die tempel voltooi: die heilige plek en die allerheiligste vertrek vir die verbondsark. Goud en hout en fyn werk het die huis mooi gemaak — nie vir mense se roem nie, maar vir die Here.
 
-Hulle het die heilige plek en allerheiligste vertrek voltooi — vir die verbondsark. Goud en fyn werk vir die Here se huis.
+Hulle het die heilige plek en allerheiligste vertrek voltooi — vir die verbondsark. Goud en fyn werk vir die Here se huis. Die ark van die verbond is in die Allerheiligste gebring — die kerubs se vlerke het daaroor gesprei.
 
+Die ark van die verbond is in die Allerheiligste gebring — die kerubs se vlerke het daaroor gesprei.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/SOL-02-p4.png)
 
 > **Beeldnota:** Ark word ingedra; priesters; wolk vul tempel.
@@ -67,12 +66,12 @@ Toe alles gereed was, het priesters die verbondsark ingedra. 'n Wolk het die tem
 
 Priesters het die ark ingedra. 'n Wolk het die tempel gevul — die Here se heerlikheid. Priesters kon nie dien nie.
 
-Toe die ark ingedra is, kon die priesters nie dien nie — die wolk van die Here se heerlikheid het alles gevul.
+Toe die ark ingedra is, kon die priesters nie dien nie — die wolk van die Here se heerlikheid het alles gevul. By die inwyding het Salomo gebid: Sal God werklik op aarde woon? Die hemel kan U nie bevat nie.
 
+By die inwyding het Salomo gebid: Sal God werklik op aarde woon? Die hemel kan U nie bevat nie.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/SOL-02-p5.png)
 
 > **Beeldnota:** Salomo staan; hande opgehewe; bid; mense buig.
@@ -81,8 +80,9 @@ Salomo het voor die altaar gekniel en gebid: As iemand bid en na hierdie huis ky
 
 Die tempel was nie net 'n mooi gebou nie — dit was 'n plek waar die Here wou woon onder sy volk. Toe die wolk die tempel gevul het, het almal geweet: die Here is hier.
 
-Salomo het gebid dat die Here gebede sal hoor wat na hierdie huis gerig word. Dit was 'n dag van groot vreugde.
+Salomo het gebid dat die Here gebede sal hoor wat na hierdie huis gerig word. Dit was 'n dag van groot vreugde. Die wolk van die Here se heerlikheid het die tempel gevul — die priesters kon nie diens doen nie.
 
+Die wolk van die Here se heerlikheid het die tempel gevul — die priesters kon nie diens doen nie.
 ---
 
 ## Bladsy 6 — Geheue

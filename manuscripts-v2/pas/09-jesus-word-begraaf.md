@@ -19,55 +19,54 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/PAS-09-p1.png)
 
 > **Beeldnota:** Sononder; Josef van Arimatéa stap na Pilatus; ernstige maar kalm gesig.
 
 **Een dag, lank, lank gelede,** toe die aand gekom het, het 'n ryk man genaamd Josef van Arimatéa na Pilatus gegaan. Hy was 'n dissipels van Jesus. Hy het Jesus se liggaam gevra.
 
-Die sabbat het stil verbygegaan. Jesus se vriende was hartseer en bang — hulle het nie geweet wat sou kom nie.
+Die sabbat het stil verbygegaan. Jesus se vriende was hartseer en bang — hulle het nie geweet wat sou kom nie. Josef van Arimatea, 'n dissipel van Jesus, het Pilatus gevra vir Jesus se liggaam.
 
+Josef van Arimatea, 'n dissipel van Jesus, het Pilatus gevra vir Jesus se liggaam.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/PAS-09-p2.png)
 
 > **Beeldnota:** Josef en helpers neem Jesus se liggaam af; linne doek; geen wonde of bloed sigbaar nie.
 
 Pilatus het die liggaam gegee. Josef het fyn linne geneem en Jesus daarmee toegewikkel. Saam met Nikodemus het hulle Jesus in 'n nuwe graf gelê — een wat in 'n rots uitgekap was.
 
-Josef van Arimatéa was 'n ryk man en 'n dissipels van Jesus. Hy het na Pilatus gegaan en Jesus se liggaam gevra.
+Josef van Arimatéa was 'n ryk man en 'n dissipels van Jesus. Hy het na Pilatus gegaan en Jesus se liggaam gevra. Pilatus het dit toegestaan — Josef het die liggaam afgehaal en in fyn linne toegedraai.
 
+Pilatus het dit toegestaan — Josef het die liggaam afgehaal en in fyn linne toegedraai.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/PAS-09-p3.png)
 
 > **Beeldnota:** Groot klip word voor die graf gerol; vroue kyk van ver; stil aandstemming.
 
 Hulle het 'n groot klip voor die ingang van die graf gerol en weggegaan. Maria Magdalena en die ander Maria het gesit en gekyk waar Jesus gelê is. Dit was die dag voor die sabbat.
 
-Hy het fyn linne geneem en Jesus daarmee toegewikkel. Saam met Nikodemus het hulle Jesus in 'n nuwe rotsgraf gelê.
+Hy het fyn linne geneem en Jesus daarmee toegewikkel. Saam met Nikodemus het hulle Jesus in 'n nuwe rotsgraf gelê. Hy het Jesus in sy eie nuwe graf gelê — 'n graf in die rots wat nog nooit gebruik is nie.
 
+Hy het Jesus in sy eie nuwe graf gelê — 'n graf in die rots wat nog nooit gebruik is nie.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/PAS-09-p4.png)
 
 > **Beeldnota:** Priesters by Pilatus; bekommerde gesigte; geen dreigende wapens nie.
 
 Die hoofpriesters en Fariseërs het by Pilatus gekom. Hulle het gesê: Onthou, daardie bedrieër het gesê ná drie dae sal Hy opstaan. Beveel dat die graf verseël word en soldate dit bewaak.
 
-Maria Magdalena en die ander Maria het gesit en gekyk waar Jesus gelê is. Dit was die dag voor die sabbat.
+Maria Magdalena en die ander Maria het gesit en gekyk waar Jesus gelê is. Dit was die dag voor die sabbat. Maria Magdalena en die ander Maria het gesien waar Hy gelê is.
 
+Maria Magdalena en die ander Maria het gesien waar Hy gelê is.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/PAS-09-p5.png)
 
 > **Beeldnota:** Soldate sit by die verseëlde graf; maanlig; stil nag; alles lyk klaar.
@@ -76,8 +75,9 @@ Pilatus het gesê: Neem 'n wag en maak dit so veilig as julle kan. Hulle het die
 
 Die priesters het die graf laat verseël en soldate geplaas om dit te bewaak. Maar God se plan was nog nie verby nie.
 
-Die graf was verseël en bewaak. Alles het klaar gelyk — maar God se storie was nog nie verby nie.
+Die graf was verseël en bewaak. Alles het klaar gelyk — maar God se storie was nog nie verby nie. Hulle het 'n groot klip voor die ingang van die graf gerol — Jesus is begrawe. Jesus is in 'n graf gelê — die storie was nog nie verby nie.
 
+Hulle het 'n groot klip voor die ingang van die graf gerol — Jesus is begrawe. Jesus is in 'n graf gelê — die storie was nog nie verby nie.
 ---
 
 ## Bladsy 6 — Geheue

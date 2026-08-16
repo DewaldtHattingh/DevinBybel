@@ -19,15 +19,15 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/JES-13-p1.png)
 
 > **Beeldnota:** Berg met Jesus op heuwel; menigte op helling; wye landskap; Jesus in middel.
 
-**Een dag, lank, lank gelede,** groot menigtes volg Jesus. Hy gaan op een berg. Sy dissipels kom naby. Jesus sit. Die mense luister. Jesus begin leer — nie net vir geleerdes nie, vir alle mense wat wil luister.
+**Een dag, lank, lank gelede,** groot menigtes volg Jesus. Hy gaan op een berg. Sy dissipels kom naby. Jesus sit. Die mense luister. Jesus begin leer — nie net vir geleerdes nie, vir alle mense wat wil luister. Jesus het op 'n berg gaan sit — sy dissipels het naby Hom gekom.
+
+Jesus het op 'n berg gaan sit — sy dissipels het naby Hom gekom.
 ---
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/JES-13-p2.png)
 
 > **Beeldnota:** Jesus leer; menigte luister; berg wyd; sagte lig.
@@ -36,10 +36,11 @@ Jesus sê wat God se koninkryk lyk. Gelukkig die arme — die koninkryk van die 
 
 Dit klink anders as wat baie mense verwag. Jesus wys: God se pad is anders — vol van genade en waarheid.
 
-Jesus sê: Gelukkig die armes — die koninkryk behoort aan hulle. Gelukkig die sagmoediges. Gelukkig die rein van hart — hulle sal God sien. God se pad is vol genade.
+Jesus sê: Gelukkig die armes — die koninkryk behoort aan hulle. Gelukkig die sagmoediges. Gelukkig die rein van hart — hulle sal God sien. God se pad is vol genade. Hy het die Saligsprekinge geleer: Salig die armes van gees, want hulle behoort die koninkryk van die hemel.
+
+Hy het die Saligsprekinge geleer: Salig die armes van gees, want hulle behoort die koninkryk van die hemel.
 ---
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/JES-13-p3.png)
 
 > **Beeldnota:** Jesus met oop hande; kinderlike gesprek; menigte naby; hemel wyd.
@@ -48,10 +49,11 @@ Jesus leer ook hoe om te bid. Hy sê: Bid so — Ons Vader in die hemel, laat u 
 
 Dit is die gebed wat Jesus gee. Simpel. Naar God. Vol van vertroue.
 
-Jesus leer hoe om te bid: Ons Vader in die hemel, laat u naam geheilig word. Laat u koninkryk kom. Gee ons ons daaglikse brood. Vergewe ons soos ons vergewe.
+Jesus leer hoe om te bid: Ons Vader in die hemel, laat u naam geheilig word. Laat u koninkryk kom. Gee ons ons daaglikse brood. Vergewe ons soos ons vergewe. Hy het gesê: Julle is die sout van die aarde en die lig van die wêreld.
+
+Hy het gesê: Julle is die sout van die aarde en die lig van die wêreld.
 ---
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/JES-13-p4.png)
 
 > **Beeldnota:** Twee huise; een op rots; een op sand; stormwolke in verte; geen dramatiese instorting.
@@ -60,17 +62,20 @@ Jesus sê aan die einde: Twee mense bou huise. Een bou op rots. Een bou op sand.
 
 Jesus sê: Wie my woorde hoort en dit doen, is soos die slim bouer. Wie net hoort en nie doen nie, is soos die dom bouer.
 
-Jesus sê: twee bouers. Een bou op rots. Een op sand. Storm kom. Die huis op rots bly. Die huis op sand val. Wie Jesus se woorde doen, bou op rots.
+Jesus sê: twee bouers. Een bou op rots. Een op sand. Storm kom. Die huis op rots bly. Die huis op sand val. Wie Jesus se woorde doen, bou op rots. Hy het die Onse Vader geleer — bid so: Vader, laat u Naam geheilig word.
+
+Hy het die Onse Vader geleer — bid so: Vader, laat u Naam geheilig word.
 ---
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/JES-13-p5.png)
 
 > **Beeldnota:** Huis op rots in sagte lig; menigte vertrek rustig; berg kalm.
 
 Die mense luister. Jesus leer nie om mense bang te maak nie — hy leer hoe om op God te bou. Bid. Wees sagmoedig. Doen wat God sê. Die Here was by Jesus op die berg.
 
-En weet jy wat toe gebeur het? Mense hoor wat God se koninkryk lyk — en hoe om daarop te bou.
+En weet jy wat toe gebeur het? Mense hoor wat God se koninkryk lyk — en hoe om daarop te bou. Hy het die gelykenis van die wyse en dwase bouer vertel — wie sy woorde doen, bou op rots. Jesus het geleer hoe om te leef in God se koninkryk — met hart en hande.
+
+Hy het die gelykenis van die wyse en dwase bouer vertel — wie sy woorde doen, bou op rots. Jesus het geleer hoe om te leef in God se koninkryk — met hart en hande.
 ---
 ## Bladsy 6 — Geheue
 

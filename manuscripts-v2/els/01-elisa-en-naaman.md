@@ -18,7 +18,6 @@ afr20_quote_check: pending
 **Verhaal-ID:** ELS-01
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/ELS-01-p1.png)
 
 > **Beeldnota:** Naäman — sterk soldaat — met wit kolletjies op vel; Sirië.
@@ -27,12 +26,12 @@ afr20_quote_check: pending
 
 Naäman was leier van Sirië se leër — 'n groot man, maar melaats. 'n Jou Israelitiese meisie sê: Hy kan by die profeet gesond word.
 
-Die jong meisie onthou die Here selfs as gevangene in 'n vreemde land. Haar woorde lei Naäman na Israel.
+Die jong meisie onthou die Here selfs as gevangene in 'n vreemde land. Haar woorde lei Naäman na Israel. Naaman was leier van die Siriese leër — maar hy was melaats.
 
+Naaman was leier van die Siriese leër — maar hy was melaats.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/ELS-01-p2.png)
 
 > **Beeldnota:** Naäman met geskenke; Elisa stuur boodskapper.
@@ -41,12 +40,12 @@ Naäman het geskenke en briewe na die Israel-koning gebring. Elisa het gehoor en
 
 Naäman kom met geskenke. Elisa stuur boodskapper: Bad sewe keer in die Jordaan.
 
-Naäman verwag 'n groot vertoning. Elisa stuur net 'n boodskapper: bad sewe keer in die Jordaan.
+Naäman verwag 'n groot vertoning. Elisa stuur net 'n boodskapper: bad sewe keer in die Jordaan. 'n Israelitiese meisie in sy huis het gesê: As my meester by die profeet in Israel gaan, sal hy gesond word.
 
+'n Israelitiese meisie in sy huis het gesê: As my meester by die profeet in Israel gaan, sal hy gesond word.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/ELS-01-p3.png)
 
 > **Beeldnota:** Naäman woed; sy riviere beter; dienaar praat sag.
@@ -55,12 +54,12 @@ Naäman was kwaad. Hy het gedink Elisa sal hande op hom lê en roep. Hy het ges�
 
 Naäman is kwaad — hy dink Elisa sal hande op hom lê. Sy dienaars sê: As hy iets moeiliks gesê het, sou jy dit doen.
 
-Naäman is eers kwaad. Sy dienaars praat sag: Probeer — wat het jy te verloor?
+Naäman is eers kwaad. Sy dienaars praat sag: Probeer — wat het jy te verloor? Naaman het met silwer, goud en klere gekom — Elisa het net 'n boodskapper gestuur.
 
+Naaman het met silwer, goud en klere gekom — Elisa het net 'n boodskapper gestuur.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/ELS-01-p4.png)
 
 > **Beeldnota:** Naäman in Jordaan; sewe keer; stil oomblik.
@@ -69,20 +68,21 @@ Naäman het geluister. Hy het sewe keer in die Jordaanrivier afgeduik. Die sewen
 
 Naäman bad sewe keer. Sy vlees word skoon soos 'n jong seun s'n. Die Here was naby — al het dit nie dadelik so gevoel nie.
 
-Die sewende bad maak sy vel skoon. Obediëntie en die Here se krag — nie Naäman se eie mag nie.
+Die sewende bad maak sy vel skoon. Obediëntie en die Here se krag — nie Naäman se eie mag nie. Die boodskap was: Gaan bad sewe keer in die Jordaan. Naaman was kwaad, maar sy dienaars het hom oortuig.
 
+Die boodskap was: Gaan bad sewe keer in die Jordaan. Naaman was kwaad, maar sy dienaars het hom oortuig.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/ELS-01-p5.png)
 
 > **Beeldnota:** Naäman voor Elisa; erkenning.
 
 Naäman het teruggekom en gesê: Nou weet ek daar is geen God op die aarde nie behalve in Israel. Hy wou Elisa beloon, maar Elisa het gesê: Ek dien die lewende Here — ek neem niks. Naäman het erken: net die Here genees.
 
-Naäman moes leer dat die Here nie op mense se manier werk nie. Sewe keer in die Jordaan — eenvoudig, maar die Here se krag. Naäman erken: net Israel se God genees regtig.
+Naäman moes leer dat die Here nie op mense se manier werk nie. Sewe keer in die Jordaan — eenvoudig, maar die Here se krag. Naäman erken: net Israel se God genees regtig. Na die sewende bad was sy vlees soos 'n jong seun s'n. Naaman het erken: Daar is geen God op aarde nie behalwe in Israel.
 
+Na die sewende bad was sy vlees soos 'n jong seun s'n. Naaman het erken: Daar is geen God op aarde nie behalwe in Israel.
 ---
 
 ## Bladsy 6 — Geheue

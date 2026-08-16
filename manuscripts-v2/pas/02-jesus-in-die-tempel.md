@@ -19,55 +19,54 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/PAS-02-p1.png)
 
 > **Beeldnota:** Tempelhof met kolomme; mense bring offers; Jesus betree die voorhof met erns maar kalmte.
 
 **Een dag, lank, lank gelede,** het Jesus die tempel in Jerusalem binnegegaan. Dit was God se huis — die plek waar mense Hom aanbid. Maar iets was verkeerd in die voorhof.
 
-Jesus het die tempel binnegegaan — God se huis in Jerusalem. Dit was die plek waar mense Hom moes aanbid.
+Jesus het die tempel binnegegaan — God se huis in Jerusalem. Dit was die plek waar mense Hom moes aanbid. Jesus het die geldwisselaars en verkopers in die tempel uitgedryf.
 
+Jesus het die geldwisselaars en verkopers in die tempel uitgedryf.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/PAS-02-p2.png)
 
 > **Beeldnota:** Handelaars met duwe en voëls; geldwisselaars se tafels; drukte sonder bloed of geweld.
 
 In die voorhof het mense duwe en voëls verkoop. Ander het geld gewissel vir tempelmunte. Die plek was vol geroep en handel — nie meer 'n stille plek om te bid nie.
 
-Die voorhof was die plek waar ook nie-Jode moes bid. Maar die handelaars het dit vol geroep en handel gemaak.
+Die voorhof was die plek waar ook nie-Jode moes bid. Maar die handelaars het dit vol geroep en handel gemaak. Hy het gesê: My huis moet 'n huis van gebed wees — julle het dit 'n rowerskuur gemaak.
 
+Hy het gesê: My huis moet 'n huis van gebed wees — julle het dit 'n rowerskuur gemaak.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/PAS-02-p3.png)
 
 > **Beeldnota:** Jesus keer tafels om; duwe vlieg op; handelaars trek terug; geen wapens of beserings nie.
 
 Jesus het die tafels van die geldwisselaars omgekeer en die sitplekke van die duweverkopers omgewerp. Hy het gesê: My huis moet 'n huis van gebed wees, maar julle het dit 'n rowershol gemaak.
 
-Jesus het die tafels omgekeer en die duweverkopers weggejaag. Die tempel moes weer 'n huis van gebed wees, nie 'n mark nie.
+Jesus het die tafels omgekeer en die duweverkopers weggejaag. Die tempel moes weer 'n huis van gebed wees, nie 'n mark nie. Blinde en lamme het na Hom in die tempel gekom en Hy het hulle gesond gemaak.
 
+Blinde en lamme het na Hom in die tempel gekom en Hy het hulle gesond gemaak.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/PAS-02-p4.png)
 
 > **Beeldnota:** Blinde en lamme kom na Jesus; kinders sing in die tempel; sagte lig.
 
 Blindes en lamme het na Jesus in die tempel gekom, en Hy het hulle gesond gemaak. Kinders het geroep: Hosanna vir die Seun van Dawid! Later het 'n wetkenner Jesus gevra watter gebod die grootste is.
 
-Blindes en lamme het na Hom gekom, en Hy het hulle gesond gemaak. Kinders het in die tempel geroep: Hosanna vir die Seun van Dawid!
+Blindes en lamme het na Hom gekom, en Hy het hulle gesond gemaak. Kinders het in die tempel geroep: Hosanna vir die Seun van Dawid! 'n Skrifgeleerde het gevra: Wat is die grootste gebod? Jesus het geantwoord: Die Here u God liefhê met hart en siel.
 
+'n Skrifgeleerde het gevra: Wat is die grootste gebod? Jesus het geantwoord: Die Here u God liefhê met hart en siel.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/PAS-02-p5.png)
 
 > **Beeldnota:** Jesus leer 'n klein groepie; hande oop in liefdevolle gebod; rustige aandstemming.
@@ -76,8 +75,9 @@ Jesus het geantwoord: Jy moet die Here jou God liefhê met jou hele hart, siel e
 
 Die wetkenner wou weet watter gebod die belangrikste is. Jesus het oor liefde vir God en vir die naaste gepraat — die hart van al die gebooie.
 
-Jesus het geleer dat liefde vir God en vir mense die hart van alles is. Dit is 'n les wat ons nog vandag kan onthou.
+Jesus het geleer dat liefde vir God en vir mense die hart van alles is. Dit is 'n les wat ons nog vandag kan onthou. Die tweede is: Jou naaste liefhê soos jouself. Op hierdie twee rus die hele wet. Jesus het geleer en gesond gemaak — die tempel moes weer 'n huis van gebed wees.
 
+Die tweede is: Jou naaste liefhê soos jouself. Op hierdie twee rus die hele wet. Jesus het geleer en gesond gemaak — die tempel moes weer 'n huis van gebed wees.
 ---
 
 ## Bladsy 6 — Geheue

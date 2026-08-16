@@ -19,55 +19,54 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/PAS-10-p1.png)
 
 > **Beeldnota:** Vroeë oggendlig; vroue loop met speserye na die graf; sagte pienk hemel.
 
 **Een dag, lank, lank gelede,** op die eerste dag van die week, het die vroue vroeg na die graf gegaan. Hulle het speserye saamgebring om Jesus se liggaam te bestyf. Hulle het gewonder wie die klip sou wegrol.
 
-Die eerste dag van die week het aangebreek. Die vroue het vroeg opgestaan — hulle wou Jesus se liggaam bestyf.
+Die eerste dag van die week het aangebreek. Die vroue het vroeg opgestaan — hulle wou Jesus se liggaam bestyf. Op die eerste dag van die week, vroeg in die môre, het die vroue na die graf gegaan.
 
+Op die eerste dag van die week, vroeg in die môre, het die vroue na die graf gegaan.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/PAS-10-p2.png)
 
 > **Beeldnota:** Oop graf; klip aan die kant; leë binnekant; vroue kyk verbaas.
 
 Toe hulle gekom het, was die klip reeds weggerol. Hulle het die graf ingegaan — maar Jesus se liggaam was nie daar nie. Hulle was baie verbaas.
 
-Die vroue het vroeg na die graf gegaan met speserye. Hulle het gewonder wie die groot klip sou wegrol.
+Die vroue het vroeg na die graf gegaan met speserye. Hulle het gewonder wie die groot klip sou wegrol. Hulle het 'n groot aardbewing gesien — 'n engel het die klip weggerol en op die klip gesit.
 
+Hulle het 'n groot aardbewing gesien — 'n engel het die klip weggerol en op die klip gesit.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/PAS-10-p3.png)
 
 > **Beeldnota:** Twee engels in wit; vroue kniel; helder maar sagte lig; geen vrees-toneel nie.
 
 Twee manne in blink klere het daar gestaan. Hulle het gesê: Waarom soek julle die Lewende tussen die dodes? Hy is nie hier nie — Hy het opgestaan! Onthou hoe Hy vir julle gesê het dit sou gebeur.
 
-Toe hulle gekom het, was die klip reeds weg. Jesus se liggaam was nie in die graf nie — en hulle was verbaas.
+Toe hulle gekom het, was die klip reeds weg. Jesus se liggaam was nie in die graf nie — en hulle was verbaas. Die engel het gesê: Moenie bang wees nie — Jesus wat gekruisig is, is nie hier nie. Hy het opgestaan! Die engel het gesê: Hy is nie hier nie — Hy het opgestaan!
 
+Die engel het gesê: Moenie bang wees nie — Jesus wat gekruisig is, is nie hier nie. Hy het opgestaan! Die engel het gesê: Hy is nie hier nie — Hy het opgestaan!
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/PAS-10-p4.png)
 
 > **Beeldnota:** Petrus en Johannes hardloop na die graf; Johannes kyk in; Petrus gaan binne.
 
 Die vroue het die dissipels vertel, maar hulle het nie geglo nie. Petrus en Johannes het na die graf gehardloop. Johannes het eerste gekom en gekyk. Petrus het binnegegaan — die doek was daar, maar Jesus was weg.
 
-Twee engels het gesê: Waarom soek julle die Lewende tussen die dodes? Onthou, Hy het gesê Hy sou opstaan!
+Twee engels het gesê: Waarom soek julle die Lewende tussen die dodes? Onthou, Hy het gesê Hy sou opstaan! Gaan sê vir sy dissipels dat Hy na Galilea vooruitgaan.
 
+Gaan sê vir sy dissipels dat Hy na Galilea vooruitgaan.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/PAS-10-p5.png)
 
 > **Beeldnota:** Maria Magdalena staan by die graf; Jesus staan agter haar; sagte oggendlig; vreugde.
@@ -76,8 +75,9 @@ Maria Magdalena het by die graf gehuil. Sy het iemand gesien en gedink dit is di
 
 Petrus en Johannes het gehardloop en die leë graf gesien. Maria Magdalena het Jesus lewend ontmoet by die graf.
 
-Jesus leef! Die graf is leeg en die engels het die goeie nuus vertel. Dit was die grootste dag in die geskiedenis.
+Jesus leef! Die graf is leeg en die engels het die goeie nuus vertel. Dit was die grootste dag in die geskiedenis. Jesus het self aan die vroue verskyn — wees nie bevrees nie, gaan vertel my broers. Jesus leef — die swaarste dag het in die grootste vreugde verander.
 
+Jesus het self aan die vroue verskyn — wees nie bevrees nie, gaan vertel my broers. Jesus leef — die swaarste dag het in die grootste vreugde verander.
 ---
 
 ## Bladsy 6 — Geheue

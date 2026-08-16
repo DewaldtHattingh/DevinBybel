@@ -19,50 +19,55 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/JES-15-p1.png)
 
 > **Beeldnota:** Berg naby see; groot menigte; Jesus op heuwel; wye landskap.
 
-**Een dag, lank, lank gelede,** Jesus gaan oor die see van Galilea. Groot menigtes volg hom omdat hulle sy wonders sien. Jesus gaan op een berg. Daar is baie mense. Die Paasfees is naby. Jesus kyk na die menigte. Hy vra Filippus: Waar koop ons brood sodat hulle kan eet?
+**Een dag, lank, lank gelede,** Jesus gaan oor die see van Galilea. Groot menigtes volg hom omdat hulle sy wonders sien. Jesus gaan op een berg. Daar is baie mense. Die Paasfees is naby. Jesus kyk na die menigte. Hy vra Filippus: Waar koop ons brood sodat hulle kan eet? Jesus het met sy dissipels na die ander kant van die see van Galilea gegaan.
+
+Jesus het met sy dissipels na die ander kant van die see van Galilea gegaan.
 ---
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/JES-15-p2.png)
 
 > **Beeldnota:** Menigte sit op gras; dissipels bekommerd; geen kos sigbaar; see in verte.
 
-Filippus sê: Tweehonderd denarius se brood is nie genoeg nie. Daar is een seun met vyf brode en twee vis. Maar wat is dit vir soveel mense? Jesus sê: Laat die mense sit. Die mense sit op die gras — byna vyfduisend man, plus vroue en kinders.
+Filippus sê: Tweehonderd denarius se brood is nie genoeg nie. Daar is een seun met vyf brode en twee vis. Maar wat is dit vir soveel mense? Jesus sê: Laat die mense sit. Die mense sit op die gras — byna vyfduisend man, plus vroue en kinders. Andrew het gesê: Hier is 'n seun met vyf gerste-brode en twee vis — maar wat is dit vir soveel? Jesus het self gevra waar brood gekoop moet word — Hy wou die dissipels leer.
+
+Andrew het gesê: Hier is 'n seun met vyf gerste-brode en twee vis — maar wat is dit vir soveel? Jesus het self gevra waar brood gekoop moet word — Hy wou die dissipels leer.
 ---
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/JES-15-p3.png)
 
 > **Beeldnota:** Jesus hou brood op; menigte wyd; lig warm; geen magiese gloed.
 
 Jesus neem die brode. Hy neem die vis. Hy gee dank — hy bedank God. Dan breek hy en gee aan die dissipels. Die dissipels gee aan die mense. Almal eet. Almal word vol.
 
-Die klein seun se brood en vis is nie genoeg op papier nie — maar Jesus gee genoeg.
+Die klein seun se brood en vis is nie genoeg op papier nie — maar Jesus gee genoeg. Jesus het die brode en vis geneem, God gedank en dit aan die dissipels gegee om uit te deel. Hy het die brood en vis geneem, God gedank en uitgedeel.
+
+Jesus het die brode en vis geneem, God gedank en dit aan die dissipels gegee om uit te deel. Hy het die brood en vis geneem, God gedank en uitgedeel.
 ---
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/JES-15-p4.png)
 
 > **Beeldnota:** Twaalf mandjies vol brood; dissipels tel; menigte tevrede; gras wyd.
 
 Toe almal vol is, Jesus sê: Tel die oorblyfsels. Hulle tel twaalf mandjies vol brood — van die vyf brode. Meer oorbly as wat hulle begin het. Jesus gee nie net net genoeg nie — hy gee oorvloed.
 
-Die mense sê: Hier is waarlik die profeet wat in die wêreld moet kom.
+Die mense sê: Hier is waarlik die profeet wat in die wêreld moet kom. Almal het geëet en vol geword — hulle het twaalf mandjies vol oorblyfsels opgetel. Twaalf mandjies vol oorblyfsels — meer as wat hulle begin het.
+
+Almal het geëet en vol geword — hulle het twaalf mandjies vol oorblyfsels opgetel. Twaalf mandjies vol oorblyfsels — meer as wat hulle begin het.
 ---
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/JES-15-p5.png)
 
 > **Beeldnota:** Sagte namiddag; menigte rustig; Jesus met dissipels; kalm see.
 
 Jesus sien dat die mense hom wil dwing om koning te word. Hy gaan weg na die berg alleen. Die wonder bly. Vyfduisend gevoed. Twaalf mandjies oorbly. Die Here was by Jesus op die berg.
 
-En weet jy wat toe gebeur het? Mense sien: Jesus gee brood — soos God in die woestyn gegee het.
+En weet jy wat toe gebeur het? Mense sien: Jesus gee brood — soos God in die woestyn gegee het. Die mense het gesê: Hier is waarlik die profeet wat in die wêreld moet kom. Jesus het weggegaan, want hulle wou Hom koning maak. Jesus het vyfduisend mense gevoed — die Here was by Hom op die berg.
+
+Die mense het gesê: Hier is waarlik die profeet wat in die wêreld moet kom. Jesus het weggegaan, want hulle wou Hom koning maak. Jesus het vyfduisend mense gevoed — die Here was by Hom op die berg.
 ---
 ## Bladsy 6 — Geheue
 

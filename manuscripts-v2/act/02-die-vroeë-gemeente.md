@@ -19,55 +19,54 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/ACT-02-p1.png)
 
 > **Beeldnota:** Gemeente eet saam; brood breek; warm kamer; vreugde en eenvoud.
 
 **Een dag, lank, lank gelede,** het die eerste gelowiges saamgeleef in Jerusalem. Hulle het toegewyd aan die dissipels se onderrig gebly, en aan gemeenskap, brood breek en gebede.
 
-Die eerste gelowiges het saam geleef soos 'n familie. Hulle het geleer, gebid en vir mekaar gesorg.
+Die eerste gelowiges het saam geleef soos 'n familie. Hulle het geleer, gebid en vir mekaar gesorg. Die gelowiges het volhard in die apostels se leer en in gemeenskap, broodbreuk en gebed.
 
+Die gelowiges het volhard in die apostels se leer en in gemeenskap, broodbreuk en gebed.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/ACT-02-p2.png)
 
 > **Beeldnota:** By die tempelpoort sit 'n lam man; mense loop verby; Petrus en Johannes kom nader.
 
 Daar was vrees vir die Here, en baie tekens het deur die apostels geskied. Eendag het Petrus en Johannes op pad na die tempel gegaan. By die poort genaamd Pragtig het 'n man gesit wat van geboorte af lam was.
 
-Die eerste gelowiges het saam geleer, gebid, brood gebreek en vir mekaar gesorg. Die Here het daagliks mense by hulle gevoeg.
+Die eerste gelowiges het saam geleer, gebid, brood gebreek en vir mekaar gesorg. Die Here het daagliks mense by hulle gevoeg. Almal wat glo, het alles gemeen gehad — hulle het goed verkoop en aan mekaar gegee.
 
+Almal wat glo, het alles gemeen gehad — hulle het goed verkoop en aan mekaar gegee.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/ACT-02-p3.png)
 
 > **Beeldnota:** Lam man kyk op; Petrus hou hand uit; mense begin kyk; geen towerskouspel nie.
 
 Die man het geld gevra. Petrus het gesê: Silwer en goud het ek nie, maar wat ek het, gee ek jou: In die Naam van Jesus Christus van Nasaret, staan op en loop! Petrus het hom by die hand geneem en hom opgetrek.
 
-Petrus en Johannes het na die tempel gegaan. By die poort Pragtig het 'n man gesit wat van geboorte af lam was.
+Petrus en Johannes het na die tempel gegaan. By die poort Pragtig het 'n man gesit wat van geboorte af lam was. Daagliks het hulle in die tempel vergader en brood in die huise gebreek.
 
+Daagliks het hulle in die tempel vergader en brood in die huise gebreek.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/ACT-02-p4.png)
 
 > **Beeldnota:** Man staan en loop; voete en enkels sterk; skare verwonderd; tempelpoort agter.
 
 Onmiddellik het sy voete en enkels sterk geword. Hy het opgespring, gestaan en geloop. Hy het saam met hulle die tempel binnegegaan — loop, spring en God prys. Al die mense het verbaas gekyk.
 
-Die man het geld gevra. Petrus het gesê: In die Naam van Jesus Christus, staan op en loop! En hy het opgestaan.
+Die man het geld gevra. Petrus het gesê: In die Naam van Jesus Christus, staan op en loop! En hy het opgestaan. Petrus en Johannes het by die tempelpoort 'n lam man gesond gemaak.
 
+Petrus en Johannes het by die tempelpoort 'n lam man gesond gemaak.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/ACT-02-p5.png)
 
 > **Beeldnota:** Gemeente deel kos; niemand het gebrek gehad nie; sagte aandstemming.
@@ -76,8 +75,9 @@ Die gemeente het elke dag bymekaar gekom. Hulle het kos gedeel en vir mekaar ges
 
 Hy het geloop en gespring en God geprys. Die gemeente het kos gedeel en mekaar liefgehad — 'n lewe van geloof en omgee.
 
-Die Here het daagliks mense by die gemeente gevoeg. Dit was 'n lewe van geloof, wonder en omgee vir mekaar.
+Die Here het daagliks mense by die gemeente gevoeg. Dit was 'n lewe van geloof, wonder en omgee vir mekaar. Die mense was verbaas — die apostels het gesê: Dit is deur die naam van Jesus dat hierdie man gesond geword het. Die gemeente het gedeel en gebid — die Here het daagliks mense bygevoeg.
 
+Die mense was verbaas — die apostels het gesê: Dit is deur die naam van Jesus dat hierdie man gesond geword het. Die gemeente het gedeel en gebid — die Here het daagliks mense bygevoeg.
 ---
 
 ## Bladsy 6 — Geheue

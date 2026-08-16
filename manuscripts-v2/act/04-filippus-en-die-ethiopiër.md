@@ -19,55 +19,54 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/ACT-04-p1.png)
 
 > **Beeldnota:** Woestynpad; Filippus loop; engel se lig in die hemel; warm son.
 
 **Een dag, lank, lank gelede,** het 'n engel vir Filippus gesê: Staan op en gaan suid op die pad wat van Jerusalem af na Gaza loop. Dit is 'n woestynpad. Filippus het geluister en gegaan.
 
-Die woestynpad was stil en warm. Filippus het geluister toe die engel gepraat het — en hy het gegaan.
+Die woestynpad was stil en warm. Filippus het geluister toe die engel gepraat het — en hy het gegaan. 'n Engel het vir Filippus gesê: Gaan op die pad wat van Jerusalem na Gaza af loop.
 
+'n Engel het vir Filippus gesê: Gaan op die pad wat van Jerusalem na Gaza af loop.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/ACT-04-p2.png)
 
 > **Beeldnota:** Rywa met slawe; Ethiopiese amptenaar lees 'n boekrol; Filippus nader stap.
 
 Op die pad het Filippus 'n man gesien. Hy was 'n hoë amptenaar van die koningin van Ethiopië — 'n belangrike man wat Jerusalem besoek het om te aanbid. Hy sit in sy wa en lees die profeet Jesaja.
 
-'n Engel het Filippus na die woestynpad gestuur. Daar het hy 'n Ethiopiese amptenaar in sy wa sien lees.
+'n Engel het Filippus na die woestynpad gestuur. Daar het hy 'n Ethiopiese amptenaar in sy wa sien lees. Daar het hy 'n Ethiopiese hofamptenaar ontmoet — hy lees die profeet Jesaja.
 
+Daar het hy 'n Ethiopiese hofamptenaar ontmoet — hy lees die profeet Jesaja.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/ACT-04-p3.png)
 
 > **Beeldnota:** Twee mans in die wa; boekrol oop; Filippus wys en praat; vriendelike gesprek.
 
 Die Gees het vir Filippus gesê: Gaan staan naby die wa. Filippus het geloop en gevra: Verstaan jy wat jy lees? Die man het gesê: Hoe kan ek, as niemand my verduidelik nie? Hy het Filippus genooi om saam te sit.
 
-Die man lees die profeet Jesaja. Filippus het gevra of hy verstaan, en die man het hom genooi om te kom sit.
+Die man lees die profeet Jesaja. Filippus het gevra of hy verstaan, en die man het hom genooi om te kom sit. Filippus het gevra: Verstaan u wat u lees? Die man het gesê: Hoe kan ek, as niemand my verduidelik nie?
 
+Filippus het gevra: Verstaan u wat u lees? Die man het gesê: Hoe kan ek, as niemand my verduidelik nie?
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/ACT-04-p4.png)
 
 > **Beeldnota:** Filippus lees van die boekrol; wys na die pad; amptenaar luister aandagtig.
 
 Filippus het begin waar die man gelees het. Die teks het gepraat van iemand wat soos 'n lam na die slagting gelei is. Filippus het verduidelik: Hierdie teks gaan oor Jesus. Van hierdie geskiedenis het hy die goeie nuus van Jesus vertel.
 
-Filippus het verduidelik dat die teks oor Jesus gaan — die Lam wat gelei is soos 'n skaap na die slagting.
+Filippus het verduidelik dat die teks oor Jesus gaan — die Lam wat gelei is soos 'n skaap na die slagting. Filippus het van die Skrif begin en Jesus aan hom verkondig.
 
+Filippus het van die Skrif begin en Jesus aan hom verkondig.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/ACT-04-p5.png)
 
 > **Beeldnota:** Water by die pad; twee mans in water; doop; vreugde; sagte lig.
@@ -76,8 +75,9 @@ Toe hulle by water gekom het, het die amptenaar gesê: Kyk, hier is water! Wat k
 
 By water langs die pad het die amptenaar glo en laat doop. Die goeie nuus het ver gereis na Ethiopië.
 
-Die doop was 'n nuwe begin vir die amptenaar. Die goeie nuus het ver gereis — verder as enigiemand gedink het.
+Die doop was 'n nuwe begin vir die amptenaar. Die goeie nuus het ver gereis — verder as enigiemand gedink het. By water het die man gesê: Kyk, hier is water — wat keer my om gedoop te word? Filippus het hom gedoop. Die Ethiopiër het geloof en is gedoop — hy het vreugdevol verder gegaan.
 
+By water het die man gesê: Kyk, hier is water — wat keer my om gedoop te word? Filippus het hom gedoop. Die Ethiopiër het geloof en is gedoop — hy het vreugdevol verder gegaan.
 ---
 
 ## Bladsy 6 — Geheue

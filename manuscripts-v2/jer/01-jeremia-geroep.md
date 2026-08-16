@@ -18,7 +18,6 @@ afr20_quote_check: pending
 **Verhaal-ID:** JER-01
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/JER-01-p1.png)
 
 > **Beeldnota:** Jong Jeremia; Here se hand raak sy mond; Jerusalem agter.
@@ -27,12 +26,12 @@ afr20_quote_check: pending
 
 Die Here sê vir Jeremia: Ek ken jou voor jy gebore is. Ek stel jou aan oor nasies. Moenie sê jy is te jonk nie.
 
-Jeremia is jonk maar die Here stuur hom. Moenie sê jy kan nie praat nie — Ek is met jou.
+Jeremia is jonk maar die Here stuur hom. Moenie sê jy kan nie praat nie — Ek is met jou. Jeremia was 'n priester uit Anatot — die Here het hom gekies voordat hy in die moederskoot gevorm is.
 
+Jeremia was 'n priester uit Anatot — die Here het hom gekies voordat hy in die moederskoot gevorm is.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/JER-01-p2.png)
 
 > **Beeldnota:** Jeremia kniel; bang; Here wys op mond.
@@ -41,12 +40,12 @@ Jeremia was bang. Hy het gesê: Ek is te jonk — ek kan nie praat nie. Die Here
 
 Jeremia sê: Ek is te jonk. Ek kan nie praat nie. Die Here raak sy mond aan en sê: Ek stel my woorde in jou mond.
 
-Jeremia was jonk en bang. Maar die Here ken hom al voor sy geboorte.
+Jeremia was jonk en bang. Maar die Here ken hom al voor sy geboorte. Die Here het gesê: Ek het jou as profeet vir die nasies gestel.
 
+Die Here het gesê: Ek het jou as profeet vir die nasies gestel.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/JER-01-p3.png)
 
 > **Beeldnota:** Jeremia staan op; Here wys na nasies.
@@ -55,12 +54,12 @@ Die Here het gesê: Vandag stel Ek jou aan oor nasies en koninkryke — om uit t
 
 Die Here sê: Vandag stel Ek jou aan oor nasies — om uit te rooi en om te bou. Jeremia moet die Here se woorde praat.
 
-Die Here stel Jeremia aan — nie omdat hy groot of oud is nie, maar omdat die Here hom ken en roep.
+Die Here stel Jeremia aan — nie omdat hy groot of oud is nie, maar omdat die Here hom ken en roep. Jeremia het gesê: Ag Here, ek is te jonk. Die Here het gesê: Moenie sê jy is te jonk nie.
 
+Jeremia het gesê: Ag Here, ek is te jonk. Die Here het gesê: Moenie sê jy is te jonk nie.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/JER-01-p4.png)
 
 > **Beeldnota:** Jeremia loop na strate; ernstige gesig; Here se hand op hom.
@@ -69,20 +68,21 @@ Die Here het gesê: Moenie bang wees nie, want Ek is met jou. Jeremia het geleer
 
 Moenie bang wees — Ek is met jou. Jeremia leer: die Here ken hom en plaas sy woorde in sy mond.
 
-Die Here was naby — al het dit nie dadelik so gevoel nie.
+Die Here was naby — al het dit nie dadelik so gevoel nie. Die Here het sy hand uitgesteek en Jeremia se mond aangeraak — Hy het sy woorde in Jeremia se mond gegee.
 
+Die Here het sy hand uitgesteek en Jeremia se mond aangeraak — Hy het sy woorde in Jeremia se mond gegee.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/JER-01-p5.png)
 
 > **Beeldnota:** Jeremia praat in strate; mense luister of ignoreer.
 
 Jeremia het nie weggehardloop nie. Hy het die Here se woorde gepraat — ook wanneer mense nie geluister het nie. Die Here ken sy dienaars voordat hulle gebore is, en Hy roep hulle om te praat.
 
-Jeremia is jonk, maar die Here stuur hom. Hy ken hom voordat hy gebore is — en Hy is met hom.
+Jeremia is jonk, maar die Here stuur hom. Hy ken hom voordat hy gebore is — en Hy is met hom. Die Here het gesê: Kyk, Ek stel jou vandag oor nasies en koninkryke — om te plant en uit te ruk.
 
+Die Here het gesê: Kyk, Ek stel jou vandag oor nasies en koninkryke — om te plant en uit te ruk.
 ---
 
 ## Bladsy 6 — Geheue

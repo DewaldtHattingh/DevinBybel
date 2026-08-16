@@ -19,55 +19,54 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/REV-05-p1.png)
 
 > **Beeldnota:** Engel wys Johannes die stad; hoë mure; poorte van pêrel; helder lig.
 
 **Een dag, lank, lank gelede,** in Johannes se visioen het een van die sewe engels vir hom gesê: Kom, ek sal jou die bruid, die vrou van die Lam, wys. En die engel het hom die heilige stad Jerusalem gewys.
 
-Die stad het geskyn soos 'n juweel. Daar is geen nag meer nie — die Lam is die lig.
+Die stad het geskyn soos 'n juweel. Daar is geen nag meer nie — die Lam is die lig. Die engel het Johannes die bruid, die Lam se vrou, gewys — die heilige stad Jerusalem.
 
+Die engel het Johannes die bruid, die Lam se vrou, gewys — die heilige stad Jerusalem.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/REV-05-p2.png)
 
 > **Beeldnota:** Stad sonder son of maan; lig van God en die Lam; geen donker hoeke nie.
 
 Die stad het geskyn met die heerlikheid van God. Die Lam was sy lamp. Die nasies het in sy lig gewandel. Daar was geen tempel nie — want die Here God die Almagtige en die Lam is sy tempel.
 
-'n Engel het Johannes die stad gewys — die bruid van die Lam. Die stad het geskyn met God se heerlikheid.
+'n Engel het Johannes die stad gewys — die bruid van die Lam. Die stad het geskyn met God se heerlikheid. Sy het geskyn soos 'n kostbare steen — soos 'n jaspis, helder soos kristal.
 
+Sy het geskyn soos 'n kostbare steen — soos 'n jaspis, helder soos kristal.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/REV-05-p3.png)
 
 > **Beeldnota:** Rivier van lewende water; lewensboom aan weerskante; twaalf vrugte; helende blare.
 
 Johannes het 'n rivier gesien — lewende water, helder soos kristal. Dit vloei uit die troon van God en die Lam. Aan weerskante van die rivier was die boom van die lewe. Die boom dra twaalf soorte vrugte. Die blare is vir die genesing van die nasies.
 
-Die Lam was die lamp van die stad. Daar was geen tempel nie, want die Here God en die Lam is die tempel.
+Die Lam was die lamp van die stad. Daar was geen tempel nie, want die Here God en die Lam is die tempel. Die stad het nie tempel nodig nie — die Here God die Almagtige en die Lam is haar tempel.
 
+Die stad het nie tempel nodig nie — die Here God die Almagtige en die Lam is haar tempel.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/REV-05-p4.png)
 
 > **Beeldnota:** Geen vloek meer; diensbode sien God se aangesig; name op hul voorhoofde.
 
 Daar sal nie meer vloek wees nie. Die diensbode van God sal sy aangesig sien. Sy Naam sal op hul voorhoofde wees. Geen nag meer nie — want die Here God sal op hulle skyn. Hulle sal koning wees vir altyd.
 
-Johannes het 'n rivier van lewende water gesien en die boom van die lewe — met vrugte en helende blare.
+Johannes het 'n rivier van lewende water gesien en die boom van die lewe — met vrugte en helende blare. Daar is geen nag meer nie — die heerlikheid van God verlig haar en die Lam is haar lamp.
 
+Daar is geen nag meer nie — die heerlikheid van God verlig haar en die Lam is haar lamp.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/REV-05-p5.png)
 
 > **Beeldnota:** Mense by die rivier; lewensboom; sagte lig; vrede en vreugde.
@@ -76,8 +75,9 @@ Johannes het gesien: die stad is oop. Die poorte staan nooit toe nie — want da
 
 God se diensbode sal sy aangesig sien. Daar sal geen nag meer wees nie — die Here God sal op hulle skyn.
 
-God se volk sal sy aangesig sien. Dit is die belofte wat vir altyd staan.
+God se volk sal sy aangesig sien. Dit is die belofte wat vir altyd staan. Die rivier van lewende water vloei uit die troon — aan weerskante is die boom van die lewe. Daar is geen nag meer nie — die Lam verlig die stad.
 
+Die rivier van lewende water vloei uit die troon — aan weerskante is die boom van die lewe. Daar is geen nag meer nie — die Lam verlig die stad.
 ---
 
 ## Bladsy 6 — Geheue

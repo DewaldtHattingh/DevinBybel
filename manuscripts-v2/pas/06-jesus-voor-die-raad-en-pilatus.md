@@ -19,55 +19,54 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/PAS-06-p1.png)
 
 > **Beeldnota:** Jesus word na 'n groot saal gelei; priesters sit op sitplekke; ernstige maar nie grusame toneel nie.
 
 **Een dag, lank, lank gelede,** het die soldate Jesus na die hoëpriester gebring. Die Raad het bymekaargekom om teen Hom getuienis te soek. Hulle wou Hom skuldig verklaar.
 
-Jesus is eers na die hoëpriester gebring, en daarna na Pilatus. Dit was 'n lang, swaar nag.
+Jesus is eers na die hoëpriester gebring, en daarna na Pilatus. Dit was 'n lang, swaar nag. Die hoëpriesters en die Raad het vals getuienis teen Jesus gesoek.
 
+Die hoëpriesters en die Raad het vals getuienis teen Jesus gesoek.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/PAS-06-p2.png)
 
 > **Beeldnota:** Vals getuies praat; Jesus staan stil in die middel; geen geweld nie.
 
 Baie vals getuies het gelieg, maar hul stories het nie ooreengestem nie. Uiteindelik het die hoëpriester Jesus gevra: Is U die Christus, die Seun van God? Jesus het geantwoord: U sê dit.
 
-Die Raad het vals getuies gesoek, maar hul stories het nie ooreengestem nie. Hulle wou Jesus skuldig bevind.
+Die Raad het vals getuies gesoek, maar hul stories het nie ooreengestem nie. Hulle wou Jesus skuldig bevind. Die hoëpriester het gevra: Is U die Christus, die Seun van God? Jesus het gesê: U het dit gesê.
 
+Die hoëpriester het gevra: Is U die Christus, die Seun van God? Jesus het gesê: U het dit gesê.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/PAS-06-p3.png)
 
 > **Beeldnota:** Raad veroordeel Jesus; buite in die voorhof brand 'n vuur; Peter staan tussen mense.
 
 Die Raad het Jesus skuldig bevind. Intussen het Peter in die voorhof gestaan en hom by 'n vuur verwarm. Mense het hom herken — maar dit kom in die volgende storie. Jesus is na Pilatus, die Romeinse goewerneur, gebring.
 
-Die hoëpriester het gevra of Jesus die Christus is. Jesus het geantwoord: U sê dit — en die Raad het Hom skuldig bevind.
+Die hoëpriester het gevra of Jesus die Christus is. Jesus het geantwoord: U sê dit — en die Raad het Hom skuldig bevind. Hulle het gesê: Hy het God gelaster — Hy moet sterf. Hulle het Hom bespot en geslaan. Die hoëpriesters het vals getuienis gesoek.
 
+Hulle het gesê: Hy het God gelaster — Hy moet sterf. Hulle het Hom bespot en geslaan. Die hoëpriesters het vals getuienis gesoek.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/PAS-06-p4.png)
 
 > **Beeldnota:** Pilatus sit op 'n regterstoel; Jesus staan voor hom; skare buite die saal.
 
 Pilatus het Jesus gevra: Is U die Koning van die Jode? Jesus het gesê: U sê dit. Pilatus het gesien Jesus is onskuldig, maar die skare het geskreeu. Pilatus het Barábas, 'n gevangene, vrygelaat — soos hulle gevra het.
 
-Pilatus het Jesus gevra of Hy die Koning van die Jode is. Pilatus het gesien Jesus is onskuldig, maar die skare was luid.
+Pilatus het Jesus gevra of Hy die Koning van die Jode is. Pilatus het gesien Jesus is onskuldig, maar die skare was luid. Pilatus het Jesus ondervra — hy het gesê: Ek vind geen skuld in Hom nie.
 
+Pilatus het Jesus ondervra — hy het gesê: Ek vind geen skuld in Hom nie.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/PAS-06-p5.png)
 
 > **Beeldnota:** Pilatus was hande; skare roep; Jesus word weggelei; donker, stil stemming.
@@ -76,8 +75,9 @@ Pilatus het water geneem en sy hande gewas. Hy het gesê: Ek is onskuldig aan hi
 
 Pilatus het Barábas vrygelaat soos die skare gevra het. Hy het sy hande gewas en Jesus oorgelewer om gekruisig te word.
 
-Pilatus het Jesus oorgelewer. Die pad na Golgota lê voor — maar God se plan was nog nie verby nie.
+Pilatus het Jesus oorgelewer. Die pad na Golgota lê voor — maar God se plan was nog nie verby nie. Die skare het geskreeu: Kruisig Hom! Pilatus het water geneem en sy hande gewas — ek is onskuldig aan hierdie Man se bloed. Pilatus het Jesus aan die kruis laat oorlewer — die skare het geskreeu.
 
+Die skare het geskreeu: Kruisig Hom! Pilatus het water geneem en sy hande gewas — ek is onskuldig aan hierdie Man se bloed. Pilatus het Jesus aan die kruis laat oorlewer — die skare het geskreeu.
 ---
 
 ## Bladsy 6 — Geheue

@@ -19,45 +19,48 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/JES-09-p1.png)
 
 > **Beeldnota:** Woestyn wyd en leeg; Jesus alleen; groot hemel; geen dramatiese duisternis.
 
-**Een dag, lank, lank gelede,** na Jesus se doop gaan hy in die woestyn. Die Heilige Gees lei hom daar. Jesus is veertig dae sonder kos. Hy is honger. Die woestyn is groot en stil. Jesus is alleen — maar die Here is naby.
+**Een dag, lank, lank gelede,** na Jesus se doop gaan hy in die woestyn. Die Heilige Gees lei hom daar. Jesus is veertig dae sonder kos. Hy is honger. Die woestyn is groot en stil. Jesus is alleen — maar die Here is naby. Die Heilige Gees het Jesus na die woestyn gelei om deur die duiwel versoek te word.
+
+Die Heilige Gees het Jesus na die woestyn gelei om deur die duiwel versoek te word.
 ---
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/JES-09-p2.png)
 
 > **Beeldnota:** Duister gestalte naby; Jesus staan rustig; rots en woestyn wyd; geen monsters.
 
 Die versoeker kom. Hy sê vir Jesus: As jy die Seun van God is, sê dat hierdie klippe brood word. Jesus antwoord met die Skrif: Die mens lewe nie alleen van brood nie, maar van elke woord wat uit die mond van God kom.
 
-Jesus weier. Hy vertrou God se woord meer as honger.
+Jesus weier. Hy vertrou God se woord meer as honger. Eerste versoeking: Maak hierdie klippe brood. Jesus het geantwoord: Die mens lewe nie van brood alleen nie.
+
+Eerste versoeking: Maak hierdie klippe brood. Jesus het geantwoord: Die mens lewe nie van brood alleen nie.
 ---
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/JES-09-p3.png)
 
 > **Beeldnota:** Hoog punt van tempel of berg; stad klein ver onder; Jesus en versoeker klein teen wye landskap.
 
 Die versoeker neem Jesus na die hoë tempel. Hy sê: Val af. God sal sy engels beveel om jou op te vang. Jesus antwoord weer met die Skrif: Jy moet die Here jou God aanbid en hom alleen dien.
 
-Jesus weier die tweede keer. Aanbid God — nie een shortcut om mag te kry nie.
+Jesus weier die tweede keer. Aanbid God — nie een shortcut om mag te kry nie. Tweede versoeking: Gooi Uself af van die tempel — die engels sal U dra. Jesus het gesê: Moet die Here u God nie op die proef stel nie.
+
+Tweede versoeking: Gooi Uself af van die tempel — die engels sal U dra. Jesus het gesê: Moet die Here u God nie op die proef stel nie.
 ---
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/JES-09-p4.png)
 
 > **Beeldnota:** Berg hoog; alle koninkryke in verte; Jesus klein maar regop; lig van bo.
 
 Die versoeker wys Jesus alle koninkryke van die wêreld. Hy sê: Ek sal dit alles aan jou gee as jy voor my neerbuig en my aanbid. Jesus sê: Weg van my, Satan! Jy moet die Here jou God aanbid en hom alleen dien.
 
-Jesus weier die derde keer ook. Hy bly by God — nie by mag van die wêreld nie. Die versoeker het niks nuut om te bied nie.
+Jesus weier die derde keer ook. Hy bly by God — nie by mag van die wêreld nie. Die versoeker het niks nuut om te bied nie. Derde versoeking: Ek sal U al die koninkryke gee as U voor my neerbuig. Jesus het gesê: Die Here u God alleen moet u aanbid.
+
+Derde versoeking: Ek sal U al die koninkryke gee as U voor my neerbuig. Jesus het gesê: Die Here u God alleen moet u aanbid.
 ---
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/JES-09-p5.png)
 
 > **Beeldnota:** Versoeker vertrek; engels naby Jesus; sagte lig; woestyn rustig.
@@ -66,7 +69,9 @@ Die versoeker laat Jesus los. Die engels kom en dien Jesus. God sorg vir sy Seun
 
 En weet jy wat toe gebeur het? Jesus is gereed om mense te dien — sonder om kwaad te doen om goed te kry.
 
-Die versoeker vertrek. Engels kom en dien Jesus. Jesus wen deur God se woord te vertrou. Hy is gereed om mense te dien — nie om kwaad te doen nie.
+Die versoeker vertrek. Engels kom en dien Jesus. Jesus wen deur God se woord te vertrou. Hy is gereed om mense te dien — nie om kwaad te doen nie. Die duiwel het Hom verlaat — engels het gekom en Jesus gedien. Jesus het gehoorsaam gebly waar Israel misluk het. Jesus het drie keer met die Skrif geantwoord — Hy het gehoorsaam gebly.
+
+Die duiwel het Hom verlaat — engels het gekom en Jesus gedien. Jesus het gehoorsaam gebly waar Israel misluk het. Jesus het drie keer met die Skrif geantwoord — Hy het gehoorsaam gebly.
 ---
 ## Bladsy 6 — Geheue
 

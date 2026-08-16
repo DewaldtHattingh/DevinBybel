@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Debora onder palmboom; Israeliete kom luister; warm dag.
 
-**Een dag, lank, lank gelede,** het Israel weer gedoen wat kwaad is in die oë van die Here. Die Here het hulle aan Koning Jabin van Kanaän oorgelewer. Sy leier Sisera het Israel swaar onderdruk — nege honderd yster strydwagens. Israel het twintig jaar lank geroep om hulp.
+**Een dag, lank, lank gelede,** het Israel weer gedoen wat kwaad is in die oë van die Here. Die Here het hulle aan Koning Jabin van Kanaän oorgelewer. Sy leier Sisera het Israel swaar onderdruk — nege honderd yster strydwagens. Israel het twintig jaar lank geroep om hulp. Koning Jabin van Kanaän het in Hasor gewoon. Sy leier Sisera het nege honderd yster strydwagens gehad.
 
 ---
 
@@ -38,7 +38,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Debora praat met Barak; ernstige gesigte; leër in verte.
 
-Debora was 'n profetes en 'n rigter in Israel. Sy het onder 'n palmboom gesit en die volk gehelp. Sy het vir Barak gesê: Die Here die God van Israel beveel: Trek op na die berg Tabor. Ek sal Sisera na jou toe trek, en die Here sal hom in jou hand gee.
+Debora was 'n profetes en 'n rigter in Israel. Sy het onder 'n palmboom gesit en die volk gehelp. Sy het vir Barak gesê: Die Here die God van Israel beveel: Trek op na die berg Tabor. Ek sal Sisera na jou toe trek, en die Here sal hom in jou hand gee. Debora het vir Barak gesê: Trek op na die berg Tabor en neem tien duisend man van Naftali en Sebulon.
 
 ---
 
@@ -48,7 +48,7 @@ Debora was 'n profetes en 'n rigter in Israel. Sy het onder 'n palmboom gesit en
 
 > **Beeldnota:** Barak se leër op berg; Sisera se strydwagens in vallei; spanning.
 
-Barak het gesê: As jy saamgaan, gaan ek. Andersins nie. Debora het ja gesê, maar gewaarsku: Die eer van hierdie trek sal nie aan jou toe nie — die Here sal Sisera in 'n vrou se hand gee. Barak het tien duisend man op die berg gehad. Sisera se leër het nader gekom.
+Barak het gesê: As jy saamgaan, gaan ek. Andersins nie. Debora het ja gesê, maar gewaarsku: Die eer van hierdie trek sal nie aan jou toe nie — die Here sal Sisera in 'n vrou se hand gee. Barak het tien duisend man op die berg gehad. Sisera se leër het nader gekom. Debora het gewaarsku: Die eer sal aan 'n vrou toe wees, nie aan jou nie.
 
 ---
 
@@ -58,7 +58,7 @@ Barak het gesê: As jy saamgaan, gaan ek. Andersins nie. Debora het ja gesê, ma
 
 > **Beeldnota:** Sisera vlug te voet; Barak se leër jaag; geen geweld in beeld.
 
-En weet jy wat toe gebeur het? Die Here het Sisera se leër in verwarring gebring. Al die strydwagens was nutteloos. Sisera het te voet weggevlug. Barak het die leër agterna gejaag totdat geen man oorgebly het nie.
+En weet jy wat toe gebeur het? Die Here het Sisera se leër in verwarring gebring. Al die strydwagens was nutteloos. Sisera het te voet weggevlug. Barak het die leër agterna gejaag totdat geen man oorgebly het nie. Die Here het Sisera se leër in verwarring gebring by die Kishonrivier.
 
 ---
 
@@ -68,7 +68,7 @@ En weet jy wat toe gebeur het? Die Here het Sisera se leër in verwarring gebrin
 
 > **Beeldnota:** Jael by tent; Sisera rus; rustige tent — geen wapen gewys.
 
-Sisera het by Jael se tent skuiling gesoek. Sy het hom laat rus. Toe hy slaap, het sy hom gedood. So het die Here deur Debora se woord, deur Barak se leër en deur Jael oorwinning gegee. Die land het veertig jaar rus gehad.
+Sisera het by Jael se tent skuiling gesoek. Sy het hom laat rus. Toe hy slaap, het sy hom gedood. So het die Here deur Debora se woord, deur Barak se leër en deur Jael oorwinning gegee. Die land het veertig jaar rus gehad. Jael het Sisera 'n kom melk gegee en hom laat slaap — toe hy slaap, het sy hom gedood.
 
 ---
 

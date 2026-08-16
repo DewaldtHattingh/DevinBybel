@@ -27,7 +27,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Israeliete trek uit; families met sakke; oggendlig.
 
-**Een dag, lank, lank gelede,** het die Egiptenaars Israel gejaag om uit te gaan. Hulle het silwer en goud en klere gegee. So het die Israeliete uit Egipte getrek — ongeveer ses honderd duisend mans, behalwe kinders. Hulle het ongeveer vier honderd dertig jaar in Egipte gewoon.
+**Een dag, lank, lank gelede,** het die Egiptenaars Israel gejaag om uit te gaan. Hulle het silwer en goud en klere gegee. So het die Israeliete uit Egipte getrek — ongeveer ses honderd duisend mans, behalwe kinders. Hulle het ongeveer vier honderd dertig jaar in Egipte gewoon. Die Egiptenaars het Israel gejaag om uit te gaan — hulle wou hulle kwalik weg kry.
 
 ---
 
@@ -37,7 +37,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Ongesuurd deeg op skouers; haastige vertrek; geen tyd vir brood.
 
-Hulle het ongesuurde deeg saamgeneem, want hulle is haastig uitgejaag. Daar was nie tyd om brood te bak nie — die deeg was nog nie suur nie. Die Here het hulle in die nag laat vertrek. Dit was dieselfde nag as die Paasfees. Elke jaar sou Israel hierdie dag herdenk.
+Hulle het ongesuurde deeg saamgeneem, want hulle is haastig uitgejaag. Daar was nie tyd om brood te bak nie — die deeg was nog nie suur nie. Die Here het hulle in die nag laat vertrek. Dit was dieselfde nag as die Paasfees. Elke jaar sou Israel hierdie dag herdenk. Hulle het ongesuurde deeg saamgeneem, want daar was nie tyd om brood te bak nie.
 
 ---
 
@@ -47,7 +47,7 @@ Hulle het ongesuurde deeg saamgeneem, want hulle is haastig uitgejaag. Daar was 
 
 > **Beeldnota:** Groot trek deur woestyn; families en vee; wolk in verte.
 
-Die Here het nie Israel deur die Filistynse land gelei nie — die volk sou dalk terugkeer na Egipte. Hy het hulle deur die woestyn na die Rooi See gelei. Josef se bene het saam gegaan, soos Josef gesê het. Moses het die bene meegebring uit Egipte.
+Die Here het nie Israel deur die Filistynse land gelei nie — die volk sou dalk terugkeer na Egipte. Hy het hulle deur die woestyn na die Rooi See gelei. Josef se bene het saam gegaan, soos Josef gesê het. Moses het die bene meegebring uit Egipte. Josef se bene het saam gegaan, soos Josef gesweer het toe hy in Egipte gesterf het.
 
 ---
 
@@ -57,7 +57,7 @@ Die Here het nie Israel deur die Filistynse land gelei nie — die volk sou dalk
 
 > **Beeldnota:** Wolk/sag voor die volk; vuur snags; wonderbaarlike leiding.
 
-En weet jy wat toe gebeur het? Die Here het voor hulle gegaan — bedags in 'n wolk, snags in 'n vuursag. Die wolk het hulle bedags gelei, en die vuur het hulle snags lig gegee. Die wolk het nooit weggegaan nie — bedags of snags. So het die Here Israel gelei.
+En weet jy wat toe gebeur het? Die Here het voor hulle gegaan — bedags in 'n wolk, snags in 'n vuursag. Die wolk het hulle bedags gelei, en die vuur het hulle snags lig gegee. Die wolk het nooit weggegaan nie — bedags of snags. So het die Here Israel gelei. Die Here het bedags in 'n wolk en snags in 'n vuursag voor hulle gegaan.
 
 ---
 
@@ -67,7 +67,7 @@ En weet jy wat toe gebeur het? Die Here het voor hulle gegaan — bedags in 'n w
 
 > **Beeldnota:** Israel trek verder; wolk voor hulle; rustige aand.
 
-Israel was vry uit Egipte. Die Here het hulle nie alleen gelaat nie. Hy het voor hulle gegaan in wolk en vuur. Hulle het geweet: waar die wolk gaan, gaan ons. Die Here lei sy volk. Hy was by hulle.
+Israel was vry uit Egipte. Die Here het hulle nie alleen gelaat nie. Hy het voor hulle gegaan in wolk en vuur. Hulle het geweet: waar die wolk gaan, gaan ons. Die Here lei sy volk. Hy was by hulle. Waar die wolk gaan, gaan ons — die Here lei sy volk uit slawerny.
 
 ---
 

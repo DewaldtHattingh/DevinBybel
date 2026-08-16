@@ -19,48 +19,53 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/JES-21-p1.png)
 
 > **Beeldnota:** Ouers met klein kinders; Jesus in die middel; oop plek; warm lig.
 
-**Een dag, lank, lank gelede,** het mense klein kinders na Jesus gebring. Hulle wou hê Hy moet sy hande op die kinders lê en hulle seën. Sommige was babas. Sommige was klein kinders wat self kon loop. Die ouers wou weet dat God hulle kinders sien en liefhet. Kinders was nie te klein vir Jesus nie. Hulle was deel van die mense wat Hy op sy pad ontmoet het.
+**Een dag, lank, lank gelede,** het mense klein kinders na Jesus gebring. Hulle wou hê Hy moet sy hande op die kinders lê en hulle seën. Sommige was babas. Sommige was klein kinders wat self kon loop. Die ouers wou weet dat God hulle kinders sien en liefhet. Kinders was nie te klein vir Jesus nie. Hulle was deel van die mense wat Hy op sy pad ontmoet het. Mense het klein kinders na Jesus gebring sodat Hy hulle seëninge kon gee.
+
+Mense het klein kinders na Jesus gebring sodat Hy hulle seëninge kon gee.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/JES-21-p2.png)
 
 > **Beeldnota:** Dissipels wys kinders weg; Jesus kyk; kinders klein; dissipels ernstig.
 
-Maar die dissipels het die mense berispe. Hulle wou die kinders weghou. Miskien het hulle gedink Jesus is te besig, of dat kinders nie belangrik genoeg is vir sy pad nie. Hulle het die ouers en kinders probeer terugstoot. Dit was nie goed nie. Jesus het gesien wat gebeur.
+Maar die dissipels het die mense berispe. Hulle wou die kinders weghou. Miskien het hulle gedink Jesus is te besig, of dat kinders nie belangrik genoeg is vir sy pad nie. Hulle het die ouers en kinders probeer terugstoot. Dit was nie goed nie. Jesus het gesien wat gebeur. Die dissipels het hulle weggeweer — Jesus was besig.
+
+Die dissipels het hulle weggeweer — Jesus was besig.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/JES-21-p3.png)
 
 > **Beeldnota:** Jesus roep die dissipels; dissipels luister; kinders wag naby.
 
-Jesus was ontsteld daaroor. Hy het vir sy dissipels gesê: Laat die kinders na My toe kom. Moenie hulle verhinder nie, want aan sulkes behoort die koninkryk van God. Die dissipels moes luister. Jesus het duidelik gemaak: kinders is nie ’n steuring in God se werk nie. Hulle is deel van die storie van die koninkryk.
+Jesus was ontsteld daaroor. Hy het vir sy dissipels gesê: Laat die kinders na My toe kom. Moenie hulle verhinder nie, want aan sulkes behoort die koninkryk van God. Die dissipels moes luister. Jesus het duidelik gemaak: kinders is nie ’n steuring in God se werk nie. Hulle is deel van die storie van die koninkryk. Jesus het ontevrede geraak en gesê: Laat die kindertjies na My toe kom — moenie hulle weerhou nie.
+
+Jesus het ontevrede geraak en gesê: Laat die kindertjies na My toe kom — moenie hulle weerhou nie.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/JES-21-p4.png)
 
 > **Beeldnota:** Jesus met kind op die arm; hand op die kind se hoof; sagte lig; kinders rondom.
 
-Toe het Jesus die kinders in sy arms geneem. Hy het sy hande op hulle gelê en hulle geseën. Hy was naby die klein kinders — nie ver en besig nie. Hy het ook gesê: Wie die koninkryk van God nie soos ’n kind ontvang nie, sal nooit daarin ingaan nie. Om soos ’n kind te ontvang, beteken om oop te wees, nie vol van self nie, bereid om te ontvang wat God gee. Die Here was by die kinders.
+Toe het Jesus die kinders in sy arms geneem. Hy het sy hande op hulle gelê en hulle geseën. Hy was naby die klein kinders — nie ver en besig nie. Hy het ook gesê: Wie die koninkryk van God nie soos ’n kind ontvang nie, sal nooit daarin ingaan nie. Om soos ’n kind te ontvang, beteken om oop te wees, nie vol van self nie, bereid om te ontvang wat God gee. Die Here was by die kinders. Hy het hulle in sy arms geneem, sy hande op hulle gelê en hulle geseën.
+
+Hy het hulle in sy arms geneem, sy hande op hulle gelê en hulle geseën.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/JES-21-p5.png)
 
 > **Beeldnota:** Kinders om Jesus; vreugde; ouers rustig; kalm dag wat na aand daal.
 
-Die kinders was by Jesus. Die ouers was gerusgestel. Jesus het gewys hoe God se koninkryk werk: nie deur wie die grootste of belangrikste lyk nie, maar deur wie ontvang soos ’n kind. En weet jy wat toe gebeur het? Dieselfde Jesus wat Saggeus by die naam geroep het, roep ook die klein kinders nader. Hy sê steeds: kom na My toe.
+Die kinders was by Jesus. Die ouers was gerusgestel. Jesus het gewys hoe God se koninkryk werk: nie deur wie die grootste of belangrikste lyk nie, maar deur wie ontvang soos ’n kind. En weet jy wat toe gebeur het? Dieselfde Jesus wat Saggeus by die naam geroep het, roep ook die klein kinders nader. Hy sê steeds: kom na My toe. Hy het gesê: Chiendertjies soos hierdie behoort die koninkryk van God — wie nie soos 'n kind ontvang nie, sal nie inkom nie. Jesus het die kinders geseën — die koninkryk behoort aan sulke as hulle.
+
+Hy het gesê: Chiendertjies soos hierdie behoort die koninkryk van God — wie nie soos 'n kind ontvang nie, sal nie inkom nie. Jesus het die kinders geseën — die koninkryk behoort aan sulke as hulle.
 ---
 
 ## Bladsy 6 — Geheue

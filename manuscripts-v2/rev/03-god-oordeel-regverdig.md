@@ -19,55 +19,54 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/REV-03-p1.png)
 
 > **Beeldnota:** Johannes kyk na 'n groot wit troon; helder lig; ernstige maar nie angstige toneel nie.
 
 **Een dag, lank, lank gelede,** in Johannes se visioen het hy 'n groot wit troon gesien. Iemand het daarop gesit — die hemel en die aarde het weggevlug voor sy aangesig. Geen plek was vir hulle meer nie.
 
-Johannes se visioen was ernstig — maar ook eerlik. God maak reg wat verkeerd is.
+Johannes se visioen was ernstig — maar ook eerlik. God maak reg wat verkeerd is. Johannes het 'n groot wit troon gesien — Hy wat daarop sit, het die aarde en hemel laat verdwyn.
 
+Johannes het 'n groot wit troon gesien — Hy wat daarop sit, het die aarde en hemel laat verdwyn.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/REV-03-p2.png)
 
 > **Beeldnota:** Dooies staan voor die troon; boeke oop; ernstige maar stil toneel; geen skrik nie.
 
 Johannes het die dooies gesien — groot en klein — wat voor die troon gestaan het. Boeke is oopgemaak. En nog 'n boek: die boek van die lewe. Die dooies is oordeel volgens wat in die boeke geskryf staan.
 
-Johannes het 'n groot wit troon gesien. Die hemel en aarde het weggevlug voor die een wat daarop sit.
+Johannes het 'n groot wit troon gesien. Die hemel en aarde het weggevlug voor die een wat daarop sit. Die dooies, groot en klein, het voor die troon gestaan — boeke is oopgemaak.
 
+Die dooies, groot en klein, het voor die troon gestaan — boeke is oopgemaak.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/REV-03-p3.png)
 
 > **Beeldnota:** See wat oop is; dood en doderyk oorgelewer; simbolies, nie grafies nie.
 
 Die see het sy dooies gegee. Die dood en die doderyk het hul dooies gegee. Almal is oordeel na hul werke. Dit was ernstig — want God oordeel regverdig. Niks verkeerd bly weg nie.
 
-Die dooies het voor die troon gestaan. Boeke is oopgemaak, ook die boek van die lewe.
+Die dooies het voor die troon gestaan. Boeke is oopgemaak, ook die boek van die lewe. Nog 'n boek is oopgemaak — die boek van die lewe. Die boek van die lewe behoort aan die Lam.
 
+Nog 'n boek is oopgemaak — die boek van die lewe. Die boek van die lewe behoort aan die Lam.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/REV-03-p4.png)
 
 > **Beeldnota:** Boek van die lewe; name wat geskryf is; lig en donker as simboliese kontras.
 
 Johannes het gesien: wie se naam nie in die boek van die lewe geskryf was nie, is in die poel van vuur gewerp. Dit is die tweede dood. Die Bybel praat ernstig oor regverdigheid — God maak reg wat verkeerd is.
 
-God oordeel regverdig volgens wat geskryf staan. Dit is ernstig — niks verkeerd bly weg nie.
+God oordeel regverdig volgens wat geskryf staan. Dit is ernstig — niks verkeerd bly weg nie. Die see het die dooies teruggegee — elkeen is oordeel volgens sy werke.
 
+Die see het die dooies teruggegee — elkeen is oordeel volgens sy werke.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/REV-03-p5.png)
 
 > **Beeldnota:** Stem van die troon: Ek maak alles nuut; sagte lig breek deur; hoop aan die einde.
@@ -76,8 +75,9 @@ Maar Johannes het ook 'n stem van die troon gehoor sê: Kyk, Ek maak alles nuut!
 
 Maar Johannes het ook gehoor: Kyk, Ek maak alles nuut! Die oordeel is ernstig, maar God belowe ook iets nuuts.
 
-En dan kom die belofte: Ek maak alles nuut. Die storie eindig nie in vrees nie — maar in hoop.
+En dan kom die belofte: Ek maak alles nuut. Die storie eindig nie in vrees nie — maar in hoop. Wie nie in die boek van die lewe geskryf is nie, is in die poel van vuur — God oordeel regverdig. God oordeel regverdig — en die Lam se naam is in die boek.
 
+Wie nie in die boek van die lewe geskryf is nie, is in die poel van vuur — God oordeel regverdig. God oordeel regverdig — en die Lam se naam is in die boek.
 ---
 
 ## Bladsy 6 — Geheue

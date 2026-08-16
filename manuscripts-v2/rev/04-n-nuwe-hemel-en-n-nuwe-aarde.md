@@ -19,55 +19,54 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/REV-04-p1.png)
 
 > **Beeldnota:** Nuwe hemel en nuwe aarde; helder, sagte kleure; see weg; vrede.
 
 **Een dag, lank, lank gelede,** in Johannes se visioen het hy 'n nuwe hemel en 'n nuwe aarde gesien. Die eerste hemel en die eerste aarde was verby. Die see was ook nie meer nie.
 
-God belowe 'n nuwe wêreld — sonder trane, sonder dood, sonder hartseer. Hy sal by sy mense woon.
+God belowe 'n nuwe wêreld — sonder trane, sonder dood, sonder hartseer. Hy sal by sy mense woon. Johannes het 'n nuwe hemel en 'n nuwe aarde gesien — die eerste hemel en aarde was verby.
 
+Johannes het 'n nuwe hemel en 'n nuwe aarde gesien — die eerste hemel en aarde was verby.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/REV-04-p2.png)
 
 > **Beeldnota:** Johannes kyk na die nuwe Jerusalem; stad kom uit die hemel; lig soos 'n juweel.
 
 Johannes het die heilige stad gesien — die nuwe Jerusalem — wat uit die hemel van God afkom. Dit was versier soos 'n bruid vir haar man. Die stad het geskyn met die heerlikheid van God.
 
-Johannes het 'n nuwe hemel en 'n nuwe aarde gesien. Die eerste hemel en aarde was verby.
+Johannes het 'n nuwe hemel en 'n nuwe aarde gesien. Die eerste hemel en aarde was verby. Die heilige stad, die nuwe Jerusalem, het uit die hemel van God afgekom.
 
+Die heilige stad, die nuwe Jerusalem, het uit die hemel van God afgekom.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/REV-04-p3.png)
 
 > **Beeldnota:** Stem uit die hemel; God se tent by die mense; warm, veilige lig.
 
 Johannes het 'n harde stem gehoor: Kyk, die tent van God is by die mense! Hy sal by hulle woon. Hulle sal sy volk wees, en God self sal by hulle wees as hul God.
 
-Hy het die nuwe Jerusalem gesien — soos 'n bruid versier, helder met die heerligheid van God.
+Hy het die nuwe Jerusalem gesien — soos 'n bruid versier, helder met die heerligheid van God. 'n Groot stem het gesê: Kyk, die tent van God is by die mense — Hy sal by hulle woon.
 
+'n Groot stem het gesê: Kyk, die tent van God is by die mense — Hy sal by hulle woon.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/REV-04-p4.png)
 
 > **Beeldnota:** God vee trane af; geen hartseer meer; mense glimlag; sagte aanraking.
 
 God sal elke traan van hul oë afvee. Die dood sal nie meer wees nie. Geen hartseer of gekla meer nie. Die vroeë dinge het verbygegaan. Alles wat seer gemaak het, is weg.
 
-'n Stem het gesê: Kyk, die tent van God is by die mense! Hy sal by hulle woon en hulle sal sy volk wees.
+'n Stem het gesê: Kyk, die tent van God is by die mense! Hy sal by hulle woon en hulle sal sy volk wees. God sal hulle trane afvee — die dood sal nie meer wees nie, noch hartseer of pyn.
 
+God sal hulle trane afvee — die dood sal nie meer wees nie, noch hartseer of pyn.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/REV-04-p5.png)
 
 > **Beeldnota:** Stem sê: Ek maak alles nuut; kind luister; sagte aandstemming; hoop.
@@ -76,8 +75,9 @@ Hy wat op die troon sit, het gesê: Kyk, Ek maak alles nuut! En Hy het gesê: Sk
 
 God sal elke traan afvee. Die dood en hartseer sal nie meer wees nie. Hy het gesê: Ek maak alles nuut!
 
-Dit is die tuiste wat God van die begin af belowe het. Alles sal nuut wees — en veilig, en vol liefde.
+Dit is die tuiste wat God van die begin af belowe het. Alles sal nuut wees — en veilig, en vol liefde. Hy wat op die troon sit, het gesê: Kyk, Ek maak alles nuut. Ek is die Alfa en die Omega, die begin en die einde. God sal by sy mense woon — alles word nuut.
 
+Hy wat op die troon sit, het gesê: Kyk, Ek maak alles nuut. Ek is die Alfa en die Omega, die begin en die einde. God sal by sy mense woon — alles word nuut.
 ---
 
 ## Bladsy 6 — Geheue

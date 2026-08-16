@@ -18,7 +18,6 @@ afr20_quote_check: pending
 **Verhaal-ID:** DAN-01
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/DAN-01-p1.png)
 
 > **Beeldnota:** Vier jong manne — Daniël, Sadrag, Mesak, Abednego — in Babel.
@@ -27,12 +26,12 @@ afr20_quote_check: pending
 
 Babel neem jong manne van Israel — Daniël, Sadrag, Mesak, Abednego. Hulle kry nuwe name maar vergeet die Here nie.
 
-Babel neem die beste jong manne. Daniël en sy vriende hou die Here hoog — selfs met nuwe name.
+Babel neem die beste jong manne. Daniël en sy vriende hou die Here hoog — selfs met nuwe name. Nebukadnesar het jong manne van Israel na Babel gebring om in sy paleis opgelei te word.
 
+Nebukadnesar het jong manne van Israel na Babel gebring om in sy paleis opgelei te word.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/DAN-01-p2.png)
 
 > **Beeldnota:** Koninklike tafel; vleis; vier manne weier sag.
@@ -41,12 +40,12 @@ Die koning wou hulle koninklike kos en wyn gee. Daniël het gevra om net groente
 
 Daniël vra net groente en water — nie koninklike kos nie. Die amptenaar is bang hulle sal siek lyk.
 
-Kos van die koning sou hulle onrein maak. Daniël vra om net groente en water.
+Kos van die koning sou hulle onrein maak. Daniël vra om net groente en water. Daniel, Hananja, Misael en Asarja het nie die koning se kos en wyn wou eet nie — dit was onrein.
 
+Daniel, Hananja, Misael en Asarja het nie die koning se kos en wyn wou eet nie — dit was onrein.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/DAN-01-p3.png)
 
 > **Beeldnota:** Vier manne eet groente; tien dae later gesond.
@@ -55,12 +54,12 @@ Daniël het gesê: Probeer ons tien dae met groente en water. As ons siek lyk, e
 
 Daniël sê: Probeer tien dae groente en water. Na tien dae is hulle gesonder as die ander.
 
-Vier vriende eet groente en water — en die Here maak hulle gesond.
+Vier vriende eet groente en water — en die Here maak hulle gesond. Die hoofkamerdienaar was bang hulle sou sieker lyk — Daniel het tien dae toets voorgestel met net groente en water.
 
+Die hoofkamerdienaar was bang hulle sou sieker lyk — Daniel het tien dae toets voorgestel met net groente en water.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/DAN-01-p4.png)
 
 > **Beeldnota:** Vier manne voor koning; wysheid en gesondheid.
@@ -69,20 +68,21 @@ Die Here het die vier vriende geskenk met wysheid en verstand. Hulle was gesond 
 
 Die Here gee wysheid en verstand. Hulle is gesond en sterk — beter as al die ander wys manne.
 
-Die Here was naby — al het dit nie dadelik so gevoel nie.
+Die Here was naby — al het dit nie dadelik so gevoel nie. Hulle het gesonder gelyk as die ander — God het hulle kennis en wysheid gegee.
 
+Hulle het gesonder gelyk as die ander — God het hulle kennis en wysheid gegee.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/DAN-01-p5.png)
 
 > **Beeldnota:** Vier manne in paleis; rustige vertroue.
 
 Daniël en sy vriende het in Babel gebly — ver van Jerusalem, met nuwe name — maar hulle het die Here getrou gebly. Hulle het nie die koning se kos geëet wat hulle onrein sou maak nie. Die Here het hulle gesond en wys gemaak.
 
-In 'n vreemde land bly hulle getrou. Groente en water — en die Here gee wysheid.
+In 'n vreemde land bly hulle getrou. Groente en water — en die Here gee wysheid. Die koning het hulle name verander, maar hulle het getrou gebly aan die God van Israel. Hulle het liefs die vuuroond as die koning se beeld aanbid — die Here was by hulle.
 
+Die koning het hulle name verander, maar hulle het getrou gebly aan die God van Israel. Hulle het liefs die vuuroond as die koning se beeld aanbid — die Here was by hulle.
 ---
 
 ## Bladsy 6 — Geheue

@@ -18,7 +18,6 @@ afr20_quote_check: pending
 **Verhaal-ID:** DAN-03
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/DAN-03-p1.png)
 
 > **Beeldnota:** Daniël by venster; Jerusalem rigting; kniel drie keer daags.
@@ -27,12 +26,12 @@ afr20_quote_check: pending
 
 Daniël bid drie keer daags na Jerusalem toe — kniel by oop venster. Daniël is oud en getrou.
 
-Daniël is oud en getrou. Driemaal daags kniel hy en bid na Jerusalem — al is hy ver weg.
+Daniël is oud en getrou. Driemaal daags kniel hy en bid na Jerusalem — al is hy ver weg. Daniel was 'n hoë amptenaar — sy vyande kon geen fout aan hom vind nie.
 
+Daniel was 'n hoë amptenaar — sy vyande kon geen fout aan hom vind nie.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/DAN-03-p2.png)
 
 > **Beeldnota:** Koninklike decreet; amptenare fluister; valstrik.
@@ -41,12 +40,12 @@ Ander amptenare was jaloers. Hulle het 'n wet laat maak: dertig dae lank mag nie
 
 Amptenare maak wet: dertig dae net die koning vra. Wie bid gaan in leeuikuil.
 
-Jaloerse amptenare maak 'n wet: net die koning mag gevra word. Wie bid gaan in die kuil.
+Jaloerse amptenare maak 'n wet: net die koning mag gevra word. Wie bid gaan in die kuil. Hulle het 'n wet laat maak: net vir dertig dae mag niemand enige god aanbid behalwe die koning nie.
 
+Hulle het 'n wet laat maak: net vir dertig dae mag niemand enige god aanbid behalwe die koning nie.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/DAN-03-p3.png)
 
 > **Beeldnota:** Daniël kniel soos altyd; venster oop; sonlig.
@@ -55,12 +54,12 @@ Daniël het gehoor van die wet — en hy het net so gebid soos voorheen. Hy het 
 
 Daniël bid soos altyd. Hulle vang hom en vertel die koning. Bid ondanks wet.
 
-Daniël bid soos altyd by oop venster. Hy verberg nie — die Here is belangriker as die wet.
+Daniël bid soos altyd by oop venster. Hy verberg nie — die Here is belangriker as die wet. Daniel het drie keer per dag na Jerusalem toe gebid — sy venster was oop.
 
+Daniel het drie keer per dag na Jerusalem toe gebid — sy venster was oop.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/DAN-03-p4.png)
 
 > **Beeldnota:** Daniël in leeuikuil; leeus lê rustig; koning wag bo.
@@ -69,12 +68,12 @@ Die koning was hartseer, maar die wet moes geld. Daniël is in die leeuikuil geg
 
 Daniël in leeuikuil. Steen gesluit. Koning wag die nag sonder kos.
 
-Koning Darius wag die nag sonder kos. Vroeg roep hy: Het jou God jou gered?
+Koning Darius wag die nag sonder kos. Vroeg roep hy: Het jou God jou gered? Die koning was hartseer maar moes Daniel in die leeuikuil gooi — die mond is met klippe toegemaak.
 
+Die koning was hartseer maar moes Daniel in die leeuikuil gooi — die mond is met klippe toegemaak.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/DAN-03-p5.png)
 
 > **Beeldnota:** Daniël stap uit; geen wond; koning erken God.
@@ -83,8 +82,9 @@ Daniël het geantwoord: My God het sy engel gestuur en die leeu se bek toegemaak
 
 Daniël leef — God stuur engel, leeu se bek toegemaak. Koning erken Daniël se God red en red.
 
-Daniël bid al is dit verbode. Die leeu se monde word toegemaak. Getrouheid aan die Here is altyd die regte keuse.
+Daniël bid al is dit verbode. Die leeu se monde word toegemaak. Getrouheid aan die Here is altyd die regte keuse. Die koning het vroeg gekom en gevra: Lewende God, het U Daniel gered? Daniel het gesê: My God het sy engel gestuur en die leeus se bek toegemaak. Daniel het drie keer per dag gebid — die Here het sy engel na die leeuikuil gestuur.
 
+Die koning het vroeg gekom en gevra: Lewende God, het U Daniel gered? Daniel het gesê: My God het sy engel gestuur en die leeus se bek toegemaak. Daniel het drie keer per dag gebid — die Here het sy engel na die leeuikuil gestuur.
 ---
 
 ## Bladsy 6 — Geheue

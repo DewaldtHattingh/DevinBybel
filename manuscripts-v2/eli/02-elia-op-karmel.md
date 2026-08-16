@@ -18,7 +18,6 @@ afr20_quote_check: pending
 **Verhaal-ID:** ELI-02
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/ELI-02-p1.png)
 
 > **Beeldnota:** Karmel-heuwel; Elia alleen teen Baäl-priesters; droë hemel.
@@ -27,12 +26,12 @@ afr20_quote_check: pending
 
 Drie jaar sonder reën. Agab en Isebel het Baäl aanbid. Elia laat al die volk na Karmel kom.
 
-Drie jaar sonder reën. Israel het gesien dat Baäl nie reën kan bring nie — net die Here kan.
+Drie jaar sonder reën. Israel het gesien dat Baäl nie reën kan bring nie — net die Here kan. Koning Ahab en die Baäl-priesters het op Karmel bymekaargekom — Elia het Israel gevra: Hoe lank huppel julle tussen twee menings?
 
+Koning Ahab en die Baäl-priesters het op Karmel bymekaargekom — Elia het Israel gevra: Hoe lank huppel julle tussen twee menings?
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/ELI-02-p2.png)
 
 > **Beeldnota:** Twee altare; Baäl-priesters dans; geen vuur.
@@ -41,12 +40,12 @@ Elia het 'n wedstryd voorgestel: Baäl se priesters en hy sal elk 'n offer bou. 
 
 Elia stel wedstryd voor: Baäl se priesters en hy bou altare. Die god wat met vuur antwoord, is die ware God. Baäl antwoord nie.
 
-Baäl se priesters het geskreeu en hulle self gekrap, maar geen vuur het gekom nie. Stilte van die afgode.
+Baäl se priesters het geskreeu en hulle self gekrap, maar geen vuur het gekom nie. Stilte van die afgode. Elia het voorgestel: Twee altare — die god wat met vuur antwoord, is die ware God.
 
+Elia het voorgestel: Twee altare — die god wat met vuur antwoord, is die ware God.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/ELI-02-p3.png)
 
 > **Beeldnota:** Elia herstel altaar; twaalf stene; water oor offer.
@@ -55,12 +54,12 @@ Elia het twaalf stene geneem — vir die twaalf stamme — en die Here se altaar
 
 Elia herstel die Here se altaar met twaalf stene. Hy gooi water oor die offer tot dit vol is.
 
-Elia het twaalf stene gebruik — een vir elke stam van Israel. Hy het die altaar van die Here herstel.
+Elia het twaalf stene gebruik — een vir elke stam van Israel. Hy het die altaar van die Here herstel. Die Baäl-priesters het die hele dag geroep, maar geen vuur het gekom nie.
 
+Die Baäl-priesters het die hele dag geroep, maar geen vuur het gekom nie.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/ELI-02-p4.png)
 
 > **Beeldnota:** Vuur val uit hemel; mense val op knieë.
@@ -69,12 +68,12 @@ Elia het gebid: Here, laat hulle weet U is God. Vuur het uit die hemel geval en 
 
 Elia bid. Vuur val uit die hemel. Die volk val neer: Die Here — Hy is God!
 
-Vuur het uit die hemel geval en alles verbrand, selfs die water. Die volk het geval en erken: Die Here is God!
+Vuur het uit die hemel geval en alles verbrand, selfs die water. Die volk het geval en erken: Die Here is God! Elia het die altaar herstel, twaalf stene vir die twaalf stamme, en water oor die offer gegooi.
 
+Elia het die altaar herstel, twaalf stene vir die twaalf stamme, en water oor die offer gegooi.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/ELI-02-p5.png)
 
 > **Beeldnota:** Donker wolk; reën val; land drink.
@@ -83,8 +82,9 @@ Elia het Agab gesê: Gaan eet en drink — ek hoor reën. 'n Klein wolk het opge
 
 Op Karmel het Israel gesien wie die ware God is. Baäl kon nie antwoord nie. Die Here stuur vuur en reën. Elia het nie op homself vertrou nie — hy het gebid dat die Here Homself bekend maak.
 
-Reën het gekom. Die droogte was verby.
+Reën het gekom. Die droogte was verby. Die vuur van die Here het geval — die volk het geval en gesê: Die Here, Hy is God! Daarna het reën gekom.
 
+Die vuur van die Here het geval — die volk het geval en gesê: Die Here, Hy is God! Daarna het reën gekom.
 ---
 
 ## Bladsy 6 — Geheue

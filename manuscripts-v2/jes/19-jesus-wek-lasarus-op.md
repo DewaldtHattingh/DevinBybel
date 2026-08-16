@@ -19,7 +19,6 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/JES-19-p1.png)
 
 > **Beeldnota:** Betánia klein; Martha en Maria by huis; Lasarus siek; Jesus ver weg op pad.
@@ -28,10 +27,11 @@ afr20_quote_check: pending
 
 Maar Jesus bly nog twee dae waar hy is. Hy wag.
 
-In Betánia is Lasarus siek — Martha en Maria se broer. Hulle stuur vir Jesus. Jesus sê: dit lei tot God se glorie — maar hy wag twee dae nog.
+In Betánia is Lasarus siek — Martha en Maria se broer. Hulle stuur vir Jesus. Jesus sê: dit lei tot God se glorie — maar hy wag twee dae nog. Lasarus van Betlehem was siek — Maria en Marta het vir Jesus laat weet: Die een wat U liefhet, is siek.
+
+Lasarus van Betlehem was siek — Maria en Marta het vir Jesus laat weet: Die een wat U liefhet, is siek.
 ---
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/JES-19-p2.png)
 
 > **Beeldnota:** Lasarus se graf; Martha en Maria treur; vriende by huis; ernstig maar kalm.
@@ -40,37 +40,42 @@ Lasarus sterf. Jesus sê vir sy dissipels: Lasarus is dood. Kom, laat ons gaan. 
 
 Jesus sê: Jou broer sal opstaan. Martha sê: Ek weet hy sal opstaan in die opstanding op die laaste dag.
 
-Lasarus sterf. Jesus sê: Lasarus is dood. Kom, laat ons gaan. Lasarus is vier dae in die graf. Martha sê: as jy hier was, my broer sou nie gesterf het nie.
+Lasarus sterf. Jesus sê: Lasarus is dood. Kom, laat ons gaan. Lasarus is vier dae in die graf. Martha sê: as jy hier was, my broer sou nie gesterf het nie. Jesus het twee dae gewag voordat Hy gegaan het — Hy het gesê: Lasarus slaap, Ek gaan hom wakker maak.
+
+Jesus het twee dae gewag voordat Hy gegaan het — Hy het gesê: Lasarus slaap, Ek gaan hom wakker maak.
 ---
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/JES-19-p3.png)
 
 > **Beeldnota:** Jesus en Martha; ernstige gesprek; lig van bo; geen graf in beeld.
 
 Jesus sê: Ek is die opstanding en die lewe. Wie in hom glo, sal lewe — selfs al sterf hy. En elkeen wat leef en in hom glo, sal nooit sterf nie. Glo jy dit? Martha sê: Ja, Here. Jy is die Christus, die Seun van God.
 
-Maria kom ook. Sy val voor Jesus neer. Sy sê dieselfde: As jy hier was, my broer sou nie gesterf het nie.
+Maria kom ook. Sy val voor Jesus neer. Sy sê dieselfde: As jy hier was, my broer sou nie gesterf het nie. Toe Jesus gekom het, was Lasarus al vier dae in die graf. Marta het gesê: Ek weet hy sal opstaan in die opstanding.
+
+Toe Jesus gekom het, was Lasarus al vier dae in die graf. Marta het gesê: Ek weet hy sal opstaan in die opstanding.
 ---
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/JES-19-p4.png)
 
 > **Beeldnota:** Jesus by graf; trane op gesig; mensen stil; grafsteen; geen ligskowwels.
 
 Jesus sien hoe hulle treur. Jesus is beweeg en ontsteld. Jesus huil. Die mense sê: Kyk hoe liefhet hy hom. Jesus kom by die graf. Die steen is weg. Jesus roep met groot stem: Lasarus, kom uit!
 
-Lasarus kom uit — sy hande en voete met linne omwond. Jesus sê: Maak hom los en laat hom gaan.
+Lasarus kom uit — sy hande en voete met linne omwond. Jesus sê: Maak hom los en laat hom gaan. Jesus het voor die graf gebid en hardop geroep: Lasarus, kom uit!
+
+Jesus het voor die graf gebid en hardop geroep: Lasarus, kom uit!
 ---
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/JES-19-p5.png)
 
 > **Beeldnota:** Lasarus tussen familie; linne val af; vreugde; lig warm; geen gevaar.
 
 Lasarus leef weer. Martha en Maria sien hul broer. Baie mense glo in Jesus. Jesus wys: Ek is die opstanding en die lewe — en hy huil met die wat treur.
 
-En weet jy wat toe gebeur het? Die dood is nie die laaste woord vir wie in Jesus glo nie.
+En weet jy wat toe gebeur het? Die dood is nie die laaste woord vir wie in Jesus glo nie. Lasarus het uitgekom — nog met verbande om. Baie mense het in Jesus geglo.
+
+Lasarus het uitgekom — nog met verbande om. Baie mense het in Jesus geglo.
 ---
 ## Bladsy 6 — Geheue
 

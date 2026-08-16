@@ -19,55 +19,54 @@ afr20_quote_check: pending
 ---
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/ACT-06-p1.png)
 
 > **Beeldnota:** Cornelius kniel in gebed; engel in helder lig; huis in Sesarea; middag.
 
 **Een dag, lank, lank gelede,** in Sesarea was daar 'n man genaamd Cornelius. Hy was 'n Romeinse offisier wat God gevrees het. Hy het bid en vir die armes gegee. 'n Engel het vir hom verskyn.
 
-Petrus het geleer dat God se plan groter is as wat hy gedink het. Die evangelie is vir alle volke.
+Petrus het geleer dat God se plan groter is as wat hy gedink het. Die evangelie is vir alle volke. Cornelius was 'n Romeinse offisier in Caesarea — hy en sy huis was godvresend.
 
+Cornelius was 'n Romeinse offisier in Caesarea — hy en sy huis was godvresend.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/ACT-06-p2.png)
 
 > **Beeldnota:** Petrus op 'n dak slaap; groot doek met diere daal uit die hemel; verbaasde gesig.
 
 Terselfdertyd het Petrus op 'n dak in Joppa gaan rus. Hy was honger en het 'n visioen gesien: 'n groot doek het uit die hemel neergedaal met allerlei diere. 'n Stem het gesê: Sta op, Petrus, slag en eet. Petrus het gesê: Nooit! Ek het nog nooit onrein dinges geëet nie.
 
-Cornelius was 'n Romeinse offisier wat God gevrees het. 'n Engel het hom gesê om vir Petrus te stuur.
+Cornelius was 'n Romeinse offisier wat God gevrees het. 'n Engel het hom gesê om vir Petrus te stuur. 'n Engel het vir hom gesê: Stuur manne na Joppe en laat Simon Petrus haal.
 
+'n Engel het vir hom gesê: Stuur manne na Joppe en laat Simon Petrus haal.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/ACT-06-p3.png)
 
 > **Beeldnota:** Stem uit die hemel; Petrus kyk na die doek; diere in verskillende kleure.
 
 Die stem het drie keer gesê: Wat God rein gemaak het, moet jy nie onrein noem nie. Terwyl Petrus nog wonder, het manne van Cornelius by die deur geklop. Die Heilige Gees het vir Petrus gesê: Gaan saam, twyfel nie.
 
-Terselfdertyd het Petrus 'n visioen gesien: 'n doek met diere het neergedaal. 'n Stem het drie keer gesê: Wat God rein gemaak het, moenie jy onrein noem nie.
+Terselfdertyd het Petrus 'n visioen gesien: 'n doek met diere het neergedaal. 'n Stem het drie keer gesê: Wat God rein gemaak het, moenie jy onrein noem nie. Petrus het op die dak gebid — 'n visnet met allerlei diere het uit die hemel neergedaal.
 
+Petrus het op die dak gebid — 'n visnet met allerlei diere het uit die hemel neergedaal.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/ACT-06-p4.png)
 
 > **Beeldnota:** Petrus by Cornelius se huis; verskeie mense luister; vriendelike ontvangs.
 
 Petrus het na Sesarea gegaan en Cornelius se familie en vriende gevind. Hy het gesê: God het my geleer om geen mens onrein of onwaardig te noem nie. Hy het die goeie nuus van Jesus vertel — hoe Hy gesterf het en opgestaan het.
 
-Die Heilige Gees het vir Petrus gesê om saam met Cornelius se boodskappers te gaan. Petrus het nie getwyfel nie.
+Die Heilige Gees het vir Petrus gesê om saam met Cornelius se boodskappers te gaan. Petrus het nie getwyfel nie. Die Here het gesê: Moenie iets onrein noem wat Ek rein gemaak het nie.
 
+Die Here het gesê: Moenie iets onrein noem wat Ek rein gemaak het nie.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/ACT-06-p5.png)
 
 > **Beeldnota:** Heilige Gees op alle mense; hande gelê; vreugde; sagte aandstemming.
@@ -76,8 +75,9 @@ Terwyl Petrus nog praat, het die Heilige Gees op almal gekom wat luister. Petrus
 
 Terwyl Petrus gepraat het, het die Gees op almal gekom. Petrus het hulle in Jesus se Naam laat doop — God wys geen voorkeur nie.
 
-Cornelius en sy huis het die Gees ontvang. God wys geen voorkeur nie — Sy liefde is vir almal.
+Cornelius en sy huis het die Gees ontvang. God wys geen voorkeur nie — Sy liefde is vir almal. Petrus het na Cornelius gegaan en gepreek — die Heilige Gees het op almal neergedaal. Petrus het gesê: Kan ek iemand die doop weerhou? Die Heilige Gees het op heidene neergedaal — God se redding is vir alle volke.
 
+Petrus het na Cornelius gegaan en gepreek — die Heilige Gees het op almal neergedaal. Petrus het gesê: Kan ek iemand die doop weerhou? Die Heilige Gees het op heidene neergedaal — God se redding is vir alle volke.
 ---
 
 ## Bladsy 6 — Geheue

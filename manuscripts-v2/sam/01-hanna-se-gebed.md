@@ -18,43 +18,42 @@ afr20_quote_check: pending
 **Verhaal-ID:** SAM-01
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/SAM-01-p1.png)
 
 > **Beeldnota:** Ramah; Elkanah met Hanna en Peninna; tempel op heuwel in verte.
 
 **Een dag, lank, lank gelede,** het 'n man genaamd Elkanah in Ramah gewoon. Hy het twee vroue gehad: Hanna en Peninna. Peninna het kinders gehad, maar Hanna het geen kind gehad nie. Dit het haar hartseer gemaak.
 
-Elkanah het elke jaar offers gebring in Silo, waar die tabernakel gestaan het. Peninna het kinders gehad; Hanna het none gehad — en dit het elke jaar seer gemaak.
+Elkanah het elke jaar offers gebring in Silo, waar die tabernakel gestaan het. Peninna het kinders gehad; Hanna het none gehad — en dit het elke jaar seer gemaak. Elkanah het Hanna elke jaar 'n dubbele deel gegee by die offers, want hy het haar liefgehad.
 
+Elkanah het Hanna elke jaar 'n dubbele deel gegee by die offers, want hy het haar liefgehad.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/SAM-01-p2.png)
 
 > **Beeldnota:** Hanna sit alleen; trane; Peninna in agtergrond met kinders.
 
 Elke jaar het hulle na Silo gegaan om offers te bring. Peninna het Hanna gekrenk omdat sy nie kinders gehad het nie. Hanna het gehuil en nie eet nie. Elkanah het vir haar gesê hy hou van haar, maar haar hartseer was diep.
 
-Peninna het Hanna gekrenk en haar hartseer gemaak. Hanna het gehuil en nie eet nie. Elkanah het vir haar gesê hy hou van haar, maar haar hart wou steeds 'n kind hê.
+Peninna het Hanna gekrenk en haar hartseer gemaak. Hanna het gehuil en nie eet nie. Elkanah het vir haar gesê hy hou van haar, maar haar hart wou steeds 'n kind hê. Peninna het haar jaar na jaar gekrenk wanneer hulle in Silo was.
 
+Peninna het haar jaar na jaar gekrenk wanneer hulle in Silo was.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/SAM-01-p3.png)
 
 > **Beeldnota:** Hanna kniel by tempeldeur; lippe beweeg; Eli sit naby.
 
 Hanna het na die tempel toe gegaan en stil voor die Here gebid. Sy het belowe: As U my 'n seun gee, sal ek hom vir altyd aan U gee. Die priester Eli het haar gesien en gedink sy drink wyn. Sy het uitgeleg dat sy net gebid het uit diep hartseer.
 
-Hanna het stil gebid — net haar lippe beweeg. Eli die priester het gedink sy is dronk. Sy het gesê: Nee, ek giet my siel uit voor die Here uit groot verdriet.
+Hanna het stil gebid — net haar lippe beweeg. Eli die priester het gedink sy is dronk. Sy het gesê: Nee, ek giet my siel uit voor die Here uit groot verdriet. Hanna het by die deurpost van die tabernakel gebid en haar belofte aan die Here gemaak.
 
+Hanna het by die deurpost van die tabernakel gebid en haar belofte aan die Here gemaak.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/SAM-01-p4.png)
 
 > **Beeldnota:** Eli se hand op Hanna se skouer; sy staan op met hoop.
@@ -63,20 +62,21 @@ Eli het gesê: Gaan in vrede. Mag die God van Israel jou versoek gee. Hanna het 
 
 En weet jy wat toe gebeur het? Die Here het onthou wat sy gevra het.
 
-Eli het gesê: Gaan in vrede. Mag die God van Israel jou versoek gee wat jy gevra het. Hanna het geëet en haar gesig was nie meer hartseer nie.
+Eli het gesê: Gaan in vrede. Mag die God van Israel jou versoek gee wat jy gevra het. Hanna het geëet en haar gesig was nie meer hartseer nie. Sy het opgestaan, geëet en haar gesig was nie meer dieselfde nie.
 
+Sy het opgestaan, geëet en haar gesig was nie meer dieselfde nie.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/SAM-01-p5.png)
 
 > **Beeldnota:** Klein Samuel by Hanna; later klein seun met Eli by tempel.
 
 Hanna het 'n seuntjie gekry en hom Samuel genoem, want sy het gesê: Ek het hom van die Here gevra. Toe hy ouer was, het sy hom na Silo gebring en hom aan die Here afgewy. Samuel het by Eli gebly om die Here te dien. Hanna het 'n lied van lof gesing omdat die Here die nederige verhoog.
 
-Toe Samuel gebore is, het Hanna gesê: Ek het hom van die Here ontvang. Sy het hom na Silo gebring toe hy oud genoeg was. Daar het hy by Eli gebly om die Here te dien, soos sy belowe het.
+Toe Samuel gebore is, het Hanna gesê: Ek het hom van die Here ontvang. Sy het hom na Silo gebring toe hy oud genoeg was. Daar het hy by Eli gebly om die Here te dien, soos sy belowe het. Sy het elke jaar 'n klein jokkie en geskenke vir Samuel gebring wanneer sy hom besoek het. Die Here het Hanna se gebed gehoor — en Samuel het die Here gedien soos sy belowe het.
 
+Sy het elke jaar 'n klein jokkie en geskenke vir Samuel gebring wanneer sy hom besoek het. Die Here het Hanna se gebed gehoor — en Samuel het die Here gedien soos sy belowe het.
 ---
 
 ## Bladsy 6 — Geheue

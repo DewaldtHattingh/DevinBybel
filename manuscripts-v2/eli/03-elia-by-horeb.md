@@ -18,7 +18,6 @@ afr20_quote_check: pending
 **Verhaal-ID:** ELI-03
 
 ## Bladsy 1 — Opening
-
 ![Beeld: opening](../../assets/images/ELI-03-p1.png)
 
 > **Beeldnota:** Elia vlug; woestynpad; bang.
@@ -27,12 +26,12 @@ afr20_quote_check: pending
 
 Isebel dreig Elia dood te maak. Hy vlug die woestyn in. Hy bid: Here, neem my lewe. Elia is moeg en bang.
 
-Isebel het gedreig Elia sal dieselfde dag sterf soos Baäl se priesters. Elia het gevlug, moeg en bang.
+Isebel het gedreig Elia sal dieselfde dag sterf soos Baäl se priesters. Elia het gevlug, moeg en bang. Isebel het gedreig om Elia te laat doodmaak — hy het na die woestyn gevlug.
 
+Isebel het gedreig om Elia te laat doodmaak — hy het na die woestyn gevlug.
 ---
 
 ## Bladsy 2 — Probleem
-
 ![Beeld: probleem](../../assets/images/ELI-03-p2.png)
 
 > **Beeldnota:** Engel rok Elia; brood en water; Elia slaap.
@@ -41,12 +40,12 @@ Isebel het gedreig Elia sal dieselfde dag sterf soos Baäl se priesters. Elia he
 
 'n Engel gee brood en water. Elia loop veertig dae na Horeb — die berg van God.
 
-'n Engel het vir hom brood en water gegee — twee keer. Met daardie krag het hy veertig dae geloop na Horeb.
+'n Engel het vir hom brood en water gegee — twee keer. Met daardie krag het hy veertig dae geloop na Horeb. Onder 'n besemdoringboom het hy gebid dat hy mag sterf — 'n engel het hom brood en water gebring.
 
+Onder 'n besemdoringboom het hy gebid dat hy mag sterf — 'n engel het hom brood en water gebring.
 ---
 
 ## Bladsy 3 — Stygende aksie
-
 ![Beeld: stygende-aksie](../../assets/images/ELI-03-p3.png)
 
 > **Beeldnota:** Elia in grot; wind bars; aardbewing; vuur — Elia wag.
@@ -55,12 +54,12 @@ Daar het Elia in 'n grot gaan slaap. Die Here het verbygegaan. 'n Sterk wind het
 
 Wind breek rotse — die Here is nie in die wind nie. Aardbewing — nie in die beweging nie. Vuur — nie in die vuur nie.
 
-Wind, aardbewing en vuur — maar die Here was nie in die groot geweld nie.
+Wind, aardbewing en vuur — maar die Here was nie in die groot geweld nie. By die berg Horeb het die Here gevra: Wat doen jy hier, Elia? Hy het gesê: Ek alleen is oor — en hulle soek my lewe.
 
+By die berg Horeb het die Here gevra: Wat doen jy hier, Elia? Hy het gesê: Ek alleen is oor — en hulle soek my lewe.
 ---
 
 ## Bladsy 4 — Hoofdraai
-
 ![Beeld: hoofdraai](../../assets/images/ELI-03-p4.png)
 
 > **Beeldnota:** Stilte; Elia bedek gesig; sagte fluister.
@@ -69,12 +68,12 @@ Daarna het daar 'n stil, sagte fluister gekom. Elia het sy mantel oor sy gesig g
 
 Daarna 'n stil, sagte fluister. Elia bedek sy gesig. Die Here is in die fluister.
 
-Elia het sy mantel oor sy gesig getrek en geluister. Die Here stuur hom terug met nuwe werk.
+Elia het sy mantel oor sy gesig getrek en geluister. Die Here stuur hom terug met nuwe werk. Daar was wind, aardbewing en vuur — maar die Here was nie in die wind of die vuur nie.
 
+Daar was wind, aardbewing en vuur — maar die Here was nie in die wind of die vuur nie.
 ---
 
 ## Bladsy 5 — Ontknoping
-
 ![Beeld: ontknoping](../../assets/images/ELI-03-p5.png)
 
 > **Beeldnota:** Elia gooi mantel oor Elisa; Elisa volg; osse agtergelaat.
@@ -83,8 +82,9 @@ Die Here het Elia gestuur om Elisa te roep. Elia het sy mantel oor Elisa gegooi.
 
 Elia gooi sy mantel oor Elisa. Elisa laat osse agter en volg. Elisa word die volgende profeet.
 
-Elia het gedink hy alleen oorbly — maar die Here was in die stilte. Hy het Elisa geroep om voort te gaan. God se werk gaan voort, selfs wanneer profete moeg is.
+Elia het gedink hy alleen oorbly — maar die Here was in die stilte. Hy het Elisa geroep om voort te gaan. God se werk gaan voort, selfs wanneer profete moeg is. Daarna het 'n sagte fluistering gekom. Elia het sy mantel toegemaak en Elisa as profeet aangestel.
 
+Daarna het 'n sagte fluistering gekom. Elia het sy mantel toegemaak en Elisa as profeet aangestel.
 ---
 
 ## Bladsy 6 — Geheue
