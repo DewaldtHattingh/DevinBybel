@@ -94,7 +94,7 @@ God gee oorwinning op sy manier. Die wat op Hom vertrou — soos Ragab — word 
 
 ### Vers om te onthou
 
-“Deur die geloof het Ragab, die prostituut, nie met die ongehoorsames vergaan nie, omdat sy die verspieders vriendelik ontvang het.” — Hebreërs 11:31 〔AFR20-kontrole〕
+“Bind hierdie rooi koord in die venster waardeur jy ons laat afgedaal het.” — Josua 2:18 〔AFR20-kontrole〕
 
 ### Onthou jy?
 
