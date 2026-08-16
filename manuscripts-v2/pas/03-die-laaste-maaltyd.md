@@ -1,14 +1,34 @@
 ---
 story_id: PAS-03
-title: "Die laaste maaltyd"
+title: Die laaste maaltyd
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Luk. 22; Joh. 13"
-must_include: ["brood/beker", "verraad", "voete was"]
-theology_centre: "Nuwe verbond"
+primary_passage: Luk. 22; Joh. 13
+must_include:
+- brood/beker
+- verraad
+- voete was
+theology_centre: Nuwe verbond
 continuity_from: PAS-02
 continuity_to: PAS-04
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Luk. 22; Joh. 13
+  passage_read: false
+  context_read: false
+  required_details:
+  - brood
+  - beker
+  - verraad
+  - voete was
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die laaste maaltyd

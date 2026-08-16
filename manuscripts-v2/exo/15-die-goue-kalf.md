@@ -1,18 +1,35 @@
 ---
 story_id: EXO-15
-title: "Die goue kalf"
+title: Die goue kalf
 section: exo
 pages: 6
-primary_passage: "Exod. 32:1–35; 34:1–10"
+primary_passage: Exod. 32:1–35; 34:1–10
 must_include:
-  - "Kalf"
-  - "Here se toorn"
-  - "Voorspraak"
-  - "Genade vernuwe"
-theology_centre: "Afgodediens; voorspraak"
+- Kalf
+- Here se toorn
+- Voorspraak
+- Genade vernuwe
+theology_centre: Afgodediens; voorspraak
 continuity_from: EXO-14
 continuity_to: EXO-16
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Exod. 32:1–35; 34:1–10
+  passage_read: false
+  context_read: false
+  required_details:
+  - Kalf
+  - Here se toorn
+  - Voorspraak
+  - Genade vernuwe
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die goue kalf

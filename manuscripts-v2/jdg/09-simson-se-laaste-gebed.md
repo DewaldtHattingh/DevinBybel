@@ -1,18 +1,35 @@
 ---
 story_id: SIM-06
-title: "Simson se laaste gebed"
+title: Simson se laaste gebed
 section: jdg
 pages: 6
-primary_passage: "Judg. 16:22–31"
+primary_passage: Judg. 16:22–31
 must_include:
-  - "Hare groei"
-  - "Dagon"
-  - "Gebed"
-  - "Pilare"
-theology_centre: "God hoor selfs aan die einde"
+- Hare groei
+- Dagon
+- Gebed
+- Pilare
+theology_centre: God hoor selfs aan die einde
 continuity_from: SIM-05
 continuity_to: RUT-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Judg. 16:22–31
+  passage_read: false
+  context_read: false
+  required_details:
+  - Hare groei
+  - Dagon
+  - Gebed
+  - Pilare
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Simson se laaste gebed

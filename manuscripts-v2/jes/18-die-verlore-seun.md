@@ -1,14 +1,35 @@
 ---
 story_id: JES-18
-title: "Die verlore seun"
+title: Die verlore seun
 section: Jesus — geboorte en bediening
 pages: 6
-primary_passage: "Luk. 15:11–32"
-must_include: ["ver land", "terugkeer", "vader hardloop", "ouer broer"]
-theology_centre: "Vader se genade"
+primary_passage: Luk. 15:11–32
+must_include:
+- ver land
+- terugkeer
+- vader hardloop
+- ouer broer
+theology_centre: Vader se genade
 continuity_from: JES-17
 continuity_to: JES-19
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Luk. 15:11–32
+  passage_read: false
+  context_read: false
+  required_details:
+  - ver land
+  - terugkeer
+  - vader hardloop
+  - ouer broer
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die verlore seun

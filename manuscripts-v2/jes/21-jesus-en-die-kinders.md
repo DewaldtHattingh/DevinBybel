@@ -1,14 +1,33 @@
 ---
 story_id: JES-21
-title: "Jesus en die kinders"
+title: Jesus en die kinders
 section: Jesus — geboorte en bediening
 pages: 6
-primary_passage: "Mark. 10:13–16"
-must_include: ["dissipels verhinder", "Jesus ontvang", "soos kind"]
-theology_centre: "Koninkryk vir kinders"
+primary_passage: Mark. 10:13–16
+must_include:
+- dissipels verhinder
+- Jesus ontvang
+- soos kind
+theology_centre: Koninkryk vir kinders
 continuity_from: JES-20
 continuity_to: JES-22
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Mark. 10:13–16
+  passage_read: false
+  context_read: false
+  required_details:
+  - dissipels verhinder
+  - Jesus ontvang
+  - soos kind
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jesus en die kinders

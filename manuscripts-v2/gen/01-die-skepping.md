@@ -1,18 +1,35 @@
 ---
 story_id: GEN-01
-title: "Die skepping"
+title: Die skepping
 section: gen
 pages: 6
-primary_passage: "Gen 1:1–2:3"
+primary_passage: Gen 1:1–2:3
 must_include:
-  - "Ses dae in volgorde"
-  - "God praat"
-  - "Beeld van God"
-  - "Sewe dag rus"
-theology_centre: "God maak alles deur sy woord"
+- Ses dae in volgorde
+- God praat
+- Beeld van God
+- Sewe dag rus
+theology_centre: God maak alles deur sy woord
 continuity_from: null
 continuity_to: GEN-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 1:1–2:3
+  passage_read: false
+  context_read: false
+  required_details:
+  - Ses dae in volgorde
+  - God praat
+  - Beeld van God
+  - Sewe dag rus
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die skepping

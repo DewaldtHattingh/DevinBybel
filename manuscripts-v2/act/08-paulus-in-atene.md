@@ -1,14 +1,31 @@
 ---
 story_id: ACT-08
-title: "Paulus in Atene"
+title: Paulus in Atene
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Hand. 17"
-must_include: ["Onbekende god", "opstanding"]
-theology_centre: "Evangelie vir filosowe"
+primary_passage: Hand. 17
+must_include:
+- Onbekende god
+- opstanding
+theology_centre: Evangelie vir filosowe
 continuity_from: ACT-07
 continuity_to: ACT-09
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Hand. 17
+  passage_read: false
+  context_read: false
+  required_details:
+  - Onbekende god
+  - opstanding
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Paulus in Atene

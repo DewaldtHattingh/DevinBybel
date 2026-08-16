@@ -1,15 +1,31 @@
 ---
 story_id: EZR-01
-title: "Terugkeer uit ballingskap"
+title: Terugkeer uit ballingskap
 section: ezr
 pages: 6
-primary_passage: "Ezra 1; 3:8–13"
+primary_passage: Ezra 1; 3:8–13
 must_include:
-  - "Kores; altaar/tempel-fondasie"
-theology_centre: "God bring terug"
+- Kores; altaar/tempel-fondasie
+theology_centre: God bring terug
 continuity_from: EST-02
 continuity_to: NEH-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Ezra 1; 3:8–13
+  passage_read: false
+  context_read: false
+  required_details:
+  - Kores
+  - altaar
+  - tempel-fondasie
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Terugkeer uit ballingskap

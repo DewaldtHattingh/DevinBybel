@@ -1,14 +1,33 @@
 ---
 story_id: PAS-04
-title: "Getsemane"
+title: Getsemane
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Matt. 26:36–46"
-must_include: ["waak", "nie My wil nie", "dissipels slaap"]
-theology_centre: "Gehoorsaamheid in angs"
+primary_passage: Matt. 26:36–46
+must_include:
+- waak
+- nie My wil nie
+- dissipels slaap
+theology_centre: Gehoorsaamheid in angs
 continuity_from: PAS-03
 continuity_to: PAS-05
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Matt. 26:36–46
+  passage_read: false
+  context_read: false
+  required_details:
+  - waak
+  - nie My wil nie
+  - dissipels slaap
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Getsemane

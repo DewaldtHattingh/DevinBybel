@@ -1,14 +1,31 @@
 ---
 story_id: JES-10
-title: "Eerste dissipels; water word wyn"
+title: Eerste dissipels; water word wyn
 section: Jesus — geboorte en bediening
 pages: 6
-primary_passage: "Joh. 1–2"
-must_include: ["Volg My", "Kana"]
-theology_centre: "Jesus se heerlikheid begin"
+primary_passage: Joh. 1–2
+must_include:
+- Volg My
+- Kana
+theology_centre: Jesus se heerlikheid begin
 continuity_from: JES-09
 continuity_to: JES-11
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Joh. 1–2
+  passage_read: false
+  context_read: false
+  required_details:
+  - Volg My
+  - Kana
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Eerste dissipels; water word wyn

@@ -1,18 +1,36 @@
 ---
 story_id: JOS-06
-title: "Jakob in Egipte; Josef se vergifnis"
+title: Jakob in Egipte; Josef se vergifnis
 section: jos
 pages: 6
-primary_passage: "Gen 46; 50:15–26"
+primary_passage: Gen 46; 50:15–26
 must_include:
-  - "Hereniging"
-  - "Broers se vrees"
-  - "Vergifnis"
-  - "Bene/hoop"
-theology_centre: "Vergifnis; hoop bly"
+- Hereniging
+- Broers se vrees
+- Vergifnis
+- Bene/hoop
+theology_centre: Vergifnis; hoop bly
 continuity_from: JOS-05
 continuity_to: null
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 46; 50:15–26
+  passage_read: false
+  context_read: false
+  required_details:
+  - Hereniging
+  - Broers se vrees
+  - Vergifnis
+  - Bene
+  - hoop
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jakob in Egipte; Josef se vergifnis

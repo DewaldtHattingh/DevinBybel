@@ -1,15 +1,30 @@
 ---
 story_id: SOL-01
-title: "Salomo vra wysheid"
+title: Salomo vra wysheid
 section: sol
 pages: 6
-primary_passage: "1 Kgs 3:3–28"
+primary_passage: 1 Kgs 3:3–28
 must_include:
-  - "Vra wysheid; twee moeders"
-theology_centre: "Wysheid van God"
+- Vra wysheid; twee moeders
+theology_centre: Wysheid van God
 continuity_from: DAV-10
 continuity_to: SOL-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: 1 Kgs 3:3–28
+  passage_read: false
+  context_read: false
+  required_details:
+  - Vra wysheid
+  - twee moeders
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Salomo vra wysheid

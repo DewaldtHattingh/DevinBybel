@@ -1,14 +1,35 @@
 ---
 story_id: PAS-12
-title: "Tomas glo"
+title: Tomas glo
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Joh. 20:19–29"
-must_include: ["vrede", "wonde", "My Here", "salig sonder sien"]
-theology_centre: "Geloof"
+primary_passage: Joh. 20:19–29
+must_include:
+- vrede
+- wonde
+- My Here
+- salig sonder sien
+theology_centre: Geloof
 continuity_from: PAS-11
 continuity_to: PAS-13
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Joh. 20:19–29
+  passage_read: false
+  context_read: false
+  required_details:
+  - vrede
+  - wonde
+  - My Here
+  - salig sonder sien
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Tomas glo

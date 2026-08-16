@@ -1,18 +1,35 @@
 ---
 story_id: JOS-02
-title: "Josef by Potifar en in die tronk"
+title: Josef by Potifar en in die tronk
 section: jos
 pages: 6
-primary_passage: "Gen 39–40"
+primary_passage: Gen 39–40
 must_include:
-  - "Here by Josef"
-  - "Vals beskuldiging"
-  - "Drome"
-  - "Skenker vergeet"
-theology_centre: "God is by die onregverdige gevangene"
+- Here by Josef
+- Vals beskuldiging
+- Drome
+- Skenker vergeet
+theology_centre: God is by die onregverdige gevangene
 continuity_from: JOS-01
 continuity_to: JOS-03
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 39–40
+  passage_read: false
+  context_read: false
+  required_details:
+  - Here by Josef
+  - Vals beskuldiging
+  - Drome
+  - Skenker vergeet
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Josef by Potifar en in die tronk

@@ -1,17 +1,33 @@
 ---
 story_id: JOS-05
-title: "Josef maak homself bekend"
+title: Josef maak homself bekend
 section: jos
 pages: 6
-primary_passage: "Gen 44–45"
+primary_passage: Gen 44–45
 must_include:
-  - "Beker"
-  - "Juda se pleit"
-  - "God het my vooruit gestuur"
-theology_centre: "God se voorsienigheid"
+- Beker
+- Juda se pleit
+- God het my vooruit gestuur
+theology_centre: God se voorsienigheid
 continuity_from: JOS-04
 continuity_to: JOS-06
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 44–45
+  passage_read: false
+  context_read: false
+  required_details:
+  - Beker
+  - Juda se pleit
+  - God het my vooruit gestuur
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Josef maak homself bekend

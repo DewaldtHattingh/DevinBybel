@@ -1,14 +1,33 @@
 ---
 story_id: PAS-11
-title: "Op pad na Emmaus"
+title: Op pad na Emmaus
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Luk. 24:13–35"
-must_include: ["Skrifte", "brood breek", "herken"]
-theology_centre: "Skrif wys na Hom"
+primary_passage: Luk. 24:13–35
+must_include:
+- Skrifte
+- brood breek
+- herken
+theology_centre: Skrif wys na Hom
 continuity_from: PAS-10
 continuity_to: PAS-12
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Luk. 24:13–35
+  passage_read: false
+  context_read: false
+  required_details:
+  - Skrifte
+  - brood breek
+  - herken
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Op pad na Emmaus

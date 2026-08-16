@@ -1,19 +1,38 @@
 ---
 story_id: SIM-02
-title: "Simson en die leeu"
+title: Simson en die leeu
 section: jdg
 pages: 6
-primary_passage: "Judg. 14:1–9"
+primary_passage: Judg. 14:1–9
 must_include:
-  - "Timna"
-  - "Gees"
-  - "Kaal hande"
-  - "Stilte"
-  - "Bye/heuning"
-theology_centre: "Krag is van die Gees"
+- Timna
+- Gees
+- Kaal hande
+- Stilte
+- Bye/heuning
+theology_centre: Krag is van die Gees
 continuity_from: SIM-01
 continuity_to: SIM-03
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Judg. 14:1–9
+  passage_read: false
+  context_read: false
+  required_details:
+  - Timna
+  - Gees
+  - Kaal hande
+  - Stilte
+  - Bye
+  - heuning
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Simson en die leeu

@@ -1,15 +1,31 @@
 ---
 story_id: DAV-06
-title: "Dawid spaar Saul"
+title: Dawid spaar Saul
 section: dav
 pages: 6
-primary_passage: "1 Sam 24"
+primary_passage: 1 Sam 24
 must_include:
-  - "Grot; mantel; ek sal nie die gesalfde seermaak nie"
-theology_centre: "Eerbied vir God se gesalfde"
+- Grot; mantel; ek sal nie die gesalfde seermaak nie
+theology_centre: Eerbied vir God se gesalfde
 continuity_from: DAV-05
 continuity_to: DAV-07
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: 1 Sam 24
+  passage_read: false
+  context_read: false
+  required_details:
+  - Grot
+  - mantel
+  - ek sal nie die gesalfde seermaak nie
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Dawid spaar Saul

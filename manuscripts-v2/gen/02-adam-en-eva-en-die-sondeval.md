@@ -1,22 +1,43 @@
 ---
 story_id: GEN-02
-title: "Adam en Eva en die sondeval"
+title: Adam en Eva en die sondeval
 section: gen
 pages: 6
-primary_passage: "Gen 2–3"
+primary_passage: Gen 2–3
 must_include:
-  - "Tuin"
-  - "Verbod"
-  - "Slang"
-  - "Eet"
-  - "Skaamte"
-  - "Vloek"
-  - "Uitdrywing"
-  - "Belofte teen slang"
-theology_centre: "Sonde verwoes; God praat nog"
+- Tuin
+- Verbod
+- Slang
+- Eet
+- Skaamte
+- Vloek
+- Uitdrywing
+- Belofte teen slang
+theology_centre: Sonde verwoes; God praat nog
 continuity_from: GEN-01
 continuity_to: GEN-03
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 2–3
+  passage_read: false
+  context_read: false
+  required_details:
+  - Tuin
+  - Verbod
+  - Slang
+  - Eet
+  - Skaamte
+  - Vloek
+  - Uitdrywing
+  - Belofte teen slang
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Adam en Eva en die sondeval

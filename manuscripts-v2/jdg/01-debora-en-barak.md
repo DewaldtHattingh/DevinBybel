@@ -1,18 +1,35 @@
 ---
 story_id: JDG-01
-title: "Debora en Barak"
+title: Debora en Barak
 section: jdg
 pages: 6
-primary_passage: "Judg. 4"
+primary_passage: Judg. 4
 must_include:
-  - "Sisera"
-  - "Debora"
-  - "Barak"
-  - "Jael"
-theology_centre: "God red deur onverwagte mense"
+- Sisera
+- Debora
+- Barak
+- Jael
+theology_centre: God red deur onverwagte mense
 continuity_from: JSH-03
 continuity_to: JDG-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Judg. 4
+  passage_read: false
+  context_read: false
+  required_details:
+  - Sisera
+  - Debora
+  - Barak
+  - Jael
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Debora en Barak

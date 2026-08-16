@@ -1,14 +1,34 @@
 ---
 story_id: JES-13
-title: "Jesus leer op die berg"
+title: Jesus leer op die berg
 section: Jesus — geboorte en bediening
 pages: 6
-primary_passage: "Matt. 5–7 (gekies)"
-must_include: ["Saligsprekinge", "Ons Vader", "wyse/dwase bouer"]
-theology_centre: "Koninkryk se etos"
+primary_passage: Matt. 5–7 (gekies)
+must_include:
+- Saligsprekinge
+- Ons Vader
+- wyse/dwase bouer
+theology_centre: Koninkryk se etos
 continuity_from: JES-12
 continuity_to: JES-14
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Matt. 5–7 (gekies)
+  passage_read: false
+  context_read: false
+  required_details:
+  - Saligsprekinge
+  - Ons Vader
+  - wyse
+  - dwase bouer
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jesus leer op die berg

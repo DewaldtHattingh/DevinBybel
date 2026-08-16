@@ -1,14 +1,35 @@
 ---
 story_id: JES-14
-title: "Jesus stil die storm"
+title: Jesus stil die storm
 section: Jesus — geboorte en bediening
 pages: 6
-primary_passage: "Mark. 4:35–41"
-must_include: ["boot", "slaap", "Stil maar!", "Wie is Hy?"]
-theology_centre: "Jesus heers oor skepping"
+primary_passage: Mark. 4:35–41
+must_include:
+- boot
+- slaap
+- Stil maar!
+- Wie is Hy?
+theology_centre: Jesus heers oor skepping
 continuity_from: JES-13
 continuity_to: JES-15
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Mark. 4:35–41
+  passage_read: false
+  context_read: false
+  required_details:
+  - boot
+  - slaap
+  - Stil maar!
+  - Wie is Hy?
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jesus stil die storm

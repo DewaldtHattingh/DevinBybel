@@ -1,17 +1,33 @@
 ---
 story_id: GEN-05
-title: "God se verbond met Noag"
+title: God se verbond met Noag
 section: gen
 pages: 6
-primary_passage: "Gen 8:20–9:17"
+primary_passage: Gen 8:20–9:17
 must_include:
-  - "Altaar"
-  - "Belofte"
-  - "Reënboog as teken"
-theology_centre: "God hou sy woord"
+- Altaar
+- Belofte
+- Reënboog as teken
+theology_centre: God hou sy woord
 continuity_from: GEN-04
 continuity_to: GEN-06
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 8:20–9:17
+  passage_read: false
+  context_read: false
+  required_details:
+  - Altaar
+  - Belofte
+  - Reënboog as teken
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # God se verbond met Noag

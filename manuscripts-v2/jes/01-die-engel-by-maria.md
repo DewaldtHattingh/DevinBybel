@@ -1,14 +1,35 @@
 ---
 story_id: JES-01
-title: "Die engel by Maria"
+title: Die engel by Maria
 section: Jesus — geboorte en bediening
 pages: 6
-primary_passage: "Luk. 1:26–38"
-must_include: ["Gabriel", "Jesus", "Seun van die Allerhoogste", "laat dit so wees"]
-theology_centre: "God word mens"
+primary_passage: Luk. 1:26–38
+must_include:
+- Gabriel
+- Jesus
+- Seun van die Allerhoogste
+- laat dit so wees
+theology_centre: God word mens
 continuity_from: MAL-01
 continuity_to: JES-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Luk. 1:26–38
+  passage_read: false
+  context_read: false
+  required_details:
+  - Gabriel
+  - Jesus
+  - Seun van die Allerhoogste
+  - laat dit so wees
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die engel by Maria

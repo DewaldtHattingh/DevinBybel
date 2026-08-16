@@ -1,18 +1,35 @@
 ---
 story_id: JDG-02
-title: "Gideon geroep"
+title: Gideon geroep
 section: jdg
 pages: 6
-primary_passage: "Judg. 6"
+primary_passage: Judg. 6
 must_include:
-  - "Roeping"
-  - "Altaar"
-  - "Vrees"
-  - "Fleece"
-theology_centre: "God gebruik die swakke"
+- Roeping
+- Altaar
+- Vrees
+- Fleece
+theology_centre: God gebruik die swakke
 continuity_from: JDG-01
 continuity_to: JDG-03
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Judg. 6
+  passage_read: false
+  context_read: false
+  required_details:
+  - Roeping
+  - Altaar
+  - Vrees
+  - Fleece
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Gideon geroep

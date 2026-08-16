@@ -1,14 +1,31 @@
 ---
 story_id: REV-03
-title: "God oordeel regverdig"
+title: God oordeel regverdig
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Op. 20:11–15"
-must_include: ["groot wit troon", "boeke"]
-theology_centre: "Oordeel is ernstig"
+primary_passage: Op. 20:11–15
+must_include:
+- groot wit troon
+- boeke
+theology_centre: Oordeel is ernstig
 continuity_from: REV-02
 continuity_to: REV-04
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Op. 20:11–15
+  passage_read: false
+  context_read: false
+  required_details:
+  - groot wit troon
+  - boeke
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # God oordeel regverdig

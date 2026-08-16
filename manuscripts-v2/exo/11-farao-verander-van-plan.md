@@ -1,16 +1,31 @@
 ---
 story_id: EXO-11
-title: "Farao verander van plan"
+title: Farao verander van plan
 section: exo
 pages: 6
-primary_passage: "Exod. 14:1–12"
+primary_passage: Exod. 14:1–12
 must_include:
-  - "Agtervolging"
-  - "Israel bang by see"
-theology_centre: "Menslike harte bly hard"
+- Agtervolging
+- Israel bang by see
+theology_centre: Menslike harte bly hard
 continuity_from: EXO-10
 continuity_to: EXO-12
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Exod. 14:1–12
+  passage_read: false
+  context_read: false
+  required_details:
+  - Agtervolging
+  - Israel bang by see
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Farao verander van plan

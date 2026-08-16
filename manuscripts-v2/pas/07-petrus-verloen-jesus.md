@@ -1,14 +1,35 @@
 ---
 story_id: PAS-07
-title: "Petrus verloën Jesus"
+title: Petrus verloën Jesus
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Luk. 22:54–62"
-must_include: ["drie keer", "haan", "Jesus kyk", "Petrus ween"]
-theology_centre: "Mislukking; later herstel"
+primary_passage: Luk. 22:54–62
+must_include:
+- drie keer
+- haan
+- Jesus kyk
+- Petrus ween
+theology_centre: Mislukking; later herstel
 continuity_from: PAS-06
 continuity_to: PAS-08
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Luk. 22:54–62
+  passage_read: false
+  context_read: false
+  required_details:
+  - drie keer
+  - haan
+  - Jesus kyk
+  - Petrus ween
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Petrus verloën Jesus

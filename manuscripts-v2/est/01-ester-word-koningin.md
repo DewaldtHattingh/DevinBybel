@@ -1,15 +1,30 @@
 ---
 story_id: EST-01
-title: "Ester word koningin"
+title: Ester word koningin
 section: est
 pages: 6
-primary_passage: "Est 1–2"
+primary_passage: Est 1–2
 must_include:
-  - "Vashti; Ester gekies"
-theology_centre: "God plaas mense"
+- Vashti; Ester gekies
+theology_centre: God plaas mense
 continuity_from: DAN-03
 continuity_to: EST-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Est 1–2
+  passage_read: false
+  context_read: false
+  required_details:
+  - Vashti
+  - Ester gekies
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Ester word koningin

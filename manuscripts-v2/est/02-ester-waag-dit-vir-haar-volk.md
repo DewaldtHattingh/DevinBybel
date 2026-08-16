@@ -1,15 +1,32 @@
 ---
 story_id: EST-02
-title: "Ester waag dit vir haar volk"
+title: Ester waag dit vir haar volk
 section: est
 pages: 6
-primary_passage: "Est 3–8"
+primary_passage: Est 3–8
 must_include:
-  - "Haman; vir so 'n tyd; vas; redding"
-theology_centre: "Moed; voorsienigheid"
+- Haman; vir so 'n tyd; vas; redding
+theology_centre: Moed; voorsienigheid
 continuity_from: EST-01
 continuity_to: EZR-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Est 3–8
+  passage_read: false
+  context_read: false
+  required_details:
+  - Haman
+  - vir so 'n tyd
+  - vas
+  - redding
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Ester waag dit vir haar volk

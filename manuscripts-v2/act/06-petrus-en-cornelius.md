@@ -1,14 +1,33 @@
 ---
 story_id: ACT-06
-title: "Petrus en Cornelius"
+title: Petrus en Cornelius
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Hand. 10"
-must_include: ["doek-visioen", "heidene", "Gees val"]
-theology_centre: "Geen partydigheid"
+primary_passage: Hand. 10
+must_include:
+- doek-visioen
+- heidene
+- Gees val
+theology_centre: Geen partydigheid
 continuity_from: ACT-05
 continuity_to: ACT-07
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Hand. 10
+  passage_read: false
+  context_read: false
+  required_details:
+  - doek-visioen
+  - heidene
+  - Gees val
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Petrus en Cornelius

@@ -1,20 +1,39 @@
 ---
 story_id: ABR-01
-title: "Abram word geroep"
+title: Abram word geroep
 section: abr
 pages: 6
-primary_passage: "Gen 12:1–9"
+primary_passage: Gen 12:1–9
 must_include:
-  - "Gaan uit"
-  - "Land"
-  - "Seën vir nasies"
-  - "Sarai"
-  - "Lot"
-  - "Altaar"
-theology_centre: "God roep en beloof"
+- Gaan uit
+- Land
+- Seën vir nasies
+- Sarai
+- Lot
+- Altaar
+theology_centre: God roep en beloof
 continuity_from: JOB-08
 continuity_to: ABR-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 12:1–9
+  passage_read: false
+  context_read: false
+  required_details:
+  - Gaan uit
+  - Land
+  - Seën vir nasies
+  - Sarai
+  - Lot
+  - Altaar
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Abram word geroep

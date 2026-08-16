@@ -1,14 +1,35 @@
 ---
 story_id: JES-06
-title: "Vlug na Egipte"
+title: Vlug na Egipte
 section: Jesus — geboorte en bediening
 pages: 6
-primary_passage: "Matt. 2:13–23"
-must_include: ["droom", "Egipte", "Herodes se geweld", "Nasaret"]
-theology_centre: "God beskerm die Kind"
+primary_passage: Matt. 2:13–23
+must_include:
+- droom
+- Egipte
+- Herodes se geweld
+- Nasaret
+theology_centre: God beskerm die Kind
 continuity_from: JES-05
 continuity_to: JES-07
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Matt. 2:13–23
+  passage_read: false
+  context_read: false
+  required_details:
+  - droom
+  - Egipte
+  - Herodes se geweld
+  - Nasaret
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Vlug na Egipte

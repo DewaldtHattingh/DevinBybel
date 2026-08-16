@@ -1,19 +1,38 @@
 ---
 story_id: NUM-01
-title: "Die twaalf verkenners"
+title: Die twaalf verkenners
 section: num
 pages: 6
-primary_passage: "Num. 13–14"
+primary_passage: Num. 13–14
 must_include:
-  - "Twaalf"
-  - "Druiwe"
-  - "Tien bang"
-  - "Kaleb/Josua"
-  - "Oordeel"
-theology_centre: "Geloof vs vrees"
+- Twaalf
+- Druiwe
+- Tien bang
+- Kaleb/Josua
+- Oordeel
+theology_centre: Geloof vs vrees
 continuity_from: EXO-16
 continuity_to: NUM-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Num. 13–14
+  passage_read: false
+  context_read: false
+  required_details:
+  - Twaalf
+  - Druiwe
+  - Tien bang
+  - Kaleb
+  - Josua
+  - Oordeel
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die twaalf verkenners

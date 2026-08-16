@@ -1,19 +1,37 @@
 ---
 story_id: EXO-05
-title: "Steekvlieë, vee en sere"
+title: Steekvlieë, vee en sere
 section: exo
 pages: 6
-primary_passage: "Exod. 8:20–9:12"
+primary_passage: Exod. 8:20–9:12
 must_include:
-  - "Plae 4–6"
-  - "Steekvlieë"
-  - "Veepes"
-  - "Sere"
-  - "Onderskeid Israel"
-theology_centre: "God maak onderskeid"
+- Plae 4–6
+- Steekvlieë
+- Veepes
+- Sere
+- Onderskeid Israel
+theology_centre: God maak onderskeid
 continuity_from: EXO-04
 continuity_to: EXO-06
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Exod. 8:20–9:12
+  passage_read: false
+  context_read: false
+  required_details:
+  - Plae 4–6
+  - Steekvlieë
+  - Veepes
+  - Sere
+  - Onderskeid Israel
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Steekvlieë, vee en sere

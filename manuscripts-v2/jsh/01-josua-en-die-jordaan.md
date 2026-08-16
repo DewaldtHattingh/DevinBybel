@@ -1,18 +1,35 @@
 ---
 story_id: JSH-01
-title: "Josua en die Jordaan"
+title: Josua en die Jordaan
 section: jsh
 pages: 6
-primary_passage: "Josh. 1; 3"
+primary_passage: Josh. 1; 3
 must_include:
-  - "Wees sterk"
-  - "Ark"
-  - "Waters stop"
-  - "Gedenkstene"
-theology_centre: "God is by Josua"
+- Wees sterk
+- Ark
+- Waters stop
+- Gedenkstene
+theology_centre: God is by Josua
 continuity_from: DEU-01
 continuity_to: JSH-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Josh. 1; 3
+  passage_read: false
+  context_read: false
+  required_details:
+  - Wees sterk
+  - Ark
+  - Waters stop
+  - Gedenkstene
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Josua en die Jordaan

@@ -1,15 +1,31 @@
 ---
 story_id: DAV-01
-title: "Dawid word gesalf"
+title: Dawid word gesalf
 section: dav
 pages: 6
-primary_passage: "1 Sam 16:1–13"
+primary_passage: 1 Sam 16:1–13
 must_include:
-  - "Seuns van Isai; hart; Gees op Dawid"
-theology_centre: "God kyk na die hart"
+- Seuns van Isai; hart; Gees op Dawid
+theology_centre: God kyk na die hart
 continuity_from: SAM-04
 continuity_to: DAV-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: 1 Sam 16:1–13
+  passage_read: false
+  context_read: false
+  required_details:
+  - Seuns van Isai
+  - hart
+  - Gees op Dawid
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Dawid word gesalf

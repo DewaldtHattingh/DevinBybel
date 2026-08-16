@@ -1,15 +1,31 @@
 ---
 story_id: ELI-03
-title: "Elia by Horeb"
+title: Elia by Horeb
 section: eli
 pages: 6
-primary_passage: "1 Kgs 19"
+primary_passage: 1 Kgs 19
 must_include:
-  - "Vrees; fluistering; Elisa geroep"
-theology_centre: "God is nie net in storm nie"
+- Vrees; fluistering; Elisa geroep
+theology_centre: God is nie net in storm nie
 continuity_from: ELI-02
 continuity_to: ELS-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: 1 Kgs 19
+  passage_read: false
+  context_read: false
+  required_details:
+  - Vrees
+  - fluistering
+  - Elisa geroep
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Elia by Horeb

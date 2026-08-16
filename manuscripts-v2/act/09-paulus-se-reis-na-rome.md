@@ -1,14 +1,33 @@
 ---
 story_id: ACT-09
-title: "Paulus se reis na Rome"
+title: Paulus se reis na Rome
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Hand. 27–28"
-must_include: ["storm", "skipbreuk", "huisgevangenis"]
-theology_centre: "Evangelie tot die einde van die aarde"
+primary_passage: Hand. 27–28
+must_include:
+- storm
+- skipbreuk
+- huisgevangenis
+theology_centre: Evangelie tot die einde van die aarde
 continuity_from: ACT-08
 continuity_to: EPI-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Hand. 27–28
+  passage_read: false
+  context_read: false
+  required_details:
+  - storm
+  - skipbreuk
+  - huisgevangenis
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Paulus se reis na Rome

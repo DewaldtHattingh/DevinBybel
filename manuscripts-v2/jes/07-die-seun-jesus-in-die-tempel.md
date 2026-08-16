@@ -1,14 +1,31 @@
 ---
 story_id: JES-07
-title: "Die seun Jesus in die tempel"
+title: Die seun Jesus in die tempel
 section: Jesus — geboorte en bediening
 pages: 6
-primary_passage: "Luk. 2:41–52"
-must_include: ["twaalf", "My Vader se huis"]
-theology_centre: "Jesus ken sy Vader"
+primary_passage: Luk. 2:41–52
+must_include:
+- twaalf
+- My Vader se huis
+theology_centre: Jesus ken sy Vader
 continuity_from: JES-06
 continuity_to: JES-08
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Luk. 2:41–52
+  passage_read: false
+  context_read: false
+  required_details:
+  - twaalf
+  - My Vader se huis
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die seun Jesus in die tempel

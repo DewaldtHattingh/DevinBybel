@@ -1,14 +1,33 @@
 ---
 story_id: ACT-03
-title: "Stefanus"
+title: Stefanus
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Hand. 6–7"
-must_include: ["getuienis", "steniging", "Saul stem saam"]
-theology_centre: "Getrou tot die dood"
+primary_passage: Hand. 6–7
+must_include:
+- getuienis
+- steniging
+- Saul stem saam
+theology_centre: Getrou tot die dood
 continuity_from: ACT-02
 continuity_to: ACT-04
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Hand. 6–7
+  passage_read: false
+  context_read: false
+  required_details:
+  - getuienis
+  - steniging
+  - Saul stem saam
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Stefanus

@@ -1,17 +1,33 @@
 ---
 story_id: DEU-01
-title: "Moses se laaste woorde"
+title: Moses se laaste woorde
 section: deu
 pages: 6
-primary_passage: "Deut. 31–34"
+primary_passage: Deut. 31–34
 must_include:
-  - "Josua aangestel"
-  - "Moses sien land"
-  - "Sterf"
-theology_centre: "God se sorg eindig nie by Moses nie"
+- Josua aangestel
+- Moses sien land
+- Sterf
+theology_centre: God se sorg eindig nie by Moses nie
 continuity_from: NUM-02
 continuity_to: JSH-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Deut. 31–34
+  passage_read: false
+  context_read: false
+  required_details:
+  - Josua aangestel
+  - Moses sien land
+  - Sterf
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Moses se laaste woorde

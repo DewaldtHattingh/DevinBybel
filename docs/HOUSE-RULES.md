@@ -52,24 +52,26 @@ Then locate people/place/situation with concrete nouns.
 
 Then: **Een dag, lank, lank gelede…**
 
-## Drafting tags (internal only — never print in the book)
-
-While drafting, tag every sentence:
+## Statement categories (internal — never print)
 
 | Tag | Meaning | Allowed? |
 |-----|---------|----------|
-| **B** | Explicit biblical fact | Yes — state plainly |
-| **C** | Safe connective narration joining explicit facts | Yes — no hidden knowledge |
-| **Q** | Direct Scripture quotation (checked against AFR20) | Yes — never invent quote text |
-| *(none / other)* | Invented psychology, weekday, weather-as-fact, unspoken motives | **Challenge and usually delete** |
+| **A / SCRIPTURE FACT** | Explicitly stated by the biblical text | Yes |
+| **B / SAFE CONNECTION** | Connective language that adds **no** new factual claim | Yes |
+| **C / UNSUPPORTED** | Emotion, motive, dialogue, weather, weekday, extra person, invented detail | **Must not appear as fact** |
 
 Examples:
 
-- **B** — Dawid het vyf gladde klippe gekies.  
-- **C** — Toe het Dawid na Goliat toe gegaan.  
-- **Forbidden** — Dawid se maag het gedraai van vrees… *(unless Scripture says so)*
+- **A** — Dawid het vyf gladde klippe gekies.  
+- **B** — Toe het Dawid na Goliat toe gegaan.  
+- **C (forbidden as fact)** — Dawid se maag het gedraai van vrees… *(unless Scripture says so)*
 
-**Never put quotation marks around words we created.**
+**Never put quotation marks around words we created.**  
+Do not reconstruct AFR20 from memory. If the exact verse is unavailable: `AFR20_QUOTE_CHECK_REQUIRED`.
+
+Every manuscript must include a `scripture_audit` block (see template). After every edit: second PASSAGE AUDIT + `python3 scripts/validate_manuscripts.py --path <file>`.
+
+Cursor rules: `.cursor/rules/biblical-accuracy.mdc` and `writing-style.mdc`. Pipeline: `docs/CONTENT-PIPELINE.md`.
 
 ## Violence & hard passages
 
@@ -96,7 +98,7 @@ Warm painterly storybook realism; gouache/watercolour-like texture; historically
 - Maar die Here het hom/haar/hulle nie vergeet nie.
 - Die Here was by hom/haar/hulle.
 
-## File naming (after matrix lock)
+## File naming
 
-`manuscripts/<section>/<NN>-<slug>.md`  
-Story IDs come from the matrix (`GEN-01`, `EXO-12`, `JOB-06`, …), not from a forced volume quota.
+`manuscripts-v2/<section>/<NN>-<slug>.md`  
+Story IDs come from the matrix (`GEN-01`, `EXO-12`, `JOB-06`, …).

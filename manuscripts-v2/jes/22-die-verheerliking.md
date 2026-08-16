@@ -1,14 +1,34 @@
 ---
 story_id: JES-22
-title: "Die verheerliking"
+title: Die verheerliking
 section: Jesus — geboorte en bediening
 pages: 6
-primary_passage: "Mark. 9:2–9"
-must_include: ["berg", "Moses/Elia", "stem"]
-theology_centre: "Luister na Hom"
+primary_passage: Mark. 9:2–9
+must_include:
+- berg
+- Moses/Elia
+- stem
+theology_centre: Luister na Hom
 continuity_from: JES-21
 continuity_to: JES-23
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Mark. 9:2–9
+  passage_read: false
+  context_read: false
+  required_details:
+  - berg
+  - Moses
+  - Elia
+  - stem
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die verheerliking

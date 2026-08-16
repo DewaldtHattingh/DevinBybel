@@ -1,15 +1,33 @@
 ---
 story_id: DAV-09
-title: "Dawid se sonde en Nathan"
+title: Dawid se sonde en Nathan
 section: dav
 pages: 6
-primary_passage: "2 Sam 11:1–12:14"
+primary_passage: 2 Sam 11:1–12:14
 must_include:
-  - "Batseba; Urija; gelykenis; Jy is die man; berou"
-theology_centre: "Sonde selfs by konings; waarheid"
+- Batseba; Urija; gelykenis; Jy is die man; berou
+theology_centre: Sonde selfs by konings; waarheid
 continuity_from: DAV-08
 continuity_to: DAV-10
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: 2 Sam 11:1–12:14
+  passage_read: false
+  context_read: false
+  required_details:
+  - Batseba
+  - Urija
+  - gelykenis
+  - Jy is die man
+  - berou
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Dawid se sonde en Nathan

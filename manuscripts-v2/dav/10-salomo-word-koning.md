@@ -1,15 +1,30 @@
 ---
 story_id: DAV-10
-title: "Salomo word koning"
+title: Salomo word koning
 section: dav
 pages: 6
-primary_passage: "1 Kgs 1:1–53; 2:1–12"
+primary_passage: 1 Kgs 1:1–53; 2:1–12
 must_include:
-  - "Opvolging; Dawid se laaste woorde"
-theology_centre: "God se belofte gaan aan"
+- Opvolging; Dawid se laaste woorde
+theology_centre: God se belofte gaan aan
 continuity_from: DAV-09
 continuity_to: SOL-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: 1 Kgs 1:1–53; 2:1–12
+  passage_read: false
+  context_read: false
+  required_details:
+  - Opvolging
+  - Dawid se laaste woorde
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Salomo word koning

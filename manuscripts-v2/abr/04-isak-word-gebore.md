@@ -1,16 +1,32 @@
 ---
 story_id: ABR-04
-title: "Isak word gebore"
+title: Isak word gebore
 section: abr
 pages: 6
-primary_passage: "Gen 21:1–7"
+primary_passage: Gen 21:1–7
 must_include:
-  - "Belofte vervul"
-  - "Naam/lag"
-theology_centre: "God hou sy tyd"
+- Belofte vervul
+- Naam/lag
+theology_centre: God hou sy tyd
 continuity_from: ABR-03
 continuity_to: ABR-05
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 21:1–7
+  passage_read: false
+  context_read: false
+  required_details:
+  - Belofte vervul
+  - Naam
+  - lag
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Isak word gebore

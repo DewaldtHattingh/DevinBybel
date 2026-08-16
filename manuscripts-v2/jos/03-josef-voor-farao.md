@@ -1,18 +1,36 @@
 ---
 story_id: JOS-03
-title: "Josef voor Farao"
+title: Josef voor Farao
 section: jos
 pages: 6
-primary_passage: "Gen 41"
+primary_passage: Gen 41
 must_include:
-  - "Drome"
-  - "Josef eer God"
-  - "Sewe/sewe"
-  - "Verhoog"
-theology_centre: "God gee wysheid"
+- Drome
+- Josef eer God
+- Sewe/sewe
+- Verhoog
+theology_centre: God gee wysheid
 continuity_from: JOS-02
 continuity_to: JOS-04
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 41
+  passage_read: false
+  context_read: false
+  required_details:
+  - Drome
+  - Josef eer God
+  - Sewe
+  - sewe
+  - Verhoog
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Josef voor Farao

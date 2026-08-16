@@ -1,14 +1,35 @@
 ---
 story_id: PAS-09
-title: "Jesus word begrawe"
+title: Jesus word begrawe
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Matt. 27:57–66"
-must_include: ["Josef", "graf", "klip", "wag"]
-theology_centre: "Ware dood"
+primary_passage: Matt. 27:57–66
+must_include:
+- Josef
+- graf
+- klip
+- wag
+theology_centre: Ware dood
 continuity_from: PAS-08
 continuity_to: PAS-10
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Matt. 27:57–66
+  passage_read: false
+  context_read: false
+  required_details:
+  - Josef
+  - graf
+  - klip
+  - wag
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jesus word begrawe

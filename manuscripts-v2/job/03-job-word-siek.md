@@ -1,19 +1,37 @@
 ---
 story_id: JOB-03
-title: "Job word siek"
+title: Job word siek
 section: job
 pages: 6
-primary_passage: "Job 2"
+primary_passage: Job 2
 must_include:
-  - "Verdere limiet"
-  - "Siekte"
-  - "Vrou se woorde"
-  - "Job se antwoord"
-  - "Sit in as"
-theology_centre: "Lyding raak die liggaam; Job hou vas"
+- Verdere limiet
+- Siekte
+- Vrou se woorde
+- Job se antwoord
+- Sit in as
+theology_centre: Lyding raak die liggaam; Job hou vas
 continuity_from: JOB-02
 continuity_to: JOB-04
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Job 2
+  passage_read: false
+  context_read: false
+  required_details:
+  - Verdere limiet
+  - Siekte
+  - Vrou se woorde
+  - Job se antwoord
+  - Sit in as
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Job word siek

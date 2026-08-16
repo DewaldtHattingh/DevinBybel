@@ -1,14 +1,33 @@
 ---
 story_id: JES-20
-title: "Saggeus"
+title: Saggeus
 section: Jesus — geboorte en bediening
 pages: 6
-primary_passage: "Luk. 19:1–10"
-must_include: ["boom", "vandag redding", "viervoudig"]
-theology_centre: "Soek en red wat verlore is"
+primary_passage: Luk. 19:1–10
+must_include:
+- boom
+- vandag redding
+- viervoudig
+theology_centre: Soek en red wat verlore is
 continuity_from: JES-19
 continuity_to: JES-21
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Luk. 19:1–10
+  passage_read: false
+  context_read: false
+  required_details:
+  - boom
+  - vandag redding
+  - viervoudig
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Saggeus

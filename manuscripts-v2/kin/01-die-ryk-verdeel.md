@@ -1,15 +1,31 @@
 ---
 story_id: KIN-01
-title: "Die ryk verdeel"
+title: Die ryk verdeel
 section: kin
 pages: 6
-primary_passage: "1 Kgs 11:26–12:24"
+primary_passage: 1 Kgs 11:26–12:24
 must_include:
-  - "Rehabeam; Jerobeam; tien stamme"
-theology_centre: "Hardheid verdeel"
+- Rehabeam; Jerobeam; tien stamme
+theology_centre: Hardheid verdeel
 continuity_from: SOL-02
 continuity_to: ELI-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: 1 Kgs 11:26–12:24
+  passage_read: false
+  context_read: false
+  required_details:
+  - Rehabeam
+  - Jerobeam
+  - tien stamme
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die ryk verdeel

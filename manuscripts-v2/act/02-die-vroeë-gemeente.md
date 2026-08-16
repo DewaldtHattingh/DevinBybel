@@ -1,14 +1,33 @@
 ---
 story_id: ACT-02
-title: "Die vroeë gemeente"
+title: Die vroeë gemeente
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Hand. 2:42–47; 3"
-must_include: ["leer", "gemeenskap", "kreupel loop"]
-theology_centre: "Nuwe lewe saam"
+primary_passage: Hand. 2:42–47; 3
+must_include:
+- leer
+- gemeenskap
+- kreupel loop
+theology_centre: Nuwe lewe saam
 continuity_from: ACT-01
 continuity_to: ACT-03
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Hand. 2:42–47; 3
+  passage_read: false
+  context_read: false
+  required_details:
+  - leer
+  - gemeenskap
+  - kreupel loop
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die vroeë gemeente

@@ -1,15 +1,31 @@
 ---
 story_id: DAV-05
-title: "Saul jaag Dawid"
+title: Saul jaag Dawid
 section: dav
 pages: 6
-primary_passage: "1 Sam 19; 23:14–29"
+primary_passage: 1 Sam 19; 23:14–29
 must_include:
-  - "Vluppe; wildernis; God beskerm"
-theology_centre: "God bewaar sy gesalfde"
+- Vluppe; wildernis; God beskerm
+theology_centre: God bewaar sy gesalfde
 continuity_from: DAV-04
 continuity_to: DAV-06
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: 1 Sam 19; 23:14–29
+  passage_read: false
+  context_read: false
+  required_details:
+  - Vluppe
+  - wildernis
+  - God beskerm
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Saul jaag Dawid

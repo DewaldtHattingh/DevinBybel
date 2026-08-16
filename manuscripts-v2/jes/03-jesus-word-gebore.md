@@ -1,14 +1,33 @@
 ---
 story_id: JES-03
-title: "Jesus word gebore"
+title: Jesus word gebore
 section: Jesus — geboorte en bediening
 pages: 6
-primary_passage: "Luk. 2:1–7"
-must_include: ["sensus", "Betlehem", "krip"]
-theology_centre: "Nederige geboorte"
+primary_passage: Luk. 2:1–7
+must_include:
+- sensus
+- Betlehem
+- krip
+theology_centre: Nederige geboorte
 continuity_from: JES-02
 continuity_to: JES-04
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Luk. 2:1–7
+  passage_read: false
+  context_read: false
+  required_details:
+  - sensus
+  - Betlehem
+  - krip
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jesus word gebore

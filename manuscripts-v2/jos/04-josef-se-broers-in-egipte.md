@@ -1,19 +1,37 @@
 ---
 story_id: JOS-04
-title: "Josef se broers in Egipte"
+title: Josef se broers in Egipte
 section: jos
 pages: 6
-primary_passage: "Gen 42–43"
+primary_passage: Gen 42–43
 must_include:
-  - "Hongersnood"
-  - "Buig"
-  - "Simeon"
-  - "Benjamin"
-  - "Silwer"
-theology_centre: "God werk agter die skerms"
+- Hongersnood
+- Buig
+- Simeon
+- Benjamin
+- Silwer
+theology_centre: God werk agter die skerms
 continuity_from: JOS-03
 continuity_to: JOS-05
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 42–43
+  passage_read: false
+  context_read: false
+  required_details:
+  - Hongersnood
+  - Buig
+  - Simeon
+  - Benjamin
+  - Silwer
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Josef se broers in Egipte

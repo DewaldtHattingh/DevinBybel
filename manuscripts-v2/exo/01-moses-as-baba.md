@@ -1,18 +1,35 @@
 ---
 story_id: EXO-01
-title: "Moses as baba"
+title: Moses as baba
 section: exo
 pages: 6
-primary_passage: "Exod. 1:8–2:10"
+primary_passage: Exod. 1:8–2:10
 must_include:
-  - "Onderdrukking"
-  - "Mandjie in die Nyl"
-  - "Farao se dogter"
-  - "Moses genoem"
-theology_centre: "God beskerm sy plan"
+- Onderdrukking
+- Mandjie in die Nyl
+- Farao se dogter
+- Moses genoem
+theology_centre: God beskerm sy plan
 continuity_from: JOS-06
 continuity_to: EXO-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Exod. 1:8–2:10
+  passage_read: false
+  context_read: false
+  required_details:
+  - Onderdrukking
+  - Mandjie in die Nyl
+  - Farao se dogter
+  - Moses genoem
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Moses as baba

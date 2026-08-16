@@ -1,15 +1,32 @@
 ---
 story_id: DAN-02
-title: "Die vuuroond"
+title: Die vuuroond
 section: dan
 pages: 6
-primary_passage: "Dan 3"
+primary_passage: Dan 3
 must_include:
-  - "Beeld; weiering; oond; Vierde Gestalte"
-theology_centre: "God is by sy dienaars in vuur"
+- Beeld; weiering; oond; Vierde Gestalte
+theology_centre: God is by sy dienaars in vuur
 continuity_from: DAN-01
 continuity_to: DAN-03
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Dan 3
+  passage_read: false
+  context_read: false
+  required_details:
+  - Beeld
+  - weiering
+  - oond
+  - Vierde Gestalte
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die vuuroond

@@ -5,6 +5,15 @@ Afrikaans layered read-aloud story Bible for ages ~2–8.
 **Mission:** Psalm 78:4 — tell the next generation the LORD’s deeds.  
 **Anker:** God is getrou.
 
+## Accuracy pipeline (do this before V3 rewrites)
+
+Permanent Cursor rules live in [`.cursor/rules/`](.cursor/rules/).  
+Validate: `python3 scripts/validate_manuscripts.py`  
+Approved gate: `python3 scripts/validate_manuscripts.py --approved`  
+See [`docs/CONTENT-PIPELINE.md`](docs/CONTENT-PIPELINE.md) and [`AGENTS.md`](AGENTS.md).
+
+V2 stories now have **scaffold** `scripture_audit` blocks (`audit_status: needs_v3_repass`). Structural validation can pass; **approved** stays red until a real passage re-audit.
+
 ## Canonical manuscripts (v2)
 
 **150 episodes** under [`manuscripts-v2/`](manuscripts-v2/), audited against **BibleSA AFR20** (full passages).

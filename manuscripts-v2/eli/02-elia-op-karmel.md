@@ -1,15 +1,32 @@
 ---
 story_id: ELI-02
-title: "Elia op Karmel"
+title: Elia op Karmel
 section: eli
 pages: 6
-primary_passage: "1 Kgs 18"
+primary_passage: 1 Kgs 18
 must_include:
-  - "Kompetisie; altaar; Die Here is God; reën"
-theology_centre: "Die Here alleen is God"
+- Kompetisie; altaar; Die Here is God; reën
+theology_centre: Die Here alleen is God
 continuity_from: ELI-01
 continuity_to: ELI-03
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: 1 Kgs 18
+  passage_read: false
+  context_read: false
+  required_details:
+  - Kompetisie
+  - altaar
+  - Die Here is God
+  - reën
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Elia op Karmel

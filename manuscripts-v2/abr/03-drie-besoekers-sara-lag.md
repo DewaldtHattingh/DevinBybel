@@ -1,17 +1,33 @@
 ---
 story_id: ABR-03
-title: "Drie besoekers; Sara lag"
+title: Drie besoekers; Sara lag
 section: abr
 pages: 6
-primary_passage: "Gen 18:1–15"
+primary_passage: Gen 18:1–15
 must_include:
-  - "Gasvryheid"
-  - "Belofte"
-  - "Sara lag"
-theology_centre: "Niks is te moeilik vir die Here nie"
+- Gasvryheid
+- Belofte
+- Sara lag
+theology_centre: Niks is te moeilik vir die Here nie
 continuity_from: ABR-02
 continuity_to: ABR-04
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 18:1–15
+  passage_read: false
+  context_read: false
+  required_details:
+  - Gasvryheid
+  - Belofte
+  - Sara lag
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Drie besoekers; Sara lag

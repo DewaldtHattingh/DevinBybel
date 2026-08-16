@@ -1,15 +1,31 @@
 ---
 story_id: SAM-03
-title: "Israel vra 'n koning"
+title: Israel vra 'n koning
 section: sam
 pages: 6
-primary_passage: "1 Sam 8:1–22; 10:1–24"
+primary_passage: 1 Sam 8:1–22; 10:1–24
 must_include:
-  - "Waarskuwing; Saul gesalf/gekies"
-theology_centre: "Hulle verwerp God as koning"
+- Waarskuwing; Saul gesalf/gekies
+theology_centre: Hulle verwerp God as koning
 continuity_from: SAM-02
 continuity_to: SAM-04
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: 1 Sam 8:1–22; 10:1–24
+  passage_read: false
+  context_read: false
+  required_details:
+  - Waarskuwing
+  - Saul gesalf
+  - gekies
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Israel vra 'n koning
@@ -66,7 +82,15 @@ Samuel het Saul by die skare laat soek en hom uitgekies onder die stam Benjamin.
 
 > **Beeldnota:** Saul op verhoging; mense skreeu Lang lewe die koning; vreugde en tromme.
 
-Samuel het Israel gewaarsku dat 'n koning hulle seuns en dogters sal neem vir sy werk. Steeds het hulle nee gesê en 'n koning geëis. Die Here het Saul laat kom soos hulle gevra het. Samuel het olie op Saul se hoof gegooi en gesê: Die Here het jou as leier oor sy erfdeel aangestel.
+Samuel het Israel gewaarsku dat 'n koning hulle seuns en dogters sal neem vir sy werk. Steeds het hulle 'n koning geëis. Die Here het Saul laat kom soos hulle gevra het.
+
+---
+
+## Bladsy 6 — Geheue
+
+![Beeld: geheue](../../assets/images/SAM-03-p6.png)
+
+> **Beeldnota:** Klein, rustige illustrasie; oliehorinkie en kroon-motief sonder Europese kroon.
 
 ### Wie was in hierdie verhaal?
 

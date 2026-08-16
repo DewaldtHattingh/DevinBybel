@@ -1,15 +1,47 @@
 ---
 story_id: DAV-03
-title: "Dawid en Goliat"
+title: Dawid en Goliat
 section: dav
 pages: 6
-primary_passage: "1 Sam 17"
+primary_passage: 1 Sam 17
 must_include:
-  - "Uitdaging; leeu/beer-getuienis; harnas af; vyf klippe; sling; swaard; onthoofing; vlug"
-theology_centre: "Die stryd behoort aan die Here"
+- Uitdaging; leeu/beer-getuienis; harnas af; vyf klippe; sling; swaard; onthoofing;
+  vlug
+theology_centre: Die stryd behoort aan die Here
 continuity_from: DAV-02
 continuity_to: DAV-04
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: 1 Sam 17
+  passage_read: false
+  context_read: false
+  required_details:
+  - Saul
+  - Jesse sends David
+  - Goliath's challenge
+  - lion
+  - bear
+  - David credits God
+  - Saul's armour
+  - armour rejected
+  - staff
+  - five smooth stones
+  - shepherd's bag
+  - sling
+  - Goliath's shield bearer
+  - stone strikes forehead
+  - Goliath falls face down
+  - Goliath's sword
+  - Goliath killed/beheaded
+  - Philistines flee
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Dawid en Goliat

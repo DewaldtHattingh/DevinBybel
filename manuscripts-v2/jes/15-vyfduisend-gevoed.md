@@ -1,14 +1,34 @@
 ---
 story_id: JES-15
-title: "Vyfduisend gevoed"
+title: Vyfduisend gevoed
 section: Jesus — geboorte en bediening
 pages: 6
-primary_passage: "Joh. 6:1–15"
-must_include: ["brood/visse", "seën", "twaalf mandjies"]
-theology_centre: "Jesus voorsien"
+primary_passage: Joh. 6:1–15
+must_include:
+- brood/visse
+- seën
+- twaalf mandjies
+theology_centre: Jesus voorsien
 continuity_from: JES-14
 continuity_to: JES-16
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Joh. 6:1–15
+  passage_read: false
+  context_read: false
+  required_details:
+  - brood
+  - visse
+  - seën
+  - twaalf mandjies
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Vyfduisend gevoed

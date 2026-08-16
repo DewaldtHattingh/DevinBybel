@@ -1,14 +1,31 @@
 ---
 story_id: JES-09
-title: "Jesus word versoek"
+title: Jesus word versoek
 section: Jesus — geboorte en bediening
 pages: 6
-primary_passage: "Matt. 4:1–11"
-must_include: ["drie versoekings", "Skrif-antwoorde"]
-theology_centre: "Jesus gehoorsaam waar Israel/Adam misluk"
+primary_passage: Matt. 4:1–11
+must_include:
+- drie versoekings
+- Skrif-antwoorde
+theology_centre: Jesus gehoorsaam waar Israel/Adam misluk
 continuity_from: JES-08
 continuity_to: JES-10
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Matt. 4:1–11
+  passage_read: false
+  context_read: false
+  required_details:
+  - drie versoekings
+  - Skrif-antwoorde
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jesus word versoek

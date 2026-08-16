@@ -1,14 +1,31 @@
 ---
 story_id: PAS-02
-title: "Jesus in die tempel"
+title: Jesus in die tempel
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Matt. 21:12–16; 22:34–40"
-must_include: ["reiniging", "grootste gebooie"]
-theology_centre: "Huis van gebed; liefde"
+primary_passage: Matt. 21:12–16; 22:34–40
+must_include:
+- reiniging
+- grootste gebooie
+theology_centre: Huis van gebed; liefde
 continuity_from: PAS-01
 continuity_to: PAS-03
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Matt. 21:12–16; 22:34–40
+  passage_read: false
+  context_read: false
+  required_details:
+  - reiniging
+  - grootste gebooie
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jesus in die tempel

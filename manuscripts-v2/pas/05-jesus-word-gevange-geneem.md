@@ -1,14 +1,35 @@
 ---
 story_id: PAS-05
-title: "Jesus word gevange geneem"
+title: Jesus word gevange geneem
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Matt. 26:47–56"
-must_include: ["kus", "arrestasie", "swaard", "dissipels vlug"]
-theology_centre: "Hy gee Homself oor"
+primary_passage: Matt. 26:47–56
+must_include:
+- kus
+- arrestasie
+- swaard
+- dissipels vlug
+theology_centre: Hy gee Homself oor
 continuity_from: PAS-04
 continuity_to: PAS-06
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Matt. 26:47–56
+  passage_read: false
+  context_read: false
+  required_details:
+  - kus
+  - arrestasie
+  - swaard
+  - dissipels vlug
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jesus word gevange geneem

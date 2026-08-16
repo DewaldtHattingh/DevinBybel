@@ -1,18 +1,35 @@
 ---
 story_id: JOB-06
-title: "God antwoord Job"
+title: God antwoord Job
 section: job
 pages: 6
-primary_passage: "Job 38–41"
+primary_passage: Job 38–41
 must_include:
-  - "Stormwind"
-  - "Skepping"
-  - "Diere"
-  - "God se wysheid"
-theology_centre: "God is wys en soewerein"
+- Stormwind
+- Skepping
+- Diere
+- God se wysheid
+theology_centre: God is wys en soewerein
 continuity_from: JOB-05
 continuity_to: JOB-07
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Job 38–41
+  passage_read: false
+  context_read: false
+  required_details:
+  - Stormwind
+  - Skepping
+  - Diere
+  - God se wysheid
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # God antwoord Job

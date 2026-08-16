@@ -1,17 +1,34 @@
 ---
 story_id: EXO-16
-title: "Die tabernakel"
+title: Die tabernakel
 section: exo
 pages: 6
-primary_passage: "Exod. 25:1–9; 40:34–38"
+primary_passage: Exod. 25:1–9; 40:34–38
 must_include:
-  - "Gawes"
-  - "Woning onder hulle"
-  - "Wolk/heerlikheid"
-theology_centre: "God wil by sy volk wees"
+- Gawes
+- Woning onder hulle
+- Wolk/heerlikheid
+theology_centre: God wil by sy volk wees
 continuity_from: EXO-15
 continuity_to: NUM-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Exod. 25:1–9; 40:34–38
+  passage_read: false
+  context_read: false
+  required_details:
+  - Gawes
+  - Woning onder hulle
+  - Wolk
+  - heerlikheid
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die tabernakel

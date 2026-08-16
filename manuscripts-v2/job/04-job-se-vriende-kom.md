@@ -1,16 +1,31 @@
 ---
 story_id: JOB-04
-title: "Job se vriende kom"
+title: Job se vriende kom
 section: job
 pages: 6
-primary_passage: "Job 2:11–13"
+primary_passage: Job 2:11–13
 must_include:
-  - "Drie vriende"
-  - "Sewe dae stilte"
-theology_centre: "Ware medelye begin met stil teenwoordigheid"
+- Drie vriende
+- Sewe dae stilte
+theology_centre: Ware medelye begin met stil teenwoordigheid
 continuity_from: JOB-03
 continuity_to: JOB-05
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Job 2:11–13
+  passage_read: false
+  context_read: false
+  required_details:
+  - Drie vriende
+  - Sewe dae stilte
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Job se vriende kom

@@ -1,19 +1,37 @@
 ---
 story_id: ABR-07
-title: "Jakob en Esau"
+title: Jakob en Esau
 section: abr
 pages: 6
-primary_passage: "Gen 25:19–34; 27"
+primary_passage: Gen 25:19–34; 27
 must_include:
-  - "Eersgeboortereg"
-  - "Sop"
-  - "Seën-bedrog"
-  - "Esau se smart"
-  - "Jakob vlug"
-theology_centre: "Bedrog het gevolge"
+- Eersgeboortereg
+- Sop
+- Seën-bedrog
+- Esau se smart
+- Jakob vlug
+theology_centre: Bedrog het gevolge
 continuity_from: ABR-06
 continuity_to: ABR-08
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 25:19–34; 27
+  passage_read: false
+  context_read: false
+  required_details:
+  - Eersgeboortereg
+  - Sop
+  - Seën-bedrog
+  - Esau se smart
+  - Jakob vlug
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jakob en Esau

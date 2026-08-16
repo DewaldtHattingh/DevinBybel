@@ -1,14 +1,35 @@
 ---
 story_id: ACT-07
-title: "Paulus en Silas in die tronk"
+title: Paulus en Silas in die tronk
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Hand. 16"
-must_include: ["Filippi", "liedere", "aardbewing", "cipier"]
-theology_centre: "God oop tronkdeure"
+primary_passage: Hand. 16
+must_include:
+- Filippi
+- liedere
+- aardbewing
+- cipier
+theology_centre: God oop tronkdeure
 continuity_from: ACT-06
 continuity_to: ACT-08
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Hand. 16
+  passage_read: false
+  context_read: false
+  required_details:
+  - Filippi
+  - liedere
+  - aardbewing
+  - cipier
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Paulus en Silas in die tronk

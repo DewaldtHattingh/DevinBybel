@@ -1,15 +1,30 @@
 ---
 story_id: ISA-01
-title: "Jesaja se roeping"
+title: Jesaja se roeping
 section: isa
 pages: 6
-primary_passage: "Isa 6:1–8"
+primary_passage: Isa 6:1–8
 must_include:
-  - "Heilige visioen; Hier is ek"
-theology_centre: "God is heilig"
+- Heilige visioen; Hier is ek
+theology_centre: God is heilig
 continuity_from: JON-01
 continuity_to: ISA-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Isa 6:1–8
+  passage_read: false
+  context_read: false
+  required_details:
+  - Heilige visioen
+  - Hier is ek
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jesaja se roeping
@@ -55,7 +70,17 @@ Hy sê ja: Hier is ek, stuur my! Die Here stuur hom — ook wanneer mense moeili
 
 > **Beeldnota:** Jesaja staan op; hand opgehewe; tempel lig.
 
-Jesaja se roeping begin met 'n visioen van die Here se heiligheid — en met 'n ja om te gaan. Jesaja het geantwoord: Hier is ek, stuur my. Die Here het gesê: Gaan praat vir my volk. Jesaja het gesê: Hier is ek — die Here stuur steeds mense om sy woord te praat.
+Jesaja se roeping begin met 'n visioen van die Here se heiligheid — en met 'n ja om te gaan. Jesaja het geantwoord: Hier is ek, stuur my. Die Here het gesê: Gaan praat vir my volk.
+
+---
+
+## Bladsy 5 — Ontknoping
+
+![Beeld: ontknoping](../../assets/images/ISA-01-p5.png)
+
+> **Beeldnota:** Jesaja verlaat die tempel in stiller lig; geen magiese gloed nie.
+
+Die Here het Jesaja gestuur om sy woord te praat. Die visioen was nie die einde nie. Jesaja moes nou gaan. Die Here was by hom.
 
 ---
 

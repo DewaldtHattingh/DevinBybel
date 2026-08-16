@@ -1,18 +1,35 @@
 ---
 story_id: RUT-01
-title: "Rut en Naomi"
+title: Rut en Naomi
 section: rut
 pages: 6
-primary_passage: "Ruth 1"
+primary_passage: Ruth 1
 must_include:
-  - "Moab"
-  - "Dood"
-  - "Waar jy gaan"
-  - "Betlehem leeg"
-theology_centre: "Getrouheid in bitterheid"
+- Moab
+- Dood
+- Waar jy gaan
+- Betlehem leeg
+theology_centre: Getrouheid in bitterheid
 continuity_from: SIM-06
 continuity_to: RUT-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Ruth 1
+  passage_read: false
+  context_read: false
+  required_details:
+  - Moab
+  - Dood
+  - Waar jy gaan
+  - Betlehem leeg
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Rut en Naomi

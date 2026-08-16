@@ -1,17 +1,34 @@
 ---
 story_id: EXO-10
-title: "Israel verlaat Egipte"
+title: Israel verlaat Egipte
 section: exo
 pages: 6
-primary_passage: "Exod. 12:33–42; 13:17–22"
+primary_passage: Exod. 12:33–42; 13:17–22
 must_include:
-  - "Haastig"
-  - "Deegh"
-  - "Wolk/vuur-pilaar"
-theology_centre: "God lei sy volk"
+- Haastig
+- Deegh
+- Wolk/vuur-pilaar
+theology_centre: God lei sy volk
 continuity_from: EXO-09
 continuity_to: EXO-11
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Exod. 12:33–42; 13:17–22
+  passage_read: false
+  context_read: false
+  required_details:
+  - Haastig
+  - Deegh
+  - Wolk
+  - vuur-pilaar
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Israel verlaat Egipte

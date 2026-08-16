@@ -1,18 +1,36 @@
 ---
 story_id: ABR-09
-title: "Jakob by Laban"
+title: Jakob by Laban
 section: abr
 pages: 6
-primary_passage: "Gen 29–31 (gekies)"
+primary_passage: Gen 29–31 (gekies)
 must_include:
-  - "Lea/Ragel"
-  - "Jare diens"
-  - "God sien"
-  - "Terugkeer begin"
-theology_centre: "God sien uitbuiting"
+- Lea/Ragel
+- Jare diens
+- God sien
+- Terugkeer begin
+theology_centre: God sien uitbuiting
 continuity_from: ABR-08
 continuity_to: ABR-10
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 29–31 (gekies)
+  passage_read: false
+  context_read: false
+  required_details:
+  - Lea
+  - Ragel
+  - Jare diens
+  - God sien
+  - Terugkeer begin
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jakob by Laban

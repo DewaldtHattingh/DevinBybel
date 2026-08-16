@@ -1,14 +1,35 @@
 ---
 story_id: REV-05
-title: "Die nuwe Jerusalem"
+title: Die nuwe Jerusalem
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Op. 21–22:5"
-must_include: ["stad", "rivier", "lewensboom", "sy aangesig"]
-theology_centre: "God by sy volk vir altyd"
+primary_passage: Op. 21–22:5
+must_include:
+- stad
+- rivier
+- lewensboom
+- sy aangesig
+theology_centre: God by sy volk vir altyd
 continuity_from: REV-04
 continuity_to: REV-06
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Op. 21–22:5
+  passage_read: false
+  context_read: false
+  required_details:
+  - stad
+  - rivier
+  - lewensboom
+  - sy aangesig
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die nuwe Jerusalem

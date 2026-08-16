@@ -1,18 +1,35 @@
 ---
 story_id: EXO-04
-title: "Bloed, paddas en muggies"
+title: Bloed, paddas en muggies
 section: exo
 pages: 6
-primary_passage: "Exod. 7:14–8:19"
+primary_passage: Exod. 7:14–8:19
 must_include:
-  - "Plae 1–3 in volgorde"
-  - "Bloed"
-  - "Paddas"
-  - "Muggies"
-theology_centre: "God oordeel Egipte"
+- Plae 1–3 in volgorde
+- Bloed
+- Paddas
+- Muggies
+theology_centre: God oordeel Egipte
 continuity_from: EXO-03
 continuity_to: EXO-05
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Exod. 7:14–8:19
+  passage_read: false
+  context_read: false
+  required_details:
+  - Plae 1–3 in volgorde
+  - Bloed
+  - Paddas
+  - Muggies
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Bloed, paddas en muggies

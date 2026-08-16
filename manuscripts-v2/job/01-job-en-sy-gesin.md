@@ -1,18 +1,35 @@
 ---
 story_id: JOB-01
-title: "Job en sy gesin"
+title: Job en sy gesin
 section: job
 pages: 6
-primary_passage: "Job 1:1–5"
+primary_passage: Job 1:1–5
 must_include:
-  - "Regverdigheid"
-  - "Kinders"
-  - "Offers"
-  - "Vrees vir God"
-theology_centre: "Job is getrou vóór die beproewing"
+- Regverdigheid
+- Kinders
+- Offers
+- Vrees vir God
+theology_centre: Job is getrou vóór die beproewing
 continuity_from: GEN-06
 continuity_to: JOB-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Job 1:1–5
+  passage_read: false
+  context_read: false
+  required_details:
+  - Regverdigheid
+  - Kinders
+  - Offers
+  - Vrees vir God
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Job en sy gesin

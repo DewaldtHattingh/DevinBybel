@@ -1,18 +1,35 @@
 ---
 story_id: SIM-05
-title: "Simson en Delila"
+title: Simson en Delila
 section: jdg
 pages: 6
-primary_passage: "Judg. 16:4–21"
+primary_passage: Judg. 16:4–21
 must_include:
-  - "Drie leuens"
-  - "Hare"
-  - "Krag weg"
-  - "Gevange"
-theology_centre: "Ontrouheid het prys"
+- Drie leuens
+- Hare
+- Krag weg
+- Gevange
+theology_centre: Ontrouheid het prys
 continuity_from: SIM-04
 continuity_to: SIM-06
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Judg. 16:4–21
+  passage_read: false
+  context_read: false
+  required_details:
+  - Drie leuens
+  - Hare
+  - Krag weg
+  - Gevange
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Simson en Delila

@@ -1,14 +1,35 @@
 ---
 story_id: JES-05
-title: "Die wyse manne"
+title: Die wyse manne
 section: Jesus — geboorte en bediening
 pages: 6
-primary_passage: "Matt. 2:1–12"
-must_include: ["ster", "Herodes", "geskenke", "aanbidding"]
-theology_centre: "Heidene soek die Koning"
+primary_passage: Matt. 2:1–12
+must_include:
+- ster
+- Herodes
+- geskenke
+- aanbidding
+theology_centre: Heidene soek die Koning
 continuity_from: JES-04
 continuity_to: JES-06
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Matt. 2:1–12
+  passage_read: false
+  context_read: false
+  required_details:
+  - ster
+  - Herodes
+  - geskenke
+  - aanbidding
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die wyse manne

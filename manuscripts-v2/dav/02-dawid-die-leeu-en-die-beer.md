@@ -1,15 +1,32 @@
 ---
 story_id: DAV-02
-title: "Dawid, die leeu en die beer"
+title: Dawid, die leeu en die beer
 section: dav
 pages: 6
-primary_passage: "1 Sam 16:11–23; 17:34–37"
+primary_passage: 1 Sam 16:11–23; 17:34–37
 must_include:
-  - "Skape; leeu; beer; Here red"
-theology_centre: "God se vroegere hulp"
+- Skape; leeu; beer; Here red
+theology_centre: God se vroegere hulp
 continuity_from: DAV-01
 continuity_to: DAV-03
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: 1 Sam 16:11–23; 17:34–37
+  passage_read: false
+  context_read: false
+  required_details:
+  - Skape
+  - leeu
+  - beer
+  - Here red
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Dawid, die leeu en die beer

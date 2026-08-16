@@ -1,14 +1,35 @@
 ---
 story_id: JES-16
-title: "Jesus loop op die water"
+title: Jesus loop op die water
 section: Jesus — geboorte en bediening
 pages: 6
-primary_passage: "Matt. 14:22–33"
-must_include: ["nag", "Dit is Ek", "Petrus sink", "red"]
-theology_centre: "Jesus red; aanbidding"
+primary_passage: Matt. 14:22–33
+must_include:
+- nag
+- Dit is Ek
+- Petrus sink
+- red
+theology_centre: Jesus red; aanbidding
 continuity_from: JES-15
 continuity_to: JES-17
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Matt. 14:22–33
+  passage_read: false
+  context_read: false
+  required_details:
+  - nag
+  - Dit is Ek
+  - Petrus sink
+  - red
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jesus loop op die water

@@ -1,14 +1,33 @@
 ---
 story_id: ACT-04
-title: "Filippus en die Ethiopiër"
+title: Filippus en die Ethiopiër
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Hand. 8:26–40"
-must_include: ["Jesaja", "Jesus", "doop"]
-theology_centre: "Evangelie gaan uit"
+primary_passage: Hand. 8:26–40
+must_include:
+- Jesaja
+- Jesus
+- doop
+theology_centre: Evangelie gaan uit
 continuity_from: ACT-03
 continuity_to: ACT-05
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Hand. 8:26–40
+  passage_read: false
+  context_read: false
+  required_details:
+  - Jesaja
+  - Jesus
+  - doop
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Filippus en die Ethiopiër

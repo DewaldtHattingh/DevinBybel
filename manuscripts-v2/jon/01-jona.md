@@ -1,15 +1,34 @@
 ---
 story_id: JON-01
-title: "Jona"
+title: Jona
 section: jon
 pages: 6
-primary_passage: "Jonah 1–4"
+primary_passage: Jonah 1–4
 must_include:
-  - "Vlugg; storm; vis; Ninevé; plant; God se medelye"
-theology_centre: "God se genade vir vyande"
+- Vlugg; storm; vis; Ninevé; plant; God se medelye
+theology_centre: God se genade vir vyande
 continuity_from: ELS-01
 continuity_to: ISA-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Jonah 1–4
+  passage_read: false
+  context_read: false
+  required_details:
+  - Vlugg
+  - storm
+  - vis
+  - Ninevé
+  - plant
+  - God se medelye
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jona
@@ -70,6 +89,10 @@ Jona wou nie Ninevé red nie — maar die Here het medelye. Ninevé berou, en Jo
 ---
 
 ## Bladsy 6 — Geheue
+
+![Beeld: geheue](../../assets/images/JON-01-p6.png)
+
+> **Beeldnota:** Klein, rustige illustrasie; Ninevé in die verte; plant as geheue-teken.
 
 ### Wie was in hierdie verhaal?
 

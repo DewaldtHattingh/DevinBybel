@@ -1,15 +1,31 @@
 ---
 story_id: DAN-03
-title: "Daniël in die leeuikuil"
+title: Daniël in die leeuikuil
 section: dan
 pages: 6
-primary_passage: "Dan 6"
+primary_passage: Dan 6
 must_include:
-  - "Gebed; kuil; monde toe"
-theology_centre: "God beskerm; koning erken God"
+- Gebed; kuil; monde toe
+theology_centre: God beskerm; koning erken God
 continuity_from: DAN-02
 continuity_to: EST-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Dan 6
+  passage_read: false
+  context_read: false
+  required_details:
+  - Gebed
+  - kuil
+  - monde toe
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Daniël in die leeuikuil

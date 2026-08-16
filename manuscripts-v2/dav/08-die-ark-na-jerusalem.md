@@ -1,15 +1,31 @@
 ---
 story_id: DAV-08
-title: "Die ark na Jerusalem"
+title: Die ark na Jerusalem
 section: dav
 pages: 6
-primary_passage: "2 Sam 6:1–15"
+primary_passage: 2 Sam 6:1–15
 must_include:
-  - "Ark; eerbied; Dawid dans"
-theology_centre: "Blydskap voor die Here"
+- Ark; eerbied; Dawid dans
+theology_centre: Blydskap voor die Here
 continuity_from: DAV-07
 continuity_to: DAV-09
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: 2 Sam 6:1–15
+  passage_read: false
+  context_read: false
+  required_details:
+  - Ark
+  - eerbied
+  - Dawid dans
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die ark na Jerusalem

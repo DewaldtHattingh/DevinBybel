@@ -1,14 +1,34 @@
 ---
 story_id: REV-02
-title: "Die Lam wat waardig is"
+title: Die Lam wat waardig is
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Op. 5"
-must_include: ["seël", "Leeu/Lam", "nuwe lied"]
-theology_centre: "Lam is waardig"
+primary_passage: Op. 5
+must_include:
+- seël
+- Leeu/Lam
+- nuwe lied
+theology_centre: Lam is waardig
 continuity_from: REV-01
 continuity_to: REV-03
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Op. 5
+  passage_read: false
+  context_read: false
+  required_details:
+  - seël
+  - Leeu
+  - Lam
+  - nuwe lied
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die Lam wat waardig is

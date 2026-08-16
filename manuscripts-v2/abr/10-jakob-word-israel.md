@@ -1,19 +1,37 @@
 ---
 story_id: ABR-10
-title: "Jakob word Israel"
+title: Jakob word Israel
 section: abr
 pages: 6
-primary_passage: "Gen 32–33"
+primary_passage: Gen 32–33
 must_include:
-  - "Vrees"
-  - "Geskenke"
-  - "Worstel"
-  - "Nuwe naam"
-  - "Ontmoet Esau"
-theology_centre: "God verander mense"
+- Vrees
+- Geskenke
+- Worstel
+- Nuwe naam
+- Ontmoet Esau
+theology_centre: God verander mense
 continuity_from: ABR-09
 continuity_to: JOS-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 32–33
+  passage_read: false
+  context_read: false
+  required_details:
+  - Vrees
+  - Geskenke
+  - Worstel
+  - Nuwe naam
+  - Ontmoet Esau
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jakob word Israel

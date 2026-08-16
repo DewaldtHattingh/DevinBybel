@@ -1,18 +1,35 @@
 ---
 story_id: EXO-08
-title: "Die eerste Paasfees"
+title: Die eerste Paasfees
 section: exo
 pages: 6
-primary_passage: "Exod. 12:1–28"
+primary_passage: Exod. 12:1–28
 must_include:
-  - "Lam"
-  - "Bloed aan deurposte"
-  - "Ongesuurd brood"
-  - "Instruksies"
-theology_centre: "Bloed beteken redding"
+- Lam
+- Bloed aan deurposte
+- Ongesuurd brood
+- Instruksies
+theology_centre: Bloed beteken redding
 continuity_from: EXO-07
 continuity_to: EXO-09
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Exod. 12:1–28
+  passage_read: false
+  context_read: false
+  required_details:
+  - Lam
+  - Bloed aan deurposte
+  - Ongesuurd brood
+  - Instruksies
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die eerste Paasfees

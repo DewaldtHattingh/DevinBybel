@@ -1,18 +1,35 @@
 ---
 story_id: EXO-12
-title: "Deur die Rooi See"
+title: Deur die Rooi See
 section: exo
 pages: 6
-primary_passage: "Exod. 14:13–31"
+primary_passage: Exod. 14:13–31
 must_include:
-  - "See verdeel"
-  - "Deurgang"
-  - "Waters terug"
-  - "Vertroue"
-theology_centre: "Die Here red magtig"
+- See verdeel
+- Deurgang
+- Waters terug
+- Vertroue
+theology_centre: Die Here red magtig
 continuity_from: EXO-11
 continuity_to: EXO-13
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Exod. 14:13–31
+  passage_read: false
+  context_read: false
+  required_details:
+  - See verdeel
+  - Deurgang
+  - Waters terug
+  - Vertroue
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Deur die Rooi See

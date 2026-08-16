@@ -1,15 +1,31 @@
 ---
 story_id: JOSI-01
-title: "Josia vind die wetboek"
+title: Josia vind die wetboek
 section: josi
 pages: 6
-primary_passage: "2 Kgs 22:1–23:3"
+primary_passage: 2 Kgs 22:1–23:3
 must_include:
-  - "Boek; berou; verbond"
-theology_centre: "God se woord wek lewe"
+- Boek; berou; verbond
+theology_centre: God se woord wek lewe
 continuity_from: ISA-02
 continuity_to: JER-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: 2 Kgs 22:1–23:3
+  passage_read: false
+  context_read: false
+  required_details:
+  - Boek
+  - berou
+  - verbond
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Josia vind die wetboek

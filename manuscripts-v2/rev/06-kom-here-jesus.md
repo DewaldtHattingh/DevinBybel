@@ -1,14 +1,31 @@
 ---
 story_id: REV-06
-title: "Kom, Here Jesus"
+title: Kom, Here Jesus
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Op. 22:6–21"
-must_include: ["Gees en bruid sê kom", "genade"]
-theology_centre: "Maranata"
+primary_passage: Op. 22:6–21
+must_include:
+- Gees en bruid sê kom
+- genade
+theology_centre: Maranata
 continuity_from: REV-05
 continuity_to: null
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Op. 22:6–21
+  passage_read: false
+  context_read: false
+  required_details:
+  - Gees en bruid sê kom
+  - genade
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Kom, Here Jesus

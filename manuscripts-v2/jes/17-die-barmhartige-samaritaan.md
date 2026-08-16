@@ -1,14 +1,34 @@
 ---
 story_id: JES-17
-title: "Die barmhartige Samaritaan"
+title: Die barmhartige Samaritaan
 section: Jesus — geboorte en bediening
 pages: 6
-primary_passage: "Luk. 10:25–37"
-must_include: ["naaste", "priester/Leviet", "Samaritaan"]
-theology_centre: "Wie is my naaste?"
+primary_passage: Luk. 10:25–37
+must_include:
+- naaste
+- priester/Leviet
+- Samaritaan
+theology_centre: Wie is my naaste?
 continuity_from: JES-16
 continuity_to: JES-18
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Luk. 10:25–37
+  passage_read: false
+  context_read: false
+  required_details:
+  - naaste
+  - priester
+  - Leviet
+  - Samaritaan
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die barmhartige Samaritaan

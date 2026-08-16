@@ -1,0 +1,57 @@
+---
+description: Biblical accuracy is the highest priority for every manuscript change
+alwaysApply: true
+---
+
+# Biblical accuracy (highest priority)
+
+Before writing or modifying any story in `manuscripts-v2/`:
+
+1. Read the **complete** primary Bible passage assigned to the story.
+2. Read enough of the **preceding and following** passage to understand context.
+3. Build an internal checklist of: people; places; sequence; ages/numbers; important objects; actions; causes and consequences; statements explicitly attributed to God; important dialogue; theological meaning **arising from the passage**.
+
+Use AFR20 as primary authority (BibleSA chapter pages, or a **locally licensed** copy under `reference/` if legally present). **Do not reconstruct AFR20 quotations from memory.** If exact AFR20 text is unavailable, mark `AFR20_QUOTE_CHECK_REQUIRED` and do not invent quote wording.
+
+Do **not** copy large portions of AFR20 into manuscripts (copyright). Short memory-verse quotations only, with reference + translation identifier + verification status.
+
+## Statement categories
+
+Every narrative statement must be one of:
+
+- **A. SCRIPTURE FACT** — explicitly stated by the biblical text.
+- **B. SAFE NARRATIVE CONNECTION** — necessary connective language that does **not** add a new factual claim.
+- **C. UNSUPPORTED / INVENTED** — emotion, motive, dialogue, location, weather, time of day, physical detail, person, action or explanation **not** supported by Scripture.
+
+Category C must **not** appear in the finished story as biblical fact.
+
+## Never
+
+- invent dialogue and put it in quotation marks
+- invent emotions or thoughts
+- change biblical numbers
+- change chronology
+- remove uncomfortable events merely because the audience is young
+- turn violence into something that did not happen
+- introduce traditional details as biblical facts
+- borrow events from another passage without explicitly accounting for them
+- turn the lesson into generic moralism
+- omit details necessary to understand why later events happen
+- pad or repeat text to increase word count
+- merge two causal episodes to save a story slot
+
+**Child-friendly** means changing vocabulary and graphic explicitness, **not** changing the biblical event.
+
+Example: David killed Goliath and cut off his head. **Keep that fact.** The illustration does not need gore.
+
+## After every modification
+
+Perform a second **PASSAGE AUDIT**. Update the manuscript’s `scripture_audit` block (not printed in the book). Run:
+
+```bash
+python3 scripts/validate_manuscripts.py --path <file>
+```
+
+A story is not approved until `python3 scripts/validate_manuscripts.py --approved --path <file>` exits 0.
+
+See `docs/HOUSE-RULES.md`, `docs/CONTENT-PIPELINE.md`, and `docs/AFR20-AUDIT-PROTOCOL.md`.

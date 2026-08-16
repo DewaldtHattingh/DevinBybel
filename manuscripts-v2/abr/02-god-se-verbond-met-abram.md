@@ -1,18 +1,36 @@
 ---
 story_id: ABR-02
-title: "God se verbond met Abram"
+title: God se verbond met Abram
 section: abr
 pages: 6
-primary_passage: "Gen 15; 17:1–21"
+primary_passage: Gen 15; 17:1–21
 must_include:
-  - "Sterre"
-  - "Verbond"
-  - "Abraham/Sarah"
-  - "Isak beloof"
-theology_centre: "God se belofte is seker"
+- Sterre
+- Verbond
+- Abraham/Sarah
+- Isak beloof
+theology_centre: God se belofte is seker
 continuity_from: ABR-01
 continuity_to: ABR-03
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 15; 17:1–21
+  passage_read: false
+  context_read: false
+  required_details:
+  - Sterre
+  - Verbond
+  - Abraham
+  - Sarah
+  - Isak beloof
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # God se verbond met Abram

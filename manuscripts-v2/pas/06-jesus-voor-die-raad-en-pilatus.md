@@ -1,14 +1,33 @@
 ---
 story_id: PAS-06
-title: "Jesus voor die Raad en Pilatus"
+title: Jesus voor die Raad en Pilatus
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Matt. 26–27"
-must_include: ["vals getuies", "Barabbas", "skare"]
-theology_centre: "Onskuldige veroordeel"
+primary_passage: Matt. 26–27
+must_include:
+- vals getuies
+- Barabbas
+- skare
+theology_centre: Onskuldige veroordeel
 continuity_from: PAS-05
 continuity_to: PAS-07
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Matt. 26–27
+  passage_read: false
+  context_read: false
+  required_details:
+  - vals getuies
+  - Barabbas
+  - skare
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jesus voor die Raad en Pilatus

@@ -1,14 +1,35 @@
 ---
 story_id: JES-08
-title: "Johannes; Jesus se doop"
+title: Johannes; Jesus se doop
 section: Jesus — geboorte en bediening
 pages: 6
-primary_passage: "Matt. 3"
-must_include: ["bekeer", "doop", "Gees", "stem uit hemel"]
-theology_centre: "Vader bevestig die Seun"
+primary_passage: Matt. 3
+must_include:
+- bekeer
+- doop
+- Gees
+- stem uit hemel
+theology_centre: Vader bevestig die Seun
 continuity_from: JES-07
 continuity_to: JES-09
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Matt. 3
+  passage_read: false
+  context_read: false
+  required_details:
+  - bekeer
+  - doop
+  - Gees
+  - stem uit hemel
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Johannes; Jesus se doop

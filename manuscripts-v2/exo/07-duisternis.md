@@ -1,16 +1,31 @@
 ---
 story_id: EXO-07
-title: "Duisternis"
+title: Duisternis
 section: exo
 pages: 6
-primary_passage: "Exod. 10:21–29"
+primary_passage: Exod. 10:21–29
 must_include:
-  - "Drie dae duisternis"
-  - "Israel het lig"
-theology_centre: "God beheer selfs die lig"
+- Drie dae duisternis
+- Israel het lig
+theology_centre: God beheer selfs die lig
 continuity_from: EXO-06
 continuity_to: EXO-08
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Exod. 10:21–29
+  passage_read: false
+  context_read: false
+  required_details:
+  - Drie dae duisternis
+  - Israel het lig
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Duisternis

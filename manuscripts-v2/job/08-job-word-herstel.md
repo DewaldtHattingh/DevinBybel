@@ -1,18 +1,35 @@
 ---
 story_id: JOB-08
-title: "Job word herstel"
+title: Job word herstel
 section: job
 pages: 6
-primary_passage: "Job 42:10–17"
+primary_passage: Job 42:10–17
 must_include:
-  - "Gebed"
-  - "Herstel"
-  - "Nuwe kinders"
-  - "Volle lewe"
-theology_centre: "God se genade ná die ontmoeting"
+- Gebed
+- Herstel
+- Nuwe kinders
+- Volle lewe
+theology_centre: God se genade ná die ontmoeting
 continuity_from: JOB-07
 continuity_to: ABR-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Job 42:10–17
+  passage_read: false
+  context_read: false
+  required_details:
+  - Gebed
+  - Herstel
+  - Nuwe kinders
+  - Volle lewe
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Job word herstel

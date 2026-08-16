@@ -1,17 +1,33 @@
 ---
 story_id: EXO-13
-title: "Brood en water in die woestyn"
+title: Brood en water in die woestyn
 section: exo
 pages: 6
-primary_passage: "Exod. 16:1–35; 17:1–7"
+primary_passage: Exod. 16:1–35; 17:1–7
 must_include:
-  - "Manna"
-  - "Water uit rots"
-  - "Murmureer"
-theology_centre: "God voorsien"
+- Manna
+- Water uit rots
+- Murmureer
+theology_centre: God voorsien
 continuity_from: EXO-12
 continuity_to: EXO-14
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Exod. 16:1–35; 17:1–7
+  passage_read: false
+  context_read: false
+  required_details:
+  - Manna
+  - Water uit rots
+  - Murmureer
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Brood en water in die woestyn

@@ -1,16 +1,31 @@
 ---
 story_id: JOB-07
-title: "Job se vriende word teregwys"
+title: Job se vriende word teregwys
 section: job
 pages: 6
-primary_passage: "Job 42:7–9"
+primary_passage: Job 42:7–9
 must_include:
-  - "God berispe vriende"
-  - "Job bid vir hulle"
-theology_centre: "God korrigeer valse raad"
+- God berispe vriende
+- Job bid vir hulle
+theology_centre: God korrigeer valse raad
 continuity_from: JOB-06
 continuity_to: JOB-08
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Job 42:7–9
+  passage_read: false
+  context_read: false
+  required_details:
+  - God berispe vriende
+  - Job bid vir hulle
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Job se vriende word teregwys

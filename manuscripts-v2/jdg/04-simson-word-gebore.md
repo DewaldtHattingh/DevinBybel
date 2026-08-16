@@ -1,18 +1,35 @@
 ---
 story_id: SIM-01
-title: "Simson word gebore"
+title: Simson word gebore
 section: jdg
 pages: 6
-primary_passage: "Judg. 13"
+primary_passage: Judg. 13
 must_include:
-  - "Boodskapper"
-  - "Nasireër"
-  - "Geen skeermes"
-  - "Gees begin"
-theology_centre: "God roep voor geboorte"
+- Boodskapper
+- Nasireër
+- Geen skeermes
+- Gees begin
+theology_centre: God roep voor geboorte
 continuity_from: JDG-03
 continuity_to: SIM-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Judg. 13
+  passage_read: false
+  context_read: false
+  required_details:
+  - Boodskapper
+  - Nasireër
+  - Geen skeermes
+  - Gees begin
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Simson word gebore

@@ -1,17 +1,33 @@
 ---
 story_id: JOB-05
-title: "Job en sy vriende stry"
+title: Job en sy vriende stry
 section: job
 pages: 6
-primary_passage: "Job 3–37 (gekondenseer)"
+primary_passage: Job 3–37 (gekondenseer)
 must_include:
-  - "Job se klaag"
-  - "Vriende se jy moet gesondig het"
-  - "Sentrale meningsverskil"
-theology_centre: "Verkeerde teologie kan seermaak"
+- Job se klaag
+- Vriende se jy moet gesondig het
+- Sentrale meningsverskil
+theology_centre: Verkeerde teologie kan seermaak
 continuity_from: JOB-04
 continuity_to: JOB-06
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Job 3–37 (gekondenseer)
+  passage_read: false
+  context_read: false
+  required_details:
+  - Job se klaag
+  - Vriende se jy moet gesondig het
+  - Sentrale meningsverskil
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Job en sy vriende stry

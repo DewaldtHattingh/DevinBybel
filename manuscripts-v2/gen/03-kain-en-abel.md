@@ -1,20 +1,39 @@
 ---
 story_id: GEN-03
-title: "Kain en Abel"
+title: Kain en Abel
 section: gen
 pages: 6
-primary_passage: "Gen 4:1–16"
+primary_passage: Gen 4:1–16
 must_include:
-  - "Offers"
-  - "Kain se woede"
-  - "Waarskuwing"
-  - "Moord"
-  - "Waar is Abel?"
-  - "Merk"
-theology_centre: "Sonde groei; God sien"
+- Offers
+- Kain se woede
+- Waarskuwing
+- Moord
+- Waar is Abel?
+- Merk
+theology_centre: Sonde groei; God sien
 continuity_from: GEN-02
 continuity_to: GEN-04
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 4:1–16
+  passage_read: false
+  context_read: false
+  required_details:
+  - Offers
+  - Kain se woede
+  - Waarskuwing
+  - Moord
+  - Waar is Abel?
+  - Merk
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Kain en Abel

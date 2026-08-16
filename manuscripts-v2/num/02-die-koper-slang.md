@@ -1,18 +1,35 @@
 ---
 story_id: NUM-02
-title: "Die koper slang"
+title: Die koper slang
 section: num
 pages: 6
-primary_passage: "Num. 21:4–9"
+primary_passage: Num. 21:4–9
 must_include:
-  - "Kla"
-  - "Slange"
-  - "Koper slang"
-  - "Kyk en leef"
-theology_centre: "Redding deur op te kyk soos God sê"
+- Kla
+- Slange
+- Koper slang
+- Kyk en leef
+theology_centre: Redding deur op te kyk soos God sê
 continuity_from: NUM-01
 continuity_to: DEU-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Num. 21:4–9
+  passage_read: false
+  context_read: false
+  required_details:
+  - Kla
+  - Slange
+  - Koper slang
+  - Kyk en leef
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die koper slang

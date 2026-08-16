@@ -1,19 +1,37 @@
 ---
 story_id: ABR-05
-title: "Abraham en Isak op die berg"
+title: Abraham en Isak op die berg
 section: abr
 pages: 6
-primary_passage: "Gen 22:1–19"
+primary_passage: Gen 22:1–19
 must_include:
-  - "Toets"
-  - "Hout"
-  - "Altaar"
-  - "Ram"
-  - "Die Here sal voorsien"
-theology_centre: "God voorsien"
+- Toets
+- Hout
+- Altaar
+- Ram
+- Die Here sal voorsien
+theology_centre: God voorsien
 continuity_from: ABR-04
 continuity_to: ABR-06
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 22:1–19
+  passage_read: false
+  context_read: false
+  required_details:
+  - Toets
+  - Hout
+  - Altaar
+  - Ram
+  - Die Here sal voorsien
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Abraham en Isak op die berg

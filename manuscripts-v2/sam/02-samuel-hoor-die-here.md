@@ -1,15 +1,31 @@
 ---
 story_id: SAM-02
-title: "Samuel hoor die Here"
+title: Samuel hoor die Here
 section: sam
 pages: 6
-primary_passage: "1 Sam 3"
+primary_passage: 1 Sam 3
 must_include:
-  - "Lamp; Spreek Here; boodskap vir Eli"
-theology_centre: "God roep kinders"
+- Lamp; Spreek Here; boodskap vir Eli
+theology_centre: God roep kinders
 continuity_from: SAM-01
 continuity_to: SAM-03
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: 1 Sam 3
+  passage_read: false
+  context_read: false
+  required_details:
+  - Lamp
+  - Spreek Here
+  - boodskap vir Eli
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Samuel hoor die Here

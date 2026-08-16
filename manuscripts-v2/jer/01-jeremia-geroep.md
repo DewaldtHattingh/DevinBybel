@@ -1,15 +1,30 @@
 ---
 story_id: JER-01
-title: "Jeremia geroep"
+title: Jeremia geroep
 section: jer
 pages: 6
-primary_passage: "Jer 1:4–10"
+primary_passage: Jer 1:4–10
 must_include:
-  - "Roeping; kind-profeteer"
-theology_centre: "God ken voor geboorte"
+- Roeping; kind-profeteer
+theology_centre: God ken voor geboorte
 continuity_from: JOSI-01
 continuity_to: JER-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Jer 1:4–10
+  passage_read: false
+  context_read: false
+  required_details:
+  - Roeping
+  - kind-profeteer
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jeremia geroep

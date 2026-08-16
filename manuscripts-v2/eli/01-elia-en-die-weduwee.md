@@ -1,15 +1,33 @@
 ---
 story_id: ELI-01
-title: "Elia en die weduwee"
+title: Elia en die weduwee
 section: eli
 pages: 6
-primary_passage: "1 Kgs 17"
+primary_passage: 1 Kgs 17
 must_include:
-  - "Droogte; rawwe; meel/olie; seun opgewek"
-theology_centre: "God voorsien"
+- Droogte; rawwe; meel/olie; seun opgewek
+theology_centre: God voorsien
 continuity_from: KIN-01
 continuity_to: ELI-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: 1 Kgs 17
+  passage_read: false
+  context_read: false
+  required_details:
+  - Droogte
+  - rawwe
+  - meel
+  - olie
+  - seun opgewek
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Elia en die weduwee

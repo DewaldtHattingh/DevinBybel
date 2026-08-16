@@ -1,19 +1,37 @@
 ---
 story_id: JOS-01
-title: "Josef se drome; verkoop"
+title: Josef se drome; verkoop
 section: jos
 pages: 6
-primary_passage: "Gen 37"
+primary_passage: Gen 37
 must_include:
-  - "Mantel"
-  - "Drome"
-  - "Put"
-  - "Verkoop"
-  - "Bloedige mantel"
-theology_centre: "Jaloesie vernietig"
+- Mantel
+- Drome
+- Put
+- Verkoop
+- Bloedige mantel
+theology_centre: Jaloesie vernietig
 continuity_from: ABR-10
 continuity_to: JOS-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 37
+  passage_read: false
+  context_read: false
+  required_details:
+  - Mantel
+  - Drome
+  - Put
+  - Verkoop
+  - Bloedige mantel
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Josef se drome; verkoop

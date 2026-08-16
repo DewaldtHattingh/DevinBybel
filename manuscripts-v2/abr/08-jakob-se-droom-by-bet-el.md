@@ -1,19 +1,37 @@
 ---
 story_id: ABR-08
-title: "Jakob se droom by Bet-El"
+title: Jakob se droom by Bet-El
 section: abr
 pages: 6
-primary_passage: "Gen 28:10–22"
+primary_passage: Gen 28:10–22
 must_include:
-  - "Steen"
-  - "Leer"
-  - "Engele"
-  - "Belofte"
-  - "Bet-El"
-theology_centre: "God is by die vlugteling"
+- Steen
+- Leer
+- Engele
+- Belofte
+- Bet-El
+theology_centre: God is by die vlugteling
 continuity_from: ABR-07
 continuity_to: ABR-09
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 28:10–22
+  passage_read: false
+  context_read: false
+  required_details:
+  - Steen
+  - Leer
+  - Engele
+  - Belofte
+  - Bet-El
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jakob se droom by Bet-El

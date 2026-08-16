@@ -1,15 +1,31 @@
 ---
 story_id: ISA-02
-title: "Jesaja se hoop op die Kind"
+title: Jesaja se hoop op die Kind
 section: isa
 pages: 6
-primary_passage: "Isa 7:14; 9:1–7; 53:1–6"
+primary_passage: Isa 7:14; 9:1–7; 53:1–6
 must_include:
-  - "Kind/koning; kneg wat ly"
-theology_centre: "Messiaanse hoop"
+- Kind/koning; kneg wat ly
+theology_centre: Messiaanse hoop
 continuity_from: ISA-01
 continuity_to: JOSI-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Isa 7:14; 9:1–7; 53:1–6
+  passage_read: false
+  context_read: false
+  required_details:
+  - Kind
+  - koning
+  - kneg wat ly
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Jesaja se hoop op die Kind

@@ -1,19 +1,37 @@
 ---
 story_id: GEN-06
-title: "Die toring van Babel"
+title: Die toring van Babel
 section: gen
 pages: 6
-primary_passage: "Gen 11:1–9"
+primary_passage: Gen 11:1–9
 must_include:
-  - "Een taal"
-  - "Toring"
-  - "Naam maak"
-  - "Verwar"
-  - "Verstrooi"
-theology_centre: "Menslike trots vs God"
+- Een taal
+- Toring
+- Naam maak
+- Verwar
+- Verstrooi
+theology_centre: Menslike trots vs God
 continuity_from: GEN-05
 continuity_to: JOB-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 11:1–9
+  passage_read: false
+  context_read: false
+  required_details:
+  - Een taal
+  - Toring
+  - Naam maak
+  - Verwar
+  - Verstrooi
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Die toring van Babel

@@ -1,15 +1,31 @@
 ---
 story_id: DAN-01
-title: "Daniël se vriende bly getrou"
+title: Daniël se vriende bly getrou
 section: dan
 pages: 6
-primary_passage: "Dan 1"
+primary_passage: Dan 1
 must_include:
-  - "Kos; name; trou"
-theology_centre: "Getrouheid in vreemde land"
+- Kos; name; trou
+theology_centre: Getrouheid in vreemde land
 continuity_from: JER-02
 continuity_to: DAN-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Dan 1
+  passage_read: false
+  context_read: false
+  required_details:
+  - Kos
+  - name
+  - trou
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Daniël se vriende bly getrou

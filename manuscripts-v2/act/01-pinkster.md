@@ -1,14 +1,36 @@
 ---
 story_id: ACT-01
-title: "Pinkster"
+title: Pinkster
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Hand. 2"
-must_include: ["wind/vuur", "tale", "Petrus", "~3000"]
-theology_centre: "Gees gegee"
+primary_passage: Hand. 2
+must_include:
+- wind/vuur
+- tale
+- Petrus
+- ~3000
+theology_centre: Gees gegee
 continuity_from: PAS-13
 continuity_to: ACT-02
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Hand. 2
+  passage_read: false
+  context_read: false
+  required_details:
+  - wind
+  - vuur
+  - tale
+  - Petrus
+  - ~3000
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Pinkster

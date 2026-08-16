@@ -1,18 +1,35 @@
 ---
 story_id: JOB-02
-title: "Satan daag Job uit"
+title: Satan daag Job uit
 section: job
 pages: 6
-primary_passage: "Job 1:6–22"
+primary_passage: Job 1:6–22
 must_include:
-  - "Hemelse gesprek"
-  - "Limiete"
-  - "Katastrofale verliese"
-  - "Job vloek God nie"
-theology_centre: "God se soewereiniteit; Job se integriteit"
+- Hemelse gesprek
+- Limiete
+- Katastrofale verliese
+- Job vloek God nie
+theology_centre: God se soewereiniteit; Job se integriteit
 continuity_from: JOB-01
 continuity_to: JOB-03
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Job 1:6–22
+  passage_read: false
+  context_read: false
+  required_details:
+  - Hemelse gesprek
+  - Limiete
+  - Katastrofale verliese
+  - Job vloek God nie
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Satan daag Job uit

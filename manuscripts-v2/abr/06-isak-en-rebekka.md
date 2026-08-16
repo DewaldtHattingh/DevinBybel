@@ -1,18 +1,35 @@
 ---
 story_id: ABR-06
-title: "Isak en Rebekka"
+title: Isak en Rebekka
 section: abr
 pages: 6
-primary_passage: "Gen 24"
+primary_passage: Gen 24
 must_include:
-  - "Dienskneg"
-  - "Gebed by put"
-  - "Kamele"
-  - "Toestemming"
-theology_centre: "God lei"
+- Dienskneg
+- Gebed by put
+- Kamele
+- Toestemming
+theology_centre: God lei
 continuity_from: ABR-05
 continuity_to: ABR-07
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 24
+  passage_read: false
+  context_read: false
+  required_details:
+  - Dienskneg
+  - Gebed by put
+  - Kamele
+  - Toestemming
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Isak en Rebekka

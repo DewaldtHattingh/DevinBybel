@@ -1,17 +1,33 @@
 ---
 story_id: EXO-06
-title: "Hael en sprinkane"
+title: Hael en sprinkane
 section: exo
 pages: 6
-primary_passage: "Exod. 9:13–10:20"
+primary_passage: Exod. 9:13–10:20
 must_include:
-  - "Plae 7–8"
-  - "Hael"
-  - "Sprinkane"
-theology_centre: "God se mag oor skepping"
+- Plae 7–8
+- Hael
+- Sprinkane
+theology_centre: God se mag oor skepping
 continuity_from: EXO-05
 continuity_to: EXO-07
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Exod. 9:13–10:20
+  passage_read: false
+  context_read: false
+  required_details:
+  - Plae 7–8
+  - Hael
+  - Sprinkane
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Hael en sprinkane

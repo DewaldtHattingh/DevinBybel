@@ -1,15 +1,30 @@
 ---
 story_id: DAV-07
-title: "Dawid word koning"
+title: Dawid word koning
 section: dav
 pages: 6
-primary_passage: "2 Sam 2:1–4; 5:1–12"
+primary_passage: 2 Sam 2:1–4; 5:1–12
 must_include:
-  - "Juda dan heel Israel; Jerusalem"
-theology_centre: "God verhoog"
+- Juda dan heel Israel; Jerusalem
+theology_centre: God verhoog
 continuity_from: DAV-06
 continuity_to: DAV-08
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: 2 Sam 2:1–4; 5:1–12
+  passage_read: false
+  context_read: false
+  required_details:
+  - Juda dan heel Israel
+  - Jerusalem
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Dawid word koning

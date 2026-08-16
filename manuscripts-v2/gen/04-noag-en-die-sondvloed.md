@@ -1,20 +1,39 @@
 ---
 story_id: GEN-04
-title: "Noag en die sondvloed"
+title: Noag en die sondvloed
 section: gen
 pages: 6
-primary_passage: "Gen 6:5–8:19"
+primary_passage: Gen 6:5–8:19
 must_include:
-  - "Boosheid"
-  - "Noag vind guns"
-  - "Ark"
-  - "Diere"
-  - "Vloed"
-  - "God onthou Noag"
-theology_centre: "Oordeel en redding"
+- Boosheid
+- Noag vind guns
+- Ark
+- Diere
+- Vloed
+- God onthou Noag
+theology_centre: Oordeel en redding
 continuity_from: GEN-03
 continuity_to: GEN-05
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Gen 6:5–8:19
+  passage_read: false
+  context_read: false
+  required_details:
+  - Boosheid
+  - Noag vind guns
+  - Ark
+  - Diere
+  - Vloed
+  - God onthou Noag
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Noag en die sondvloed

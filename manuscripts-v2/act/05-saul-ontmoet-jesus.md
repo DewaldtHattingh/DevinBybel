@@ -1,14 +1,33 @@
 ---
 story_id: ACT-05
-title: "Saul ontmoet Jesus"
+title: Saul ontmoet Jesus
 section: Lyde, opstanding, kerk, Openbaring
 pages: 6
-primary_passage: "Hand. 9"
-must_include: ["lig", "Waarom vervolg jy My?", "Ananias"]
-theology_centre: "Vyand word dienaar"
+primary_passage: Hand. 9
+must_include:
+- lig
+- Waarom vervolg jy My?
+- Ananias
+theology_centre: Vyand word dienaar
 continuity_from: ACT-04
 continuity_to: ACT-06
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Hand. 9
+  passage_read: false
+  context_read: false
+  required_details:
+  - lig
+  - Waarom vervolg jy My?
+  - Ananias
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Saul ontmoet Jesus

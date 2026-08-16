@@ -1,18 +1,35 @@
 ---
 story_id: JSH-03
-title: "Ai en Agan"
+title: Ai en Agan
 section: jsh
 pages: 6
-primary_passage: "Josh. 7"
+primary_passage: Josh. 7
 must_include:
-  - "Ai verslaan eerste keer"
-  - "Agan se sonde"
-  - "Babiloniese mantel, silwer, goud"
-  - "Sonde uit die kamp"
-theology_centre: "Sonde in die kamp"
+- Ai verslaan eerste keer
+- Agan se sonde
+- Babiloniese mantel, silwer, goud
+- Sonde uit die kamp
+theology_centre: Sonde in die kamp
 continuity_from: JSH-02
 continuity_to: JDG-01
-afr20_quote_check: verified
+afr20_quote_check: pending
+scripture_audit:
+  primary_passage: Josh. 7
+  passage_read: false
+  context_read: false
+  required_details:
+  - Ai verslaan eerste keer
+  - Agan se sonde
+  - Babiloniese mantel, silwer, goud
+  - Sonde uit die kamp
+  unsupported_details: []
+  chronology_check: pending
+  people_check: pending
+  numbers_check: pending
+  theology_check: pending
+  direct_quotes_verified: false
+  afr20_quote_check: pending
+  audit_status: needs_v3_repass
 ---
 
 # Ai en Agan
