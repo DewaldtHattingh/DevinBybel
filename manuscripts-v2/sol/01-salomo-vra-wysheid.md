@@ -9,7 +9,7 @@ must_include:
 theology_centre: "Wysheid van God"
 continuity_from: DAV-10
 continuity_to: SOL-02
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Salomo vra wysheid
@@ -18,6 +18,7 @@ afr20_quote_check: pending
 **Verhaal-ID:** SOL-01
 
 ## Bladsy 1 — Opening
+
 ![Beeld: opening](../../assets/images/SOL-01-p1.png)
 
 > **Beeldnota:** Jong Salomo by altaar in Gibeon; nag; Here verskyn in droom.
@@ -26,55 +27,47 @@ afr20_quote_check: pending
 
 Salomo het koning geword nadat Dawid gesterf het. Hy het offers gebring in Gibeon. Die Here het in 'n droom gepraat: Vra wat jy wil. Salomo het in Gibeon offers gebring — die Here het hom in 'n droom verskyn.
 
-Salomo het in Gibeon offers gebring — die Here het hom in 'n droom verskyn.
 ---
 
 ## Bladsy 2 — Probleem
+
 ![Beeld: probleem](../../assets/images/SOL-01-p2.png)
 
 > **Beeldnota:** Salomo kniel; groot volk om hom.
 
 Die Here het gesê: Vra wat jy wil hê. Salomo kon geld of lange lewe of vyande se dood gevra het. Maar hy het iets anders gevra: Gee u dienaar 'n verstandige hart om u volk te regverdig — want wie kan so 'n groot volk regeer?
 
-Salomo kon rykdom of lange lewe gevra het. Hy het gevra: Gee 'n verstandige hart om u volk te regverdig — wie kan so 'n groot volk regeer? Die Here het gevra: Wat moet Ek jou gee? Salomo het nie rykdom of lank lewe gevra nie.
-
 Die Here het gevra: Wat moet Ek jou gee? Salomo het nie rykdom of lank lewe gevra nie.
 ---
 
 ## Bladsy 3 — Stygende aksie
+
 ![Beeld: stygende-aksie](../../assets/images/SOL-01-p3.png)
 
 > **Beeldnota:** Here se lig; Salomo se gesig rustig.
 
 Die Here was bly met Salomo se versoek. Hy het gesê: Ek sal jou wysheid en verstand gee soos geen koning voor jou gehad het nie. Salomo het nie vir homself gerede wysheid gevra nie — hy wou die volk regverdig regeer.
 
-Die Here was bly. Hy het wysheid en verstand gegee soos geen koning voor Salomo gehad het nie. Hy het gesê: Gee u dienaar 'n verstandige hart om u volk te regverdig.
-
-Hy het gesê: Gee u dienaar 'n verstandige hart om u volk te regverdig.
 ---
 
 ## Bladsy 4 — Hoofdraai
+
 ![Beeld: hoofdraai](../../assets/images/SOL-01-p4.png)
 
 > **Beeldnota:** Twee vroue met een lewende baba; Salomo op troon.
 
-Twee vroue het na Salomo gekom. Albei het gesê die lewende baba is hare. Salomo het gesê: Bring 'n swaard — sny die kind in twee, dan kan elkeen 'n helfte neem.
-
 Twee vroue het met een lewende baba gekom. Albei het gesê: Hy is myne. Salomo het gesê: Bring 'n swaard — sny die kind in twee. Die Here was tevrede — Hy het Salomo wysheid gegee en ook rykdom en eer.
 
-Die Here was tevrede — Hy het Salomo wysheid gegee en ook rykdom en eer.
 ---
 
 ## Bladsy 5 — Ontknoping
+
 ![Beeld: ontknoping](../../assets/images/SOL-01-p5.png)
 
 > **Beeldnota:** Eerste vrou roep nee; Salomo wys na haar; gee baba.
 
-Die een vrou het geskreeu: Gee haar die lewende kind! Moenie doodmaak nie! Salomo het geweet: Sy is die regte ma — 'n ma beskerm haar kind. Hy het die baba aan haar gegee. Israel het gehoor en geweet: God se wysheid is in hierdie koning.
-
 Salomo het nie vir homself gerede wysheid gevra nie — hy wou die volk dien. Die Here het dit gegee, en die volk het gesien: hier is 'n koning met God se wysheid. Twee vroue het na Salomo gekom — elkeen het gesê die lewende kind is haarne. Salomo het geweet watter ma die kind sou spaar. Salomo het nie rykdom gevra nie — die Here het sy wysheid verheerlik voor Israel.
 
-Twee vroue het na Salomo gekom — elkeen het gesê die lewende kind is haarne. Salomo het geweet watter ma die kind sou spaar. Salomo het nie rykdom gevra nie — die Here het sy wysheid verheerlik voor Israel.
 ---
 
 ## Bladsy 6 — Geheue
@@ -95,7 +88,7 @@ Salomo het wysheid gevra om die volk te dien — die Here het dit gegee, en die 
 
 ### Vers om te onthou
 
-"Gee u dienaar 'n verstandige hart om u volk te regverdig." — 1 Konings 3:9. 〔AFR20-kontrole〕
+"Gee u dienaar 'n verstandige hart om u volk te regverdig." — 1 Konings 3:9. 
 
 ### Onthou jy?
 

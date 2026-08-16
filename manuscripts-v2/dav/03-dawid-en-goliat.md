@@ -9,7 +9,7 @@ must_include:
 theology_centre: "Die stryd behoort aan die Here"
 continuity_from: DAV-02
 continuity_to: DAV-04
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Dawid en Goliat
@@ -23,7 +23,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Wye Ela-vallei; Israel en Filistyne op teenoorgestelde hellings; jong Dawid kom met kos.
 
-**Een dag, lank, lank gelede,** het Israel en die Filistyne teenoor mekaar in die Ela-vallei kamp opgeslaan. Koning Saul en sy soldate was gereed vir oorlog. Dawid was nog 'n jong skaapwagter. Sy pa, Isai, het hom gestuur om kos na sy ouer broers in die leër te neem en te hoor hoe dit met hulle gaan. Toe Dawid by die kamp aankom, het hy 'n geweldige stem uit die Filistyne se linies gehoor.
+**Een dag, lank, lank gelede,** het Israel en die Filistyne teenoor mekaar in die Ela-vallei kamp opgeslaan. Koning Saul en sy soldate was gereed vir oorlog. Dawid was nog 'n jong skaapwagter. Sy pa, Isai, het hom gestuur met geroosterde graan, brode en kaas na sy ouer broers in die leër — en om te hoor hoe dit met hulle gaan. Toe Dawid by die kamp aankom, het hy 'n geweldige stem uit die Filistyne se linies gehoor.
 
 ---
 
@@ -43,7 +43,7 @@ Die stem het aan Goliat behoort, 'n groot Filistynse vegter uit Gat. Dag ná dag
 
 > **Beeldnota:** Dawid praat met Saul; klein vinjettes van leeu en beer by die trop.
 
-Dawid het vir Saul gesê dat niemand moedeloos hoef te wees nie; hy sou teen Goliat gaan veg. Saul het geantwoord dat Dawid nog jonk was, terwyl Goliat lank reeds 'n vegter was. Toe vertel Dawid iets belangriks. Wanneer 'n leeu of 'n beer 'n lam uit sy pa se trop weggeruk het, het Dawid agternagesit, die dier aangeval en die lam gered. As die dier hom aanval, het Dawid dit oorweldig en doodgemaak. Die Here wat hom van die leeu en die beer gered het, sou hom ook van Goliat red.
+Dawid het vir Saul gesê dat niemand moedeloos hoef te wees nie; hy sou teen Goliat gaan veg. Saul het geantwoord dat Dawid nog jonk was, terwyl Goliat lank reeds 'n vegter was. Toe vertel Dawid iets belangriks. Wanneer 'n leeu of 'n beer 'n lam uit die trop wegdra, het Dawid agternagesit, die dier by die kaak gegryp en die lam gered. As die dier hom aanval, het Dawid dit platgeslaan en doodgemaak. Die Here wat hom van die leeu en die beer gered het, sou hom ook van Goliat red.
 
 ---
 
@@ -65,7 +65,7 @@ Saul het Dawid sy eie wapenrusting laat aantrek, maar Dawid kon nie gemaklik daa
 
 Goliat het nader gekom. Dawid het vinnig na die gevegslinie gehardloop, sy hand in sy sak gesteek en een klip uitgehaal. Hy het die klip met sy slingervel gegooi. Dit tref Goliat teen die voorkop, en die groot vegter val met sy gesig op die grond. Dawid het hom met 'n slingervel en 'n klip verslaan; hy het geen swaard in sy hand gehad nie. Daarna het Dawid Goliat se eie swaard uit die skede getrek, hom daarmee doodgemaak en sy kop afgekap. Toe die Filistyne sien dat hulle held dood was, het hulle gevlug.
 
-Die Israeliete het opgestaan en die vlugtende Filistyne agternagesit. Dawid se oorwinning het nie begin by die klip in sy hand nie. Lank voordat hy voor Goliat gestaan het, het hy geleer dat die Here hom kon red. Daarom het Dawid nie op 'n swaard of 'n groot wapen vertrou nie, maar op die lewende God.
+Die Israeliete het opgestaan en die vlugtende Filistyne agternagesit. Dawid het nie op sy eie krag vertrou nie — hy het op die lewende God vertrou wat hom reeds van die leeu en die beer gered het.
 
 ---
 
@@ -88,7 +88,7 @@ Dawid het onthou dat die Here hom reeds gehelp het. Daarom het hy die Here weer 
 
 ### Vers om te onthou
 
-"Die oorlog behoort aan die Here." — 1 Samuel 17:47. 〔AFR20-kontrole〕
+"Die oorlog behoort aan die Here." — 1 Samuel 17:47. 
 
 ### Onthou jy?
 

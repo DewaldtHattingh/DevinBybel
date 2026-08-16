@@ -9,7 +9,7 @@ must_include:
 theology_centre: "God kyk na die hart"
 continuity_from: SAM-04
 continuity_to: DAV-02
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Dawid word gesalf
@@ -18,6 +18,7 @@ afr20_quote_check: pending
 **Verhaal-ID:** DAV-01
 
 ## Bladsy 1 — Opening
+
 ![Beeld: opening](../../assets/images/DAV-01-p1.png)
 
 > **Beeldnota:** Samuel op pad na Betlehem; sak met olie; Jesse se huis in verte.
@@ -26,55 +27,48 @@ afr20_quote_check: pending
 
 Samuel het gevrees Saul sal hom doodmaak as hy 'n nuwe koning gesalf. Die Here het gesê: Neem 'n kalf en sê jy kom offer. Die Here het vir Samuel gesê: Moenie op die uiterlike kyk nie — Ek kyk na die hart.
 
-Die Here het vir Samuel gesê: Moenie op die uiterlike kyk nie — Ek kyk na die hart.
 ---
 
 ## Bladsy 2 — Probleem
+
 ![Beeld: probleem](../../assets/images/DAV-01-p2.png)
 
 > **Beeldnota:** Isai se seuns staan in ry; Samuel kyk.
 
 Isai het sy seuns laat voor Samuel loop. Eliab was groot en sterk. Samuel het gedink: Sekerlik is hy die Here se gesalfde. Maar die Here het gesê: Moenie op sy voorkoms kyk nie — Ek het hom verwerp. Die Here kyk na die hart, nie net na wat die oë sien nie.
 
-Isai het sewe seuns laat verbyloop. Eliab was groot en mooi. Die Here het gesê: Moenie op voorkoms kyk nie — Ek het hom verwerp. Die Here kyk na die hart. Isai het sewe seuns laat voor Samuel loop, maar die Here het geen van hulle gekies nie.
-
 Isai het sewe seuns laat voor Samuel loop, maar die Here het geen van hulle gekies nie.
 ---
 
 ## Bladsy 3 — Stygende aksie
+
 ![Beeld: stygende-aksie](../../assets/images/DAV-01-p3.png)
 
 > **Beeldnota:** Sewe seuns verby; Samuel vra: Is daar nog iemand?
 
 Een vir een het Isai se seuns verbygeloop. Samuel het gesê: Die Here het nie hierdie een gekies nie. Sewe seuns het verbygegaan. Samuel het gevra: Is hier al die seuns? Isai het gesê: Daar is nog die kleinste — hy kyk die skape.
 
-Sewe seuns het verbygegaan. Samuel het gevra: Is hier al die seuns? Isai het gesê: Nog die kleinste — hy kyk die skape. Dawid was die jongste en het die skape op die veld gewaak.
-
-Dawid was die jongste en het die skape op die veld gewaak.
 ---
 
 ## Bladsy 4 — Hoofdraai
+
 ![Beeld: hoofdraai](../../assets/images/DAV-01-p4.png)
 
 > **Beeldnota:** Dawid kom van veld af; Samuel glimlag.
 
 Dawid het ingekom. Hy was rooikop, met mooi oë. Die Here het vir Samuel gesê: Staan op — dit is hy. Samuel het olie op Dawid se kop gegiet in die midde van sy broers.
 
-Dawid het ingekom van die veld af — rooikop, met mooi oë. Die Here het gesê: Staan op, salf hom. Samuel het olie op sy kop gegiet voor sy broers. Samuel het olie uit sy horn geneem en Dawid in die midde van sy broers gesalf.
-
 Samuel het olie uit sy horn geneem en Dawid in die midde van sy broers gesalf.
 ---
 
 ## Bladsy 5 — Ontknoping
+
 ![Beeld: ontknoping](../../assets/images/DAV-01-p5.png)
 
 > **Beeldnota:** Dawid met harp; Gees soos ligte wind; skape in agtergrond.
 
-Van daardie dag af het die Gees van die Here Dawid kragtig aangedryf. Dawid het nog skape opgepas, maar die Here het hom reeds as koning gekies. Saul was nog koning, maar Dawid se hart het die Here behaag.
-
 Saul was nog koning op aarde, maar Dawid was reeds die Here se gesalfde. Dawid het teruggegaan na die skape en gewag op die Here se tyd — met 'n hart wat die Here behaag het. Die Gees van die Here het Dawid van daardie dag af kragtig op hom gekom. Die Here het nie na die grootste of sterkste gekyk nie — Hy het Dawid se hart gekies.
 
-Die Gees van die Here het Dawid van daardie dag af kragtig op hom gekom. Die Here het nie na die grootste of sterkste gekyk nie — Hy het Dawid se hart gekies.
 ---
 
 ## Bladsy 6 — Geheue
@@ -96,7 +90,7 @@ Die Here kies nie altyd die grootste of sterkste nie — Hy sien die hart, en Hy
 
 ### Vers om te onthou
 
-"Die Here sien nie soos 'n mens sien nie — die mens kyk na die voorkoms, maar die Here kyk na die hart." — 1 Samuel 16:7. 〔AFR20-kontrole〕
+"Die Here sien nie soos 'n mens sien nie — die mens kyk na die voorkoms, maar die Here kyk na die hart." — 1 Samuel 16:7. 
 
 ### Onthou jy?
 

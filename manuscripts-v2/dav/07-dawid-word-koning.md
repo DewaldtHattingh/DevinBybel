@@ -9,7 +9,7 @@ must_include:
 theology_centre: "God verhoog"
 continuity_from: DAV-06
 continuity_to: DAV-08
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Dawid word koning
@@ -18,65 +18,57 @@ afr20_quote_check: pending
 **Verhaal-ID:** DAV-07
 
 ## Bladsy 1 — Opening
+
 ![Beeld: opening](../../assets/images/DAV-07-p1.png)
 
 > **Beeldnota:** Dawid vra die Here; kaart van Juda; Hebron in agtergrond.
 
 **Een dag, lank, lank gelede,** nadat Saul en Jonatan in 'n stryd gesterf het, het Dawid die Here gevra: Moet ek na een van die stede van Juda gaan? Die Here het gesê: Gaan na Hebron. Dawid se familie en sy manne het saam met hom gegaan.
 
-Saul en Jonatan het in 'n stryd gesterf. Dawid het die Here gevra: Gaan na Hebron? Die Here het ja gesê. Dawid en sy manne het daarheen gegaan.
-
 Dawid het nie haastig gegaan om koning te word nie. Hy het gewag op die Here se tyd terwyl Saul nog geleef het. Dawid het eers koning oor Juda in Hebron geword — sewe jaar en ses maande.
 
-Dawid het eers koning oor Juda in Hebron geword — sewe jaar en ses maande.
 ---
 
 ## Bladsy 2 — Probleem
+
 ![Beeld: probleem](../../assets/images/DAV-07-p2.png)
 
 > **Beeldnota:** Manne van Juda kom; olie; Dawid kniel — net oor Juda.
 
 Die manne van Juda het Dawid na Hebron toe kom gesalf as koning — maar net oor Juda. Saul se seun het nog koning gewees oor ander dele. Dawid het lank gewag. Hy het nie Saul se huis haastig vernietig nie.
 
-Manne van Juda het Dawid gesalf — net oor Juda. Saul se seun was nog koning oor ander dele. Dawid het lank gewag en nie Saul se huis haastig vernietig nie. Al die stamme van Israel het by Hebron gekom en Dawid as koning oor al Israel aangestel.
-
 Al die stamme van Israel het by Hebron gekom en Dawid as koning oor al Israel aangestel.
 ---
 
 ## Bladsy 3 — Stygende aksie
+
 ![Beeld: stygende-aksie](../../assets/images/DAV-07-p3.png)
 
 > **Beeldnota:** Ouers van Israel kom; twaalf stamme verteenwoordig.
 
 Later het al die stamme van Israel na Dawid toe gekom. Hulle het gesê: Ons is jou vlees en bloed. Die Here het gesê jy sal my volk weid. Al Israel het Dawid as koning erken — sewe jaar in Hebron, toe al twaalf stamme.
 
-Later het al twaalf stamme Dawid erken. Hulle het gesê: Ons is jou vlees en bloed. Jy sal ons weid soos 'n herder. Die Jebusiete het Jerusalem bespot en gesê Dawid kan nie inkom nie.
-
-Die Jebusiete het Jerusalem bespot en gesê Dawid kan nie inkom nie.
 ---
 
 ## Bladsy 4 — Hoofdraai
+
 ![Beeld: hoofdraai](../../assets/images/DAV-07-p4.png)
 
 > **Beeldnota:** Dawid kyk na Jerusalem op heuwel; plan.
 
-Dawid het Jerusalem ingeneem — die stad wat Jebusiete gehou het. Hy het dit die City of Dawid genoem. Jerusalem het in die middel van Israel gelê — 'n goeie plek vir die koning se troon.
-
-Dawid het Jerusalem ingeneem van die Jebusiete. Hy het dit die City of Dawid genoem — 'n goeie plek vir die koning se troon. Dawid het Jerusalem ingeneem en dit die stad van Dawid genoem.
+Dawid het Jerusalem ingeneem — die stad wat Jebusiete gehou het. Hy het dit die stad van Dawid genoem. Jerusalem het in die middel van Israel gelê — 'n goeie plek vir die koning se troon.
 
 Dawid het Jerusalem ingeneem en dit die stad van Dawid genoem.
 ---
 
 ## Bladsy 5 — Ontknoping
+
 ![Beeld: ontknoping](../../assets/images/DAV-07-p5.png)
 
 > **Beeldnota:** Dawid op troon in Jerusalem; mense juig.
 
-Dawid het al hoe sterker geword, want die Here die God van leërs was met hom. Hy was koning oor Israel en Juda. Jerusalem het die stad van die koning geword.
-
 Dawid het nie haastig gegaan nie. Hy het gewag tot al Israel hom erken het. Toe die Here hom bevestig het, was Jerusalem sy stad — en die Here was by hom. Hiram, koning van Tyrus, het hout en werkmanne gestuur — die Here het Dawid se koningskap bevestig. Jerusalem het Dawid se stad geword — die Here het sy belofte aan Dawid begin vervul.
 
-Hiram, koning van Tyrus, het hout en werkmanne gestuur — die Here het Dawid se koningskap bevestig. Jerusalem het Dawid se stad geword — die Here het sy belofte aan Dawid begin vervul.
 ---
 
 ## Bladsy 6 — Geheue
@@ -87,7 +79,7 @@ Hiram, koning van Tyrus, het hout en werkmanne gestuur — die Here het Dawid se
 
 ### Wie was in hierdie verhaal?
 
-- **Dawid** — Man wat eers koning van Juda, toe van gelyk Israel geword het.
+- **Dawid** — Man wat eers koning van Juda, toe van heel Israel geword het.
 - **Die Here** — Hy het Dawid gelei na Hebron en was met hom in Jerusalem.
 - **Israel en Juda** — Twaalf stamme wat uiteindelik Dawid erken het.
 
@@ -97,7 +89,7 @@ Dawid het lank gewag op die Here se tyd; toe hy koning was, was die Here met hom
 
 ### Vers om te onthou
 
-"Die Here was met Dawid." — 2 Samuel 5:10. 〔AFR20-kontrole〕
+"Die Here was met Dawid." — 2 Samuel 5:10. 
 
 ### Onthou jy?
 

@@ -9,7 +9,7 @@ must_include:
 theology_centre: "God het planne selfs in ballingskap"
 continuity_from: JER-01
 continuity_to: DAN-01
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jeremia en die ballingskap
@@ -18,71 +18,55 @@ afr20_quote_check: pending
 **Verhaal-ID:** JER-02
 
 ## Bladsy 1 — Opening
+
 ![Beeld: opening](../../assets/images/JER-02-p1.png)
 
 > **Beeldnota:** Jeremia roep in strate; mense ignoreer; tempel agter.
 
 **Een dag, lank, lank gelede,** het Jeremia die profeet vir Israel gewaarsku. Hy het gesê: As julle nie luister nie, sal Jerusalem val. Die mense het nie geluister nie. Hulle het vals profete prefer wat gesê het: Vrede, vrede — terwyl daar geen vrede was nie.
 
-Jeremia waarsku: As julle nie luister nie, val Jerusalem. Mense luister nie — hulle prefer vals profete.
-
 Hy waarsku Jerusalem: keer om, anders val die stad. Mense luister liefs na leugprofete. Jeremia het Israel gewaarsku: As julle nie terugkeer na die Here nie, sal julle sewentig jaar in ballingskap wees.
 
-Jeremia het Israel gewaarsku: As julle nie terugkeer na die Here nie, sal julle sewentig jaar in ballingskap wees.
 ---
 
 ## Bladsy 2 — Probleem
+
 ![Beeld: probleem](../../assets/images/JER-02-p2.png)
 
 > **Beeldnota:** Babiloniese leër; mure; ballinge op pad.
 
 Jeremia het voorspel: Sewentig jaar sal hierdie land woestyn wees. Babel se koning sal julle wegvoer. Dit het gebeur — Jerusalem is verwoes, en die volk is na Babel toe weggevoer.
 
-Babel se leër kom. Sewentig jaar ballingskap. Jerusalem val — soos Jeremia gesê het.
-
-Babel kom. Sewentig jaar weg. Jerusalem val. Nebukadnesar het Jerusalem en die tempel verwoes — baie mense is na Babel weggevoer.
-
-Nebukadnesar het Jerusalem en die tempel verwoes — baie mense is na Babel weggevoer.
 ---
 
 ## Bladsy 3 — Stygende aksie
+
 ![Beeld: stygende-aksie](../../assets/images/JER-02-p3.png)
 
 > **Beeldnota:** Jeremia skryf brief; boodskapper na Babel; ballings luister.
 
 Jeremia het 'n brief na die ballings in Babel gestuur. Hy het nie gesê: rebelleer nou nie. Hy het gesê: Bou huise, plant tuine, bid vir die stad waar julle is. Die Here sê: Ek dink gedagtes van vrede aan julle, nie van onheil nie.
 
-Jeremia stuur 'n brief: Bou huise, plant tuine, bid vir die stad. Ek dink gedagtes van vrede aan julle.
-
-Uit Babel stuur hy 'n brief: bou, plant, bid. Ek dink gedagtes van vrede aan julle. Jeremia het 'n brief na die ballinge in Babel gestuur — moenie luister na valse profete nie.
-
-Jeremia het 'n brief na die ballinge in Babel gestuur — moenie luister na valse profete nie.
 ---
 
 ## Bladsy 4 — Hoofdraai
+
 ![Beeld: hoofdraai](../../assets/images/JER-02-p4.png)
 
 > **Beeldnota:** Ballings met brief; hoop in oë; sterre bo.
 
 Jeremia het belowe: Na sewentig jaar sal Ek julle terugbring. Julle sal na My soek en My vind. Selfs in ballingskap het die Here planne gehad — planne om julle te laat floreer, nie om julle te breek nie.
 
-Na sewentig jaar bring Ek julle terug. Julle sal My soek en My vind. Hoop in ballingskap.
-
-Die Here was naby — al het dit nie dadelik so gevoel nie. Hy het geskryf: Soek die vrede van die stad waarheen Ek julle weggevoer het.
-
-Hy het geskryf: Soek die vrede van die stad waarheen Ek julle weggevoer het.
 ---
 
 ## Bladsy 5 — Ontknoping
+
 ![Beeld: ontknoping](../../assets/images/JER-02-p5.png)
 
 > **Beeldnota:** Ballings met brief; verre pad; stilte maar hoop.
 
-Jeremia waarsku en bring ook hoop. Selfs in Babel skryf hy: die Here dink gedagtes van vrede. Ballingskap is nie die einde nie — die Here onthou sy beloftes.
-
 Na sewentig jaar bring Ek julle terug. Soek My — julle sal My vind. Hoop in ballingskap. Hy het ook hoop gebring: Ek het planne van vrede vir julle — nie van onheil nie. Ek sal julle terugbring. Selfs in ballingskap het die Here planne van vrede gehad — Hy vergeet sy volk nie.
 
-Hy het ook hoop gebring: Ek het planne van vrede vir julle — nie van onheil nie. Ek sal julle terugbring. Selfs in ballingskap het die Here planne van vrede gehad — Hy vergeet sy volk nie.
 ---
 
 ## Bladsy 6 — Geheue
@@ -103,7 +87,7 @@ Jeremia het gewaarsku vir sonde, maar ook hoop gebring: die Here dink gedagtes v
 
 ### Vers om te onthou
 
-"Ek dink gedagtes van vrede aan julle en nie van onheil nie." — Jeremia 29:11. 〔AFR20-kontrole〕
+"Ek dink gedagtes van vrede aan julle en nie van onheil nie." — Jeremia 29:11. 
 
 ### Onthou jy?
 

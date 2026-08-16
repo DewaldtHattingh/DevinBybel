@@ -9,7 +9,7 @@ must_include:
 theology_centre: "Moed; voorsienigheid"
 continuity_from: EST-01
 continuity_to: EZR-01
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Ester waag dit vir haar volk
@@ -18,73 +18,55 @@ afr20_quote_check: pending
 **Verhaal-ID:** EST-02
 
 ## Bladsy 1 — Opening
+
 ![Beeld: opening](../../assets/images/EST-02-p1.png)
 
 > **Beeldnota:** Haman wys na Jode; Mordegai kniel nie; koning luister.
 
 **Een dag, lank, lank gelede,** was Haman 'n hoë amptenaar by die koning. Almal moes voor Haman buig. Mordegai, Ester se oom, het nie gebuk nie — hy dien net die Here. Haman was kwaad en wou Mordegai en al die Jode vernietig.
 
-Haman is hoog amptenaar. Almal moet buig. Mordegai buig nie — net die Here dien hy.
-
 Haman haat Mordegai. Hy maak 'n plan om alle Jode te vernietig. Haman was die koning se hoogste amptenaar — almal moes voor hom buig, maar Mordegai het nie gebuig nie.
 
-Haman was die koning se hoogste amptenaar — almal moes voor hom buig, maar Mordegai het nie gebuig nie.
 ---
 
 ## Bladsy 2 — Probleem
+
 ![Beeld: probleem](../../assets/images/EST-02-p2.png)
 
 > **Beeldnota:** Haman en koning; decreet; Mordegai in rou.
 
-Haman het die koning oortuig om al die Jode op een dag te vernietig. Mordegai het rou geklee en gehuil. Hy het vir Ester gestuur: Gaan na die koning en vra vir jou volk.
-
-Haman maak plan om alle Jode te vernietig. Mordegai in rou. Gaan na die koning, Ester!
-
 En weet jy wat toe gebeur het? Die moeilikheid het groter geword voordat die Here help. Haman het 'n plan gemaak om al die Jode in die ryk te vernietig — die koning het dit goedgekeur.
 
-Haman het 'n plan gemaak om al die Jode in die ryk te vernietig — die koning het dit goedgekeur.
 ---
 
 ## Bladsy 3 — Stygende aksie
+
 ![Beeld: stygende-aksie](../../assets/images/EST-02-p3.png)
 
 > **Beeldnota:** Mordegai en Ester praat; vas; Jode bid.
 
 Mordegai het vir Ester gesê: Wie weet of jy nie juis vir so 'n tyd as koningin gekom het nie? Ester het geantwoord: Gaan vas — ek en my diensmeisies sal ook vas. Dan sal ek na die koning toe gaan, al is dit teen die wet.
 
-Mordegai sê: Wie weet of jy nie vir so 'n tyd as koningin gekom het nie? Ester sê: Gaan vas — ek sal ook vas.
-
-Ester en die Jode vas en bid voordat sy na die koning gaan. Mordegai het Ester laat weet: Wie weet of jy nie vir so 'n tyd as koningin gekom het nie?
-
-Mordegai het Ester laat weet: Wie weet of jy nie vir so 'n tyd as koningin gekom het nie?
 ---
 
 ## Bladsy 4 — Hoofdraai
+
 ![Beeld: hoofdraai](../../assets/images/EST-02-p4.png)
 
 > **Beeldnota:** Ester voor koning; koning strek septer; Haman wag.
 
 Ester het twee maaltye vir die koning en Haman gereël. By die tweede maaltyd het sy vertel: Haman wil my volk vernietig. Ek en my volk sal vernietig word. Die koning was woedend op Haman.
 
-Ester vertel die koning van Haman se plan. Haman wil haar volk vernietig.
-
-Die koning was woed. Haman se plan is ontmasker. Ester het gevra dat die Jode drie dae vas en bid — dan sou sy na die koning gaan, al was dit teen die wet.
-
-Ester het gevra dat die Jode drie dae vas en bid — dan sou sy na die koning gaan, al was dit teen die wet.
 ---
 
 ## Bladsy 5 — Ontknoping
+
 ![Beeld: ontknoping](../../assets/images/EST-02-p5.png)
 
 > **Beeldnota:** Jode juig; Haman weg; nuwe wet — Jode mag verdedig.
 
-Haman se plan het op homself teruggekom. Die Jode het die reg gekry om hulleself te verdedig. Op die dag wat vir hulle vernietiging bedoel was, het hulle oorwinning gekry. Ester het haar volk gered — die Here het deur haar gewerk.
-
-Haman se plan keer op hom. Jode mag verdedig. Ester red haar volk — die Here werk deur haar.
-
 Ester was koningin vir so 'n tyd. Deur vas, moed en wysheid red sy haar volk. Die koning het Ester se lewe gespaar — Haman is opgeregt en Mordegai is verhoog. Die Jode is gered. Ester het haar lewe gewaag — die Here het sy volk deur haar gered.
 
-Die koning het Ester se lewe gespaar — Haman is opgeregt en Mordegai is verhoog. Die Jode is gered. Ester het haar lewe gewaag — die Here het sy volk deur haar gered.
 ---
 
 ## Bladsy 6 — Geheue
@@ -105,7 +87,7 @@ Ester was koningin vir so 'n tyd — deur vas en moed het die Here die Jode gere
 
 ### Vers om te onthou
 
-"Wie weet of jy nie juis vir so 'n tyd as koningin gekom het nie?" — Ester 4:14. 〔AFR20-kontrole〕
+"Wie weet of jy nie juis vir so 'n tyd as koningin gekom het nie?" — Ester 4:14. 
 
 ### Onthou jy?
 

@@ -9,7 +9,7 @@ must_include:
 theology_centre: "God bring terug"
 continuity_from: EST-02
 continuity_to: NEH-01
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Terugkeer uit ballingskap
@@ -18,6 +18,7 @@ afr20_quote_check: pending
 **Verhaal-ID:** EZR-01
 
 ## Bladsy 1 — Opening
+
 ![Beeld: opening](../../assets/images/EZR-01-p1.png)
 
 > **Beeldnota:** Persiese koning Cyrus; decreet; kaart van Babel na Jerusalem.
@@ -26,22 +27,20 @@ afr20_quote_check: pending
 
 Mense het hulle sakke gepak en die lang pad huis toe geloop. Sommige het in Babel gebly, maar duisende het gekies om te gaan. Oupa's en oumas het stadig geloop; kinders het langs hulle geloop. Die Here het nie sy volk vergeet nie — Hy het hulle huis toe gelei. Kores, koning van Persië, het 'n bevel uitgegaan: Wie van julle wil, mag teruggaan na Jerusalem.
 
-Kores, koning van Persië, het 'n bevel uitgegaan: Wie van julle wil, mag teruggaan na Jerusalem.
 ---
 
 ## Bladsy 2 — Probleem
+
 ![Beeld: probleem](../../assets/images/EZR-01-p2.png)
 
 > **Beeldnota:** Jerusalem verwoes; mure gebroke; ballings kyk hartseer.
 
 Toe die ballings in Jerusalem aankom, het hulle verwoesting gesien. Die tempel was afgebreek. Die mure was gebroke. Stof en klippe lê oral. Sommige ouer mense het hard gehuil — hulle het die eerste tempel onthou en alles wat verlore is. Jong mense het ook gejuig, want vir hulle was dit 'n nuwe begin op die heuwel van die Here.
 
-Trane en blydskap was deur mekaar. Dit was nie net hartseer nie — dit was ook die dag waarop die Here sy belofte begin vervul het. Hy het die tempel-toerusting teruggegee wat Nebukadnesar weggevoer het — silwer, goud en die goed van die tempel.
-
-Hy het die tempel-toerusting teruggegee wat Nebukadnesar weggevoer het — silwer, goud en die goed van die tempel.
 ---
 
 ## Bladsy 3 — Stygende aksie
+
 ![Beeld: stygende-aksie](../../assets/images/EZR-01-p3.png)
 
 > **Beeldnota:** Altaar herbou; offers; priesters dien.
@@ -52,27 +51,23 @@ Zerubbabel het die eerste groep teruggeleid — hulle het die altaar op die ou p
 ---
 
 ## Bladsy 4 — Hoofdraai
+
 ![Beeld: hoofdraai](../../assets/images/EZR-01-p4.png)
 
 > **Beeldnota:** Tempelfondament gelê; klippe op mekaar; tromme en fluite.
 
 Later het hulle die tempel se fondament gelê. Klippe is op klippe gesit — die begin van 'n nuwe huis vir die Here. Priesters in hulle mantels het getrom het. Fluite het gespeel. Jonge mense het hard gejuig. Ouer mense het hard gehuil — trane van hartseer én van blydskap.
 
-Niemand kon die twee gevoelens mooi uitmekaar hou nie. Dit klink vreemd, maar dit was reg — hulle was tuis, en die Here was naby. Hulle het offers gebring — die tempel-fondasie is gelê, maar die werk het stadig gegaan.
-
-Hulle het offers gebring — die tempel-fondasie is gelê, maar die werk het stadig gegaan.
 ---
 
 ## Bladsy 5 — Ontknoping
+
 ![Beeld: ontknoping](../../assets/images/EZR-01-p5.png)
 
 > **Beeldnota:** Menigte; trane en lag; son op fondament.
 
 Die Here het sy volk teruggebring soos Hy beloof het. Die fondament was gelê — 'n begin van nuwe hoop na ballingskap. Jerusalem was nog nie klaar nie, maar die Here se volk was weer tuis. Hulle het geleerd: selfs na lank wegwees, vergeet die Here sy beloftes nie.
 
-Die altaar, die fondament, en trane en juig saam — die herbou het regtig begin. Toe die fondasie klaar was, het sommige gehuil van vreugde en ander van hartseer — die Here was by hulle.
-
-Toe die fondasie klaar was, het sommige gehuil van vreugde en ander van hartseer — die Here was by hulle.
 ---
 
 ## Bladsy 6 — Geheue
@@ -93,7 +88,7 @@ Die Here het sy volk teruggebring soos Hy beloof het — hulle het gehuil en gej
 
 ### Vers om te onthou
 
-"Die Here het die gees van koning Cyrus beweeg." — Esra 1:1. 〔AFR20-kontrole〕
+"Die Here het die gees van koning Cyrus beweeg." — Esra 1:1. 
 
 ### Onthou jy?
 

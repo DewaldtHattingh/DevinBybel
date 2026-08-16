@@ -9,7 +9,7 @@ must_include:
 theology_centre: "God plaas mense"
 continuity_from: DAN-03
 continuity_to: EST-02
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Ester word koningin
@@ -18,6 +18,7 @@ afr20_quote_check: pending
 **Verhaal-ID:** EST-01
 
 ## Bladsy 1 — Opening
+
 ![Beeld: opening](../../assets/images/EST-01-p1.png)
 
 > **Beeldnota:** Persië; paleis; koning op troon; feestyd.
@@ -26,61 +27,46 @@ afr20_quote_check: pending
 
 Jode woon in Persië, ver van Jerusalem. Koningin Vashti weier om te kom. Die koning is kwaad. Koning Ahasveros het 'n groot fees gehou — hy het koningin Vashti laat roep, maar sy het nie gekom nie.
 
-Koning Ahasveros het 'n groot fees gehou — hy het koningin Vashti laat roep, maar sy het nie gekom nie.
 ---
 
 ## Bladsy 2 — Probleem
+
 ![Beeld: probleem](../../assets/images/EST-01-p2.png)
 
 > **Beeldnota:** Koning soek nuwe koningin; jong meisies kom na paleis.
 
 Die koning se amptenare het gesê: Soek mooi jong meisies vir die koning. Ester — 'n jong Joodse meisie — het by haar oom Mordegai gebly. Haar pa en ma was dood. Mordegai het haar as sy eie dogter grootgemaak.
 
-Soek mooi jong meisies. Ester by oom Mordegai — Joodse meisie in Persië.
-
-Ester is mooi en vriendelik. Mordegai het haar na die paleis gebring. Vashti is verwyder — jong meisies uit die hele ryk is na die paleis gebring.
-
-Vashti is verwyder — jong meisies uit die hele ryk is na die paleis gebring.
 ---
 
 ## Bladsy 3 — Stygende aksie
+
 ![Beeld: stygende-aksie](../../assets/images/EST-01-p3.png)
 
 > **Beeldnota:** Ester in paleis; ander meisies; Mordegai wag buite.
 
 Ester het nie haar volk vertel nie — Mordegai het haar gesê om stil te bly. Die Here het Ester gunste gegee in die oë van almal. Sy het die beste plek en kos gekry. Al die meisies is na die koning gebring, maar Ester het nie gevra vir enigiets buiten wat Hegai haar gee nie.
 
-Ester vertel nie haar volk nie. Die Here gee haar gunste. Sy vra nie vir ekstra goed nie.
-
-Mordegai sit elke dag by die poort om te hoor hoe dit met Ester gaan. Ester, 'n Joodse meisie wat by Mordegai grootgeword het, het ook gegaan — sy het haar volk nie verraai nie.
-
-Ester, 'n Joodse meisie wat by Mordegai grootgeword het, het ook gegaan — sy het haar volk nie verraai nie.
 ---
 
 ## Bladsy 4 — Hoofdraai
+
 ![Beeld: hoofdraai](../../assets/images/EST-01-p4.png)
 
 > **Beeldnota:** Ester voor koning; kroon; koning glimlag.
 
 Die koning het Ester liefgehad bo al die ander meisies. Hy het die kroon op haar gesit en haar koningin gemaak. Mordegai het 'n fees gemaak en al die Jode was bly.
 
-Die koning maak Ester koningin. Mordegai is bly. Ester is koningin — maar verberg nog haar volk.
-
-Die Here was naby — al het dit nie dadelik so gevoel nie. Ester het gunste gevind by die koning — hy het haar bo alle ander vroue verkies.
-
-Ester het gunste gevind by die koning — hy het haar bo alle ander vroue verkies.
 ---
 
 ## Bladsy 5 — Ontknoping
+
 ![Beeld: ontknoping](../../assets/images/EST-01-p5.png)
 
 > **Beeldnota:** Ester as koningin; Mordegai by poort; stil hoop.
 
-Ester was koningin in Persië — ver van Jerusalem, maar die Here het haar daar geplaas. Mordegai het elke dag by die poort gesit. Niemand het geweet Ester is 'n Jood — maar die Here het haar op die regte plek geplaas.
-
 Ester is koningin. Die Here plaas mense op plekke waar hulle later nodig kan wees. Mordegai het by die poort gewaak — Ester het nie haar Joodse afkoms bekend gemaak nie, soos Mordegai gesê het. Ester was koningin — die Here het haar op daardie plek gebring vir 'n rede wat sy nog nie geweet het nie.
 
-Mordegai het by die poort gewaak — Ester het nie haar Joodse afkoms bekend gemaak nie, soos Mordegai gesê het. Ester was koningin — die Here het haar op daardie plek gebring vir 'n rede wat sy nog nie geweet het nie.
 ---
 
 ## Bladsy 6 — Geheue
@@ -101,7 +87,7 @@ Die Here plaas mense op plekke waar hulle nodig is — Ester word koningin, al i
 
 ### Vers om te onthou
 
-"Ester het nie haar volk en haar familie vertel nie." — Ester 2:10. 〔AFR20-kontrole〕
+"Ester het nie haar volk en haar familie vertel nie." — Ester 2:10. 
 
 ### Onthou jy?
 
