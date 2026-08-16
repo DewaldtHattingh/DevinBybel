@@ -1,6 +1,6 @@
 # Master Scripture Coverage Matrix (v2)
 
-**Status:** DRAFT for approval — **story writing frozen** until this map is locked.  
+**Status:** LOCKED for v2 writing — story count emerges from this map (~153 episodes).  
 **Rule:** The episode list emerges from Scripture. There is **no hard target** of 127 (or any other number).  
 **Unit:** one memorable causal episode per story. Dense material becomes consecutive stories, never cramped omission.
 

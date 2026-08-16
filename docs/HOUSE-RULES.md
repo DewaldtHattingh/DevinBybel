@@ -18,10 +18,10 @@
 
 Layered Afrikaans read-aloud story Bible for ages ~2–8: simple enough for a toddler via pictures and rhythm; accurate enough that a seven- or eight-year-old still learns real names, places, causes and consequences.
 
-## Writing freeze until matrix lock
+## Manuscript locations
 
-**Do not draft new finished stories until the master coverage matrix is approved.**  
-Existing manuscripts under `manuscripts/` are **Draft v1** against the old 127-cap plan. They may be reused, split, or rewritten after the new matrix is locked.
+- **v2 (canonical):** `manuscripts-v2/<section>/` using matrix IDs (`GEN-01`, `JOB-02`, …)
+- **v1 (legacy):** `manuscripts/volume-0X/` — reusable only; do not treat as final
 
 ## Per-story architecture
 

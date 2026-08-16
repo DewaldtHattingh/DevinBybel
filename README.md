@@ -5,24 +5,27 @@ Afrikaans layered read-aloud story Bible for ages ~2–8.
 **Mission:** Psalm 78:4 — tell the next generation the LORD’s deeds.  
 **Anker:** God is getrou.
 
-## Current phase
+## Canonical manuscripts (v2)
 
-**Coverage-matrix lock (v2)** — story writing is frozen until the master map is approved.
+**150 episodes** written from the coverage matrix (no hard 127 cap).
 
-| Doc | Purpose |
-|-----|---------|
-| [`docs/PROJECT-DIRECTION.md`](docs/PROJECT-DIRECTION.md) | Editorial decisions |
+| Path | Content |
+|------|---------|
+| [`manuscripts-v2/`](manuscripts-v2/) | Full series by section (`gen/`, `job/`, `exo/`, … `rev/`) |
+| [`docs/STORY-INDEX-V2.md`](docs/STORY-INDEX-V2.md) | Complete ID → file index |
+| [`docs/COVERAGE-MATRIX.md`](docs/COVERAGE-MATRIX.md) | Master episode map |
 | [`docs/HOUSE-RULES.md`](docs/HOUSE-RULES.md) | Constitutional writing rules |
-| [`docs/COVERAGE-MATRIX.md`](docs/COVERAGE-MATRIX.md) | Full-Bible episode map (no hard story count) |
-| [`docs/MANUSCRIPT-STATUS.md`](docs/MANUSCRIPT-STATUS.md) | Draft v1 vs v2 status |
 
-## Draft v1 manuscripts (legacy)
+## Highlights vs old plan
 
-`manuscripts/volume-01` … `volume-05` — **127** stories from the old plan. Reusable raw material; will be split/rewritten to match v2 (especially Job + plagues).
+- **Job** = 8 stories (JOB-01…08), not one  
+- **Plae** = split EXO-04…EXO-12 (not “ten plagues” in one unit)  
+- Story count = **150** from Scripture coverage  
 
-## Non-negotiables
+## Legacy
 
-1. Biblical facts fixed; storytelling flexible; theology from the passage.  
-2. Never drop a biblical fact because it is hard — adapt explanation/illustration only.  
-3. Completeness > round numbers.  
-4. One causal episode per bedtime unit.
+`manuscripts/volume-01` … `volume-05` — Draft v1 (127). Keep for reference only.
+
+## Download
+
+`DevinBybel-full-v2.zip` at repo root (when present).

@@ -1,27 +1,20 @@
 # Manuscript status
 
-## Draft v1 (frozen against old plan)
+## Canonical: v2 — COMPLETE
 
-Location: `manuscripts/volume-01` … `volume-05`  
-Count: **127 stories** written under the old hard-127 coverage matrix.
+- **Location:** `manuscripts-v2/`
+- **Count:** 150 episodes (matches locked coverage matrix IDs)
+- **Index:** [`STORY-INDEX-V2.md`](STORY-INDEX-V2.md)
 
-These files remain in the repo as **reusable drafts**. They are **not** the locked series.
+## Legacy: Draft v1
 
-## Draft v2 (current blueprint)
+- **Location:** `manuscripts/volume-01` … `volume-05`
+- **Count:** 127 (old hard-cap plan)
+- **Use:** reference / comparison only
 
-| Doc | Role |
-|-----|------|
-| [`HOUSE-RULES.md`](HOUSE-RULES.md) | Constitutional rules, B/C/Q tags, bedtime ritual |
-| [`COVERAGE-MATRIX.md`](COVERAGE-MATRIX.md) | Full-Bible episode map (~153+, no hard cap) |
-| [`PROJECT-DIRECTION.md`](PROJECT-DIRECTION.md) | Editorial decisions from the research review |
+## Still open (production)
 
-**No new finished stories until the v2 matrix is approved.**
-
-## Expected migration hotspots
-
-| Draft v1 | v2 action |
-|----------|-----------|
-| `volume-01/07-job-se-beproewing.md` | Split → JOB-01…08 |
-| `volume-02/04-die-tien-plae.md` | Split → EXO-04…EXO-09 (+ leave/chase units) |
-| Compressed prophet/Acts units | Expand per matrix if needed |
-| Strong units (e.g. Dawid & Goliat sample quality) | Keep / lightly edit to new IDs |
+1. AFR20 word-for-word verse verification (`〔AFR20-kontrole〕`)
+2. Illustration pass from Beeldnotas
+3. Word/PDF layout
+4. Optional read-aloud timing with Devin
