@@ -51,9 +51,7 @@ Saul het 'n bose gees gehad wat hom pla. Dawid is na die hof geroep om harp te s
 
 > **Beeldnota:** Leeu spring na skaap; Dawid hardloop; sterk aksie sonder bloed.
 
-'n Leeu het gekom en 'n skaap weggeneem. Dawid het agter die leeu aangehardloop. Hy het die skaap uit die leeu se bek gered. Toe die leeu op hom afgekom het, het Dawid hom doodgemaak.
-
-'n Leeu het gekom en 'n skaap weggeneem. Dawid het agter die leeu aangehardloop, die skaap gered, en die leeu doodgemaak toe hy aanval.
+'n Leeu het gekom en ’n skaap weggeneem. Dawid het agter die leeu aangehardloop. Hy het die skaap uit die leeu se bek gered. Toe die leeu op hom afgekom het, het Dawid hom doodgemaak.
 
 ---
 
@@ -63,9 +61,7 @@ Saul het 'n bose gees gehad wat hom pla. Dawid is na die hof geroep om harp te s
 
 > **Beeldnota:** Beer kom uit bos; Dawid beskerm skape; selfvertroue in die Here.
 
-'n Beer het ook gekom en skape aangeval. Dawid het dieselfde gedoen — hy het die skaap gered en die beer doodgemaak. Hy het nie net op sy eie krag vertrou nie.
-
-'n Beer het ook skape aangeval. Dawid het dieselfde gedoen — gered en die roofdier doodgemaak. Hy het op die Here vertrou, nie net op sy eie hande nie. Die Here was naby — al het dit nie dadelik so gevoel nie.
+'n Beer het ook gekom en skape aangeval. Dawid het dieselfde gedoen — hy het die skaap gered en die beer doodgemaak. Hy het nie net op sy eie krag vertrou nie, maar op die Here.
 
 ---
 
@@ -75,7 +71,7 @@ Saul het 'n bose gees gehad wat hom pla. Dawid is na die hof geroep om harp te s
 
 > **Beeldnota:** Dawid staan tussen skape; kyk op na hemel; stil dankbaarheid.
 
-Dawid het later vertel: Die Here wat my uit die leeu se klou en uit die beer se klou gered het — Hy sal my help. Dawid het die Here die eer gegee vir elke redding. Die skape was veilig, en Dawid het geleer dat die Here hom deliver.
+Dawid het later vertel: Die Here wat my uit die leeu se klou en uit die beer se klou gered het — Hy sal my help. Dawid het die Here die eer gegee vir elke redding. Die skape was veilig, en Dawid het geleer dat die Here hom red.
 
 Dawid het later gesê: Die Here wat my uit die leeu se klou en uit die beer se klou gered het — Hy sal my help. Dawid het die Here die eer gegee vir elke redding. Dit is belangrik setup vir Goliat later.
 

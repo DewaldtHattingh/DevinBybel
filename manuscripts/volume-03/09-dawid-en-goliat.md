@@ -9,7 +9,7 @@ must_include:
 deferred_to: ["V03-10"]
 continuity_from: "V03-08"
 continuity_to: "V03-10"
-theology_centre: "The battle belongs to the Lord; trusts the Lord who delivered before"
+theology_centre: "Die oorlog behoort aan die Here; Dawid vertrou die Here wat hom vroeër gered het"
 violence_note: "beheading in narration; Beeldnota non-graphic"
 afr20_quote_check: pending
 ---
@@ -25,11 +25,9 @@ afr20_quote_check: pending
 
 ![Beeld: opening](../../assets/images/V03-09-p1.png)
 
-> **Beeldnota:** Elah-vallei; twee leërs op heuwels; reus Goliat staan in middel.
+> **Beeldnota:** Wye Ela-vallei; Israel en Filistyne op teenoorgestelde hellings; jong Dawid kom met kos; Goliat veraf maar dominant.
 
-**Een dag, lank, lank gelede,** het Israel en Filistia se leërs in die Elah-vallei teenoor mekaar gestaan. Elke dag het 'n Filistynse reus, Goliat, uitgeroep: Stuur iemand om teen my te veg! As hy wen, sal ons julle dienaars wees. Israel was bang.
-
-Goliat was 'n reuse van meer as twee meter. Elke dag het hy uitgeroep: Stuur iemand om teen my te veg! Israel was bang — niemand wou gaan nie.
+**Een dag, lank, lank gelede,** het Israel en die Filistyne teenoor mekaar in die Ela-vallei kamp opgeslaan. Koning Saul en sy soldate was gereed vir oorlog. Dawid was nog ’n jong skaapwagter. Sy pa, Isai, het hom gestuur om kos na sy ouer broers in die leër te neem en te hoor hoe dit met hulle gaan. Toe Dawid by die kamp aankom, het hy ’n geweldige stem uit die Filistyne se linies gehoor.
 
 ---
 
@@ -37,11 +35,9 @@ Goliat was 'n reuse van meer as twee meter. Elke dag het hy uitgeroep: Stuur iem
 
 ![Beeld: probleem](../../assets/images/V03-09-p2.png)
 
-> **Beeldnota:** Saul en soldate skuil; Dawid kom met kos vir broers; Goliat skreeu.
+> **Beeldnota:** Goliat daag uit; Israelitiese soldate bang; Dawid luister eerder as heldhaftig poseer.
 
-Dawid het broers kom voed terwyl hulle in Saul se leër was. Hy het Goliat hoor skreeu en gevra: Wie is hy dat hy die leër van die lewende God uitdaag? Saul het Dawid na hom laat roep. Dawid het vertel: Toe 'n leeu en 'n beer my pa se skape vat het, het die Here my gered. Hy sal ook hierdie Filistyn oorgee.
-
-Dawid het broers kom voed. Hy het Goliat hoor skreeu en gevra: Wie is hy dat hy die leër van die lewende God uitdaag? By Saul het Dawid vertel: Toe 'n leeu en 'n beer my pa se skape vat het, het die Here my gered.
+Die stem het aan Goliat behoort, ’n groot Filistynse vegter uit Gat. Dag ná dag het hy Israel uitgedaag om een man te stuur om teen hom te veg. Toe Saul en die Israeliete hom hoor, was hulle bang. Maar Dawid het gehoor hoe Goliat die leër van die lewende God bespot. Hy het begin vra wat met die man sou gebeur wat hierdie Filistyn verslaan. Uiteindelik is Dawid se woorde aan koning Saul vertel, en Saul het hom laat haal.
 
 ---
 
@@ -49,11 +45,9 @@ Dawid het broers kom voed. Hy het Goliat hoor skreeu en gevra: Wie is hy dat hy 
 
 ![Beeld: stygende-aksie](../../assets/images/V03-09-p3.png)
 
-> **Beeldnota:** Saul se harnas op Dawid — te groot; Dawid skud kop; neem harnas af.
+> **Beeldnota:** Dawid praat met Saul; twee klein geheue-vinjette van leeu en beer by die trop — nie opsionele versiering nie.
 
-Saul wou Dawid sy harnas gee, maar Dawid kon nie daarmee loop nie. Hy het dit afgegooi. Hy het sy stok, sy sling en vyf gladde klippies uit die beek gekies. So het hy na Goliat toe gegaan.
-
-Saul wou sy harnas gee, maar Dawid kon nie daarmee loop nie. Hy het dit afgegooi en vyf gladde klippies uit die beek gekies, met stok en sling.
+Dawid het vir Saul gesê dat niemand moedeloos hoef te wees nie; hy sou teen Goliat gaan veg. Saul het geantwoord dat Dawid nog jonk was, terwyl Goliat lank reeds ’n vegter was. Toe vertel Dawid iets belangriks. Wanneer ’n leeu of ’n beer ’n lam uit sy pa se trop weggeruk het, het Dawid agternagesit, die dier aangeval en die lam gered. As die dier hom aanval, het Dawid dit oorweldig en doodgemaak. Die Here wat hom van die leeu en die beer gered het, sou hom ook van Goliat red.
 
 ---
 
@@ -61,11 +55,9 @@ Saul wou sy harnas gee, maar Dawid kon nie daarmee loop nie. Hy het dit afgegooi
 
 ![Beeld: hoofdraai](../../assets/images/V03-09-p4.png)
 
-> **Beeldnota:** Dawid swing sling; klippie in lug; Goliat val agteroor — geen bloed.
+> **Beeldnota:** Dawid trek Saul se te groot wapenrusting uit; vyf duidelik telbare klippe; slingervel en skaapwagtersak; Goliat met skilddraer.
 
-Dawid het na Goliat geroep: Jy kom met swaard en spies, maar ek kom in die Naam van die Here. Hy het 'n klippie gegooi. Die klippie het Goliat op die voorkop getref. Die reuse het vooroor geval.
-
-Dawid het geroep: Jy kom met swaard en spies, maar ek kom in die Naam van die Here. Die klippie het Goliat op die voorkop getref. Die reuse het vooroor geval.
+Saul het Dawid sy eie wapenrusting laat aantrek, maar Dawid kon nie gemaklik daarin beweeg nie omdat hy dit nie gewoond was nie. Hy het dit uitgetrek. Toe neem hy sy staf, kies vyf gladde klippe uit die spruit en sit hulle in sy skaapwagtersak. Met sy slingervel in sy hand stap hy na Goliat. Die reus het Dawid geminag en hom vervloek. Dawid het geantwoord dat Goliat met wapens kom, maar dat hy in die Naam van die Here kom. Die oorlog behoort aan die Here.
 
 ---
 
@@ -73,13 +65,11 @@ Dawid het geroep: Jy kom met swaard en spies, maar ek kom in die Naam van die He
 
 ![Beeld: ontknoping](../../assets/images/V03-09-p5.png)
 
-> **Beeldnota:** Dawid met Goliat se swaard — van agter af, geen grafiese detail; Filistyne hardloop weg.
+> **Beeldnota:** Goliat val vooroor terwyl Dawid se slingbeweging voltooi; Goliat se swaard sigbaar; GEEN afgekapte kop of bloed in die beeld nie.
 
-Dawid het Goliat se eie swaard geneem en hom onthoof — die feit soos die Bybel vertel, sonder grafiese detail. Toe die Filistyne sien hulle held is dood, het hulle gevlug. Israel het agter hulle aangegaan en die Here het die oorwinning gegee.
+Goliat het nader gekom. Dawid het vinnig na die gevegslinie gehardloop, sy hand in sy sak gesteek en een klip uitgehaal. Hy het die klip met sy slingervel gegooi. Dit tref Goliat teen die voorkop, en die groot vegter val met sy gesig op die grond. Dawid het hom met ’n slingervel en ’n klip verslaan; hy het geen swaard in sy hand gehad nie. Daarna het Dawid Goliat se eie swaard uit die skede getrek, hom daarmee doodgemaak en sy kop afgekap. Toe die Filistyne sien dat hulle held dood was, het hulle gevlug.
 
-Want die stryd behoort aan die Here.
-
-Dawid het Goliat se eie swaard geneem en hom onthoof — die feit soos die Bybel vertel, sonder grafiese detail. Filistyne het gevlug. Israel het agter hulle aangegaan. Die stryd behoort aan die Here.
+Die Israeliete het opgestaan en die vlugtende Filistyne agternagesit. Dawid se oorwinning het nie begin by die klip in sy hand nie. Lank voordat hy voor Goliat gestaan het, het hy geleer dat die Here hom kon red. Die leeu en die beer was deel van daardie verhaal. Daarom het Dawid nie op ’n swaard of ’n groot wapen vertrou nie, maar op die lewende God.
 
 ---
 
@@ -87,32 +77,33 @@ Dawid het Goliat se eie swaard geneem en hom onthoof — die feit soos die Bybel
 
 ![Beeld: geheue](../../assets/images/V03-09-p6.png)
 
-> **Beeldnota:** Klein, rustige illustrasie (~25–35% van bladsy); sling en vyf klippies op grond.
+> **Beeldnota:** Kalm nasleep; Dawid klein in wyer Israelitiese toneel; opsionele ikone van leeu, beer en vyf klippe op geheuepaneel.
 
 ### Wie was in hierdie verhaal?
 
-- **Dawid** — Jong skaapwagter wat Goliat verslaan het in die Here se Naam.
-- **Goliat** — Filistynse reus wat Israel uitgedaag het.
-- **Saul** — Koning wat eers harnas wou gee, toe Dawid laat gaan het.
-- **Die Here** — Aan Hom behoort die stryd; Hy het Dawid gered.
+- **Dawid** — ’n jong skaapwagter en seun van Isai.
+- **Goliat** — die Filistynse vegter wat Israel uitgedaag het.
+- **Saul** — Israel se koning.
+- **Isai** — Dawid se pa wat hom met kos gestuur het.
 
 ### Wat leer ons?
 
-Dawid het nie op homself vertrou nie — hy het op die Here vertrou wat hom van die leeu en die beer gered het. Die stryd behoort aan die Here.
+Dawid het onthou dat die Here hom reeds gehelp het. Daarom het hy die Here weer vertrou.
 
 ### Vers om te onthou
 
-"Die stryd behoort aan die Here." — 1 Samuel 17:47. 〔AFR20-kontrole〕
+“Die oorlog behoort aan die Here.” — 1 Samuel 17:47. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 
-1. Wat het Dawid vir Saul vertel oor die leeu en die beer?
-2. Hoeveel klippies het Dawid gekies, en wat het hy geweier?
-3. Wie het die stryd volgens Dawid gewen?
+1. Watter twee wilde diere het Dawid oorwin?
+2. Hoeveel gladde klippe het hy gekies?
+3. Op wie het Dawid vertrou?
 
 ---
 
 ## Produksie-notas
 
-- **Worteltelling (ongeveer):** narrative 399 / geheue 110 / totaal 509
+- **Worteltelling (ongeveer):** narrative ~430 / geheue ~120 / totaal ~550
 - **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.
+- **Bronnota:** Herskryf volgens die projek se goedgekeurde Dawid-en-Goliat-storiebord (1 Sam. 17).

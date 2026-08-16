@@ -55,10 +55,7 @@ Skielik kom een groot storm. Golwe slaan in die boot. Water kom in. Die dissipel
 
 > **Beeldnota:** Jesus staan in boot; wind en golwe wyd; dissipels klein; Jesus regop.
 
-Jesus word wakker. Hy gebied die wind en sê vir die see: Wees stil! Wees rustig! Die wind gaan weg. Daar is groot stilte. Die golwe word kalm. Alles is stil — so stil dat die dissipels kan hoor hul eie asem. Jesus praat. Die see luister. Niemand anders kan dit doen.
-
-
-Jesus word wakker. Hy gebied die wind en sê vir die see: Wees stil! Wees rustig! Die wind gaan weg. Groot stilte. Die golwe word kalm. Jesus praat — die see luister.
+Jesus word wakker. Hy gebied die wind en sê vir die see: Wees stil! Wees rustig! Die wind gaan weg. Daar is groot stilte. Die golwe word kalm. Alles is stil — so stil dat die dissipels hul eie asem kan hoor. Jesus praat. Die see luister.
 
 ---
 ## Bladsy 4 — Hoofdraai

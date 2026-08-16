@@ -79,9 +79,6 @@ Die naaste is nie net die een wat naby woon nie. Die naaste is die een wat help 
 
 Jesus vra: Wie was naaste? Die wetkundige sê: die een met barmhartigheid. Jesus sê: Gaan en doen dieselfde. Die naaste is wie help — selfs oor grense heen.
 
-
-Jesus vra: Wie was naaste? Die wetkundige sê: die een met barmhartigheid. Jesus sê: Gaan en doen dieselfde. Die naaste is wie help — selfs across grense.
-
 ---
 ## Bladsy 5 — Ontknoping
 

@@ -43,9 +43,7 @@ Jode woon in Persië, ver van Jerusalem. Ester word koningin — maar verberg ha
 
 Ester het koningin geword, maar sy het haar volk nie vertel nie. Haman, 'n hoë amptenaar, het Mordegai haat omdat hy nie voor Haman gebuk het nie. Haman het die koning oortuig om al die Jode te vernietig — 'n dag is gekies om hulle te doodmaak.
 
-Haman haat Mordegai. Hy laat maak plan om alle Jode te vernietig. Haman se plan. En weet jy wat toe gebeur het? Die moeilikheid het groter geword voordat die Here help.
-
-Haman haat Mordegai wat nie buig nie. Hy plan om alle Jode op een dag te vernietig.
+Haman haat Mordegai wat nie voor hom buig nie. Hy maak ’n plan om alle Jode op een dag te vernietig. En weet jy wat toe gebeur het? Die moeilikheid het groter geword voordat die Here help.
 
 ---
 
@@ -55,11 +53,7 @@ Haman haat Mordegai wat nie buig nie. Hy plan om alle Jode op een dag te verniet
 
 > **Beeldnota:** Mordegai en Ester praat; vas; Jode bid.
 
-Mordegai het vir Ester gesê: Wie weet of jy nie juis vir so 'n tyd as koningin gekom het nie? Ester het gesê: Gaan vas — ek en my diensmeisies sal ook vas. Dan sal ek na die koning toe gaan, al is dit teen die wet.
-
-Mordegai sê: Wie weet of jy nie vir so 'n tyd koningin gekom het nie? Ester vra vas — sy ook. Vas en gebed.
-
-Mordegai sê: Wie weet of jy nie vir so 'n tyd koningin gekom het nie? Vas — dan gaan ek na die koning.
+Mordegai het vir Ester gesê: Wie weet of jy nie juis vir so ’n tyd as koningin gekom het nie? Ester het geantwoord: Gaan vas — ek en my diensmeisies sal ook vas. Dan sal ek na die koning toe gaan, al is dit teen die wet.
 
 ---
 
@@ -69,9 +63,7 @@ Mordegai sê: Wie weet of jy nie vir so 'n tyd koningin gekom het nie? Vas — d
 
 > **Beeldnota:** Ester voor koning; koning strek septer; Haman wag.
 
-Ester het twee maaltye vir die koning en Haman gereël. By die tweede maaltyd het sy vertel: Haman wil my volk vernietig. Ek en my volk sal vernietig word. Die koning was woed op Haman.
-
-Ester nooi koning en Haman. Sy vertel Haman wil haar volk vernietig. Twee maaltye. Die Here was naby — al het dit nie dadelik so gevoel nie.
+Ester het twee maaltye vir die koning en Haman gereël. By die tweede maaltyd het sy vertel: Haman wil my volk vernietig. Ek en my volk sal vernietig word. Die koning was woedend op Haman.
 
 Ester vertel die koning van Haman se plan. Haman wil haar volk vernietig.
 

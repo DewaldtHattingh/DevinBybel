@@ -81,13 +81,9 @@ Jerusalem was 'n sterk stad op 'n heuwel. Dawid het dit ingeneem en dit sy tuist
 
 > **Beeldnota:** Dawid op troon in Jerusalem; mense juig; Here se wolk bo stad.
 
-Dawid het al hoe sterker geword, want die Here die God van leërs was met hom. Hy het koning gewees oor gelyk Israel en Juda. Dawid het nie alleen regeer nie — die Here was by hom.
+Dawid het al hoe sterker geword, want die Here die God van leërs was met hom. Hy was koning oor Israel en Juda. Jerusalem het die stad van die koning geword.
 
-Dawid het al hoe sterker geword, want die Here die God van leërs was met hom. Hy was koning oor gelyk Israel en Juda. Jerusalem word die stad van die koning.
-
-Dawid het nie haastig gegaan nie. Hy het gewag tot al Israel hom erken het. Toe die Here hom bevestig het, was Jerusalem sy stad — en die Here was met hom.
-
-Dawid het nie alleen regeer nie. Die Here die God van leërs was met hom, en onder sy leiding het Israel weer een volk geword.
+Dawid het nie haastig gegaan nie. Hy het gewag tot al Israel hom erken het. Toe die Here hom bevestig het, was Jerusalem sy stad — en die Here was by hom.
 
 ---
 

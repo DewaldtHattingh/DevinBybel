@@ -75,11 +75,7 @@ By die tekenplek het Jonatan pyle ver geskiet. Dawid het verstaan: vlug, jou lew
 
 > **Beeldnota:** Dawid en Jonatan omhels; trane; sononder; skeiding.
 
-Dawid en Jonatan het mekaar omhels en geween. Jonatan het gesê: Gaan in vrede. Hulle het hulle verbond hernu. Dawid het weggegaan, en Jonatan het na sy huis teruggekeer. Jonatan het die regte ding gedoen — hy het sy vriend beskerm, al was dit moeilik.
-
-Dawid en Jonatan het mekaar omhels en geween. Jonatan het gesê: Gaan in vrede. Dawid het weggegaan. Jonatan het sy vriend beskerm, al was dit moeilik teen sy eie pa. Vriendskap bly selfs wanneer hulle skei.
-
-Jonatan het nie net Dawid gewaarsku nie — hy het ook met Dawid 'n verbond gemaak wat langer leef as Saul se jaloesie. Troue vriendskap is 'n geskenk van die Here.
+Dawid en Jonatan het mekaar omhels en geween. Jonatan het gesê: Gaan in vrede. Hulle het hulle verbond hernu. Dawid het weggegaan, en Jonatan het na sy huis teruggekeer. Jonatan het sy vriend beskerm, al was dit moeilik teen sy eie pa. Troue vriendskap is ’n geskenk van die Here.
 
 ---
 
