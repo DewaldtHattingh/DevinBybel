@@ -32,9 +32,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Jakob by put; Rachel kom met skape; Laban se veld.
 
-**Een dag, lank, lank gelede,** het Jakob by Laban, sy oom, aangekom. Laban het twee dogters gehad — Lea en Rachel. Rachel was mooi, en Jakob het van haar gehou.
+**Een dag, lank, lank gelede,** het Jakob by Laban, sy oom, aangekom in Mesopotamië. Laban het twee dogters gehad — Lea, die oudste, en Rachel, die jongste. Rachel was mooi, en Jakob het van haar gehou.
 
-Jakob het gesê hy sal sewe jaar vir Laban werk om Rachel te kry.
+Jakob het vir Laban gesê: Ek sal sewe jaar vir jou werk om Rachel, jou jongste dogter, as vrou te kry. Laban het ingestem — sewe jaar het vir Jakob gevoel soos net 'n paar dae, want hy het so lief vir Rachel gehad.
 
 ---
 
@@ -44,9 +44,9 @@ Jakob het gesê hy sal sewe jaar vir Laban werk om Rachel te kry.
 
 > **Beeldnota:** Troufees; Laban bring Lea; Rachel in agtergrond — geen drama nie.
 
-Laban het die sewe jaar volgemaak, maar op die trou nag het hy Lea aan Jakob gegee. Jakob het ontdek dit die oggend. Laban het gesê die jongste dogter mag nie voor die oudste trou nie.
+Toe die sewe jaar verby was, het Laban 'n troufees gehou. Maar in die nag het hy Lea, die oudste dogter, na Jakob gebring in plaas van Rachel. Jakob het dit die volgende oggend ontdek.
 
-Jakob het nog sewe jaar gewerk vir Rachel.
+Laban het gesê: In ons land gee ons nie die jongste dogter voor die oudste nie. Voltooi net hierdie week se fees, dan gee ek jou ook Rachel — maar jy moet nog sewe jaar vir my werk.
 
 ---
 
@@ -56,9 +56,9 @@ Jakob het nog sewe jaar gewerk vir Rachel.
 
 > **Beeldnota:** Jakob met Lea, Rachel en klein kinders; lang jare op veld.
 
-Jakob het twintig jaar by Laban gebly. Lea, Rachel en hulle diensmeisies het kinders gebaar — Ruben, Josef en meer. Jakob het hard gewerk, maar Laban het hom verander.
+Jakob het twintig jaar in totaal by Laban gebly — sewe vir Lea en sewe vir Rachel. Lea, Rachel en hulle diensmaagtes het kinders gebaar — Ruben, Levi, Juda, Josef en meer. Jakob het hard gewerk op Laban se velde, maar Laban het hom tien keer verander — sy loon altyd kleiner gemaak.
 
-Die Here het gesien dat Laban Jakob vernietig.
+Die Here het gesien dat Laban Jakob vernietig. Hy het Jakob geseën met vee en kinders, al het Laban probeer om hom arm te hou.
 
 ---
 
@@ -68,9 +68,9 @@ Die Here het gesien dat Laban Jakob vernietig.
 
 > **Beeldnota:** Jakob se gesin trek met kamele; Laban agter — geen geveg nie.
 
-God het vir Jakob gesê: Gaan terug na jou vaderland. Jakob het sy vroue en kinders weggeneem en weggetrek sonder om Laban te sê.
+God het vir Jakob gesê: Gaan terug na die land van jou vaders en na jou familie. Ek sal met jou wees. Jakob het sy vroue, kinders en vee weggeneem en weggetrek sonder om Laban te sê.
 
-Laban het hom agtervolg. God het in 'n droom vir Laban gesê: Moenie met Jakob praat, goed of sleg nie.
+Laban het hom agtervolg. Maar God het in 'n droom vir Laban gesê: Pas op dat jy nie met Jakob praat nie, goed of sleg. Laban het Jakob gekonfronteer, maar kon niks doen nie.
 
 ---
 
@@ -80,7 +80,9 @@ Laban het hom agtervolg. God het in 'n droom vir Laban gesê: Moenie met Jakob p
 
 > **Beeldnota:** Laban en Jakob stel kliphope op; verbondhanddruk.
 
-Laban en Jakob het 'n kliphope opgerig as getuie. Hulle het gesweer om mekaar nie te skaad nie. Laban het Jakob laat gaan. Jakob het op pad huis toe gegaan — nog bang vir Esau.
+Laban en Jakob het 'n kliphope opgerig as getuie van hulle verbond. Hulle het gesweer om mekaar nie te skaad nie, en om nie oor die kliphope heen te kom met kwaad nie. Laban het Jakob laat gaan.
+
+Jakob het op pad huis toe gegaan — nog bang vir Esau, maar met 'n groot gesin en vee. Die Here was by hom op die pad, net soos Hy by Bet-El beloof het.
 
 ---
 
@@ -115,5 +117,5 @@ God sien wanneer mense ons benadeel. Hy lei ons op die regte tyd verder op ons p
 
 ## Produksie-notas
 
-- **Worteltelling (ongeveer):** narrative 430 / geheue 100 / totaal 530
+- **Worteltelling (ongeveer):** narrative 381 / geheue 100 / totaal 481
 - **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.

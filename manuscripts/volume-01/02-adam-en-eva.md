@@ -35,9 +35,11 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Pragtige tuin met bome, rivier en twee mense; warm, veilig.
 
-**Een dag, lank, lank gelede,** het God 'n tuin gemaak in Eden. Daar het Hy Adam geplaas om dit te versorg. God het gesê Adam mag van elke boom eet — behalwe van die boom van kennis van goed en kwaad.
+**Een dag, lank, lank gelede,** het God 'n tuin gemaak in Eden, in die ooste. Daar het Hy die man Adam geplaas om dit te versorg en te bewaak. 'n Rivier het uit Eden geloop en die tuin natgemaak.
 
-God het ook Eva gemaak om saam met Adam te lewe. Hulle het naakt geloop en nie skaam gevoel nie.
+God het gesê Adam mag van elke boom in die tuin eet — behalwe van die boom van kennis van goed en kwaad. Van dié boom mag jy nie eet nie, het God gesê, want die dag as jy daarvan eet, sal jy beslis sterf.
+
+God het ook Eva gemaak uit een van Adam se ribbes, om saam met hom te lewe. Hulle het naakt geloop en nie skaam gevoel nie.
 
 ---
 
@@ -47,7 +49,9 @@ God het ook Eva gemaak om saam met Adam te lewe. Hulle het naakt geloop en nie s
 
 > **Beeldnota:** Slang by die kennisboom; geen dreigende gesig nie, net nuuskierigheid.
 
-'n Slang het Eva gevra of God regtig gesê hulle mag nie van dié boom eet nie. Die slang het gelieg en gesê hulle sal soos God wees as hulle eet. Eva het gekyk — die vrug het goed gelyk. Sy het geëet en aan Adam gegee. Hy het ook geëet.
+'n Slang, die slimste van alle wilde diere, het Eva gevra of God regtig gesê hulle mag nie van enige boom in die tuin eet nie. Eva het gesê hulle mag van die ander bome eet, maar nie van die boom in die middel van die tuin nie.
+
+Die slang het gelieg en gesê julle sal beslis nie sterf nie — julle sal soos God wees en goed en kwaad ken. Eva het gekyk na die vrug. Dit het goed gelyk en lekker ruik. Sy het geëet en aan haar man gegee. Hy het ook geëet.
 
 ---
 
@@ -57,9 +61,11 @@ God het ook Eva gemaak om saam met Adam te lewe. Hulle het naakt geloop en nie s
 
 > **Beeldnota:** Adam en Eva kruip agter bome; blare voor hulle lyf.
 
-Toe het hulle oë oopgegaan. Hulle het skaam gevoel en blare vir hulle gemaak. Toe God roep, het Adam gesê hy was bang omdat hy naakt was. God het gevra: Het jy van die boom geëet?
+Toe het hulle oë oopgegaan. Hulle het geweet hulle is naakt en het skaam gevoel. Hulle het blare van vijgebome vir hulle gemaak en dit om hulle lywe gebind.
 
-Adam het Eva blameer. Eva het die slang blameer. Niemand het reg gesê: ek het verkeerd gedoen nie.
+Toe die dag afkoel het God in die tuin geloop. Adam het homself versteek tussen die bome. God het geroep: Waar is jy? Adam het gesê hy was bang omdat hy naakt was, en daarom het hy weggesteek.
+
+God het gevra: Wie het vir jou gesê jy is naakt? Het jy van die boom geëet wat Ek jou verbied het? Adam het Eva blameer. Eva het die slang blameer. Niemand het reg gesê: ek het verkeerd gedoen nie.
 
 ---
 
@@ -69,7 +75,9 @@ Adam het Eva blameer. Eva het die slang blameer. Niemand het reg gesê: ek het v
 
 > **Beeldnota:** God praat met die slang; geen geweld nie, ernstige gesig.
 
-God het die slang gestraf. Hy het ook gesê daar sal kom 'n nageslag van die vrou wat die slang se kop sal vertrap — en die slang sal sy hak skerp maak. Dit is 'n belofte dat kwaad nie die laaste woord sal hê nie.
+God het die slang gestraf — hy sal op sy buik kruip en stof eet vir al sy lewe. Hy het ook gesê daar sal kom 'n nageslag van die vrou wat die slang se kop sal vertrap — en die slang sal sy hak skerp maak. Dit is 'n belofte dat kwaad nie die laaste woord sal hê nie.
+
+God het ook vir Eva en Adam gesê hulle lewe sal nou swaard wees — die grond sal dorings dra, en hulle sal hard moet werk om kos te kry. Uiteindelik sal hulle terugkeer na die stof waaruit hulle gemaak is.
 
 ---
 
@@ -79,7 +87,7 @@ God het die slang gestraf. Hy het ook gesê daar sal kom 'n nageslag van die vro
 
 > **Beeldnota:** Adam en Eva loop uit die tuin; engel by die ingang, nie skrikwekkend nie.
 
-Adam en Eva moes die tuin verlaat. Cherubs en 'n brandende swaard het die pad na die lewensboom bewaak. Hulle kon nie teruggaan soos voorheen nie. Die sonde het skade laat bly.
+Adam en Eva moes die tuin verlaat. God het vir hulle klere van vel gemaak en hulle aangekleed. Cherubs en 'n brandende swaard het die pad na die lewensboom bewaak. Hulle kon nie teruggaan soos voorheen nie. Die sonde het skade laat bly — maar God se belofte staan nog.
 
 ---
 
@@ -114,5 +122,5 @@ Ongehoorsaamheid bring skade en skaamte. God straf sonde, maar beloof ook dat Hy
 
 ## Produksie-notas
 
-- **Worteltelling (ongeveer):** narrative 430 / geheue 110 / totaal 540
+- **Worteltelling (ongeveer):** narrative 470 / geheue 108 / totaal 578
 - **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.

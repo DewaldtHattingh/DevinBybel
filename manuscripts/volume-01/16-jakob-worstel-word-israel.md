@@ -32,9 +32,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Jakob stuur boodskappers na Esau; geskenke van vee.
 
-**Een dag, lank, lank gelede,** het Jakob gehoor Esau kom met vierhonderd man. Jakob was baie bang. Hy het geskenke gestuur — bokke, skape, kamele en meer — om Esau te paai. Hy het ook gebid: Here, red my asseblief van my broer se hand.
+**Een dag, lank, lank gelede,** het Jakob boodskappers na sy broer Esau gestuur. Die boodskappers het teruggekom en gesê: Esau kom jou tegemoet met vierhonderd man.
 
-Hy het sy gesin oor die Jabbokrivier gestuur en alleen agtergebly. Die nag was stil, behalwe vir die stromende water.
+Jakob was baie bang. Hy het sy groep in twee verdeel, en geskenke gestuur — bokke, skape, kamele, beeste en esels — in groepe, een na die ander, om Esau te paai. Hy het ook gebid: Here, red my asseblief van my broer Esau se hand, want ek vrees hom.
 
 ---
 
@@ -44,7 +44,9 @@ Hy het sy gesin oor die Jabbokrivier gestuur en alleen agtergebly. Die nag was s
 
 > **Beeldnota:** Nag by rivier; man worstel met Jakob — geen geweld nie.
 
-Daar het 'n man met hom geworstel tot die dag breek. Die man kon Jakob nie oorwin nie. Hy het Jakob se heup ontwrig — Jakob het daarna gehinke.
+Jakob het sy vroue, kinders en al sy goed oor die Jabbokrivier laat gaan. Hy het alleen agtergebly. Die nag was stil, behalwe vir die stromende water.
+
+Die man het Jakob se heup ontwrig — Jakob het daarna gehinke. Maar Jakob het nie losgelaat nie. Hy het geworstel tot die dag breek, want hy wou die seën kry. Hy was sterk genoeg om nie te los nie.
 
 ---
 
@@ -54,9 +56,9 @@ Daar het 'n man met hom geworstel tot die dag breek. Die man kon Jakob nie oorwi
 
 > **Beeldnota:** Man vra Jakob se naam; gee nuwe naam Israel; son kom op.
 
-Die man het gesê: Laat my gaan, die dag breek. Jakob het gesê: Ek sal nie los nie tensy jy my seën.
+Die man het gesê: Laat my gaan, want die dag breek. Jakob het gesê: Ek sal nie los nie tensy jy my seën. Die man het gevra: Wat is jou naam? Jakob het gesê: Jakob.
 
-Die man het Jakob se naam verander na Israel — want jy het met God en mense gestry en oorwin.
+Die man het gesê: Jy sal nie meer Jakob genoem word nie, maar Israel — want jy het met God en mense gestry en oorwin. Jakob het gevra: Wat is u naam? Die man het gesê: Waarom vra jy na my naam? En Hy het hom daar geseën.
 
 ---
 
@@ -66,7 +68,9 @@ Die man het Jakob se naam verander na Israel — want jy het met God en mense ge
 
 > **Beeldnota:** Jakob noem plek Peniel; son kom op; hinkende stap.
 
-Jakob het die plek Peniel genoem — ek het God van aangesig tot aangesig gesien. Hy het gehink na sy gesin toe.
+Jakob het die plek Peniel genoem — ek het God van aangesig tot aangesig gesien, en my lewe is gespaar. Die son het opgekom toe hy Peniel verby was, en hy het gehinke, maar met 'n nuwe naam en 'n nuwe seën.
+
+Hy het Esau sien kom met sy vierhonderd man. Jakob het voor sy broer neergebuig, sewe keer, tot by sy broer toe.
 
 ---
 
@@ -76,7 +80,9 @@ Jakob het die plek Peniel genoem — ek het God van aangesig tot aangesig gesien
 
 > **Beeldnota:** Esau hardloop na Jakob; omhels; trane — vrede.
 
-Esau het Jakob tegemoet gekom. Hy het hardgeloop, hom omhels en gehuil. Esau het die geskenke afgewys — hy het genoeg. Hulle het vreedsaam gepraat. Jakob het gesê sien jou aangesig is soos sien die aangesig van God.
+Esau het hardgeloop na Jakob toe. Hy het hom omhels, om sy nek gevalle en gehuil. Jakob het ook gehuil. Esau het die geskenke afgewys — hy het genoeg. Jakob het gesê: Asseblief, neem my geskenk, want om jou aangesig te sien is soos die aangesig van God sien, nadat ek jou so lank gemis het.
+
+Hulle het vreedsaam gepraat. Jakob het Esau vertel van sy gesin en vee. Die twee broers het mekaar weer ontmoet — nie as vyande nie, maar in vrede, soos Jakob nooit gedroom het toe hy weggevlug het na Laban se huis, jare gelede.
 
 ---
 
@@ -110,5 +116,5 @@ God verander mense wat met Hom stry. Jakob se vrees vir Esau het in vrede verand
 
 ## Produksie-notas
 
-- **Worteltelling (ongeveer):** narrative 410 / geheue 100 / totaal 510
+- **Worteltelling (ongeveer):** narrative 395 / geheue 84 / totaal 479
 - **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.

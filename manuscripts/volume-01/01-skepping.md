@@ -31,9 +31,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Donker leegte word sagte lig; God se hand wys na die begin, sonder detail van chaos.
 
-**Een dag, lank, lank gelede,** was daar nog geen son of maan nie. Die aarde was leeg en donker. Die Gees van God was daar bo die waters.
+**Een dag, lank, lank gelede,** was daar nog geen son of maan nie. Die aarde was leeg en donker, en diep waters het oral gestaan. Die Gees van God was daar bo die waters — Hy was by die begin.
 
-Toe het God begin praat. Hy sê: Laat daar lig wees. En daar was lig. God sien dit is goed. Dit was die eerste dag.
+Toe het God begin praat. Hy sê: Laat daar lig wees. En daar was lig — helder lig wat die donker verdryf het. God het die lig dag genoem en die donker nag. Hy het gesien dit is goed. So het die eerste dag verbygegaan.
 
 ---
 
@@ -43,7 +43,9 @@ Toe het God begin praat. Hy sê: Laat daar lig wees. En daar was lig. God sien d
 
 > **Beeldnota:** Hemelruim bo die see; wolke en water skei duidelik, vriendelik vir kinders.
 
-Op die tweede dag het God gesê dat daar hemel moet wees. Die hemel het die waters bo en onder van mekaar geskei. Op die derde dag het Hy gesê die water moet op een plek staan, sodat droë grond kan kom. Plante het uit die grond gegroei — gras, bossies en bome met vrugte.
+Op die tweede dag het God gesê dat daar hemel moet wees — 'n groot ruimte wat die waters bo en onder van mekaar geskei het. Die hemel was bo die aarde, en die see was daaronder. God het gesien dit is goed.
+
+Op die derde dag het Hy gesê die water moet op een plek staan, sodat droë grond kan kom. So het land en see ontstaan. Toe het God gesê die aarde moet groen word. Gras het uitgespruit, bossies het gegroei, en bome met vrugte het opgekom — elke boom volgens sy soort. God het gesien dit is goed.
 
 ---
 
@@ -53,7 +55,9 @@ Op die tweede dag het God gesê dat daar hemel moet wees. Die hemel het die wate
 
 > **Beeldnota:** Son, maan en sterre bo 'n rustige aarde; geen oogseerende lig nie.
 
-Die vierde dag het God son, maan en sterre in die hemel geplaas. Hulle gee lig en merk dag en nag. Op die vyfde dag het Hy visse en voëls gemaak. Hy het gesê hulle moet lewe en die see en lug vul.
+Die vierde dag het God groot ligte in die hemel geplaas — die son om die dag te regeer, die maan en sterre om die nag te regeer. Hulle gee lig op die aarde en merk dag en nag. God het gesien dit is goed.
+
+Op die vyfde dag het Hy die see laat lewe met visse en die lug met voëls. Groot walvisse het in die water geswem en voëls het oor die aarde gevlieg. God het hulle geseën en gesê: Wees vrugbaar en vermeerder. Vul die see en die lug. God het gesien dit is goed.
 
 ---
 
@@ -63,7 +67,9 @@ Die vierde dag het God son, maan en sterre in die hemel geplaas. Hulle gee lig e
 
 > **Beeldnota:** Verskeie diere op die veld — koei, leeu, skape — vredelik saam.
 
-Die sesde dag het God wilde diere gemaak — diere op die land en diere in die see. Toe het Hy gesê: Laat ons mense maak na ons beeld. God het 'n man en 'n vrou gemaak. Hy het hulle gesalf om oor die visse, voëls en diere te regeer.
+Die sesde dag het God die land laat lewe met diere — groot diere en klein diere, alles volgens hulle soort. Koeie, leeus, skape en al die diere wat op die veld loop het ontstaan. God het gesien dit is goed.
+
+Toe het Hy gesê: Laat ons mense maak na ons beeld, na ons gelykenis. God het 'n man en 'n vrou gemaak, na sy beeld. Hy het hulle geseën en gesê: Wees vrugbaar, vermeerder, vul die aarde en regeer oor die visse, voëls en alle diere. God het alles gesien — dit was baie goed.
 
 ---
 
@@ -73,7 +79,7 @@ Die sesde dag het God wilde diere gemaak — diere op die land en diere in die s
 
 > **Beeldnota:** God rus op die sewe dag; sonsondergang, alles rustig.
 
-God het alles gesien — dit was baie goed. Op die sewe dag het Hy opgehou werk. Hy het rus en die dag gesalf. So het God die hemel en die aarde gemaak.
+Op die sewe dag was al die werk klaar. God het op die sewe dag gerus van al sy werk. Hy het die sewe dag geseën en dit heilig gemaak, want op daardie dag het Hy gerus van al die werk wat Hy geskape het. So het God die hemel en die aarde en alles daarin gemaak — en dit was baie goed.
 
 ---
 
@@ -106,5 +112,5 @@ Alles wat ons sien, het begin toe God praat. Hy is die Maker, en Hy rus ook.
 
 ## Produksie-notas
 
-- **Worteltelling (ongeveer):** narrative 420 / geheue 95 / totaal 515
+- **Worteltelling (ongeveer):** narrative 449 / geheue 82 / totaal 531
 - **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.

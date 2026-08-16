@@ -33,9 +33,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Honger land Kanaän; Jakob en seuns; leë graanbak.
 
-**Een dag, lank, lank gelede,** was daar hongersnood in Kanaän en Egipte. Jakob het vir sy seuns gesê: Gaan koop graan in Egipte.
+**Een dag, lank, lank gelede,** was daar hongersnood in Kanaän en in Egipte. Jakob het vir sy seuns gesê: Waarom staan julle en kyk na mekaar? Ek het gehoor daar is graan in Egipte. Gaan koop vir ons, sodat ons kan lewe.
 
-Josef se tien broers het gegaan — Benjamin het by huis gebly. Josef was die regent wat graan uitgee.
+Josef se tien broers het gegaan — Benjamin, die jongste, het by huis gebly. Josef was die regent van Egipte, die een wat graan uitgee aan al die mense.
 
 ---
 
@@ -45,7 +45,9 @@ Josef se tien broers het gegaan — Benjamin het by huis gebly. Josef was die re
 
 > **Beeldnota:** Broers buig voor Josef; hy dra Egiptiese klere; hulle herken hom nie.
 
-Die broers het voor Josef neergebuig om graan te koop. Josef het hulle herken, maar hulle het hom nie herken nie. Sy droom het begin waar word — hulle buig voor hom.
+Toe Josef se broers voor hom neergebuig om graan te koop, het hy hulle herken. Maar hulle het hom nie herken nie — hy was nou 'n Egiptiese amptenaar met 'n baard geskeer en Egiptiese klere aan.
+
+Josef het hard met hulle gepraat en gevra: Waar kom julle vandaan? Hulle het gesê: Uit Kanaän, om kos te koop. Josef het onthou sy drome — hulle buig nou voor hom, net soos in die droom.
 
 ---
 
@@ -55,9 +57,9 @@ Die broers het voor Josef neergebuig om graan te koop. Josef het hulle herken, m
 
 > **Beeldnota:** Simeon agter tralies; broers vertrek; geld val uit sak.
 
-Josef het hulle beskuldig van spioenasie. Hy het Simeon agtergehou. Hy het hulle graan gegee, maar die geld terug in hulle sakke gesteek.
+Josef het hulle beskuldig van spioenasie. Hy het Simeon agtergehou as borg. Hy het hulle graan gegee, maar die geld terug in hulle sakke gesteek sonder dat hulle geweet het.
 
-Toe hulle die geld ontdek het, was hulle bang.
+Toe hulle op die pad was, het een broer sy geld in die sak gevind. Hulle was bang en het gesê: Wat doen God met ons? Hulle het Jakob vertel, en Jakob was hartseer — Simeon is weg, en nou is die geld ook terug.
 
 ---
 
@@ -67,9 +69,9 @@ Toe hulle die geld ontdek het, was hulle bang.
 
 > **Beeldnota:** Jakob weier; broers smeek; Benjamin trek saam.
 
-Josef het gesê: Bring julle jongste broer, dan sal ek julle glo. Jakob wou eers nie Benjamin stuur nie — hy het al Ruben en Josef verloor.
+Josef het gesê: Julle sal nie weer voor my aangesig kom nie, tensy julle jongste broer saambring. Jakob wou eers nie Benjamin stuur nie — hy het gesê: Julle het Josef verloor, Simeon is weg, en nou wil julle Benjamin ook vat!
 
-Toe die kos opgeraak het, het Juda gesweer om Benjamin te beskerm. Hulle het hom saamgeneem na Egipte.
+Toe die kos opgeraak het, het Juda vir Jakob gesweer: Ek sal myself persoonlik verantwoordelik hou vir die seun. As ek hom nie terugbring nie, sal ek die skuld al my lewe lank dra. Hulle het Benjamin saamgeneem na Egipte.
 
 ---
 
@@ -79,7 +81,9 @@ Toe die kos opgeraak het, het Juda gesweer om Benjamin te beskerm. Hulle het hom
 
 > **Beeldnota:** Josef sien Benjamin; draai weg en huil; broers eet saam.
 
-Josef het Benjamin gesien. Hy het weggegaan en hard gehuil — hy was diep geroer. Hy het hulle by sy huis ontvang en saam laat eet. Die broers het nog steeds nie geweet wie hy is nie.
+Josef het Benjamin gesien en sy emosies kon nie meer hou nie. Hy het weggegaan na 'n kamer en hard gehuil. Toe het hy hom gewas en uitgegaan en sterk gebly.
+
+Hy het hulle by sy huis ontvang en saam laat eet. Benjamin het vyf keer meer kos gekry as die ander. Die broers het nog steeds nie geweet wie die Egiptiese regent is nie — hulle het gedink hy is net 'n magtige vreemdeling wat hulle toets. Josef het gewag om te sien of hulle verander het.
 
 ---
 
@@ -114,5 +118,5 @@ God bring planne wat lank gelede begin het, stadig waar. Josef toets of sy broer
 
 ## Produksie-notas
 
-- **Worteltelling (ongeveer):** narrative 420 / geheue 100 / totaal 520
+- **Worteltelling (ongeveer):** narrative 396 / geheue 92 / totaal 488
 - **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.

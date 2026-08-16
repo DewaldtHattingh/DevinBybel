@@ -32,9 +32,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Josef se silwerbeker word in Benjamin se sak gevind; broers skrik.
 
-**Een dag, lank, lank gelede,** het Josef sy broers laat vertrek met vol sakke. Hy het sy silwerbeker in Benjamin se sak laat sit. Toe hulle stop, het die beker daar gevind word.
+**Een dag, lank, lank gelede,** het Josef sy broers laat vertrek met vol sakke graan. Hy het sy silwerbeker in Benjamin se sak laat sit, sonder dat hulle dit geweet het.
 
-Die straf sou wees dat Benjamin slaaf bly in Egipte.
+Toe hulle nog nie ver van die stad af was nie, het Josef hulle laat agtervolg. Die beker is in Benjamin se sak gevind. Die straf sou wees dat Benjamin as slaaf in Egipte bly.
 
 ---
 
@@ -44,9 +44,9 @@ Die straf sou wees dat Benjamin slaaf bly in Egipte.
 
 > **Beeldnota:** Juda val voor Josef neer; smeek; Jakob se hartseer genoem.
 
-Juda het voor Josef neergeval en gesmeek. Hy het vertel hoe hulle pa Jakob se hart sal breek as Benjamin nie terugkom nie. Juda het aangebied om self in Benjamin se plek te bly.
+Juda het voor Josef neergeval en gesmeek. Hy het die hele storie vertel — hoe hulle pa se hart gebroke sal wees as Benjamin nie terugkom nie. Hy het gesê: Ek het my pa versekering gegee — laat my bly in Benjamin se plek as slaaf.
 
-Josef kon nie meer hou nie.
+Josef kon nie meer hou nie. Hy het vir al die diensbode gesê: Gaan uit! Toe niemand meer daar was nie, het hy homself aan sy broers bekend gemaak.
 
 ---
 
@@ -56,9 +56,9 @@ Josef kon nie meer hou nie.
 
 > **Beeldnota:** Josef huil hard; broers staar verbaas; geen trane van vrees nie.
 
-Josef het hard gehuil sodat die Egiptenaars dit gehoor het. Hy het gesê: Ek is Josef! Lewe my pa nog?
+Josef het hard gehuil — so hard dat die Egiptenaars dit gehoor het en Farao se huis dit geweet het. Hy het gesê: Ek is Josef! Lewe my pa nog?
 
-Sy broers was so bang hulle kon nie antwoord nie.
+Sy broers was so bang hulle kon nie antwoord nie. Josef het gesê: Kom nader na my. Moenie bekommerd wees nie en moenie kwaad op julleself wees dat julle my hierheen verkoop het nie.
 
 ---
 
@@ -68,9 +68,9 @@ Sy broers was so bang hulle kon nie antwoord nie.
 
 > **Beeldnota:** Josef omhels broers; trane van vreugde; geen wraak nie.
 
-Josef het gesê: Kom nader. Moenie bekommerd wees nie. God het my voor julle uit gestuur om lewe te red. Wat julle kwaad bedoel het, het God goed gemaak.
+Josef het gesê: God het my voor julle uit gestuur om lewe vir julle te behou. Die hongersnood is nog net twee jaar. God het my vooruit gestuur om julle in die lewe te hou — 'n groot nasie te red, en om julle na my toe te bring, sodat julle kan lewe.
 
-Hy het hulle omhels en gehuil. Toe het hulle eers met hom gepraat.
+Wat julle kwaad bedoel het, het God goed gemaak. Hy het hulle omhels en oor hulle skouers gehuil. Benjamin het ook gehuil op Josef se skouer. Toe het hulle eers met hom gepraat.
 
 ---
 
@@ -80,7 +80,9 @@ Hy het hulle omhels en gehuil. Toe het hulle eers met hom gepraat.
 
 > **Beeldnota:** Karavane na Kanaän; geskenke; wagons vir Jakob.
 
-Josef het gesê: Gaan haal my pa. Kom woon in Goshen waar daar kos is. Hy het wagons en geskenke gestuur. Jakob sou hoor: Josef leef nog.
+Josef het gesê: Gaan vinnig na my pa toe en sê vir hom: Jou seun Josef leef nog. Hy is regent oor die hele Egipte. Kom na my toe — moenie talm nie. Julle sal in Goshen woon, naby my, met al julle skape en kinders.
+
+Hy het wagons, kos en geskenke vir die reis gestuur. Jakob sou hoor: Josef leef nog. Die gesin sou weer bymekaar kom — na soveel jare van hartseer en skeiding, sou hulle weer saam wees in Goshen, waar daar kos genoeg was.
 
 ---
 
@@ -115,5 +117,5 @@ Wat mense kwaad bedoel, kan God gebruik vir goed. Josef het vergewe — nie gewr
 
 ## Produksie-notas
 
-- **Worteltelling (ongeveer):** narrative 410 / geheue 100 / totaal 510
+- **Worteltelling (ongeveer):** narrative 385 / geheue 92 / totaal 477
 - **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.

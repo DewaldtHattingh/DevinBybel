@@ -31,9 +31,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Jakob by Beërsheba; altaar; wagons op pad na Egipte.
 
-**Een dag, lank, lank gelede,** het Jakob gehoor Josef leef nog in Egipte. Hy wou graag gaan, maar was bang.
+**Een dag, lank, lank gelede,** het Jakob gehoor Josef leef nog — en hy is regent oor Egipte. Jakob wou graag gaan, maar was bang om sy land te verlaat.
 
-By Beërsheba het God vir hom gesê: Moenie bang wees om na Egipte te gaan nie. Ek sal saam met jou gaan. Ek sal jou weer terugbring — en Josef sal jou oë toemaak.
+By Beërsheba het Jakob offers gebring aan die God van sy vader Isak. God het in 'n nagvisioen vir hom gesê: Moenie bang wees om na Egipte te gaan nie, want Ek sal daar 'n groot nasie van jou maak. Ek sal saam met jou gaan na Egipte, en Ek sal jou weer terugbring — en Josef sal jou oë toemaak.
 
 ---
 
@@ -43,7 +43,9 @@ By Beërsheba het God vir hom gesê: Moenie bang wees om na Egipte te gaan nie. 
 
 > **Beeldnota:** Jakob se karavaan trek; gesin, vee en goed; rivier oorgaan.
 
-Jakob het al sy gesin, kleinkinders en vee na Egipte geneem. Hulle het in Goshen gaan woon — naby Josef, waar daar kos was.
+Jakob het al sy gesin, kleinkinders, vee en goed na Egipte geneem — altesaam sewentig siele. Hulle het in Goshen gaan woon, die beste grond in Egipte, naby Josef, waar daar genoeg kos was vir almal en hulle vee.
+
+Josef het sy pa laat roep en na Farao gebring. Farao het Jakob en sy seuns goed ontvang en hulle in Goshen laat woon.
 
 ---
 
@@ -53,7 +55,9 @@ Jakob het al sy gesin, kleinkinders en vee na Egipte geneem. Hulle het in Goshen
 
 > **Beeldnota:** Josef hardloop na wa; omhels Jakob; trane — vreugde.
 
-Josef het sy wa na Goshen gestuur. Toe hy Jakob sien, het hy hardgeloop en lank omhels. Hulle het gehuil van blydskap. Jakob het gesê: Nou kan ek sterwe — ek het jou gesien.
+Josef het sy wa na Goshen gestuur om Jakob te haal. Toe hy sy vader sien, het hy van die wa afgehardloop en lank omhels. Hulle het gehuil van blydskap — vader en seun, na soveel jare uitmekaar.
+
+Jakob het gesê: Nou kan ek sterwe, nadat ek jou aangesig gesien het en geweet het jy leef nog.
 
 ---
 
@@ -63,9 +67,9 @@ Josef het sy wa na Goshen gestuur. Toe hy Jakob sien, het hy hardgeloop en lank 
 
 > **Beeldnota:** Jakob se begrafnis; broers bekommerd; Josef ernstig maar kalm.
 
-Jakob het lank in Egipte geleef. Toe hy dood is, het Josef hom begrawe in Kanaän. Later het die broers bang geword: Nou dat ons pa dood is, sal Josef ons straf vir wat ons hom gedoen het.
+Jakob het sewentien jaar in Egipte geleef. Hy het honderd sewe-en-veertig jaar oud geword. Toe hy dood is, het Josef hom na Kanaän laat begrawe, soos Jakob gesweer het.
 
-Hulle het boodskappers gestuur en gesê: Voor ons pa sterf, het hy gesê Josef moet hulle vergeef.
+Later, nadat Jakob dood was, het Josef se broers bang geword. Hulle het gedink: Nou sal Josef ons straf vir alles wat ons hom gedoen het. Hulle het boodskappers na Josef gestuur en gesê: Voor ons pa gesterf het, het hy gesê Josef moet hulle vergeef.
 
 ---
 
@@ -75,9 +79,9 @@ Hulle het boodskappers gestuur en gesê: Voor ons pa sterf, het hy gesê Josef m
 
 > **Beeldnota:** Josef praat sag met broers; wys na hemel; vrede.
 
-Josef het gehuil toe hy dit gehoor het. Hy het gesê: Moenie bang wees nie. Julle het kwaad bedoel, maar God het dit goed gemaak.
+Josef het gehuil toe hy dit gehoor het. Hy het gesê: Moenie bang wees nie. Kan ek in die plek van God wees? Julle het kwaad teen my bedoel, maar God het dit ten goede gedraai — om soos nou te doen, om 'n groot nasie in lewe te hou.
 
-Hy het beloof om vir hulle en hulle kinders te sorg. Josef het ook gesweer dat God hulle een dag uit Egipte sal bring na die land wat Hy Abraham beloof het. Toe Josef later sterf, het hy gesê sy bene moet later na daardie land gebring word.
+Hy het beloof om vir hulle en hulle kinders te sorg. Josef het ook vir sy broers gesweer dat God hulle een dag uit Egipte sal bring na die land wat Hy Abraham, Isak en Jakob beloof het. Toe Josef honderd tien jaar oud was en sterf, het hy gesê sy bene moet later na daardie land gebring word.
 
 ---
 
@@ -112,5 +116,5 @@ God bring families saam en hou sy beloftes. Josef het vergewe — ons kan ook ve
 
 ## Produksie-notas
 
-- **Worteltelling (ongeveer):** narrative 440 / geheue 110 / totaal 550
+- **Worteltelling (ongeveer):** narrative 402 / geheue 106 / totaal 508
 - **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor Volume 2 begin.

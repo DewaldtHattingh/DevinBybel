@@ -31,9 +31,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Rebekka met twee babas; Esau rooi, Jakob hou aan hakie.
 
-**Een dag, lank, lank gelede,** het Isak en Rebekka twee seuns gehad — tweelings. Die eerste het rooi vel gehad en hy is Esau genoem. Die tweede het aan Esau se hakie gehou en hy is Jakob genoem.
+**Een dag, lank, lank gelede,** het Isak en Rebekka twee seuns gehad — tweelings. Die eerste het rooi vel gehad en hy is Esau genoem. Die tweede het aan Esau se hakie gehou toe hulle gebore is, en hy is Jakob genoem.
 
-Esau was 'n jagter. Jakob het by die tent gebly. Isak het Esau liefgehad, Rebekka Jakob.
+Esau was 'n vaardige jagter en het in die veld gebly. Jakob het 'n man van die tent gebly. Isak het van Esau se wildsvleis gehou, en Rebekka het Jakob liefgehad.
 
 ---
 
@@ -43,9 +43,9 @@ Esau was 'n jagter. Jakob het by die tent gebly. Isak het Esau liefgehad, Rebekk
 
 > **Beeldnota:** Esau sit honger; Jakob kook bredie; pot op vuur.
 
-Esau het eendag van die veld af gekom en was baie honger. Jakob het lentilbredie gekook. Esau het gesê: Gee my kos — ek is moeg en gaan dood.
+Esau het eendag van die veld af gekom en was baie honger. Jakob het lentilbredie gekook. Esau het gesê: Laat my asseblief van die rooi bredie eet — ek is moeg en gaan dood.
 
-Jakob het gesê: Verkoop eers jou geboorte reg aan my. Esau het ja gesê en geëet. So het hy sy reg as eerste seun weggegee.
+Jakob het gesê: Verkoop eers jou geboorte reg aan my. Esau het gesê: Ek gaan tog dood — wat help die geboorte reg my? Hy het die reg aan Jakob verkoop, geëet en gedrink, en opgestaan en weggegaan. So het hy sy reg as eerste seun weggegee vir 'n bord kos.
 
 ---
 
@@ -55,9 +55,9 @@ Jakob het gesê: Verkoop eers jou geboorte reg aan my. Esau het ja gesê en geë
 
 > **Beeldnota:** Ou Isak op bed; Rebekka en Jakob met bokvel op arm.
 
-Toe Isak oud en blind was, het hy Esau gevra om wild te jag en kos te maak sodat hy hom kan seën. Rebekka het gehoor en Jakob laat bokvel op sy arms en nek bind.
+Toe Isak oud en blind was, het hy vir Esau gesê: Gaan jag en maak vir my lekker kos, sodat ek jou kan seën voordat ek sterf. Rebekka het gehoor en Jakob laat bokvel op sy arms en nek bind, sodat hy soos Esau voel.
 
-Jakob het voor Isak gegaan. Isak het hom gesê en hom die seën gegee wat vir die eerste seun bedoel was.
+Jakob het voor Isak gegaan met die kos. Isak het gevoel en gesê: Die stem is Jakob se stem, maar die hande is Esau s'n. Hy het Jakob die seën gegee wat vir die eerste seun bedoel was — rykdom, mag en die seën van Abraham.
 
 ---
 
@@ -67,9 +67,9 @@ Jakob het voor Isak gegaan. Isak het hom gesê en hom die seën gegee wat vir di
 
 > **Beeldnota:** Esau huil; Jakob kyk weg; Isak sit op bed — geen geweld nie.
 
-Toe Esau teruggekom het, het Isak gesê die seën is reeds gegee. Esau het hard gehuil. Hy het gesê Jakob het hom bedrieg — sy naam beteken immers bedrieër.
+Toe Esau teruggekom het met kos vir sy pa, het Isak gesê: Wie was jy wat net kos gebring het? Ek het hom reeds gesê en hom gesëen — en hy sal geseënd wees.
 
-Esau het gesweer om Jakob te dood sodra Isak dood is.
+Esau het hard gehuil en gesê: Seën my ook, my vader! Jakob het my bedrieg — twee keer! Hy het my geboorte reg geneem, en nou my seën! Isak het gesê die seën is reeds gegee aan Jakob. Esau het gesweer om Jakob te dood sodra Isak dood is.
 
 ---
 
@@ -79,9 +79,9 @@ Esau het gesweer om Jakob te dood sodra Isak dood is.
 
 > **Beeldnota:** Jakob trek weg met stok en sak; Rebekka wuif; sonsondergang.
 
-Rebekka het vir Jakob gesê: Vlug na my broer Laban in Haran. Bly daar tot Esau se toorn afkoel.
+Rebekka het vir Jakob gesê: Vlug na my broer Laban in Haran. Bly daar 'n rukkie totdat jou broer se toorn afkoel. Jakob het weggetrek met niks meer as 'n stok en 'n sak.
 
-Jakob het weggetrek. Die seën kon nie teruggeneem word nie, maar Jakob moes nou vlug.
+Die seën kon nie teruggeneem word nie — maar Jakob moes nou vlug. So het Jakob sy huis verlaat, met die seën maar sonder vrede.
 
 ---
 
@@ -116,5 +116,5 @@ Mense maak verkeerde keuses — Esau gee op, Jakob bedrieg. God se plan gaan ste
 
 ## Produksie-notas
 
-- **Worteltelling (ongeveer):** narrative 440 / geheue 105 / totaal 545
+- **Worteltelling (ongeveer):** narrative 398 / geheue 89 / totaal 487
 - **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.

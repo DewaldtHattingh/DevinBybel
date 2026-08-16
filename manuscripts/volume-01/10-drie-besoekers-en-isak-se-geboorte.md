@@ -31,9 +31,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Abraham sit by eikeboom Mamre; drie reisigers nader in hitte van dag.
 
-**Een dag, lank, lank gelede,** het Abraham by die eikebome van Mamre gesit. Hy het drie manne sien kom. Hy het hard gehardloop om hulle te verwelkom.
+**Een dag, lank, lank gelede,** het Abraham by die eikebome van Mamre gesit in die hitte van die dag. Hy het drie manne sien kom nader — reisigers op 'n warm dag, moeg van die pad.
 
-Hy het water vir hulle voete laat was en kos voorberei — brood, kalfvleis, melk en botter. Abraham was gasvry vir die vreemdelinge.
+Hy het hard gehardloop van die tentdeur af om hulle te verwelkom. Hy het gebuig en gesê: My Here, as ek genade gevind het, moet U asseblief nie by u dienaar verbygaan nie. Hy het water vir hulle voete laat was en kos laat voorberei — vars brood, 'n vet kalf, melk en botter. Abraham was gasvry vir die vreemdelinge, selfs al het hy nie geweet wie hulle is nie.
 
 ---
 
@@ -43,9 +43,9 @@ Hy het water vir hulle voete laat was en kos voorberei — brood, kalfvleis, mel
 
 > **Beeldnota:** Een besoeker praat; Sara luister agter tentdeur.
 
-Een van hulle het gesê: Teen hierdie tyd volgende jaar sal Sara 'n seun hê. Sara het agter die tentdeur geluister. Sy was negentig, Abraham amper honderd.
+Een van die besoekers het gevra: Waar is Sara, jou vrou? Toe het hy gesê: Teen hierdie tyd volgende jaar sal Ek terugkom, en Sara sal 'n seun hê.
 
-Sara het in haar hart gelag — kan ek nog baba kry?
+Sara het agter die tentdeur geluister. Sy was negentig jaar oud, en Abraham amper honderd. Sara het in haar hart gelag — kan ek nog 'n baba kry, nou dat ek oud is?
 
 ---
 
@@ -55,9 +55,9 @@ Sara het in haar hart gelag — kan ek nog baba kry?
 
 > **Beeldnota:** Besoeker vra waarom Sara gelag het; Sara skud kop.
 
-Die Here het vir Abraham gevra: Waarom het Sara gelag? Is enigiets te moeilik vir die Here? Teen die stel tyd volgende jaar sal Sara 'n seun hê.
+Die Here het vir Abraham gevra: Waarom het Sara gelag? Het sy gesê: Kan ek regtig 'n kind kry, nou dat ek oud is? Is enigiets te moeilik vir die Here? Teen die stel tyd volgende jaar sal Sara 'n seun hê.
 
-Sara het bang geword en gesê sy het nie gelag nie. Hy het gesê: Nee, jy het wel gelag.
+Sara was bang en het ontken. Sy het gesê sy het nie gelag nie. Hy het gesê: Nee, jy het wel gelag.
 
 ---
 
@@ -67,7 +67,9 @@ Sara het bang geword en gesê sy het nie gelag nie. Hy het gesê: Nee, jy het we
 
 > **Beeldnota:** Sara hou babaseun Isak; Abraham glimlag; tent warm en vreugdig.
 
-Die Here het onthou wat Hy beloof het. Sara het regtig 'n seun gebaar toe Abraham honderd was. Hulle het hom Isak genoem — want Sara het gelag van blydskap.
+Die Here het onthou wat Hy beloof het. Sara het regtig 'n seun gebaar toe Abraham honderd jaar oud was. Hulle het hom Isak genoem — want Sara het gesê God het my laat lag van blydskap.
+
+Abraham het Isak op die agtste dag besny, soos God beveel het. Die belofte wat so onmoontlik gelyk het, het waar geword — 'n seun vir Abraham en Sara, in hulle ouderdom, presies soos God belowe het.
 
 ---
 
@@ -77,7 +79,7 @@ Die Here het onthou wat Hy beloof het. Sara het regtig 'n seun gebaar toe Abraha
 
 > **Beeldnota:** Gesin vier; Sara sê: God het my laat lag.
 
-Sara het gesê: God het my laat lag — almal wat hoor sal saamlag. Die belofte wat so onmoontlik gelyk het, het waar geword.
+Sara het gesê: God het my laat lag — almal wat hoor sal saamlag. Wie sou gesê het Sara sou nog 'n baba kry, nou dat sy so oud is? Maar God het dit gedoen, presies soos Hy belowe het, teen die stel tyd. Isak se naam herinner almal daaraan — lag van blydskap, omdat God sy woord hou, selfs wanneer dit onmoontlik lyk vir ou mense soos Abraham en Sara, in hulle ouderdom.
 
 ---
 
@@ -112,5 +114,5 @@ Vir God is niks te moeilik nie. Hy hou sy woord — soms op 'n manier wat ons la
 
 ## Produksie-notas
 
-- **Worteltelling (ongeveer):** narrative 410 / geheue 100 / totaal 510
+- **Worteltelling (ongeveer):** narrative 387 / geheue 90 / totaal 477
 - **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.

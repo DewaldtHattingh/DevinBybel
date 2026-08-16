@@ -31,9 +31,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Josef by Potifar se huis; ordentlik; Here se teenwoordigheid as sagte lig.
 
-**Een dag, lank, lank gelede,** het handelaars Josef na Egipte gebring. Potifar, een van Farao se amptenare, het hom gekoop.
+**Een dag, lank, lank gelede,** het handelaars Josef na Egipte gebring. Potifar, een van Farao se amptenare en kaptein van die lyfwag, het hom by die Ismaeliete gekoop.
 
-Die Here was met Josef. Alles wat hy doen, het geslaag. Potifar het Josef oor sy huis gestel.
+Die Here was met Josef. Alles wat hy doen, het geslaag. Potifar het gesien dat die Here met Josef is, en alles wat Josef doen, doen die Here voorspoedig. Potifar het Josef oor sy hele huis gestel.
 
 ---
 
@@ -43,9 +43,9 @@ Die Here was met Josef. Alles wat hy doen, het geslaag. Potifar het Josef oor sy
 
 > **Beeldnota:** Potifar se vrou wys na Josef; Josef draai weg — geen aanraking nie.
 
-Potifar se vrou het Josef gevra om by haar te slaap. Josef het nee gesê — hy sal nie sy meester verraai nie. Sy het dag na dag gepla.
+Potifar se vrou het na Josef gekyk en vir hom gesê: Slaap by my. Josef het nee gesê — my meester vertrou my met alles in sy huis. Ek sal nie hierdie groot kwaad doen en sondig teen God nie.
 
-Op 'n dag het sy sy jas gegryp. Josef het weggehardloop. Sy het gelieg en gesê Josef het probeer skaad.
+Sy het dag na dag gepla, maar Josef het na haar toe geluister en by haar gebly. Op 'n dag toe niemand in die huis was nie, het sy sy jas gegryp. Josef het sy jas in haar hand gelaat en weggehardloop na buite.
 
 ---
 
@@ -55,7 +55,9 @@ Op 'n dag het sy sy jas gegryp. Josef het weggehardloop. Sy het gelieg en gesê 
 
 > **Beeldnota:** Josef agter tronktralies; steeds regop; geen marteling nie.
 
-Potifar het Josef in die tronk gegooi. Maar die Here was steeds met Josef. Die tronkhoof het hom vertrou.
+Sy het Josef se jas behou en vir haar man gesê: Kyk, die Hebrew slaaf wat jy ingebring het, het my probeer skaad! Toe ek hard geroep het, het hy sy jas gelaat en weggehardloop.
+
+Potifar was kwaad en het Josef in die tronk gegooi waar die koning se gevangenes was. Maar die Here was steeds met Josef — Hy het hom genade gegee voor die tronkhoof, en die tronkhoof het alles in die tronk aan Josef se sorg toevertrou.
 
 ---
 
@@ -65,9 +67,9 @@ Potifar het Josef in die tronk gegooi. Maar die Here was steeds met Josef. Die t
 
 > **Beeldnota:** Skinkbord en bakker vertel drome; Josef luister in tronk.
 
-Farao se skinkbord en bakker is ook in die tronk. Hulle het gedroom. Josef het gesê die drome kom van God.
+Farao se skinkbord en bakker het ook in die tronk geland. Hulle het op 'n nag gedroom, en Josef het die volgende oggend gesien hulle is bedroef.
 
-Vir die skinkbord: jy sal weer dien. Vir die bakker: jy sal hang. So het dit gebeur.
+Hy het gevra: Waarom kyk julle vandag so bedroef? Vertel my julle drome. Josef het gesê die drome kom van God. Hy het die drome vertolk: die skinkbord sal weer by Farao dien, maar die bakker sal hang.
 
 ---
 
@@ -77,7 +79,9 @@ Vir die skinkbord: jy sal weer dien. Vir die bakker: jy sal hang. So het dit geb
 
 > **Beeldnota:** Skinkbord verlaat tronk; Josef kyk deur tralies — vergeet.
 
-Josef het die skinkbord gevra: Onthou my as jy vry is. Maar toe die skinkbord weer by Farao was, het hy Josef vergeet. Josef het nog langer in die tronk gebly.
+So het dit presies gebeur — die skinkbord is terug by Farao, en die bakker is opgehang. Josef het die skinkbord gevra: Onthou my asseblief as jy by Farao is. Vertel hom van my en kry my uit hierdie tronk.
+
+Maar die skinkbord het Josef vergeet. Twee volle jare het verbygegaan, en Josef was nog in die tronk. Maar die Here het hom nie vergeet nie — Hy was steeds by Josef, selfs in die donker tronk, wag op die regte tyd.
 
 ---
 
@@ -112,5 +116,5 @@ Die Here bly by ons selfs wanneer mense ons onreg doen. Josef het reg gebly, al 
 
 ## Produksie-notas
 
-- **Worteltelling (ongeveer):** narrative 410 / geheue 100 / totaal 510
+- **Worteltelling (ongeveer):** narrative 382 / geheue 95 / totaal 477
 - **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.

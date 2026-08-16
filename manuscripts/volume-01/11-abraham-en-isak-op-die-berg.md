@@ -34,9 +34,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Abraham en Isak trek met esels; hout op Isak se skouers; berg ver weg.
 
-**Een dag, lank, lank gelede,** het God Abraham getoets. Hy het gesê: Neem jou seun Isak, jou enigste seun wat jy liefhet, en gaan na die land Moria. Offer hom daar as brandoffer.
+**Een dag, lank, lank gelede,** het God Abraham getoets. Hy het gesê: Neem jou seun Isak, jou enigste seun wat jy liefhet, en gaan na die land Moria. Offer hom daar as brandoffer op een van die berge wat Ek jou sal wys.
 
-Vroeg die oggend het Abraham opgestaan, hout gesny en met Isak en twee diensbode vertrek.
+Vroeg die volgende oggend het Abraham opgestaan. Hy het hout gesny vir die offer, sy esels saamgeroep en met Isak en twee diensbode vertrek. Hulle het drie dae geloop na die plek wat God gewys het — die berg in die land Moria, ver weg van hulle tent.
 
 ---
 
@@ -46,9 +46,9 @@ Vroeg die oggend het Abraham opgestaan, hout gesny en met Isak en twee diensbode
 
 > **Beeldnota:** Vader en seun loop op bergpad; Isak dra hout.
 
-Isak het Abraham gevra: My vader, hier is die vuur en hout — maar waar is die lam vir die offer?
+Abraham het vir die diensbode gesê: Bly hier met die esel. Ek en die seun sal verder gaan om te aanbid, en dan sal ons terugkom na julle toe.
 
-Abraham het gesê: My seun, God sal self die lam voorsien. Hulle het verder geloop.
+Isak het Abraham gevra: My vader, hier is die vuur en die hout — maar waar is die lam vir die brandoffer? Abraham het gesê: My seun, God sal self die lam vir die brandoffer voorsien. Hulle het verder geloop, albei saam.
 
 ---
 
@@ -58,7 +58,7 @@ Abraham het gesê: My seun, God sal self die lam voorsien. Hulle het verder gelo
 
 > **Beeldnota:** Altaar van klippe op berg; Isak op altaar — geen mes sigbaar nie.
 
-Abraham het op die plek wat God gewys het 'n altaar gebou. Hy het Isak gebind en op die altaar gelê. Hy het sy hand uitgesteek met 'n mes.
+Abraham het op die plek wat God gewys het 'n altaar van klippe gebou. Hy het die hout neergelê en Isak, sy seun, gebind en op die altaar bo-op die hout gelê. Hy het sy hand uitgesteek en die mes gevat om sy seun te offer — want God het dit gevra.
 
 ---
 
@@ -68,9 +68,9 @@ Abraham het op die plek wat God gewys het 'n altaar gebou. Hy het Isak gebind en
 
 > **Beeldnota:** Engel roep; ram vas in bos; Abraham kyk op.
 
-'n Engel het uit die hemel geroep: Moenie die seun seer maak nie! Nou weet Ek jy vrees God — jy het nie jou seun vir My geweier nie.
+'n Engel van die Here het uit die hemel geroep: Abraham! Abraham! Moenie die seun seer maak nie! Moenie aan hom iets doen nie! Nou weet Ek jy vrees God — jy het nie jou seun, jou enigste seun, vir My geweier nie.
 
-Abraham het agter hom 'n ram sien vassteek in 'n bos. Hy het die ram as offer gebring in plaas van sy seun.
+Abraham het opgekyk en 'n ram agter hom sien vassteek in 'n bos deur sy horings. Hy het die ram gegaan en dit as brandoffer gebring in plaas van sy seun.
 
 ---
 
@@ -80,7 +80,9 @@ Abraham het agter hom 'n ram sien vassteek in 'n bos. Hy het die ram as offer ge
 
 > **Beeldnota:** Abraham en Isak trek huis toe; engel se woorde as lig bo hulle.
 
-Abraham het die plek Jehova-Jireh genoem — die Here sal voorsien. Die engel het beloof dat Abraham se nageslag soos die sterre en sand sal wees. Deur sy nageslag sal alle nasies geseën word.
+Abraham het die plek Jehova-Jireh genoem — die Here sal voorsien. Die engel het weer geroep en beloof dat Abraham se nageslag soos die sterre en die sand aan die see sal wees. Deur sy nageslag sal alle nasies op aarde geseën word, omdat hy gehoorsaam was op die berg Moria.
+
+Abraham en Isak het saam teruggegaan na die diensbode. Isak leef nog — God het voorsien, net soos Abraham gesê het. Die toets was swaar, maar Abraham het God vertrou tot die einde, en Isak het saamgegaan, veilig en lewendig van die berg af.
 
 ---
 
@@ -115,5 +117,5 @@ Abraham het God vertrou, selfs toe dit moeilik was. Die Here sien en voorsien �
 
 ## Produksie-notas
 
-- **Worteltelling (ongeveer):** narrative 420 / geheue 105 / totaal 525
+- **Worteltelling (ongeveer):** narrative 389 / geheue 89 / totaal 478
 - **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.

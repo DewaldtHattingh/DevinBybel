@@ -33,9 +33,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Donker wêreld; een regverdige man Noag staar na hemel — hoopvol.
 
-**Een dag, lank, lank gelede,** was die mense se gedagtes die hele dag net kwaad. God was hartseer oor die boosheid op die aarde.
+**Een dag, lank, lank gelede,** was die mense se gedagtes die hele dag net kwaad. Die aarde was vol geweld. God was hartseer oor die boosheid op die aarde en het besluit om die aarde met water te reinig.
 
-Maar Noag het die Here gevind. God het Noag genade gegee. Hy het vir Noag gesê: Bou 'n groot ark van sipresenhout. Maak kamers daarin en smeer dit binne en buite met teer.
+Maar Noag het die Here gevind. Noag was 'n regverdige man en het met God geleef. God het Noag genade gegee en hom vertel wat sou gebeur. Hy het vir Noag gesê: Bou 'n groot ark van sipresenhout. Maak kamers daarin en smeer dit binne en buite met teer.
 
 ---
 
@@ -45,9 +45,9 @@ Maar Noag het die Here gevind. God het Noag genade gegee. Hy het vir Noag gesê:
 
 > **Beeldnota:** Noag bou die lang ark; gesin help; bome en gereedschap.
 
-Noag het die ark gebou soos God gesê het — driehonderd el lank, vyftig el wyd, dertig el hoog. 'n Deur aan die kant en drie verdiepings.
+Noag het die ark gebou soos God gesê het — driehonderd el lank, vyftig el wyd, dertig el hoog. 'n Deur aan die kant en drie verdiepings. Noag het jare lank gewerk, en sy seuns Sem, Ham en Jafet het hom gehelp.
 
-God het gesê bring diere: twee van elke soort, mannetjie en wyfie. Ook sewe pare van die diere wat later vir offers gebruik word. Voëls en diere het na die ark gekom.
+God het gesê bring diere in die ark: twee van elke soort, mannetjie en wyfie, om hulle lewend te hou. Ook sewe pare van die skoon diere wat later vir offers gebruik word. Voëls en diere het na die ark gekom, soos God beveel het.
 
 ---
 
@@ -57,9 +57,9 @@ God het gesê bring diere: twee van elke soort, mannetjie en wyfie. Ook sewe par
 
 > **Beeldnota:** Reën val; ark dryf op water; diere veilig binne — geen verdrinking sigbaar nie.
 
-Noag, sy vrou, sy seuns en hulle vroue het die ark ingegaan. Sewe dae later het reën veertig dae en nagte geval. Waters het uit die grond opgebreek. Alles onder die hemel is bedek.
+Noag, sy vrou, sy drie seuns en hulle vroue — agt mense in totaal — het die ark ingegaan. Sewe dae later het reën veertig dae en nagte geval. Waters het uit die grond opgebreek en uit die hemel gestroom. Alles onder die hemel is bedek met water.
 
-Die ark het op die water gebly. Al wat buite was, het gesterf. Maar God het Noag onthou.
+Die ark het op die water gebly en dryf veilig. Al wat buite die ark was, het gesterf. Maar die Here het Noag onthou — Hy het nie sy dienaar vergeet nie.
 
 ---
 
@@ -69,7 +69,7 @@ Die ark het op die water gebly. Al wat buite was, het gesterf. Maar God het Noag
 
 > **Beeldnota:** Ark op stil water; reën stop; son breek deur wolke.
 
-God het wind geblaas en die waters laat sak. Die ark het op die berg Ararat rus. Noag het 'n kraai en toe 'n duif uitgestuur. Toe die duif nie weer terugkom nie, het Noag geweet die water was laag genoeg.
+God het wind geblaas oor die aarde en die waters laat sak. Die ark het op die berg Ararat rus. Noag het 'n kraai uit die ark gestuur, maar die kraai het heen en weer gevlieg. Toe het hy 'n duif uitgestuur. Die duif het teruggekom met 'n olyfblaar in sy bek. Noag het geweet die water was laag genoeg.
 
 ---
 
@@ -79,7 +79,9 @@ God het wind geblaas en die waters laat sak. Die ark het op die berg Ararat rus.
 
 > **Beeldnota:** Noag en gesin stap uit op droë grond; diere kom uit — vreugde.
 
-God het vir Noag gesê gaan uit die ark. Bring al die diere saam. Hulle het uitgestap op droë land. Alles wat in die ark was, het geleef — net soos God beloof het.
+God het vir Noag gesê: Gaan uit die ark, jy en jou vrou, jou seuns en hulle vroue. Bring al die diere saam — laat hulle uitgaan en die aarde weer vul. Hulle het uitgestap op droë land.
+
+Alles wat in die ark was, het geleef — mense, diere en voëls — net soos God beloof het. Die aarde was weer droog en stil, en die reën het opgehou.
 
 ---
 
@@ -113,5 +115,5 @@ God straf groot boosheid, maar Hy red wie in Hom vertrou. Noag het gehoorsaam, e
 
 ## Produksie-notas
 
-- **Worteltelling (ongeveer):** narrative 450 / geheue 100 / totaal 550
+- **Worteltelling (ongeveer):** narrative 390 / geheue 92 / totaal 482
 - **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.

@@ -31,9 +31,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Een groot vlakte; mense met bakstene; almal praat saam.
 
-**Een dag, lank, lank gelede,** het die hele wêreld een taal en dieselfde woorde gehad. Mense het oos getrek en 'n vlakte in Sinear gevind.
+**Een dag, lank, lank gelede,** het die hele wêreld een taal en dieselfde woorde gehad. Almal het mekaar verstaan. Mense het oos getrek en 'n vlakte in Sinear gevind.
 
-Hulle het vir mekaar gesê: Kom, laat ons bakstene maak en 'n stad bou met 'n toring wat tot in die hemel reik. Bakstene in plaas van klip, teer in plaas van sement.
+Hulle het vir mekaar gesê: Kom, laat ons bakstene maak en dit goed bak. Hulle het bakstene in plaas van klip gebruik, en teer in plaas van sement. Kom, het hulle gesê, laat ons 'n stad bou met 'n toring wat tot in die hemel reik. Dan sal ons 'n naam vir ons maak, sodat ons nie oor die hele aarde versprei word nie.
 
 ---
 
@@ -43,7 +43,9 @@ Hulle het vir mekaar gesê: Kom, laat ons bakstene maak en 'n stad bou met 'n to
 
 > **Beeldnota:** Toring halfgebou; mense dra bakstene op trappe.
 
-Hulle wou 'n naam vir hulleself maak. Anders sou hulle oor die hele aarde versprei word. Hulle het die toring gebou — hoër en hoër.
+Hulle wou 'n naam vir hulleself maak — hulle eie roem, hulle eie mag. Anders sou hulle oor die hele aarde versprei word, soos God beveel het. Maar hulle wou bymekaar bly en hul eie groot stad bou, sonder om op God te vertrou.
+
+Hulle het die toring gebou — laag vir laag, hoër en hoër. Die stad het ook gegroei rondom die toring. Hulle het hard gewerk om hulle plan uit te voer, sonder om God te vra of dit reg is.
 
 ---
 
@@ -53,7 +55,9 @@ Hulle wou 'n naam vir hulleself maak. Anders sou hulle oor die hele aarde verspr
 
 > **Beeldnota:** Die Here kyk af van die hemel na die stad; ernstig maar nie woedend nie.
 
-Die Here het afgeklim om die stad en toring te sien. Hy het gesê: Hulle is een volk met een taal. As hulle dit begin, sal niks vir hulle onmoontlik wees nie.
+Die Here het afgeklim om die stad en toring te sien wat die mense gebou het. Hy het gesê: Hulle is een volk en hulle het almal een taal. As hulle dit begin doen, sal niks vir hulle onmoontlik wees nie — hulle sal net aanhou bou.
+
+Die Here het besluit om hulle plan te versteur, sodat hulle nie alles kan doen wat hulle wil nie.
 
 ---
 
@@ -63,7 +67,7 @@ Die Here het afgeklim om die stad en toring te sien. Hy het gesê: Hulle is een 
 
 > **Beeldnota:** Mense praat verward; verskillende gebare; geen geweld nie.
 
-Die Here het hulle taal verwar. Een man vra vir water; 'n ander bring klip. Hulle kon mekaar nie meer verstaan nie. Die bouwerk het gestop.
+Die Here het hulle taal verwar. Een man het vir 'n ander gesê iets, maar die ander het dit nie verstaan nie. Een vra vir water; 'n ander bring klip. Hulle kon mekaar nie meer verstaan nie. Die bouwerk het gestop — niemand kon meer saamwerk nie, en die toring bly onvoltooid.
 
 ---
 
@@ -73,7 +77,9 @@ Die Here het hulle taal verwar. Een man vra vir water; 'n ander bring klip. Hull
 
 > **Beeldnota:** Groepe trek verskillende kante toe; onvoltooide toring agter.
 
-Die Here het hulle van daar af oor die aarde versprei. Hulle het opgehou om die stad te bou. Daarom noem mense dit Babel — want die Here het daar die taal van die aarde verwar.
+Die Here het hulle van daar af oor die aarde versprei. Hulle het opgehou om die stad te bou. Die toring staan onvoltooid agter — hoog genoeg om te wys wat hulle wou doen, maar nooit hoog genoeg om by God te kom nie.
+
+Daarom noem mense dit Babel — want die Here het daar die taal van die aarde verwar, en die mense is oor die wêreld versprei, elke groep met sy eie taal, soos God beplan het, nie soos hulle wou bou en regeer nie. Die toring bly onvoltooid.
 
 ---
 
@@ -106,5 +112,5 @@ Mense wil soms hul eie groot naam bou in plaas van God te eer. God regeer, en Hy
 
 ## Produksie-notas
 
-- **Worteltelling (ongeveer):** narrative 390 / geheue 95 / totaal 485
+- **Worteltelling (ongeveer):** narrative 391 / geheue 89 / totaal 480
 - **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.

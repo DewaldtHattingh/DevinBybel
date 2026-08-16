@@ -30,9 +30,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Noag bou altaar op droë grond; rook styg op; gesin naby.
 
-**Een dag, lank, lank gelede,** het Noag en sy gesin die ark verlaat. Al die diere het ook uitgestap op droë grond.
+**Een dag, lank, lank gelede,** het Noag en sy gesin die ark verlaat. Al die diere het ook uitgestap op droë grond. Die aarde was weer leefbaar.
 
-Noag het vir die Here 'n altaar gebou. Hy het skoon diere geoffer. Die Here het die geur aangenaam gevind.
+Noag het vir die Here 'n altaar gebou. Hy het skoon diere en voëls geoffer op die altaar. Die Here het die geur aangenaam gevind en in sy hart gesê Hy sal nooit weer elke lewende ding met 'n sondvloed vernietig nie, al is die mense se harte weer kwaad.
 
 ---
 
@@ -42,7 +42,9 @@ Noag het vir die Here 'n altaar gebou. Hy het skoon diere geoffer. Die Here het 
 
 > **Beeldnota:** God praat vanaf hemel; Noag luister; wolke in agtergrond.
 
-God het in sy hart gesê Hy sal nooit weer elke lewende ding met 'n sondvloed vernietig nie. Die aarde se seisoene sal bly — saadtyd, oes, koue en hitte.
+God het Noag en sy seuns gesê: Wees vrugbaar, vermeerder en vul die aarde. Die diere sal vir julle vrees. Alles wat lewe en beweeg, is vir julle kos — net soos die groen plante.
+
+God het ook gesê die aarde se seisoene sal bly — saadtyd en oes, koue en hitte, somer en winter, dag en nag sal nie ophou nie. Solank die aarde bly, sal hierdie dinge bly. Noag en sy gesin het uitgesprei oor die land.
 
 ---
 
@@ -52,7 +54,9 @@ God het in sy hart gesê Hy sal nooit weer elke lewende ding met 'n sondvloed ve
 
 > **Beeldnota:** Reënboog bo Noag en diere; helder kleure, kindervriendelik.
 
-God het vir Noag en sy seuns gesê: Kyk na die reënboog in die wolke. Dit is die teken van my verbond. Wanneer ek wolke oor die aarde bring, sal die reënboog verskyn. Dan sal ek onthou dat ek nooit weer al lewe met water sal verdelg nie.
+God het vir Noag en sy seuns gesê: Kyk na die reënboog in die wolke. Dit is die teken van my verbond tussen My en die aarde. Wanneer ek wolke oor die aarde bring en die reënboog in die wolk verskyn, sal ek onthou dat ek nooit weer al lewe met water sal verdelg nie.
+
+Die reënboog sal verskyn wanneer die wolke kom — 'n teken vir alle geslagte, vir altyd.
 
 ---
 
@@ -62,7 +66,9 @@ God het vir Noag en sy seuns gesê: Kyk na die reënboog in die wolke. Dit is di
 
 > **Beeldnota:** God se hand wys na reënboog; verbond tussen hemel en aarde.
 
-God het gesê die reënboog staan tussen Hom en die aarde. Dit is 'n teken vir alle geslagte. Wanneer die reënboog kom, sal God onthou en nie weer 'n sondvloed stuur nie.
+God het gesê die reënboog staan tussen Hom en die aarde. Dit is die teken van die verbond wat Hy met Noag, sy seuns en alle lewende wesens gesluit het. Wanneer die reënboog kom, sal God onthou en nie weer 'n sondvloed stuur nie.
+
+Die verbond is vir alle geslagte — vir Noag, sy kinders en al hulle nageslag, en vir al die diere wat saam met hom uit die ark gekom het. Die reënboog sou hulle altyd herinner aan God se belofte van genade.
 
 ---
 
@@ -72,7 +78,7 @@ God het gesê die reënboog staan tussen Hom en die aarde. Dit is 'n teken vir a
 
 > **Beeldnota:** Noag se gesin en diere versprei oor groen land; son en reënboog.
 
-God het Noag en sy seuns gesalf: Wees vrugbaar, vermeerder en vul die aarde. Die diere sal vir julle vrees. God het die verbond met Noag, sy nageslag en alle diere gesluit.
+God het Noag en sy seuns gesalf: Wees vrugbaar, vermeerder en vul die aarde. Hulle het uitgesprei oor die land. Elke keer as die reën val en die reënboog verskyn, kan hulle onthou: God hou sy woord — Hy sal nooit weer al lewe met water verdelg nie, vir altyd nie. Die verbond staan vas, van geslag tot geslag, vir altyd.
 
 ---
 
@@ -106,5 +112,5 @@ Na die oordeel gee God 'n belofte van genade. Die reënboog herinner ons dat God
 
 ## Produksie-notas
 
-- **Worteltelling (ongeveer):** narrative 400 / geheue 95 / totaal 495
+- **Worteltelling (ongeveer):** narrative 379 / geheue 98 / totaal 477
 - **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.
