@@ -69,7 +69,7 @@ Jesus neem die kinders in sy arms. Hy leg sy hande op hulle en seen hulle. Hy si
 
 > **Beeldnota:** Kinders om Jesus; vreugde; ouers rustig; kalm dag.
 
-Die kinders is by Jesus. Die ouers is tevred. Jesus wys hoe om in God se koninkryk te kom: soos een kind — oop, nie vol van self nie, bereid om te ontvang. En weet jy wat toe gebeur het? Jesus sê: kom na my — selfs die klein kinders.
+Die kinders is by Jesus. Die ouers is tevred. Jesus wys hoe om in God se koninkryk te kom: soos een kind — oop, nie vol van self nie, bereid om te ontvang. En weet jy wat toe gebeur het? Jesus sê: kom na my — selfs die klein kinders, elke dag.
 
 ---
 

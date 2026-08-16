@@ -70,7 +70,7 @@ Jesus sê: Vandag is redding vir hierdie huis gekom, omdat hy ook een seun van A
 
 > **Beeldnota:** Saggeus by huis; boom in verte; kalm straat; vrede.
 
-Saggeus gee terug wat hy verkeerd geneem het. Hy gee aan die armes. Jesus gaan verder — maar Saggeus is nie dieselfde man meer nie. Die Here was by Saggeus. En weet jy wat toe gebeur het? Jesus soek die verlore — en vind hulle in gewone strate.
+Saggeus gee terug wat hy verkeerd geneem het. Hy gee aan die armes. Jesus gaan verder — maar Saggeus is nie dieselfde man meer nie. Die Here was by Saggeus. En weet jy wat toe gebeur het? Jesus soek die verlore — en vind hulle in gewone strate, soos Saggeus in Jerigo.
 
 ---
 
