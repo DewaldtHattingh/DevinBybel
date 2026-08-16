@@ -1,0 +1,902 @@
+[
+  {
+    "id": "ABR-01",
+    "passage": "Gen 12:1–9",
+    "title": "Abram word geroep",
+    "file": "manuscripts-v2/abr/01-abram-word-geroep.md"
+  },
+  {
+    "id": "ABR-02",
+    "passage": "Gen 15; 17:1–21",
+    "title": "God se verbond met Abram",
+    "file": "manuscripts-v2/abr/02-god-se-verbond-met-abram.md"
+  },
+  {
+    "id": "ABR-03",
+    "passage": "Gen 18:1–15",
+    "title": "Drie besoekers; Sara lag",
+    "file": "manuscripts-v2/abr/03-drie-besoekers-sara-lag.md"
+  },
+  {
+    "id": "ABR-04",
+    "passage": "Gen 21:1–7",
+    "title": "Isak word gebore",
+    "file": "manuscripts-v2/abr/04-isak-word-gebore.md"
+  },
+  {
+    "id": "ABR-05",
+    "passage": "Gen 22:1–19",
+    "title": "Abraham en Isak op die berg",
+    "file": "manuscripts-v2/abr/05-abraham-en-isak-op-die-berg.md"
+  },
+  {
+    "id": "ABR-06",
+    "passage": "Gen 24",
+    "title": "Isak en Rebekka",
+    "file": "manuscripts-v2/abr/06-isak-en-rebekka.md"
+  },
+  {
+    "id": "ABR-07",
+    "passage": "Gen 25:19–34; 27",
+    "title": "Jakob en Esau",
+    "file": "manuscripts-v2/abr/07-jakob-en-esau.md"
+  },
+  {
+    "id": "ABR-08",
+    "passage": "Gen 28:10–22",
+    "title": "Jakob se droom by Bet-El",
+    "file": "manuscripts-v2/abr/08-jakob-se-droom-by-bet-el.md"
+  },
+  {
+    "id": "ABR-09",
+    "passage": "Gen 29–31 (gekies)",
+    "title": "Jakob by Laban",
+    "file": "manuscripts-v2/abr/09-jakob-by-laban.md"
+  },
+  {
+    "id": "ABR-10",
+    "passage": "Gen 32–33",
+    "title": "Jakob word Israel",
+    "file": "manuscripts-v2/abr/10-jakob-word-israel.md"
+  },
+  {
+    "id": "ACT-01",
+    "passage": "Hand. 2",
+    "title": "Pinkster",
+    "file": "manuscripts-v2/act/01-pinkster.md"
+  },
+  {
+    "id": "ACT-02",
+    "passage": "Hand. 2:42–47; 3",
+    "title": "Die vroeë gemeente",
+    "file": "manuscripts-v2/act/02-die-vroeë-gemeente.md"
+  },
+  {
+    "id": "ACT-03",
+    "passage": "Hand. 6–7",
+    "title": "Stefanus",
+    "file": "manuscripts-v2/act/03-stefanus.md"
+  },
+  {
+    "id": "ACT-04",
+    "passage": "Hand. 8:26–40",
+    "title": "Filippus en die Ethiopiër",
+    "file": "manuscripts-v2/act/04-filippus-en-die-ethiopiër.md"
+  },
+  {
+    "id": "ACT-05",
+    "passage": "Hand. 9",
+    "title": "Saul ontmoet Jesus",
+    "file": "manuscripts-v2/act/05-saul-ontmoet-jesus.md"
+  },
+  {
+    "id": "ACT-06",
+    "passage": "Hand. 10",
+    "title": "Petrus en Cornelius",
+    "file": "manuscripts-v2/act/06-petrus-en-cornelius.md"
+  },
+  {
+    "id": "ACT-07",
+    "passage": "Hand. 16",
+    "title": "Paulus en Silas in die tronk",
+    "file": "manuscripts-v2/act/07-paulus-en-silas-in-die-tronk.md"
+  },
+  {
+    "id": "ACT-08",
+    "passage": "Hand. 17",
+    "title": "Paulus in Atene",
+    "file": "manuscripts-v2/act/08-paulus-in-atene.md"
+  },
+  {
+    "id": "ACT-09",
+    "passage": "Hand. 27–28",
+    "title": "Paulus se reis na Rome",
+    "file": "manuscripts-v2/act/09-paulus-se-reis-na-rome.md"
+  },
+  {
+    "id": "DAN-01",
+    "passage": "Dan 1",
+    "title": "Daniël se vriende bly getrou",
+    "file": "manuscripts-v2/dan/01-daniel-se-vriende-bly-getrou.md"
+  },
+  {
+    "id": "DAN-02",
+    "passage": "Dan 3",
+    "title": "Die vuuroond",
+    "file": "manuscripts-v2/dan/02-die-vuuroond.md"
+  },
+  {
+    "id": "DAN-03",
+    "passage": "Dan 6",
+    "title": "Daniël in die leeuikuil",
+    "file": "manuscripts-v2/dan/03-daniel-in-die-leeuikuil.md"
+  },
+  {
+    "id": "DAV-01",
+    "passage": "1 Sam 16:1–13",
+    "title": "Dawid word gesalf",
+    "file": "manuscripts-v2/dav/01-dawid-word-gesalf.md"
+  },
+  {
+    "id": "DAV-02",
+    "passage": "1 Sam 16:11–23; 17:34–37",
+    "title": "Dawid, die leeu en die beer",
+    "file": "manuscripts-v2/dav/02-dawid-die-leeu-en-die-beer.md"
+  },
+  {
+    "id": "DAV-03",
+    "passage": "1 Sam 17",
+    "title": "Dawid en Goliat",
+    "file": "manuscripts-v2/dav/03-dawid-en-goliat.md"
+  },
+  {
+    "id": "DAV-04",
+    "passage": "1 Sam 18:1–16; 20:1–42",
+    "title": "Dawid en Jonatan",
+    "file": "manuscripts-v2/dav/04-dawid-en-jonatan.md"
+  },
+  {
+    "id": "DAV-05",
+    "passage": "1 Sam 19; 23:14–29",
+    "title": "Saul jaag Dawid",
+    "file": "manuscripts-v2/dav/05-saul-jaag-dawid.md"
+  },
+  {
+    "id": "DAV-06",
+    "passage": "1 Sam 24",
+    "title": "Dawid spaar Saul",
+    "file": "manuscripts-v2/dav/06-dawid-spaar-saul.md"
+  },
+  {
+    "id": "DAV-07",
+    "passage": "2 Sam 2:1–4; 5:1–12",
+    "title": "Dawid word koning",
+    "file": "manuscripts-v2/dav/07-dawid-word-koning.md"
+  },
+  {
+    "id": "DAV-08",
+    "passage": "2 Sam 6:1–15",
+    "title": "Die ark na Jerusalem",
+    "file": "manuscripts-v2/dav/08-die-ark-na-jerusalem.md"
+  },
+  {
+    "id": "DAV-09",
+    "passage": "2 Sam 11:1–12:14",
+    "title": "Dawid se sonde en Nathan",
+    "file": "manuscripts-v2/dav/09-dawid-se-sonde-en-nathan.md"
+  },
+  {
+    "id": "DAV-10",
+    "passage": "1 Kgs 1:1–53; 2:1–12",
+    "title": "Salomo word koning",
+    "file": "manuscripts-v2/dav/10-salomo-word-koning.md"
+  },
+  {
+    "id": "DEU-01",
+    "passage": "Deut. 31–34",
+    "title": "Moses se laaste woorde",
+    "file": "manuscripts-v2/deu/01-moses-se-laaste-woorde.md"
+  },
+  {
+    "id": "ELI-01",
+    "passage": "1 Kgs 17",
+    "title": "Elia en die weduwee",
+    "file": "manuscripts-v2/eli/01-elia-en-die-weduwee.md"
+  },
+  {
+    "id": "ELI-02",
+    "passage": "1 Kgs 18",
+    "title": "Elia op Karmel",
+    "file": "manuscripts-v2/eli/02-elia-op-karmel.md"
+  },
+  {
+    "id": "ELI-03",
+    "passage": "1 Kgs 19",
+    "title": "Elia by Horeb",
+    "file": "manuscripts-v2/eli/03-elia-by-horeb.md"
+  },
+  {
+    "id": "ELS-01",
+    "passage": "2 Kgs 5:1–15",
+    "title": "Elisa en Naäman",
+    "file": "manuscripts-v2/els/01-elisa-en-naaman.md"
+  },
+  {
+    "id": "EPI-01",
+    "passage": "Rom. 8; 1 Kor. 13 (gekies)",
+    "title": "Paulus skryf briewe",
+    "file": "manuscripts-v2/epi/01-paulus-skryf-briewe.md"
+  },
+  {
+    "id": "EST-01",
+    "passage": "Est 1–2",
+    "title": "Ester word koningin",
+    "file": "manuscripts-v2/est/01-ester-word-koningin.md"
+  },
+  {
+    "id": "EST-02",
+    "passage": "Est 3–8",
+    "title": "Ester waag dit vir haar volk",
+    "file": "manuscripts-v2/est/02-ester-waag-dit-vir-haar-volk.md"
+  },
+  {
+    "id": "EXO-01",
+    "passage": "Exod. 1:8–2:10",
+    "title": "Moses as baba",
+    "file": "manuscripts-v2/exo/01-moses-as-baba.md"
+  },
+  {
+    "id": "EXO-02",
+    "passage": "Exod. 2:11–4:17",
+    "title": "Die brandende bos",
+    "file": "manuscripts-v2/exo/02-die-brandende-bos.md"
+  },
+  {
+    "id": "EXO-03",
+    "passage": "Exod. 5:1–7:13",
+    "title": "Moses voor Farao",
+    "file": "manuscripts-v2/exo/03-moses-voor-farao.md"
+  },
+  {
+    "id": "EXO-04",
+    "passage": "Exod. 7:14–8:19",
+    "title": "Bloed, paddas en muggies",
+    "file": "manuscripts-v2/exo/04-bloed-paddas-en-muggies.md"
+  },
+  {
+    "id": "EXO-05",
+    "passage": "Exod. 8:20–9:12",
+    "title": "Vlieë, vee en sere",
+    "file": "manuscripts-v2/exo/05-vliee-vee-en-sere.md"
+  },
+  {
+    "id": "EXO-06",
+    "passage": "Exod. 9:13–10:20",
+    "title": "Hael en sprinkane",
+    "file": "manuscripts-v2/exo/06-hael-en-sprinkane.md"
+  },
+  {
+    "id": "EXO-07",
+    "passage": "Exod. 10:21–29",
+    "title": "Duisternis",
+    "file": "manuscripts-v2/exo/07-duisternis.md"
+  },
+  {
+    "id": "EXO-08",
+    "passage": "Exod. 12:1–28",
+    "title": "Die eerste Paasfees",
+    "file": "manuscripts-v2/exo/08-die-eerste-paasfees.md"
+  },
+  {
+    "id": "EXO-09",
+    "passage": "Exod. 11; 12:29–32",
+    "title": "Die tiende pla",
+    "file": "manuscripts-v2/exo/09-die-tiende-pla.md"
+  },
+  {
+    "id": "EXO-10",
+    "passage": "Exod. 12:33–42; 13:17–22",
+    "title": "Israel verlaat Egipte",
+    "file": "manuscripts-v2/exo/10-israel-verlaat-egipte.md"
+  },
+  {
+    "id": "EXO-11",
+    "passage": "Exod. 14:1–12",
+    "title": "Farao verander van plan",
+    "file": "manuscripts-v2/exo/11-farao-verander-van-plan.md"
+  },
+  {
+    "id": "EXO-12",
+    "passage": "Exod. 14:13–31",
+    "title": "Deur die Rooi See",
+    "file": "manuscripts-v2/exo/12-deur-die-rooi-see.md"
+  },
+  {
+    "id": "EXO-13",
+    "passage": "Exod. 16:1–35; 17:1–7",
+    "title": "Brood en water in die woestyn",
+    "file": "manuscripts-v2/exo/13-brood-en-water-in-die-woestyn.md"
+  },
+  {
+    "id": "EXO-14",
+    "passage": "Exod. 19:1–20:21",
+    "title": "Sinai en die Tien Gebooie",
+    "file": "manuscripts-v2/exo/14-sinai-en-die-tien-gebooie.md"
+  },
+  {
+    "id": "EXO-15",
+    "passage": "Exod. 32:1–35; 34:1–10",
+    "title": "Die goue kalf",
+    "file": "manuscripts-v2/exo/15-die-goue-kalf.md"
+  },
+  {
+    "id": "EXO-16",
+    "passage": "Exod. 25:1–9; 40:34–38",
+    "title": "Die tabernakel",
+    "file": "manuscripts-v2/exo/16-die-tabernakel.md"
+  },
+  {
+    "id": "EZR-01",
+    "passage": "Ezra 1; 3:8–13",
+    "title": "Terugkeer uit ballingskap",
+    "file": "manuscripts-v2/ezr/01-terugkeer-uit-ballingskap.md"
+  },
+  {
+    "id": "GEN-01",
+    "passage": "Gen 1:1–2:3",
+    "title": "Die skepping",
+    "file": "manuscripts-v2/gen/01-die-skepping.md"
+  },
+  {
+    "id": "GEN-02",
+    "passage": "Gen 2–3",
+    "title": "Adam en Eva en die sondeval",
+    "file": "manuscripts-v2/gen/02-adam-en-eva-en-die-sondeval.md"
+  },
+  {
+    "id": "GEN-03",
+    "passage": "Gen 4:1–16",
+    "title": "Kain en Abel",
+    "file": "manuscripts-v2/gen/03-kain-en-abel.md"
+  },
+  {
+    "id": "GEN-04",
+    "passage": "Gen 6:5–8:19",
+    "title": "Noag en die sondvloed",
+    "file": "manuscripts-v2/gen/04-noag-en-die-sondvloed.md"
+  },
+  {
+    "id": "GEN-05",
+    "passage": "Gen 8:20–9:17",
+    "title": "God se verbond met Noag",
+    "file": "manuscripts-v2/gen/05-god-se-verbond-met-noag.md"
+  },
+  {
+    "id": "GEN-06",
+    "passage": "Gen 11:1–9",
+    "title": "Die toring van Babel",
+    "file": "manuscripts-v2/gen/06-die-toring-van-babel.md"
+  },
+  {
+    "id": "ISA-01",
+    "passage": "Isa 6:1–8",
+    "title": "Jesaja se roeping",
+    "file": "manuscripts-v2/isa/01-jesaja-se-roeping.md"
+  },
+  {
+    "id": "ISA-02",
+    "passage": "Isa 7:14; 9:1–7; 53:1–6",
+    "title": "Jesaja se hoop op die Kind",
+    "file": "manuscripts-v2/isa/02-jesaja-se-hoop-op-die-kind.md"
+  },
+  {
+    "id": "JDG-01",
+    "passage": "Judg. 4",
+    "title": "Debora en Barak",
+    "file": "manuscripts-v2/jdg/01-debora-en-barak.md"
+  },
+  {
+    "id": "JDG-02",
+    "passage": "Judg. 6",
+    "title": "Gideon geroep",
+    "file": "manuscripts-v2/jdg/02-gideon-geroep.md"
+  },
+  {
+    "id": "JDG-03",
+    "passage": "Judg. 7",
+    "title": "Gideon se driehonderd",
+    "file": "manuscripts-v2/jdg/03-gideon-se-driehonderd.md"
+  },
+  {
+    "id": "SIM-01",
+    "passage": "Judg. 13",
+    "title": "Simson word gebore",
+    "file": "manuscripts-v2/jdg/04-simson-word-gebore.md"
+  },
+  {
+    "id": "SIM-02",
+    "passage": "Judg. 14:1–9",
+    "title": "Simson en die leeu",
+    "file": "manuscripts-v2/jdg/05-simson-en-die-leeu.md"
+  },
+  {
+    "id": "SIM-03",
+    "passage": "Judg. 14:10–20",
+    "title": "Simson se raaisel",
+    "file": "manuscripts-v2/jdg/06-simson-se-raaisel.md"
+  },
+  {
+    "id": "SIM-04",
+    "passage": "Judg. 15",
+    "title": "Simson teen die Filistyne",
+    "file": "manuscripts-v2/jdg/07-simson-teen-die-filistyne.md"
+  },
+  {
+    "id": "SIM-05",
+    "passage": "Judg. 16:4–21",
+    "title": "Simson en Delila",
+    "file": "manuscripts-v2/jdg/08-simson-en-delila.md"
+  },
+  {
+    "id": "SIM-06",
+    "passage": "Judg. 16:22–31",
+    "title": "Simson se laaste gebed",
+    "file": "manuscripts-v2/jdg/09-simson-se-laaste-gebed.md"
+  },
+  {
+    "id": "JER-01",
+    "passage": "Jer 1:4–10",
+    "title": "Jeremia geroep",
+    "file": "manuscripts-v2/jer/01-jeremia-geroep.md"
+  },
+  {
+    "id": "JER-02",
+    "passage": "Jer 25:1–11; 29:10–14",
+    "title": "Jeremia en die ballingskap",
+    "file": "manuscripts-v2/jer/02-jeremia-en-die-ballingskap.md"
+  },
+  {
+    "id": "JES-01",
+    "passage": "Luk. 1:26–38",
+    "title": "Die engel by Maria",
+    "file": "manuscripts-v2/jes/01-die-engel-by-maria.md"
+  },
+  {
+    "id": "JES-02",
+    "passage": "Matt. 1:18–25",
+    "title": "Josef se droom",
+    "file": "manuscripts-v2/jes/02-josef-se-droom.md"
+  },
+  {
+    "id": "JES-03",
+    "passage": "Luk. 2:1–7",
+    "title": "Jesus word gebore",
+    "file": "manuscripts-v2/jes/03-jesus-word-gebore.md"
+  },
+  {
+    "id": "JES-04",
+    "passage": "Luk. 2:8–20",
+    "title": "Die herders",
+    "file": "manuscripts-v2/jes/04-die-herders.md"
+  },
+  {
+    "id": "JES-05",
+    "passage": "Matt. 2:1–12",
+    "title": "Die wyse manne",
+    "file": "manuscripts-v2/jes/05-die-wyse-manne.md"
+  },
+  {
+    "id": "JES-06",
+    "passage": "Matt. 2:13–23",
+    "title": "Vlug na Egipte",
+    "file": "manuscripts-v2/jes/06-vlug-na-egipte.md"
+  },
+  {
+    "id": "JES-07",
+    "passage": "Luk. 2:41–52",
+    "title": "Die seun Jesus in die tempel",
+    "file": "manuscripts-v2/jes/07-die-seun-jesus-in-die-tempel.md"
+  },
+  {
+    "id": "JES-08",
+    "passage": "Matt. 3",
+    "title": "Johannes; Jesus se doop",
+    "file": "manuscripts-v2/jes/08-johannes-jesus-se-doop.md"
+  },
+  {
+    "id": "JES-09",
+    "passage": "Matt. 4:1–11",
+    "title": "Jesus word versoek",
+    "file": "manuscripts-v2/jes/09-jesus-word-versoek.md"
+  },
+  {
+    "id": "JES-10",
+    "passage": "Joh. 1–2",
+    "title": "Eerste dissipels; water word wyn",
+    "file": "manuscripts-v2/jes/10-eerste-dissipels-water-word-wyn.md"
+  },
+  {
+    "id": "JES-11",
+    "passage": "Joh. 3",
+    "title": "Nikodemus",
+    "file": "manuscripts-v2/jes/11-nikodemus.md"
+  },
+  {
+    "id": "JES-12",
+    "passage": "Joh. 4",
+    "title": "Die vrou by die put",
+    "file": "manuscripts-v2/jes/12-die-vrou-by-die-put.md"
+  },
+  {
+    "id": "JES-13",
+    "passage": "Matt. 5–7 (gekies)",
+    "title": "Jesus leer op die berg",
+    "file": "manuscripts-v2/jes/13-jesus-leer-op-die-berg.md"
+  },
+  {
+    "id": "JES-14",
+    "passage": "Mark. 4:35–41",
+    "title": "Jesus stil die storm",
+    "file": "manuscripts-v2/jes/14-jesus-stil-die-storm.md"
+  },
+  {
+    "id": "JES-15",
+    "passage": "Joh. 6:1–15",
+    "title": "Vyfduisend gevoed",
+    "file": "manuscripts-v2/jes/15-vyfduisend-gevoed.md"
+  },
+  {
+    "id": "JES-16",
+    "passage": "Matt. 14:22–33",
+    "title": "Jesus loop op die water",
+    "file": "manuscripts-v2/jes/16-jesus-loop-op-die-water.md"
+  },
+  {
+    "id": "JES-17",
+    "passage": "Luk. 10:25–37",
+    "title": "Die barmhartige Samaritaan",
+    "file": "manuscripts-v2/jes/17-die-barmhartige-samaritaan.md"
+  },
+  {
+    "id": "JES-18",
+    "passage": "Luk. 15:11–32",
+    "title": "Die verlore seun",
+    "file": "manuscripts-v2/jes/18-die-verlore-seun.md"
+  },
+  {
+    "id": "JES-19",
+    "passage": "Joh. 11",
+    "title": "Jesus wek Lasarus op",
+    "file": "manuscripts-v2/jes/19-jesus-wek-lasarus-op.md"
+  },
+  {
+    "id": "JES-20",
+    "passage": "Luk. 19:1–10",
+    "title": "Saggeus",
+    "file": "manuscripts-v2/jes/20-saggeus.md"
+  },
+  {
+    "id": "JES-21",
+    "passage": "Mark. 10:13–16",
+    "title": "Jesus en die kinders",
+    "file": "manuscripts-v2/jes/21-jesus-en-die-kinders.md"
+  },
+  {
+    "id": "JES-22",
+    "passage": "Mark. 9:2–9",
+    "title": "Die verheerliking",
+    "file": "manuscripts-v2/jes/22-die-verheerliking.md"
+  },
+  {
+    "id": "JES-23",
+    "passage": "Luk. 9:51; 18:31–34",
+    "title": "Jesus gaan na Jerusalem",
+    "file": "manuscripts-v2/jes/23-jesus-gaan-na-jerusalem.md"
+  },
+  {
+    "id": "JOB-01",
+    "passage": "Job 1:1–5",
+    "title": "Job en sy gesin",
+    "file": "manuscripts-v2/job/01-job-en-sy-gesin.md"
+  },
+  {
+    "id": "JOB-02",
+    "passage": "Job 1:6–22",
+    "title": "Satan daag Job uit",
+    "file": "manuscripts-v2/job/02-satan-daag-job-uit.md"
+  },
+  {
+    "id": "JOB-03",
+    "passage": "Job 2",
+    "title": "Job word siek",
+    "file": "manuscripts-v2/job/03-job-word-siek.md"
+  },
+  {
+    "id": "JOB-04",
+    "passage": "Job 2:11–13",
+    "title": "Job se vriende kom",
+    "file": "manuscripts-v2/job/04-job-se-vriende-kom.md"
+  },
+  {
+    "id": "JOB-05",
+    "passage": "Job 3–37 (gekondenseer)",
+    "title": "Job en sy vriende stry",
+    "file": "manuscripts-v2/job/05-job-en-sy-vriende-stryd.md"
+  },
+  {
+    "id": "JOB-06",
+    "passage": "Job 38–41",
+    "title": "God antwoord Job",
+    "file": "manuscripts-v2/job/06-god-antwoord-job.md"
+  },
+  {
+    "id": "JOB-07",
+    "passage": "Job 42:7–9",
+    "title": "Job se vriende word teregwys",
+    "file": "manuscripts-v2/job/07-job-se-vriende-word-tergewys.md"
+  },
+  {
+    "id": "JOB-08",
+    "passage": "Job 42:10–17",
+    "title": "Job word herstel",
+    "file": "manuscripts-v2/job/08-job-word-herstel.md"
+  },
+  {
+    "id": "JON-01",
+    "passage": "Jonah 1–4",
+    "title": "Jona",
+    "file": "manuscripts-v2/jon/01-jona.md"
+  },
+  {
+    "id": "JOS-01",
+    "passage": "Gen 37",
+    "title": "Josef se drome; verkoop",
+    "file": "manuscripts-v2/jos/01-josef-se-drome-verkoop.md"
+  },
+  {
+    "id": "JOS-02",
+    "passage": "Gen 39–40",
+    "title": "Josef by Potifar en in die tronk",
+    "file": "manuscripts-v2/jos/02-josef-by-potifar-en-in-die-tronk.md"
+  },
+  {
+    "id": "JOS-03",
+    "passage": "Gen 41",
+    "title": "Josef voor Farao",
+    "file": "manuscripts-v2/jos/03-josef-voor-farao.md"
+  },
+  {
+    "id": "JOS-04",
+    "passage": "Gen 42–43",
+    "title": "Josef se broers in Egipte",
+    "file": "manuscripts-v2/jos/04-josef-se-broers-in-egipte.md"
+  },
+  {
+    "id": "JOS-05",
+    "passage": "Gen 44–45",
+    "title": "Josef maak homself bekend",
+    "file": "manuscripts-v2/jos/05-josef-maak-homself-bekend.md"
+  },
+  {
+    "id": "JOS-06",
+    "passage": "Gen 46; 50:15–26",
+    "title": "Jakob in Egipte; Josef se vergifnis",
+    "file": "manuscripts-v2/jos/06-jakob-in-egipte-josef-se-vergifnis.md"
+  },
+  {
+    "id": "JOSI-01",
+    "passage": "2 Kgs 22:1–23:3",
+    "title": "Josia vind die wetboek",
+    "file": "manuscripts-v2/josi/01-josia-vind-die-wetboek.md"
+  },
+  {
+    "id": "JSH-01",
+    "passage": "Josh. 1; 3",
+    "title": "Josua en die Jordaan",
+    "file": "manuscripts-v2/jsh/01-josua-en-die-jordaan.md"
+  },
+  {
+    "id": "JSH-02",
+    "passage": "Josh. 2; 6",
+    "title": "Jerigo",
+    "file": "manuscripts-v2/jsh/02-jerigo.md"
+  },
+  {
+    "id": "JSH-03",
+    "passage": "Josh. 7",
+    "title": "Ai en Agan",
+    "file": "manuscripts-v2/jsh/03-ai-en-agan.md"
+  },
+  {
+    "id": "KIN-01",
+    "passage": "1 Kgs 11:26–12:24",
+    "title": "Die ryk verdeel",
+    "file": "manuscripts-v2/kin/01-die-ryk-verdeel.md"
+  },
+  {
+    "id": "MAL-01",
+    "passage": "Mal 3:1; 4:1–6",
+    "title": "Wag op die Messias",
+    "file": "manuscripts-v2/mal/01-wag-op-die-messias.md"
+  },
+  {
+    "id": "NEH-01",
+    "passage": "Neh 1–6",
+    "title": "Nehemia bou die muur",
+    "file": "manuscripts-v2/neh/01-nehemia-bou-die-muur.md"
+  },
+  {
+    "id": "NUM-01",
+    "passage": "Num. 13–14",
+    "title": "Die twaalf verkenners",
+    "file": "manuscripts-v2/num/01-die-twaalf-verkenners.md"
+  },
+  {
+    "id": "NUM-02",
+    "passage": "Num. 21:4–9",
+    "title": "Die koper slang",
+    "file": "manuscripts-v2/num/02-die-koper-slang.md"
+  },
+  {
+    "id": "PAS-01",
+    "passage": "Matt. 21:1–11",
+    "title": "Jesus ry Jerusalem binne",
+    "file": "manuscripts-v2/pas/01-jesus-ry-jerusalem-binne.md"
+  },
+  {
+    "id": "PAS-02",
+    "passage": "Matt. 21:12–16; 22:34–40",
+    "title": "Jesus in die tempel",
+    "file": "manuscripts-v2/pas/02-jesus-in-die-tempel.md"
+  },
+  {
+    "id": "PAS-03",
+    "passage": "Luk. 22; Joh. 13",
+    "title": "Die laaste maaltyd",
+    "file": "manuscripts-v2/pas/03-die-laaste-maaltyd.md"
+  },
+  {
+    "id": "PAS-04",
+    "passage": "Matt. 26:36–46",
+    "title": "Getsemane",
+    "file": "manuscripts-v2/pas/04-getsemane.md"
+  },
+  {
+    "id": "PAS-05",
+    "passage": "Matt. 26:47–56",
+    "title": "Jesus word gevange geneem",
+    "file": "manuscripts-v2/pas/05-jesus-word-gevange-geneem.md"
+  },
+  {
+    "id": "PAS-06",
+    "passage": "Matt. 26–27",
+    "title": "Jesus voor die Raad en Pilatus",
+    "file": "manuscripts-v2/pas/06-jesus-voor-die-raad-en-pilatus.md"
+  },
+  {
+    "id": "PAS-07",
+    "passage": "Luk. 22:54–62",
+    "title": "Petrus verloën Jesus",
+    "file": "manuscripts-v2/pas/07-petrus-verloen-jesus.md"
+  },
+  {
+    "id": "PAS-08",
+    "passage": "Luk. 23; Joh. 19",
+    "title": "Jesus sterf aan die kruis",
+    "file": "manuscripts-v2/pas/08-jesus-sterf-aan-die-kruis.md"
+  },
+  {
+    "id": "PAS-09",
+    "passage": "Matt. 27:57–66",
+    "title": "Jesus word begrawe",
+    "file": "manuscripts-v2/pas/09-jesus-word-begraaf.md"
+  },
+  {
+    "id": "PAS-10",
+    "passage": "Luk. 24; Joh. 20:1–18",
+    "title": "Jesus het opgestaan",
+    "file": "manuscripts-v2/pas/10-jesus-het-opgestaan.md"
+  },
+  {
+    "id": "PAS-11",
+    "passage": "Luk. 24:13–35",
+    "title": "Op pad na Emmaus",
+    "file": "manuscripts-v2/pas/11-op-pad-na-emmaus.md"
+  },
+  {
+    "id": "PAS-12",
+    "passage": "Joh. 20:19–29",
+    "title": "Tomas glo",
+    "file": "manuscripts-v2/pas/12-tomas-glo.md"
+  },
+  {
+    "id": "PAS-13",
+    "passage": "Hand. 1:1–11",
+    "title": "Jesus gaan op na die hemel",
+    "file": "manuscripts-v2/pas/13-jesus-gaan-op-na-die-hemel.md"
+  },
+  {
+    "id": "REV-01",
+    "passage": "Op. 1; 4",
+    "title": "Johannes sien die troon",
+    "file": "manuscripts-v2/rev/01-johannes-sien-die-troon.md"
+  },
+  {
+    "id": "REV-02",
+    "passage": "Op. 5",
+    "title": "Die Lam wat waardig is",
+    "file": "manuscripts-v2/rev/02-die-lam-wat-waardig-is.md"
+  },
+  {
+    "id": "REV-03",
+    "passage": "Op. 20:11–15",
+    "title": "God oordeel regverdig",
+    "file": "manuscripts-v2/rev/03-god-oordeel-regverdig.md"
+  },
+  {
+    "id": "REV-04",
+    "passage": "Op. 21:1–7",
+    "title": "'n Nuwe hemel en aarde",
+    "file": "manuscripts-v2/rev/04-n-nuwe-hemel-en-n-nuwe-aarde.md"
+  },
+  {
+    "id": "REV-05",
+    "passage": "Op. 21–22:5",
+    "title": "Die nuwe Jerusalem",
+    "file": "manuscripts-v2/rev/05-die-nuwe-jerusalem.md"
+  },
+  {
+    "id": "REV-06",
+    "passage": "Op. 22:6–21",
+    "title": "Kom, Here Jesus",
+    "file": "manuscripts-v2/rev/06-kom-here-jesus.md"
+  },
+  {
+    "id": "RUT-01",
+    "passage": "Ruth 1",
+    "title": "Rut en Naomi",
+    "file": "manuscripts-v2/rut/01-rut-en-naomi.md"
+  },
+  {
+    "id": "RUT-02",
+    "passage": "Ruth 2–4",
+    "title": "Rut en Boas",
+    "file": "manuscripts-v2/rut/02-rut-en-boas.md"
+  },
+  {
+    "id": "SAM-01",
+    "passage": "1 Sam 1:1–2:11",
+    "title": "Hanna se gebed",
+    "file": "manuscripts-v2/sam/01-hanna-se-gebed.md"
+  },
+  {
+    "id": "SAM-02",
+    "passage": "1 Sam 3",
+    "title": "Samuel hoor die Here",
+    "file": "manuscripts-v2/sam/02-samuel-hoor-die-here.md"
+  },
+  {
+    "id": "SAM-03",
+    "passage": "1 Sam 8:1–22; 10:1–24",
+    "title": "Israel vra 'n koning",
+    "file": "manuscripts-v2/sam/03-israel-vra-n-koning.md"
+  },
+  {
+    "id": "SAM-04",
+    "passage": "1 Sam 13:5–14; 15:1–23",
+    "title": "Saul ongehoorsaam",
+    "file": "manuscripts-v2/sam/04-saul-ongehoorsaam.md"
+  },
+  {
+    "id": "SOL-01",
+    "passage": "1 Kgs 3:3–28",
+    "title": "Salomo vra wysheid",
+    "file": "manuscripts-v2/sol/01-salomo-vra-wysheid.md"
+  },
+  {
+    "id": "SOL-02",
+    "passage": "1 Kgs 5–8 (gekies)",
+    "title": "Salomo bou die tempel",
+    "file": "manuscripts-v2/sol/02-salomo-bou-die-tempel.md"
+  }
+]

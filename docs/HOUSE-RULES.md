@@ -84,9 +84,10 @@ Warm painterly storybook realism; gouache/watercolour-like texture; historically
 
 ## Translation baseline
 
-- Primary: **Die Bybel 2020 (AFR20)**  
+- Primary: **Die Bybel 2020 (AFR20)** via BibleSA chapter pages (`https://www.biblesa.co.za/bible/AFR20/…`)  
+- Audit every story against the **full passage**, not only the memory verse — see [`AFR20-AUDIT-PROTOCOL.md`](AFR20-AUDIT-PROTOCOL.md)  
 - Secondary clarity: *Die Bybel vir almal* / AFR83 — never silently merge editions inside quotes  
-- Commercial use: check Bible Society of South Africa permissions
+- Commercial use: check Bible Society of South Africa quotation permissions before publishing  
 
 ## Recurring footholds (only when truthful to the passage)
 
