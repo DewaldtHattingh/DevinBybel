@@ -1,73 +1,101 @@
-# Devin’s Bedtime Bible — House Rules (Stories)
+# Devin se Bedtyd-Bybel — Huisreëls (grondwet)
+
+## Mission
+
+> “We will tell the next generation the praiseworthy deeds of the LORD, his power, and the wonders he has done.” — Psalm 78:4 〔AFR20-kontrole〕
+
+**Afrikaans anker vir die projek:** God is getrou.
+
+## Constitutional rules (non-negotiable)
+
+1. **Biblical facts are fixed. Storytelling is flexible. Theology must arise from the passage. Illustrations may clarify, but never rewrite, Scripture.**
+2. **We never remove a biblical fact merely because it is uncomfortable, unusual, violent or difficult for a child.** We adapt *how* it is explained and illustrated — not *whether* it happened.
+3. **Do not remove the biblical event; remove unnecessary graphic detail.**
+4. **Tell less per story, but tell what you choose properly.** A story = one memorable causal episode — not “the life of Moses / Dawid / Simson.”
+5. **Completeness beats round numbers.** There is **no hard story-count target**. The coverage matrix decides whether we end at 127, 145, 170, or more. Never combine episodes only to hit a quota.
 
 ## Series identity
 
-Layered Afrikaans read-aloud story Bible for ages ~2–8.  
-**Biblical facts are fixed. Storytelling is flexible. Theology must arise from the passage. Illustrations may clarify, but never rewrite, Scripture.**
+Layered Afrikaans read-aloud story Bible for ages ~2–8: simple enough for a toddler via pictures and rhythm; accurate enough that a seven- or eight-year-old still learns real names, places, causes and consequences.
+
+## Writing freeze until matrix lock
+
+**Do not draft new finished stories until the master coverage matrix is approved.**  
+Existing manuscripts under `manuscripts/` are **Draft v1** against the old 127-cap plan. They may be reused, split, or rewritten after the new matrix is locked.
 
 ## Per-story architecture
 
-- A **story** = one memorable causal episode (not “one Bible person”).
-- Standard unit: **6 designed pages** (occasionally 4 for short episodes).
-- Target: **~500–650 total words** (≈400–520 narrative + memory sections).
-- Rhythm: **wonder → orientation → problem → rising action → climax → peaceful resolution and memory**
+- Standard unit: **6 designed pages** (4 only for genuinely short episodes).
+- Target: **~500–650 total words** (production target, not an attention-science claim).
+- Rhythm: **wonder → orientation → problem → rising action → climax → peaceful landing**
+- Middle may be dramatic (Red Sea, Goliath, lions, storm). **Last 30–60 seconds descend** emotionally — bedtime, not an action cartoon.
 
 ### Opening (every story)
 
 > **Een dag, lank, lank gelede…**
 
-Then immediately locate people/place/situation with concrete nouns.
+Then locate people/place/situation with concrete nouns.
 
-### Closing (every story) — same four anchors
+### Closing anchors (print on tonight’s page)
 
 1. **Wie was in hierdie verhaal?** — 3–5 names, each with a 5–12 word role  
-2. **Wat leer ons?** — one lesson from *this* passage (not generic moralism)  
-3. **Vers om te onthou** — short verse or excerpt; mark `〔AFR20-kontrole〕` until verified word-for-word against Die Bybel 2020  
-4. **Onthou jy?** — **three retrieval questions** (person / concrete detail / meaning-cause), not statements
+2. **Wat leer ons?** — one lesson from *this* passage (never generic moralism / “believe in yourself”)  
+3. **Vers om te onthou** — short verse/excerpt; `〔AFR20-kontrole〕` until verified against Die Bybel 2020  
+4. **Onthou jy?** — three **retrieval questions** (person / concrete detail / meaning-cause)
 
-## Phrasing policy
+### Bedtime ritual (how Onthou jy? is used)
 
-| Category | Rule |
-|---|---|
-| Scripture-explicit facts | State plainly |
-| Safe connective narration | Join explicit facts without inventing hidden knowledge |
-| Invented internal states | Exclude unless the text states or clearly implies them |
-| Quotation marks | **Never** around words we created |
-| Long speeches | Paraphrase; quote only the short identity-carrying line |
+- **Onthou jy?** is **optional during tonight’s reading** if Devin is tired.
+- Preferred use: ask tonight’s three questions **tomorrow evening**, *before* the next story:
 
-## Violence rule
+> “Voor ons vanaand se storie lees — onthou jy wat gister gebeur het?”
 
-**Do not remove the biblical event; remove unnecessary graphic detail.**  
-Narration may keep the fact; image notes must remain non-graphic for ages 2–8.
+Then: **Een dag, lank, lank gelede…**
 
-## Image placeholders
+## Drafting tags (internal only — never print in the book)
 
-Every narrative page includes:
+While drafting, tag every sentence:
 
-```markdown
-![Beeld: PAGE_LABEL](../../assets/images/STORY_ID-pN.png)
+| Tag | Meaning | Allowed? |
+|-----|---------|----------|
+| **B** | Explicit biblical fact | Yes — state plainly |
+| **C** | Safe connective narration joining explicit facts | Yes — no hidden knowledge |
+| **Q** | Direct Scripture quotation (checked against AFR20) | Yes — never invent quote text |
+| *(none / other)* | Invented psychology, weekday, weather-as-fact, unspoken motives | **Challenge and usually delete** |
 
-> **Beeldnota:** …
-```
+Examples:
 
-Images are filled later. Do not invent art files.
+- **B** — Dawid het vyf gladde klippe gekies.  
+- **C** — Toe het Dawid na Goliat toe gegaan.  
+- **Forbidden** — Dawid se maag het gedraai van vrees… *(unless Scripture says so)*
+
+**Never put quotation marks around words we created.**
+
+## Violence & hard passages
+
+Narration keeps materially important violence/judgement/death when Scripture includes it.  
+Illustration stays non-graphic for ages 2–8 (no gore, no severed-head close-ups, restrained crucifixion).
+
+## Illustration direction (when art begins)
+
+Warm painterly storybook realism; gouache/watercolour-like texture; historically grounded; natural proportions; clear focal action; no VeggieTales / Marvel / photorealistic Passion extremes.
+
+**Forbidden inventions unless the passage warrants them:** glowing Samson, magical aura David, automatic halos, blond winged angels by default, old man in the clouds as God, superhero physique as default.
 
 ## Translation baseline
 
-- Primary: **Die Bybel 2020 (AFR20)** for sequence, names, theology  
-- Secondary clarity: *Die Bybel vir almal* / AFR83 — never silently merge editions inside quotation marks  
-- Commercial quotation rights: check Bible Society of South Africa permissions before publication
+- Primary: **Die Bybel 2020 (AFR20)**  
+- Secondary clarity: *Die Bybel vir almal* / AFR83 — never silently merge editions inside quotes  
+- Commercial use: check Bible Society of South Africa permissions
 
-## Recurring foothold phrases (use when truthful to the passage)
+## Recurring footholds (only when truthful to the passage)
 
 - Een dag, lank, lank gelede…
 - En weet jy wat toe gebeur het?
 - Maar die Here het hom/haar/hulle nie vergeet nie.
 - Die Here was by hom/haar/hulle.
 
-Do not force these if they distort the text.
+## File naming (after matrix lock)
 
-## File naming
-
-`manuscripts/volume-0X/NN-slug.md`  
-Example: `manuscripts/volume-01/01-skepping.md`
+`manuscripts/<section>/<NN>-<slug>.md`  
+Story IDs come from the matrix (`GEN-01`, `EXO-12`, `JOB-06`, …), not from a forced volume quota.

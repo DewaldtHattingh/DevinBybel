@@ -1,40 +1,28 @@
-# Devin se Bedtyd-Bybel (127 stories)
+# Devin se Bedtyd-Bybel
 
-Afrikaans layered read-aloud story Bible manuscripts for ages ~2–8.  
-Images are **placeholders only** — fill art later from each page’s `Beeldnota`.
+Afrikaans layered read-aloud story Bible for ages ~2–8.
 
-## What’s ready
+**Mission:** Psalm 78:4 — tell the next generation the LORD’s deeds.  
+**Anker:** God is getrou.
 
-| Item | Path |
-|---|---|
-| Coverage matrix (127 episodes) | [`docs/COVERAGE-MATRIX.md`](docs/COVERAGE-MATRIX.md) |
-| House rules | [`docs/HOUSE-RULES.md`](docs/HOUSE-RULES.md) |
-| Story template | [`docs/STORY-TEMPLATE.md`](docs/STORY-TEMPLATE.md) |
-| Full story index | [`docs/STORY-INDEX.md`](docs/STORY-INDEX.md) |
-| Manuscripts | [`manuscripts/volume-01`](manuscripts/volume-01) … [`volume-05`](manuscripts/volume-05) |
+## Current phase
 
-## Volumes
+**Coverage-matrix lock (v2)** — story writing is frozen until the master map is approved.
 
-| Volume | Theme | Stories | Folder |
-|---|---|---:|---|
-| 1 | Skepping → Josef | 22 | `manuscripts/volume-01/` |
-| 2 | Moses → Simson | 21 | `manuscripts/volume-02/` |
-| 3 | Rut, Dawid, konings & profete | 32 | `manuscripts/volume-03/` |
-| 4 | Jesus: geboorte & bediening | 23 | `manuscripts/volume-04/` |
-| 5 | Lyde → Openbaring | 29 | `manuscripts/volume-05/` |
+| Doc | Purpose |
+|-----|---------|
+| [`docs/PROJECT-DIRECTION.md`](docs/PROJECT-DIRECTION.md) | Editorial decisions |
+| [`docs/HOUSE-RULES.md`](docs/HOUSE-RULES.md) | Constitutional writing rules |
+| [`docs/COVERAGE-MATRIX.md`](docs/COVERAGE-MATRIX.md) | Full-Bible episode map (no hard story count) |
+| [`docs/MANUSCRIPT-STATUS.md`](docs/MANUSCRIPT-STATUS.md) | Draft v1 vs v2 status |
 
-**Total: 127 stories.**
+## Draft v1 manuscripts (legacy)
 
-## Story shape (every file)
+`manuscripts/volume-01` … `volume-05` — **127** stories from the old plan. Reusable raw material; will be split/rewritten to match v2 (especially Job + plagues).
 
-1. Opens: **Een dag, lank, lank gelede…**
-2. Six designed pages with `![Beeld: …](../../assets/images/…)` + **Beeldnota**
-3. Closes: **Wie was** / **Wat leer ons** / **Vers om te onthou** 〔AFR20-kontrole〕 / **Onthou jy?** (3 questions)
+## Non-negotiables
 
-## Still to do before print
-
-1. Verify every quoted verse word-for-word against **Die Bybel 2020 (AFR20)**
-2. Check BSSA copyright/permissions for commercial quotation
-3. Generate illustrations from Beeldnota + character bible
-4. Layout in Word/PDF from the six-page template
-5. Read-aloud timing pass with Devin (target natural 5–8 minutes)
+1. Biblical facts fixed; storytelling flexible; theology from the passage.  
+2. Never drop a biblical fact because it is hard — adapt explanation/illustration only.  
+3. Completeness > round numbers.  
+4. One causal episode per bedtime unit.

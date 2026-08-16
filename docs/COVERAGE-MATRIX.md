@@ -1,219 +1,282 @@
-# Scripture Coverage Matrix — 127 Stories
+# Master Scripture Coverage Matrix (v2)
 
-Master control sheet. **No story is final until its must-include facts are present and deferred items are assigned elsewhere.**
+**Status:** DRAFT for approval — **story writing frozen** until this map is locked.  
+**Rule:** The episode list emerges from Scripture. There is **no hard target** of 127 (or any other number).  
+**Unit:** one memorable causal episode per story. Dense material becomes consecutive stories, never cramped omission.
 
-Volumes: **22 / 21 / 32 / 23 / 29** = 127
+### Columns
 
----
-
-## Volume 1 — Skepping tot Josef (22)
-
-| ID | Title | Passage | Must-include | Deferred |
-|---|---|---|---|---|
-| V01-01 | Die skepping | Gen. 1:1–2:3 | Six days sequence; God speaks; light, sky, land/sea, plants, sun/moon/stars, birds/fish, animals/humans; seventh day rest; humans in God’s image | Fall |
-| V01-02 | Adam en Eva en die sondeval | Gen. 2:4–3:24 | Garden; tree of knowledge; serpent; eat; shame; blame; curse; expulsion; promise of offspring against serpent | Cain/Abel |
-| V01-03 | Kain en Abel | Gen. 4:1–16 | Two offerings; God regards Abel’s; Kain angry; warning; murder; “Where is Abel?”; mark; wandering | Flood |
-| V01-04 | Noag en die sondvloed | Gen. 6:5–8:19 | Wickedness; Noag finds favour; ark specs enough for child memory (wood, animals in pairs/kinds); flood; God remembers Noag; dry land | Rainbow covenant |
-| V01-05 | God se verbond met Noag | Gen. 8:20–9:17 | Altar; God’s promise not to destroy all life by flood again; rainbow as sign; humans blessed to fill earth | Babel |
-| V01-06 | Die toring van Babel | Gen. 11:1–9 | One language; city and tower; “make a name”; Lord confuses language; scatter | Job |
-| V01-07 | Job se beproewing | Job 1–2; 38–42 (selected) | Job’s integrity; losses; Job does not curse God; friends’ bad counsel named; Job questions; God speaks; friends corrected; Job prays for them; restoration — **not** “be patient and get double” as the lesson | Abram |
-| V01-08 | Abram word geroep | Gen. 12:1–9 | Call to leave; land promise; blessing for nations; Abram goes with Sarai and Lot; altar | Covenant Gen 15 |
-| V01-09 | God se belofte aan Abram | Gen. 15; 17:1–8,15–21 | Vision; “count the stars”; covenant; name Abraham/Sarah; Isaac promised through Sarah | Visitors / Isaac birth |
-| V01-10 | Drie besoekers en Isak se geboorte | Gen. 18:1–15; 21:1–7 | Hospitality; promise of a son; Sarah laughs; Isaac born; name linked to laughter | Moriah |
-| V01-11 | Abraham en Isak op die berg | Gen. 22:1–19 | Test; journey; wood; altar; Isaac’s question; ram provided; Lord will provide; promise reaffirmed | Isaac’s wife |
-| V01-12 | Isak en Rebekka | Gen. 24 | Abraham’s servant; prayer at well; Rebekka waters camels; family consent; Isaac takes her as wife | Jacob/Esau |
-| V01-13 | Jakob en Esau | Gen. 25:19–34; 27:1–45 | Twins; birthright sold for stew; blessing deception; Esau’s grief; Jakob flees | Ladder |
-| V01-14 | Jakob se droom by Bet-El | Gen. 28:10–22 | Stone pillow; ladder/stairway; angels; Lord’s promise; Bet-El named; vow | Laban years |
-| V01-15 | Jakob by Laban | Gen. 29:1–30; 31:1–21,43–55 | Leah and Rachel; long service; children begin; God sees Jakob’s hardship; return begins; covenant marker with Laban | Peniel |
-| V01-16 | Jakob worstel; word Israel | Gen. 32:1–33:11 | Fear of Esau; gifts; wrestles until daybreak; new name Israel; limp; meets Esau in peace | Joseph dreams |
-| V01-17 | Josef se drome; verkoop | Gen. 37 | Coat; dreams of sheaves/stars; brothers’ jealousy; pit; sold to traders; bloodied coat to Jacob | Potiphar/prison |
-| V01-18 | Josef in Egipte: Potifar en die tronk | Gen. 39–40 | Lord with Joseph; false accusation; prison; cupbearer and baker dreams; cupbearer forgets | Pharaoh |
-| V01-19 | Josef voor Farao | Gen. 41 | Pharaoh’s dreams; Joseph credits God; seven/seven; storehouses; Joseph elevated; new names/family start | Brothers arrive |
-| V01-20 | Josef se broers in Egipte | Gen. 42–43 | Famine; brothers bow; Joseph recognises them; Simeon held; money in sacks; Benjamin brought; Joseph moved | Cup / reveal |
-| V01-21 | Josef maak homself bekend | Gen. 44–45 | Silver cup test; Judah’s plea; Joseph reveals; “God sent me ahead”; weeping; send for Jacob | Settlement |
-| V01-22 | Jakob in Egipte; Josef se vergifnis | Gen. 46:1–7,28–30; 50:15–26 | God reassures Jacob; reunion; after Jacob’s death brothers fear; Joseph forgives; bones/hope | Exodus oppression |
+| Column | Meaning |
+|--------|---------|
+| ID | Stable story ID |
+| Title (AF) | Working Afrikaans title |
+| Passage | Primary Scripture |
+| Must-include | Non-negotiable facts/objects/people |
+| Theology centre | Lesson must arise from *this* passage |
+| Split note | Why this is its own unit / link to neighbours |
 
 ---
 
-## Volume 2 — Moses tot Simson (21)
+## A. Genesis — begin tot Josef
 
-| ID | Title | Passage | Must-include | Deferred |
-|---|---|---|---|---|
-| V02-01 | Moses as baba | Exod. 1:8–2:10 | New Pharaoh; oppression; Hebrew boys; basket in Nile; Pharaoh’s daughter; Moses named | Burning bush |
-| V02-02 | Die brandende bos | Exod. 2:11–3:15; 4:10–17 | Moses flees; Midian; bush burns unconsumed; holy ground; “I AM”; Moses’ objections; Aaron given | Plagues start |
-| V02-03 | Moses voor Farao | Exod. 5:1–6:13; 7:1–13 | Let my people go; heavier labour; staff/serpent sign; Pharaoh’s heart hard | Ten plagues |
-| V02-04 | Die tien plae | Exod. 7:14–11:10 | **All ten in order**: blood, frogs, gnats, flies, livestock, boils, hail, locusts, darkness, firstborn announced | Passover itself |
-| V02-05 | Die Paasfees | Exod. 12:1–32 | Lamb; blood on doorposts; unleavened; Lord passes over; firstborn die; Pharaoh sends them out | Red Sea |
-| V02-06 | Deur die Rooi See | Exod. 13:17–14:31 | Pillar; trapped at sea; sea divides; Israel crosses; Egyptians pursue; waters return; trust song note | Manna |
-| V02-07 | Brood uit die hemel; water uit die rots | Exod. 16:1–35; 17:1–7 | Grumbling; manna rules; quail mention if space; water from rock at Massah/Meribah; Lord provides | Sinai |
-| V02-08 | Sinai en die Tien Gebooie | Exod. 19:1–20:21 | Mountain; consecration; thunder/cloud; Ten Commandments summarised faithfully; people fear | Golden calf |
-| V02-09 | Die goue kalf | Exod. 32:1–35; 34:1–10 | Delay; calf; Lord’s anger; Moses intercedes; tablets broken; renewed mercy emphasised carefully | Tabernacle |
-| V02-10 | Die tabernakel | Exod. 25:1–9; 40:34–38 | Willing gifts; dwelling among them; cloud/glory fills tent; God with His people | Spies |
-| V02-11 | Die twaalf verkenners | Num. 13–14 | Twelve spies; grapes; ten fearful reports; Caleb/Joshua trust; judgment of wandering; mercy for children | Bronze snake |
-| V02-12 | Die koper slang | Num. 21:4–9 | Complaints; serpents; confession; bronze snake lifted; look and live | Jordan |
-| V02-13 | Josua en die Jordaan | Josh. 1:1–9; 3:1–17 | Be strong; ark; waters stop; memorial stones | Jericho |
-| V02-14 | Jerigo | Josh. 2:1–24; 6:1–27 | Rahab and spies; scarlet cord; march pattern; walls fall; Rahab spared | Judges intro / Deborah |
-| V02-15 | Debora en Barak | Judg. 4:1–24 | Oppression under Sisera; Deborah’s word; Barak; Jael; Lord gives victory | Gideon |
-| V02-16 | Gideon | Judg. 6:11–7:25 | Call; altar; fleece optional if space; 300; jars/torches; Midian defeated; Lord saves | Samson birth |
-| V02-17 | Simson word gebore | Judg. 13 | Philistine oppression; messenger; Nazirite vow (no razor); Manoah; Spirit begins to stir | Lion |
-| V02-18 | Simson en die leeu | Judg. 14:1–14 | Timnah; Spirit comes powerfully; lion torn barehanded; silence to parents; bees/honey; riddle begins | Riddle coercion / later fights |
-| V02-19 | Simson se stryd met die Filistyne | Judg. 14:15–15:20 | Riddle pressure; Ashkelon; foxes/fire; jawbone victory; Spirit’s role retained | Delilah |
-| V02-20 | Simson en Delila | Judg. 16:4–21 | Delilah; three false answers; hair cut; strength leaves; capture; eyes gouged (narrate without gore) | Final prayer |
-| V02-21 | Simson se laaste gebed | Judg. 16:22–31 | Hair grows; temple of Dagon; prayer; pillars; death with Philistines; judges note | Ruth |
+| ID | Title (AF) | Passage | Must-include | Theology centre | Split note |
+|----|------------|---------|--------------|-----------------|------------|
+| GEN-01 | Die skepping | Gen 1:1–2:3 | Ses dae in volgorde; God praat; beeld van God; sewende dag rus | God maak alles deur sy woord | |
+| GEN-02 | Adam en Eva en die sondeval | Gen 2–3 | Tuin; verbod; slang; eet; skaamte; vloek; uitdrywing; belofte teen slang | Sonde verwoes; God praat nog | |
+| GEN-03 | Kain en Abel | Gen 4:1–16 | Offers; Kain se woede; waarskuwing; moord; “Waar is Abel?”; merk | Sonde groei; God sien | |
+| GEN-04 | Noag en die sondvloed | Gen 6:5–8:19 | Boosheid; Noag vind guns; ark; diere; vloed; God onthou Noag | Oordeel en redding | Verbond = volgende |
+| GEN-05 | God se verbond met Noag | Gen 8:20–9:17 | Altaar; belofte; reënboog as teken | God hou sy woord | |
+| GEN-06 | Die toring van Babel | Gen 11:1–9 | Een taal; toring; “naam maak”; verwar; verstrooi | Menslike trots vs God | |
 
 ---
 
-## Volume 3 — Rut, Dawid, konings en profete (32)
+## B. Job — mini-reeks (nie een storie nie)
 
-| ID | Title | Passage | Must-include | Deferred |
-|---|---|---|---|---|
-| V03-01 | Rut en Naomi | Ruth 1 | Famine; Moab; deaths; “Where you go I go”; return to Bethlehem empty | Boaz |
-| V03-02 | Rut en Boas | Ruth 2–4 | Gleaning; kindness; threshing floor honourably; redemption; Obed; lineage toward David | Samuel |
-| V03-03 | Hanna se gebed | 1 Sam. 1:1–2:11 | Barrenness; prayer; Eli; Samuel dedicated; Hannah’s song note | Samuel hears |
-| V03-04 | Samuel hoor die Here | 1 Sam. 3 | Lamp; “Speak, Lord”; message for Eli; Samuel established as prophet | King request |
-| V03-05 | Israel vra ’n koning | 1 Sam. 8:1–22; 10:1–24 | Reject Lord’s kingship warning; Saul anointed/chosen; people shout | Saul’s failure |
-| V03-06 | Saul ongehoorsaam | 1 Sam. 13:5–14; 15:1–23 | Unlawful sacrifice and/or Amalek sparing; “to obey better than sacrifice”; kingdom torn | David anointed |
-| V03-07 | Dawid word gesalf | 1 Sam. 16:1–13 | Jesse’s sons; Lord looks at heart; youngest David; Spirit on David | Lion/bear |
-| V03-08 | Dawid, die leeu en die beer | 1 Sam. 17:34–37 (+ shepherd context 16:11–23) | Sheep; lion; bear; rescue; Lord delivered; harp/Saul service optional bridge | Goliath |
-| V03-09 | Dawid en Goliat | 1 Sam. 17 | Valley; challenge; lion/bear recollection to Saul; armour rejected; five stones; sling; falls; Goliath’s sword; beheading fact; Philistines flee | Saul jealousy |
-| V03-10 | Dawid en Jonatan | 1 Sam. 18:1–16; 20:1–42 | Covenant friendship; Saul’s jealousy; Jonathan warns; farewell | Pursuit |
-| V03-11 | Saul jaag Dawid | 1 Sam. 19; 23:14–29 | Spears/flight; wilderness; God protects | Spare Saul |
-| V03-12 | Dawid spaar Saul | 1 Sam. 24 | Cave; cut robe; conscience; “I will not harm the Lord’s anointed” | Kingship |
-| V03-13 | Dawid word koning | 2 Sam. 2:1–4; 5:1–12 | Judah then all Israel; Jerusalem; Lord with David | Ark |
-| V03-14 | Die verbondsark na Jerusalem | 2 Sam. 6:1–15 | Ark brought; reverence; David dances; joy before the Lord | Bathsheba |
-| V03-15 | Dawid se sonde en Nathan | 2 Sam. 11:1–12:14 | Sees Bathsheba; arranged death of Uriah; Nathan’s parable; “You are the man”; repentance | Solomon |
-| V03-16 | Salomo se wysheid | 1 Kgs. 3:3–28 | Ask for wisdom; two mothers judgment; people see God’s wisdom | Temple |
-| V03-17 | Salomo bou die tempel | 1 Kgs. 5–8 (selected) | Building; dedication; cloud/glory; prayer that God hears | Divided kingdom |
-| V03-18 | Die verdeelde koninkryk | 1 Kgs. 11:26–12:24 | Rehoboam’s harshness; ten tribes; Jeroboam; split | Elijah |
-| V03-19 | Elia en die weduwee | 1 Kgs. 17 | Drought word; ravens; widow’s flour/oil; son raised | Carmel |
-| V03-20 | Elia op Karmel | 1 Kgs. 18 | Contest; altar; “The Lord—He is God”; rain returns | Horeb |
-| V03-21 | Elia by Horeb; Elisa geroep | 1 Kgs. 19 | Fear; gentle whisper; not only wind/quake/fire; Elisha called | Elisha miracle |
-| V03-22 | Elisa en Naäman | 2 Kgs. 5:1–15 | Leprosy; servant girl; Jordan seven times; flesh restored; only God | Jonah |
-| V03-23 | Jona | Jonah 1–4 | Flee; storm; fish; Nineveh repents; plant; God’s compassion | Isaiah |
-| V03-24 | Jesaja se roeping en hoop | Isa. 6:1–8; 9:1–7; 53:1–6 (selected) | Holy vision; “Here am I”; child/king hope; suffering servant glimpse | Exile prophets |
-| V03-25 | Josia vind die wetboek | 2 Kgs. 22:1–23:3 | Scroll found; repentance; covenant renewal | Jeremiah |
-| V03-26 | Jeremia en die ballingskap | Jer. 1:4–10; 25:1–11; 29:10–14 | Call; warning; exile; letter of hope — plans for welfare | Daniel |
-| V03-27 | Daniël se vriende in die oond | Dan. 1; 3 | Food faithfulness; names; furnace; Fourth figure; no burn | Lions |
-| V03-28 | Daniël in die leeuikuil | Dan. 6 | Prayer despite decree; den; mouth shut; king acknowledges God | Esther |
-| V03-29 | Ester | Esth. 2–8 (selected) | Queen; Haman’s plot; “for such a time”; fasting; Jews delivered | Return |
-| V03-30 | Terugkeer uit ballingskap | Ezra 1; 3:8–13 | Cyrus; altar/temple foundation; weeping and joy | Nehemiah |
-| V03-31 | Nehemia bou die muur | Neh. 1–6 (selected) | Prayer; permission; rebuild despite opposition; wall finished | Waiting |
-| V03-32 | Wag op die Messias | Mal. 3:1; 4:1–6; summary hope | Messenger promise; day of the Lord; remember law; Elijah-figure hope; long silence toward NT | Annunciation |
+| ID | Title (AF) | Passage | Must-include | Theology centre | Split note |
+|----|------------|---------|--------------|-----------------|------------|
+| JOB-01 | Job en sy gesin | Job 1:1–5 | Regverdigheid; kinders; offers; vrees vir God | Job is getrou vóór die beproewing | |
+| JOB-02 | Satan daag Job uit | Job 1:6–22 | Hemelse gesprek; limiete; katastrofale verliese; Job vloek God nie | God se soewereiniteit; Job se integriteit | |
+| JOB-03 | Job word siek | Job 2 | Verdere limiet; siekte; vrou se woorde; Job se antwoord; sit in as | Lyding raak die liggaam; Job hou vas | |
+| JOB-04 | Job se vriende kom | Job 2:11–13 | Drie vriende; sewe dae stilte | Ware medelye begin met stil teenwoordigheid | |
+| JOB-05 | Job en sy vriende stry | Job 3–37 (gekondenseer) | Job se klaag; vriende se “jy moet gesondig het”; sentrale meningsverskil | Verkeerde teologie kan seermaak | Nie 35 hoofstukke dialoog nie — wél die *punt* |
+| JOB-06 | God antwoord Job | Job 38–41 | Stormwind; skepping; diere; God se wysheid | God is wys en soewerein | |
+| JOB-07 | Job se vriende word teregwys | Job 42:7–9 | God berispe vriende; Job bid vir hulle | God korrigeer valse raad | **Nie** “wees net geduldig” |
+| JOB-08 | Job word herstel | Job 42:10–17 | Gebed; herstel; nuwe kinders; volle lewe | God se genade ná die ontmoeting | Einde eers hier |
 
 ---
 
-## Volume 4 — Jesus: geboorte en bediening (23)
+## C. Abraham tot Josef
 
-| ID | Title | Passage | Must-include | Deferred |
-|---|---|---|---|---|
-| V04-01 | Die engel by Maria | Luke 1:26–38 | Nazareth; Gabriel; Jesus named; Son of Most High; Mary’s “let it be” | Joseph |
-| V04-02 | Josef se droom | Matt. 1:18–25 | Joseph righteous; angel; name Jesus — He saves; Immanuel; takes Mary | Birth |
-| V04-03 | Jesus word gebore | Luke 2:1–7 | Census; Bethlehem; manger; firstborn | Shepherds |
-| V04-04 | Die herders | Luke 2:8–20 | Glory; good news for all people; sign of manger; shepherds go and tell | Magi |
-| V04-05 | Die wyse manne | Matt. 2:1–12 | Star; Jerusalem; Herod; gifts; worship; another way home | Flight |
-| V04-06 | Vlug na Egipte; terugkeer | Matt. 2:13–23 | Warning dream; Egypt; Herod’s violence stated carefully; Nazareth | Boy in temple |
-| V04-07 | Die seun Jesus in die tempel | Luke 2:41–52 | Passover age twelve; listening/asking; “My Father’s house”; obedience to parents | Baptism |
-| V04-08 | Johannes die Doper; Jesus se doop | Matt. 3:1–17 | Repent; baptise; Jesus baptised; Spirit as dove; voice from heaven | Temptation |
-| V04-09 | Jesus word versoek | Matt. 4:1–11 | Three temptations; Scripture answers; devil leaves; angels attend | First disciples |
-| V04-10 | Jesus roep dissipels; water word wyn | John 1:35–51; 2:1–11 | Come and see / follow; Cana; water jars; glory revealed | Nicodemus |
-| V04-11 | Nikodemus | John 3:1–21 | Night visit; born again; lifted up like snake; God so loved the world | Woman at well |
-| V04-12 | Die vrou by die put | John 4:1–42 | Samaria; living water; true worship; Messiah confession; town believes | Sermon |
-| V04-13 | Jesus leer op die berg | Matt. 5:1–12; 6:9–13; 7:24–27 | Beatitudes sample; Lord’s Prayer; wise/foolish builders | Storm |
-| V04-14 | Jesus stil die storm | Mark 4:35–41 | Boat; sleep; wind/waves; “Peace, be still”; “Who is this?” | Feeding |
-| V04-15 | Vyfduisend word gevoed | John 6:1–15 | Boy’s loaves/fish; blessing; twelve baskets; Prophet recognition | Walk on water |
-| V04-16 | Jesus loop op die water | Matt. 14:22–33 | Night; fear; “It is I”; Peter walks/sinks; Lord saves; worship | Parables |
-| V04-17 | Die barmhartige Samaritaan | Luke 10:25–37 | Neighbour question; priest/Levite; Samaritan mercy; “go and do likewise” | Lost son |
-| V04-18 | Die verlore seun | Luke 15:11–32 | Far country; return; father’s run; robe/ring; older brother; rejoice | Lazarus |
-| V04-19 | Jesus wek Lasarus op | John 11:1–44 | Delay; “I am the resurrection”; weep; “Lazarus, come out”; unbound | Zacchaeus |
-| V04-20 | Saggeus | Luke 19:1–10 | Tree; “today salvation”; restore fourfold; seek and save lost | Children |
-| V04-21 | Jesus en die kinders | Mark 10:13–16 | Disciples rebuke; Jesus welcomes; kingdom like child | Transfiguration |
-| V04-22 | Die verheerliking | Mark 9:2–9 | Mountain; Moses/Elijah; bright clothes; cloud voice; tell after rising | Toward Jerusalem |
-| V04-23 | Jesus gaan na Jerusalem | Luke 9:51; 18:31–34; John 12:20–33 (selected) | Sets face; predicts suffering/death/rising; grain of wheat; drawing all people | Palm Sunday |
+| ID | Title (AF) | Passage | Must-include | Theology centre | Split note |
+|----|------------|---------|--------------|-----------------|------------|
+| ABR-01 | Abram word geroep | Gen 12:1–9 | Gaan uit; land; seën vir nasies; Sarai; Lot; altaar | God roep en beloof | |
+| ABR-02 | God se verbond met Abram | Gen 15; 17:1–21 | Sterre; verbond; Abraham/Sarah; Isak beloof | God se belofte is seker | |
+| ABR-03 | Drie besoekers; Sara lag | Gen 18:1–15 | Gasvryheid; belofte; Sara lag | Niks is te moeilik vir die Here nie | |
+| ABR-04 | Isak word gebore | Gen 21:1–7 | Belofte vervul; naam/lag | God hou sy tyd | |
+| ABR-05 | Abraham en Isak op die berg | Gen 22:1–19 | Toets; hout; altaar; ram; “die Here sal voorsien” | God voorsien | |
+| ABR-06 | Isak en Rebekka | Gen 24 | Dienskneg; gebed by put; kamele; toestemming | God lei | |
+| ABR-07 | Jakob en Esau | Gen 25:19–34; 27 | Eersgeboortereg; sop; seën-bedrog; Esau se smart; Jakob vlug | Bedrog het gevolge | |
+| ABR-08 | Jakob se droom by Bet-El | Gen 28:10–22 | Steen; leer; engele; belofte; Bet-El | God is by die vlugteling | |
+| ABR-09 | Jakob by Laban | Gen 29–31 (gekies) | Lea/Ragel; jare diens; God sien; terugkeer begin | God sien uitbuiting | |
+| ABR-10 | Jakob word Israel | Gen 32–33 | Vrees; geskenke; worstel; nuwe naam; ontmoet Esau | God verander mense | |
+| JOS-01 | Josef se drome; verkoop | Gen 37 | Mantel; drome; put; verkoop; bloedige mantel | Jaloesie vernietig | |
+| JOS-02 | Josef by Potifar en in die tronk | Gen 39–40 | Here by Josef; valse beskuldiging; drome; skenker vergeet | God is by die onregverdige gevangene | |
+| JOS-03 | Josef voor Farao | Gen 41 | Drome; Josef eer God; sewe/sewe; verhoog | God gee wysheid | |
+| JOS-04 | Josef se broers in Egipte | Gen 42–43 | Hongersnood; buig; Simeon; Benjamin; silwer | God werk agter die skerms | |
+| JOS-05 | Josef maak homself bekend | Gen 44–45 | Beker; Juda se pleit; “God het my vooruit gestuur” | God se voorsienigheid | |
+| JOS-06 | Jakob in Egipte; Josef se vergifnis | Gen 46; 50:15–26 | Hereniging; broers se vrees; vergifnis; bene/hoop | Vergifnis; hoop bly | |
 
 ---
 
-## Volume 5 — Lyde, opstanding, kerk, Openbaring (29)
+## D. Eksodus — Moses, plae (gesplit), Paasfees, Rooi See
 
-| ID | Title | Passage | Must-include | Deferred |
-|---|---|---|---|---|
-| V05-01 | Jesus ry Jerusalem binne | Matt. 21:1–11 | Donkey; cloaks/branches; Hosanna; Son of David | Temple |
-| V05-02 | Jesus in die tempel | Matt. 21:12–16; 22:34–40 | Drives out sellers; house of prayer; greatest commandments | Last Supper |
-| V05-03 | Die laaste maaltyd | Luke 22:7–23; John 13:1–15 | Passover; bread/cup meaning; betrayal noted; foot washing | Gethsemane |
-| V05-04 | Getsemane | Matt. 26:36–46 | Watch and pray; “not my will”; cup; disciples sleep | Arrest |
-| V05-05 | Jesus word gevange geneem | Matt. 26:47–56 | Judas kiss; arrest; sword struck then healed/rebuked; disciples flee | Trials |
-| V05-06 | Jesus voor die Raad en Pilatus | Matt. 26:57–68; 27:11–26 | False witnesses; “You have said so”; Peter nearby setup; Pilate; Barabbas; crowd | Peter’s denial as own unit |
-| V05-07 | Petrus verloën Jesus | Luke 22:54–62 | Courtyard; three denials; rooster; Jesus looks; Peter weeps | Crucifixion |
-| V05-08 | Jesus sterf aan die kruis | Luke 23:26–49; John 19:16–30 | Cross; “Father forgive”; criminals; darkness; “It is finished”/commit spirit; centurion | Burial |
-| V05-09 | Jesus word begrawe | Matt. 27:57–66 | Joseph of Arimathea; tomb; stone; guard | Resurrection |
-| V05-10 | Jesus het opgestaan | Luke 24:1–12; John 20:1–18 | Empty tomb; angels; women; Peter/John run; Mary Magdalene meets risen Lord | Emmaus |
-| V05-11 | Op pad na Emmaus | Luke 24:13–35 | Two disciples; stranger explains Scriptures; known in breaking bread | Thomas |
-| V05-12 | Tomas en die ander dissipels | John 20:19–29 | Peace; wounds shown non-graphically; Thomas believes; blessed who haven’t seen | Ascension |
-| V05-13 | Jesus gaan op na die hemel | Acts 1:1–11 | Forty days; promise of Spirit; cloud; will return | Pentecost |
-| V05-14 | Pinkster | Acts 2:1–41 | Wind/fire signs; languages; Peter preaches Jesus risen; repent/baptise; about three thousand | Early church |
-| V05-15 | Die vroeë gemeente | Acts 2:42–47; 3:1–10 | Teaching/fellowship/breaking bread/prayers; lame man walks at temple gate | Stephen |
-| V05-16 | Stefanus | Acts 6:8–15; 7:54–60 | Witness; vision of Jesus; stoning; “Lord, receive my spirit”; Saul approving | Philip |
-| V05-17 | Filippus en die Ethiopiër | Acts 8:26–40 | Desert road; Isaiah scroll; Jesus explained; baptism | Saul convert |
-| V05-18 | Saul ontmoet Jesus | Acts 9:1–22 | Damascus road light; “Why persecute me?”; blindness; Ananias; baptised; preaches | Cornelius |
-| V05-19 | Petrus en Cornelius | Acts 10 | Vision of sheet; Gentile household; Spirit falls; God shows no favouritism | Mission journeys |
-| V05-20 | Paulus en Silas in die tronk | Acts 16:11–34 | Philippi; Lydia; prison hymns; earthquake; jailer believes; household baptised | Athens |
-| V05-21 | Paulus in Atene | Acts 17:16–34 | Idols; Areopagus; unknown god; resurrection; some believe | Ephesus/riot optional compressed here if needed — keep Athens focus |
-| V05-22 | Paulus se reis na Rome | Acts 27:13–44; 28:11–31 | Storm; angel assurance; shipwreck survival; house arrest; proclaims kingdom | Letters |
-| V05-23 | Paulus skryf briewe | Rom. 8:31–39; 1 Cor. 13:4–8a (selected) | Nothing separates from God’s love; love described; letters strengthen churches | Revelation throne |
-| V05-24 | Johannes se visioen van die troon | Rev. 1:9–18; 4:1–11 | Patmos; Son of Man vision restrained; throne; holy holy holy; worship | Lamb |
-| V05-25 | Die Lam wat waardig is | Rev. 5 | Sealed scroll; Lion/Lamb; worthiness; new song | Judgement care |
-| V05-26 | God oordeel regverdig | Rev. 20:11–15; 21:5a (bridge) | Great white throne stated carefully; books; seriousness without horror spectacle | New creation |
-| V05-27 | ’n Nuwe hemel en ’n nuwe aarde | Rev. 21:1–7 | New creation; God dwells with people; wipe tears; “I make all things new” | City |
-| V05-28 | Die nuwe Jerusalem | Rev. 21:9–27; 22:1–5 | City/light/Lamb lamp; river; tree of life; see His face; reign | Invitation |
-| V05-29 | Kom, Here Jesus | Rev. 22:6–21 | Faithful words; wash robes; Spirit and bride say come; grace of Lord Jesus | Series end |
+| ID | Title (AF) | Passage | Must-include | Theology centre | Split note |
+|----|------------|---------|--------------|-----------------|------------|
+| EXO-01 | Moses as baba | Ex 1:8–2:10 | Onderdrukking; mandjie; Farao se dogter; naam | God beskerm sy plan | |
+| EXO-02 | Die brandende bos | Ex 2:11–4:17 | Midian; bos brand sonder om te verteer; “Ek Is”; Aäron | God roep; heilige grond | |
+| EXO-03 | Moses voor Farao | Ex 5–7:13 | Laat my volk gaan; swaarder werk; staf/slang; hard hart | Farao weier | Plae begin hierna |
+| EXO-04 | Bloed, paddas en muggies | Ex 7:14–8:19 | Plae 1–3 in volgorde | God oordeel Egipte | **Nie** al tien saam |
+| EXO-05 | Vlieë, vee en sere | Ex 8:20–9:12 | Plae 4–6; onderskeid Israel | God maak onderskeid | |
+| EXO-06 | Hael en sprinkane | Ex 9:13–10:20 | Plae 7–8 | God se mag oor skepping | |
+| EXO-07 | Duisternis | Ex 10:21–29 | Drie dae duisternis; Israel het lig | God beheer selfs die lig | |
+| EXO-08 | Die eerste Paasfees | Ex 12:1–28 | Lam; bloed aan deurposte; ongelesde brood; instruksies | Bloed beteken redding | Tiende pla = volgende |
+| EXO-09 | Die tiende pla | Ex 11; 12:29–32 | Eersgeborenes sterf; Farao stuur uit | Oordeel is werklik | Hou feit; beeld nie-grafies |
+| EXO-10 | Israel verlaat Egipte | Ex 12:33–42; 13:17–22 | Haastig; deeg; wolk/vuur-pilaar | God lei sy volk | |
+| EXO-11 | Farao verander van plan | Ex 14:1–12 | Agtervolging; Israel bang by see | Menslike harte bly hard | |
+| EXO-12 | Deur die Rooi See | Ex 14:13–31 | See verdeel; deurgang; waters terug; vertroue | Die Here red magtig | |
+| EXO-13 | Brood en water in die woestyn | Ex 16–17:7 | Manna; water uit rots; murmureer | God voorsien | |
+| EXO-14 | Sinai en die Tien Gebooie | Ex 19–20 | Berg; wolk; Gebooie getrou opgesom | God gee sy wet | |
+| EXO-15 | Die goue kalf | Ex 32; 34:1–10 | Kalf; toorn; voorspraak; genade vernuwe | Afgodediens; voorspraak | |
+| EXO-16 | Die tabernakel | Ex 25:1–9; 40:34–38 | Gawes; woon onder hulle; wolk/heerlikheid | God wil by sy volk wees | |
 
 ---
 
-## Omission-alarm checklist
+## E. Wildernis tot beloofde land
 
-Tick when assigned above:
-
-- [x] Creation sequence  
-- [x] Fall  
-- [x] Cain and Abel  
-- [x] Flood and covenant  
-- [x] Babel  
-- [x] Job  
-- [x] Abrahamic promises  
-- [x] Isaac  
-- [x] Jacob/Israel  
-- [x] Joseph  
-- [x] Moses’ call  
-- [x] All ten plagues  
-- [x] Passover  
-- [x] Red Sea  
-- [x] Sinai / Ten Commandments  
-- [x] Golden calf  
-- [x] Tabernacle  
-- [x] Wilderness rebellion (spies)  
-- [x] Joshua / Jericho  
-- [x] Judges (Deborah, Gideon)  
-- [x] Samson birth / lion / conflicts / Delilah / final prayer  
-- [x] Ruth  
-- [x] Samuel  
-- [x] Saul  
-- [x] David shepherd / lion-bear / Goliath / Jonathan / pursuit / kingship / sin  
-- [x] Solomon  
-- [x] Divided kingdom  
-- [x] Elijah / Elisha  
-- [x] Major prophets (Isaiah, Jeremiah)  
-- [x] Daniel  
-- [x] Esther  
-- [x] Return / Nehemiah  
-- [x] Messianic waiting  
-- [x] Birth / ministry / death / resurrection / ascension of Jesus  
-- [x] Pentecost  
-- [x] Acts / Paul  
-- [x] Revelation and new creation  
+| ID | Title (AF) | Passage | Must-include | Theology centre | Split note |
+|----|------------|---------|--------------|-----------------|------------|
+| NUM-01 | Die twaalf verkenners | Num 13–14 | Twaalf; druiwe; tien bang; Kaleb/Josua; oordeel | Geloof vs vrees | |
+| NUM-02 | Die koper slang | Num 21:4–9 | Kla; slange; koper slang; kyk en leef | Redding deur op te kyk soos God sê | |
+| DEU-01 | Moses se laaste woorde | Deut 31–34 (gekies) | Josua aangestel; Moses sien land; sterf | God se sorg eindig nie by Moses nie | |
+| JSH-01 | Josua en die Jordaan | Josh 1; 3 | Wees sterk; ark; waters stop; gedenkstene | God is by Josua | |
+| JSH-02 | Jerigo | Josh 2; 6 | Ragab; skarlaken; ommegang; mure val; Ragab gered | Gehoorsaamheid; genade vir Ragab | |
+| JSH-03 | Ai en Agan (of verbond by Sjegem) | Josh 7 of 24 | Kies een dense episode volledig | Sonde in die kamp / kies wie julle sal dien | Vermy “opsomming van verowering” |
 
 ---
 
-## Writing order
+## F. Rigters tot Rut
 
-1. Lock this matrix (edit only by reassigning rows, never by silent omission).  
-2. Write manuscripts volume by volume using `docs/STORY-TEMPLATE.md`.  
-3. After each volume: word-count sample + continuity link check + must-include audit.
+| ID | Title (AF) | Passage | Must-include | Theology centre | Split note |
+|----|------------|---------|--------------|-----------------|------------|
+| JDG-01 | Debora en Barak | Judg 4 | Sisera; Debora; Barak; Jael | God red deur onverwagte mense | |
+| JDG-02 | Gideon geroep | Judg 6 | Roeping; altaar; vrees/fleece indien spasie | God gebruik die swakke | |
+| JDG-03 | Gideon se driehonderd | Judg 7 | 300; kruike/fakels; Midian verslaan | Die Here red | |
+| SIM-01 | Simson word gebore | Judg 13 | Boodskapper; Nasireër; geen skeermes; Gees begin | God roep voor geboorte | |
+| SIM-02 | Simson en die leeu | Judg 14:1–9 | Timna; Gees; kaal hande; stilte; bye/heuning | Krag is van die Gees | Heuning → raaisel |
+| SIM-03 | Simson se raaisel | Judg 14:10–20 | Raaisel; druk; Asjkelon | Geheime en konflik | |
+| SIM-04 | Simson teen die Filistyne | Judg 15 | Jakkalse/vuur; kakebeen; Gees | Konflik eskaleer | |
+| SIM-05 | Simson en Delila | Judg 16:4–21 | Drie leuens; hare; krag weg; gevange | Ontrouheid het prys | |
+| SIM-06 | Simson se laaste gebed | Judg 16:22–31 | Hare groei; Dagon; gebed; pilare | God hoor selfs aan die einde | |
+| RUT-01 | Rut en Naomi | Ruth 1 | Moab; dood; “waar jy gaan”; Betlehem leeg | Getrouheid in bitterheid | |
+| RUT-02 | Rut en Boas | Ruth 2–4 | Aren lees; loskoping; Obed; lyn na Dawid | God se voorsienigheid; loskoping | |
+
+---
+
+## G. Samuel, Saul, Dawid
+
+| ID | Title (AF) | Passage | Must-include | Theology centre | Split note |
+|----|------------|---------|--------------|-----------------|------------|
+| SAM-01 | Hanna se gebed | 1 Sam 1–2:11 | Onvrugbaar; gebed; Samuel toegewy | God hoor | |
+| SAM-02 | Samuel hoor die Here | 1 Sam 3 | Lamp; “Praat, Here”; boodskap vir Eli | God roep kinders | |
+| SAM-03 | Israel vra ’n koning | 1 Sam 8; 10 | Waarskuwing; Saul gesalf/gekies | Hulle verwerp God as koning | |
+| SAM-04 | Saul ongehoorsaam | 1 Sam 13; 15 | Offer / Amalek; gehoorsaam > offer | Gehoorsaamheid | |
+| DAV-01 | Dawid word gesalf | 1 Sam 16:1–13 | Seuns van Isai; hart; Gees op Dawid | God kyk na die hart | |
+| DAV-02 | Dawid, die leeu en die beer | 1 Sam 16–17:37 | Skape; leeu; beer; Here red | God se vroegere hulp | **Nodig** vir Goliat |
+| DAV-03 | Dawid en Goliat | 1 Sam 17 | Uitdaging; leeu/beer-getuienis; harnas af; vyf klippe; sling; swaard; onthoofing (teks); vlug | Die stryd behoort aan die Here | Benchmark-storie |
+| DAV-04 | Dawid en Jonatan | 1 Sam 18; 20 | Verbond; jaloesie; waarskuwing | Ware vriendskap | |
+| DAV-05 | Saul jaag Dawid | 1 Sam 19; 23 | Vluppe; wildernis; God beskerm | God bewaar sy gesalfde | |
+| DAV-06 | Dawid spaar Saul | 1 Sam 24 | Grot; mantel; “ek sal nie die gesalfde seermaak nie” | Eerbied vir God se gesalfde | |
+| DAV-07 | Dawid word koning | 2 Sam 2; 5 | Juda dan heel Israel; Jerusalem | God verhoog | |
+| DAV-08 | Die ark na Jerusalem | 2 Sam 6 | Ark; eerbied; Dawid dans | Blydskap voor die Here | |
+| DAV-09 | Dawid se sonde en Nathan | 2 Sam 11–12 | Batseba; Urias; gelykenis; “Jy is die man”; berou | Sonde selfs by konings; waarheid | |
+| DAV-10 | Salomo word koning | 1 Kgs 1–2 (gekies) | Opvolging; Dawid se laaste woorde | God se belofte gaan aan | |
+
+---
+
+## H. Salomo, verdeelde ryk, profete
+
+| ID | Title (AF) | Passage | Must-include | Theology centre | Split note |
+|----|------------|---------|--------------|-----------------|------------|
+| SOL-01 | Salomo vra wysheid | 1 Kgs 3 | Vra wysheid; twee moeders | Wysheid van God | |
+| SOL-02 | Salomo bou die tempel | 1 Kgs 5–8 (gekies) | Bou; inwyding; wolk/heerlikheid | God woon by sy volk | |
+| KIN-01 | Die ryk verdeel | 1 Kgs 11–12 | Rehabeam; Jerobeam; tien stamme | Hardheid verdeel | |
+| ELI-01 | Elia en die weduwee | 1 Kgs 17 | Droogte; rawwe; meel/olie; seun opgewek | God voorsien | |
+| ELI-02 | Elia op Karmel | 1 Kgs 18 | Kompetisie; altaar; “Die Here is God”; reën | Die Here alleen is God | |
+| ELI-03 | Elia by Horeb | 1 Kgs 19 | Vrees; fluistering; Elisa geroep | God is nie net in storm nie | |
+| ELS-01 | Elisa en Naäman | 2 Kgs 5 | Melaatsheid; diensmeisie; Jordaan sewe keer | God genees; nederigheid | |
+| JON-01 | Jona | Jonah 1–4 | Vlugg; storm; vis; Ninevé; plant; God se medelye | God se genade vir vyande | Mag later 2 episodes word |
+| ISA-01 | Jesaja se roeping | Isa 6 | Heilige visioen; “Hier is ek” | God is heilig | |
+| ISA-02 | Jesaja se hoop op die Kind | Isa 7; 9; 53 (gekies) | Kind/koning; kneg wat ly | Messiaanse hoop | |
+| JOSI-01 | Josia vind die wetboek | 2 Kgs 22–23 | Boek; berou; verbond | God se woord wek lewe | |
+| JER-01 | Jeremia geroep | Jer 1 | Roeping; kind-profeteer | God ken voor geboorte | |
+| JER-02 | Jeremia en die ballingskap | Jer 25; 29 | Waarskuwing; brief; hoop/planne | God het planne selfs in ballingskap | |
+
+---
+
+## I. Ballingskap en terugkeer
+
+| ID | Title (AF) | Passage | Must-include | Theology centre | Split note |
+|----|------------|---------|--------------|-----------------|------------|
+| DAN-01 | Daniël se vriende bly getrou | Dan 1 | Kos; name; trou | Getrouheid in vreemde land | |
+| DAN-02 | Die vuuroond | Dan 3 | Beeld; weiering; oond; Vierde Gestalte | God is by sy dienaars in vuur | |
+| DAN-03 | Daniël in die leeuikuil | Dan 6 | Gebed; kuil; monde toe | God beskerm; koning erken God | |
+| EST-01 | Ester word koningin | Est 1–2 | Vashti; Ester gekies | God plaas mense | |
+| EST-02 | Ester waag dit vir haar volk | Est 3–8 | Haman; “vir so ’n tyd”; vas; redding | Moed; voorsienigheid | Mag 3 word indien nodig |
+| EZR-01 | Terugkeer uit ballingskap | Ezra 1; 3 | Kores; altaar/tempel-fondasie | God bring terug | |
+| NEH-01 | Nehemia bou die muur | Neh 1–6 | Gebed; toestemming; teenstand; muur klaar | Gebed + werk | |
+| MAL-01 | Wag op die Messias | Mal 3–4; opsomming | Boodskapper; dag van die Here; stilte tot NT | Hoop hou aan | |
+
+---
+
+## J. Jesus — geboorte en bediening
+
+| ID | Title (AF) | Passage | Must-include | Theology centre | Split note |
+|----|------------|---------|--------------|-----------------|------------|
+| JES-01 | Die engel by Maria | Luk 1:26–38 | Gabriel; Jesus; Seun van die Allerhoogste; “laat dit so wees” | God word mens | |
+| JES-02 | Josef se droom | Matt 1:18–25 | Engel; Jesus red; Immanuel | Josef gehoorsaam | |
+| JES-03 | Jesus word gebore | Luk 2:1–7 | Sensus; Betlehem; krip | Nederige geboorte | |
+| JES-04 | Die herders | Luk 2:8–20 | Heerlikheid; goeie nuus; teken | Goeie nuus vir almal | |
+| JES-05 | Die wyse manne | Matt 2:1–12 | Ster; Herodes; geskenke; aanbidding | Heidene soek die Koning | |
+| JES-06 | Vlug na Egipte | Matt 2:13–23 | Droom; Egipte; Herodes se geweld (woorde); Nasaret | God beskerm die Kind | |
+| JES-07 | Die seun Jesus in die tempel | Luk 2:41–52 | Twaalf; “My Vader se huis” | Jesus ken sy Vader | |
+| JES-08 | Johannes; Jesus se doop | Matt 3 | Bekeer; doop; Gees; stem uit hemel | Vader bevestig die Seun | |
+| JES-09 | Jesus word versoek | Matt 4:1–11 | Drie versoekings; Skrif-antwoorde | Jesus gehoorsaam waar Israel/Adam misluk | |
+| JES-10 | Eerste dissipels; water word wyn | Joh 1–2 | Volg My; Kana | Jesus se heerlikheid begin | |
+| JES-11 | Nikodemus | Joh 3 | Nag; nuut gebore; slang; God so lief | Nuwe lewe; kruis vooruit | |
+| JES-12 | Die vrou by die put | Joh 4 | Lewende water; ware aanbidding; Messias | Jesus vir buitestaanders | |
+| JES-13 | Jesus leer op die berg | Matt 5–7 (gekies) | Saligsprekinge; Ons Vader; wyse/dwase bouer | Koninkryk se etos | |
+| JES-14 | Jesus stil die storm | Mark 4:35–41 | Boot; slaap; “Stil maar!”; “Wie is Hy?” | Jesus heers oor skepping | |
+| JES-15 | Vyfduisend gevoed | Joh 6:1–15 | Brood/visse; seën; twaalf mandjies | Jesus voorsien | |
+| JES-16 | Jesus loop op die water | Matt 14:22–33 | Nag; “Dit is Ek”; Petrus sink; red | Jesus red; aanbidding | |
+| JES-17 | Die barmhartige Samaritaan | Luk 10:25–37 | Naaste; priester/Leviet; Samaritaan | Wie is my naaste? | |
+| JES-18 | Die verlore seun | Luk 15:11–32 | Ver land; terugkeer; vader hardloop; ouer broer | Vader se genade | |
+| JES-19 | Jesus wek Lasarus op | Joh 11 | “Ek is die opstanding”; ween; “Kom uit!” | Jesus het mag oor dood | |
+| JES-20 | Saggeus | Luk 19:1–10 | Boom; vandag redding; viervoudig | Soek en red wat verlore is | |
+| JES-21 | Jesus en die kinders | Mark 10:13–16 | Dissipels verhinder; Jesus ontvang; soos kind | Koninkryk vir kinders | |
+| JES-22 | Die verheerliking | Mark 9:2–9 | Berg; Moses/Elia; stem | Luister na Hom | |
+| JES-23 | Jesus gaan na Jerusalem | Luk 9:51; 18:31–34 | Gesig gerig; lyde voorspel | Pad na die kruis | |
+
+---
+
+## K. Lyde, opstanding, kerk, Openbaring
+
+| ID | Title (AF) | Passage | Must-include | Theology centre | Split note |
+|----|------------|---------|--------------|-----------------|------------|
+| PAS-01 | Jesus ry Jerusalem binne | Matt 21:1–11 | Donkie; Hosanna; Seun van Dawid | Koning kom nederig | |
+| PAS-02 | Jesus in die tempel | Matt 21:12–16; 22:34–40 | Reiniging; grootste gebooie | Huis van gebed; liefde | |
+| PAS-03 | Die laaste maaltyd | Luk 22; Joh 13 | Brood/beker; verraad; voete was | Nuwe verbond | |
+| PAS-04 | Getsemane | Matt 26:36–46 | Waak; “nie My wil nie”; dissipels slaap | Gehoorsaamheid in angs | |
+| PAS-05 | Jesus word gevange geneem | Matt 26:47–56 | Kus; arrestasie; swaard; dissipels vlug | Hy gee Homself oor | |
+| PAS-06 | Jesus voor die Raad en Pilatus | Matt 26–27 | Vals getuies; Barabbas; skare | Onskuldige veroordeel | |
+| PAS-07 | Petrus verloën Jesus | Luk 22:54–62 | Drie keer; haan; Jesus kyk; Petrus ween | Mislukking; later herstel | |
+| PAS-08 | Jesus sterf aan die kruis | Luk 23; Joh 19 | Kruis; vergewe; “Dit is volbring”; duisternis | Plaasvervangende dood | Beeld: ingetoë |
+| PAS-09 | Jesus word begrawe | Matt 27:57–66 | Josef; graf; klip; wag | Ware dood | |
+| PAS-10 | Jesus het opgestaan | Luk 24; Joh 20:1–18 | Leë graf; engele; Maria | Hy leef | |
+| PAS-11 | Op pad na Emmaus | Luk 24:13–35 | Skrifte; brood breek; herken | Skrif wys na Hom | |
+| PAS-12 | Tomas glo | Joh 20:19–29 | Vrede; wonde; “My Here”; salig sonder sien | Geloof | |
+| PAS-13 | Jesus gaan op na die hemel | Hand 1:1–11 | Belofte van Gees; wolk; sal terugkom | Hy kom weer | |
+| ACT-01 | Pinkster | Hand 2 | Wind/vuur; tale; Petrus; ~3000 | Gees gegee | |
+| ACT-02 | Die vroeë gemeente | Hand 2:42–47; 3 | Leer; gemeenskap; kreupel loop | Nuwe lewe saam | |
+| ACT-03 | Stefanus | Hand 6–7 | Getuienis; steniging; Saul stem saam | Getrou tot die dood | |
+| ACT-04 | Filippus en die Ethiopiër | Hand 8:26–40 | Jesaja; Jesus; doop | Evangelie gaan uit | |
+| ACT-05 | Saul ontmoet Jesus | Hand 9 | Lig; “Waarom vervolg jy My?”; Ananias | Vyand word dienaar | |
+| ACT-06 | Petrus en Cornelius | Hand 10 | Doek-visioen; heidene; Gees val | Geen partydigheid | |
+| ACT-07 | Paulus en Silas in die tronk | Hand 16 | Filippi; liedere; aardbewing; cipier | God oop tronkdeure | |
+| ACT-08 | Paulus in Atene | Hand 17 | Onbekende god; opstanding | Evangelie vir filosowe | |
+| ACT-09 | Paulus se reis na Rome | Hand 27–28 | Storm; skipbreuk; huisgevangenis | Evangelie tot die einde van die aarde | |
+| EPI-01 | Paulus skryf briewe | Rom 8; 1 Kor 13 (gekies) | Niks skei van liefde; liefde beskryf | Briewe bou die kerk | |
+| REV-01 | Johannes sien die troon | Op 1; 4 | Patmos; Seun van Mens (ingetoë); heilig heilig | Aanbidding | |
+| REV-02 | Die Lam wat waardig is | Op 5 | Seël; Leeu/Lam; nuwe lied | Lam is waardig | |
+| REV-03 | God oordeel regverdig | Op 20:11–15 | Groot wit troon; boeke | Oordeel is ernstig | Beeld: nie horror nie |
+| REV-04 | ’n Nuwe hemel en aarde | Op 21:1–7 | God by mense; trane afvee; alles nuut | Hoop se einde | |
+| REV-05 | Die nuwe Jerusalem | Op 21–22:5 | Stad; rivier; lewensboom; sy aangesig | God by sy volk vir altyd | |
+| REV-06 | Kom, Here Jesus | Op 22:6–21 | Gees en bruid sê kom; genade | Maranata | Serieslote |
+
+---
+
+## Running total (v2 draft)
+
+| Section | Episodes |
+|---------|----------|
+| Genesis begin | 6 |
+| Job mini-reeks | 8 |
+| Abraham–Josef | 16 |
+| Eksodus (gesplitte plae) | 16 |
+| Wildernis–Josua | 7 |
+| Rigters–Rut | 11 |
+| Samuel–Dawid | 14 |
+| Salomo–profete | 14 |
+| Ballingskap–terugkeer | 9 |
+| Jesus bediening | 23 |
+| Lyde–Openbaring | 29 |
+| **Current draft total** | **≈153** |
+
+This number will move as we add Leviticus/Numbers depth, split Jona/Ester/Elia further, or add Chronicles parallels — **by design**.
+
+---
+
+## Approval checklist before any new story prose
+
+- [ ] Confirm Job mini-reeks JOB-01…08  
+- [ ] Confirm plague split EXO-03…EXO-12  
+- [ ] Scan for missing must-cover items (Lev tabernacle details? Balaam? Esther three parts? more Acts?)  
+- [ ] Lock IDs  
+- [ ] Only then rewrite/split Draft v1 manuscripts to match  
+
+## Relationship to Draft v1 (`manuscripts/`)
+
+The existing 127 files were written under the old **hard 127** plan. Treat them as **reusable raw material**, not final text. Especially expect:
+
+- V01-07 Job → expand into JOB-01…08  
+- V02-04 tien plae → split into EXO-04…EXO-09 (+ leave/chase)  
+- Other single-life compressions → split per this matrix  
