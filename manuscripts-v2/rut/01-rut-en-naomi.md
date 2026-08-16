@@ -12,7 +12,7 @@ must_include:
 theology_centre: "Getrouheid in bitterheid"
 continuity_from: SIM-06
 continuity_to: RUT-02
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Rut en Naomi
@@ -38,7 +38,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Naomi alleen op 'n heuwel; leë hande; rou kleure; Moab in die verte.
 
-Jare het verbygegaan in Moab, en die hartseer het een vir een gekom. Eers het Elimelek gesterf. Daarna het die twee seuns ook gesterf, sonder kinders. Naomi was nou alleen in 'n vreemde land met haar twee skoondogters, Rut en Orpa. Drie vroue het geen man meer gehad nie. Mahlon en Chilion het Moabitiese vroue getrou — Orpa en Rut.
+Jare het verbygegaan in Moab, en die hartseer het een vir een gekom. Eers het Elimelek gesterf. Daarna het die twee seuns ook gesterf, sonder kinders. Naomi was nou alleen in 'n vreemde land met haar twee skoondogters, Rut en Orpa. Drie vroue het geen man meer gehad nie. Mahlon en Kiljon het Moabitiese vroue getrou — Orpa en Rut.
 
 ---
 
@@ -91,7 +91,7 @@ Rut se trou aan Naomi wys hoe liefde en getrouheid die Here se pad kan oopmaak, 
 
 ### Vers om te onthou
 
-"Waar jy gaan, gaan ek, en waar jy bly, bly ek." — Rut 1:16 〔AFR20-kontrole〕
+"want waar u gaan, sal ek gaan, en waar u bly, sal ek bly." — Rut 1:16 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

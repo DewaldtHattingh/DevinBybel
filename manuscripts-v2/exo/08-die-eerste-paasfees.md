@@ -12,7 +12,7 @@ must_include:
 theology_centre: "Bloed beteken redding"
 continuity_from: EXO-07
 continuity_to: EXO-09
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die eerste Paasfees
@@ -38,7 +38,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Bloed op deurposte met hysop; ongesuurde brood op tafel.
 
-Die Here het presiese instruksies gegee. Neem van die bloed en stryf dit aan beide deurposte en die balk bo die deur. Julle moet die lam in die nag eet — gebraai, met ongesuurde brood en bitter kruie. Eet dit haastig, met julle gordels vas en skoene aan. Geen suurdeeg moes in hulle huise wees nie. Geen suurdeeg moes in hulle huise wees nie — vir sewe dae moes hulle net ongesuurde brood eet. Sewe dae ongesuurde brood.
+Die Here het presiese instruksies gegee. Neem van die bloed en smeer dit aan die sykante en bokant van die deurkosyne by die huise waarin julle dit eet. Julle moet die lam in die nag eet — oor die vuur gebraai, met ongesuurde brood en bitter kruie. Eet dit haastig, met julle heupe omgord en julle sandale aan julle voete.
 
 ---
 
@@ -91,7 +91,7 @@ God red sy volk deur die bloed van die lam en die teken op die deur. Die bloed b
 
 ### Vers om te onthou
 
-"En die bloed sal vir julle 'n teken wees aan die huise waar julle is; as Ek die bloed sien, sal Ek verbygaan, en die pla sal nie oor julle kom om julle te verdelg nie." — Exodus 12:13 〔AFR20-kontrole〕
+"Die bloed sal vir julle as 'n teken dien aan die huise waarin julle is. Wanneer Ek die bloed sien, sal Ek by julle verbygaan." — Exodus 12:13 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

@@ -12,7 +12,7 @@ must_include:
 theology_centre: "Afgodediens; voorspraak"
 continuity_from: EXO-14
 continuity_to: EXO-16
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die goue kalf
@@ -91,7 +91,7 @@ God is regverdig wanneer sy volk Hom verlaat, maar Hy is ook barmhartig vir die 
 
 ### Vers om te onthou
 
-"Die Here, die Here, 'n God barmhartig en genadig, lankmoedig en groot in goedertierenheid en trou." — Exodus 34:6 〔AFR20-kontrole〕
+"Die Here, die Here, 'n barmhartige en genadige God, geduldig, oorvloedig in troue liefde en waarheid." — Exodus 34:6 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

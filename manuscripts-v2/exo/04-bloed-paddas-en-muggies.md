@@ -12,7 +12,7 @@ must_include:
 theology_centre: "God oordeel Egipte"
 continuity_from: EXO-03
 continuity_to: EXO-05
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Bloed, paddas en muggies
@@ -58,7 +58,7 @@ Die tweede pla het gekom. Aäron het sy hand uitgestrek oor die riviere, en padd
 
 > **Beeldnota:** Stof op grond word lewendige muggies; derde pla; mense en diere.
 
-En weet jy wat toe gebeur het? Die derde pla het gekom. Aäron het sy staf geslaan op die stof van die aarde. Die stof het lewendige muggies geword op mense en diere. Farao se towenaars het probeer, maar hulle kon dit nie doen nie. Hulle het vir Farao gesê: Dit is die vinger van God. Maar Farao se hart was hard. Hy wou nie luister nie. Aäron het sy staf geslaan op die stof van die aarde, en die stof het lewendige muggies geword.
+En weet jy wat toe gebeur het? Die derde pla het gekom. Aäron het sy staf uitgesteek en die stof op die grond geslaan. Die stof het muggies geword op mense en diere.
 
 ---
 
@@ -91,7 +91,7 @@ God oordeel Egipte omdat Farao weier om sy volk te laat gaan. Die Here is magtig
 
 ### Vers om te onthou
 
-"En die Here het vir Moses gesê: Sê vir Aäron: Neem jou staf en strek jou hand uit oor die riviere van Egipte." — Exodus 7:19 〔AFR20-kontrole〕
+"Verder het die Here vir Moses gesê: 'Sê vir Aäron, Neem jou staf en strek jou hand uit oor die waters van Egipte, oor hulle riviere, hulle kanale, hulle vleilande en oor al hulle opgaarplekke vir water – dan sal dit bloed word.'" — Exodus 7:19 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

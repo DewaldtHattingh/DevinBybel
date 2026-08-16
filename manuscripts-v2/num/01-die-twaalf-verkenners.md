@@ -13,7 +13,7 @@ must_include:
 theology_centre: "Geloof vs vrees"
 continuity_from: EXO-16
 continuity_to: NUM-02
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die twaalf verkenners
@@ -49,7 +49,7 @@ Toe die twaalf teruggekom het, het tien van hulle gesê: Die land is goed, maar 
 
 > **Beeldnota:** Kaleb en Josua staan vorentoe; volk luister; ernstige oomblik.
 
-Maar Kaleb en Josua het die volk laat stil word. As die Here welbehae aan ons het, sal Hy ons inbring, het hulle gesê. Moenie rebelleer teen die Here nie. Die volk wou hulle met klippe gooi. Die Here se heerlikheid het by die tent verskyn. Kaleb en Josua het gesê: As die Here welbehae aan ons het, sal Hy ons inbring.
+Maar Kaleb en Josua het die volk laat stil word. As die Here ons goedgesind is, sal Hy ons inbring, het hulle gesê. Moenie rebelleer teen die Here nie. Die volk wou hulle met klippe gooi. Die Here se heerlikheid het by die tent verskyn. Kaleb en Josua het gesê: As die Here welbehae aan ons het, sal Hy ons inbring.
 
 ---
 
@@ -59,7 +59,7 @@ Maar Kaleb en Josua het die volk laat stil word. As die Here welbehae aan ons he
 
 > **Beeldnota:** Moses bid; Here praat; donker wolk; ernstig.
 
-Die Here het gesê: Hulle sal veertig jaar in die woestyn rondswerf — een jaar vir elke dag van verkenning. Hierdie geslag sal nie die land inkom nie. Maar Kaleb en Josua — die wat My welbehae gehad het — sal die land sien. Kinders wat hulle nie geken het nie, sal wel inkom. Veertig dae, veertig jaar — hierdie geslag sal nie die land inkom nie.
+Die Here het gesê: Hulle sal veertig jaar in die woestyn rondswerf — een jaar vir elke dag van verkenning. Hierdie geslag sal nie die land inkom nie. Maar Kaleb en Josua — die wat My guns gevind het — sal die land sien. Kinders wat hulle nie geken het nie, sal wel inkom. Veertig dae, veertig jaar — hierdie geslag sal nie die land inkom nie.
 
 ---
 
@@ -69,7 +69,7 @@ Die Here het gesê: Hulle sal veertig jaar in die woestyn rondswerf — een jaar
 
 > **Beeldnota:** Volk treur; Kaleb en Josua staan stewig; sagte aand.
 
-En weet jy wat toe gebeur het? Die volk het die volgende oggend spijt gekry en probeer opgaan. Maar die Here was nie by hulle nie. Hulle is teruggedryf. Israel sou veertig jaar in die woestyn swerf. Maar die Here het barmhartigheid gehou vir die kinders en vir die wat op Hom vertrou het. Hulle is teruggedryf tot by Horma. Kaleb en Josua sou wel die land sien.
+En weet jy wat toe gebeur het? Die volk het die volgende oggend spijt gekry en probeer opgaan. Maar die Here was nie by hulle nie. Hulle is teruggedryf. Israel sou veertig jaar in die woestyn swerf. Maar die Here het barmhartigheid gehou vir die kinders en vir die wat op Hom vertrou het. Hulle is teruggedryf tot by Gorma. Kaleb en Josua sou wel die land sien.
 
 ---
 
@@ -92,7 +92,7 @@ Wanneer ons op God vertrou, kan ons Hom volg selfs wanneer dinge moeilik lyk. Vr
 
 ### Vers om te onthou
 
-"As die Here welbehae aan ons het, dan sal Hy ons inbring in hierdie land en dit aan ons gee." — Numeri 14:8 〔AFR20-kontrole〕
+"As die Here ons goedgesind is, dan sal Hy ons inbring in hierdie land en dit vir ons gee." — Numeri 14:8 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

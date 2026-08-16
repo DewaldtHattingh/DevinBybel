@@ -10,7 +10,7 @@ must_include:
 theology_centre: "Menslike harte bly hard"
 continuity_from: EXO-10
 continuity_to: EXO-12
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Farao verander van plan
@@ -89,7 +89,7 @@ Menslike harte kan hard bly, selfs ná groot plae. Maar die Here is groter as en
 
 ### Vers om te onthou
 
-"En Moses het vir die volk gesê: Moenie bang wees nie, staan stil en sien die redding van die Here." — Exodus 14:13 〔AFR20-kontrole〕
+"Moenie bang wees nie! Staan stil en aanskou die verlossing van die Here wat Hy vandag vir julle gaan bewerk." — Exodus 14:13 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

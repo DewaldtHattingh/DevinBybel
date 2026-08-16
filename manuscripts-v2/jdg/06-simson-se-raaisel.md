@@ -11,7 +11,7 @@ must_include:
 theology_centre: "Geheime en konflik"
 continuity_from: SIM-02
 continuity_to: SIM-04
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Simson se raaisel
@@ -37,7 +37,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Simson gee raaisel; manne luister; leeu/heuning-motief subtiel.
 
-Simson het vir hulle 'n raaisel gevra: Uit die eter het kos gekom, en uit die sterke het soetigheid gekom. Die geheim was iets wat net Simson geweet het — die leeu en die heuning langs die pad. Die mans kon die antwoord nie sommer vind nie. Op die sewende dag het die Filistyne Simson se vrou gedreig om haar te verbrand. Die geheim was die leeu en die heening langs die pad — net Simson het dit geweet. Die Filistyne kon die raaisel nie raai nie.
+Simson het vir hulle 'n raaisel gevra: Uit die eter het iets te ete gekom, en uit die sterke het iets soets gekom. Die geheim was iets wat net Simson geweet het — die leeu en die heuning langs die pad. Die mans kon die antwoord nie sommer vind nie. Op die sewende dag het die Filistyne Simson se vrou gedreig om haar te verbrand. Die geheim was die leeu en die heuning langs die pad — net Simson het dit geweet. Die Filistyne kon die raaisel nie raai nie.
 
 ---
 
@@ -57,7 +57,7 @@ Op die sewende dag het die Filistyne Simson se vrou gedreig. Vertel ons die raai
 
 > **Beeldnota:** Simson woedend; vertrek van Timnah; ernstige gesig.
 
-En weet jy wat toe gebeur het? Die Filistyne het die raaisel gerai. Simson was woedend. Julle het my uie geploeg met my kalf, het hy gesê — hulle het sy vrou gebruik om hom te mislei. Die Gees van die Here het hom krag gegee. Hy het na Askalon gegaan en dertig manne verslaan en hulle klere geneem om die weddenskap te betaal. Die Gees van die Here het hom krag gegee om na Askalon te gaan. Simson het na Askalon gegaan en dertig manne verslaan. Simson het na Askalon gegaan.
+En weet jy wat toe gebeur het? Die Filistyne het die raaisel gerai. Simson was woedend. Julle het my uie geploeg met my kalf, het hy gesê — hulle het sy vrou gebruik om hom te mislei. Die Gees van die Here het van hom besit geneem. Hy het afgegaan na Askelon en dertig manne verslaan.
 
 ---
 

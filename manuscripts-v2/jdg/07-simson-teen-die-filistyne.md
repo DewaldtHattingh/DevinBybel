@@ -11,7 +11,7 @@ must_include:
 theology_centre: "Konflik eskaleer"
 continuity_from: SIM-03
 continuity_to: SIM-05
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Simson teen die Filistyne
@@ -37,7 +37,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Simson vang jakkalse; stel sterte aan brand; veld in verte.
 
-Simson het wraak geneem. Hy het drie honderd jakkalse gevang, twee aan twee gebind en fakkels tussen hulle sterte vasgemaak. Hy het hulle in die Filistyne se koringlande losgelaat. Die vuur het die oes vernietig. Hy het die sterte van drie honderd jakkalse aan mekaar gebind met fakkels tussen hulle. Hy het drie honderd jakkalse gevang en fakkels tussen hulle sterte vasgemaak. Die vuur het die oes van die Filistyne vernietig.
+Simson het wraak geneem. Hy het driehonderd jakkalse gevang, stert aan stert gebind en fakkels tussen hulle sterte vasgemaak. Hy het hulle in die Filistyne se graanlande losgelaat.
 
 ---
 
@@ -47,7 +47,7 @@ Simson het wraak geneem. Hy het drie honderd jakkalse gevang, twee aan twee gebi
 
 > **Beeldnota:** Filistyne jaag Simson; Israel vra waarom; spanning.
 
-Die Filistyne het Simson gesoek. Hulle het die manne van Juda gevra: Waarom het julle dit aan ons gedoen? Juda se mense het Simson gebind en na die Filistyne gebring. Maar die Gees van die Here het kragtig op hom gekom. Hy het die toue laat breek. Juda se mense het gevra: Wat het jy ons aangedoen? Die Filistyne sal ons vernietig! Drie duisend man van Juda het Simson gebind en na Lehi gebring. Die Gees van die Here het kragtig op hom gekom.
+Die Filistyne het Simson gesoek. Drieduisend man van Juda het hom gebind en na Legi gebring. Maar die Gees van die Here het van hom besit geneem. Hy het die toue laat breek.
 
 ---
 
@@ -57,7 +57,7 @@ Die Filistyne het Simson gesoek. Hulle het die manne van Juda gevra: Waarom het 
 
 > **Beeldnota:** Simson met kaakbeen van esel; Filistyne vlug; geen bloed gewys nie.
 
-Die Filistyne het hom in Lehi vasgekeer. Simson was moeg. En weet jy wat toe gebeur het? Die Gees van die Here het weer kragtig op hom gekom. Hy het 'n vars kaakbeen van 'n esel gevat en daarmee duisend man verslaan. Hy het die kaakbeen van 'n esel gegryp — 'n onrein ding — en daarmee duisend man verslaan. Hy het 'n kaakbeen van 'n esel gegryp en daarmee duisend man verslaan. Hy het die plek Ramat-Lehi genoem.
+Die Filistyne het hom in Legi vasgekeer. Simson was moeg. En weet jy wat toe gebeur het? Die Gees van die Here het weer van hom besit geneem. Hy het 'n vars kakebeen van 'n donkie gevat en daarmee duisend man verslaan.
 
 ---
 
@@ -90,7 +90,7 @@ Die konflik tussen Simson en die Filistyne het erger geword. Die krag kom van di
 
 ### Vers om te onthou
 
-"En die Gees van die Here het kragtig op hom gekom, sodat die kaakbeen in sy hand soos 'n dors stok was." — Rigters 15:14 〔AFR20-kontrole〕
+"En die Gees van die Here het van hom besit geneem, sodat die kaakbeen in sy hand soos 'n dors stok was." — Rigters 15:14 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

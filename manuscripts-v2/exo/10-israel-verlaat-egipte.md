@@ -11,7 +11,7 @@ must_include:
 theology_centre: "God lei sy volk"
 continuity_from: EXO-09
 continuity_to: EXO-11
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Israel verlaat Egipte
@@ -27,7 +27,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Israeliete trek uit; families met sakke; oggendlig.
 
-**Een dag, lank, lank gelede,** het die Egiptenaars Israel gejaag om uit te gaan. Hulle het silwer en goud en klere gegee. So het die Israeliete uit Egipte getrek — ongeveer ses honderd duisend mans, behalwe kinders. Hulle het ongeveer vier honderd dertig jaar in Egipte gewoon. Die Egiptenaars het Israel gejaag om uit te gaan — hulle wou hulle kwalik weg kry. Hulle het silwer en goud en klere gegee. Met hulle was ook 'n groot menigte gemengde volk. Ses honderd duisend mans het uitgetrek.
+**Een dag, lank, lank gelede,** het die Egiptenaars Israel gejaag om uit te gaan. Hulle het silwer en goud en klere gegee. So het die Israeliete uit Egipte getrek — ongeveer seshonderdduisend man te voet, afgesien van die afhanklikes. Hulle het vierhonderd-en-dertig jaar in Egipte gewoon.
 
 ---
 
@@ -57,7 +57,7 @@ Die Here het nie Israel deur die Filistynse land gelei nie — die volk sou dalk
 
 > **Beeldnota:** Wolk/sag voor die volk; vuur snags; wonderbaarlike leiding.
 
-En weet jy wat toe gebeur het? Die Here het voor hulle gegaan — bedags in 'n wolk, snags in 'n vuursag. Die wolk het hulle bedags gelei, en die vuur het hulle snags lig gegee. Die wolk het nooit weggegaan nie — bedags of snags. So het die Here Israel gelei. Die Here het bedags in 'n wolk en snags in 'n vuursag voor hulle gegaan. Wolk bedags, vuur snags.
+En weet jy wat toe gebeur het? Die Here het bedags in 'n wolkkolom voor hulle uitgegaan om hulle op die pad te lei, en snags in 'n vuurkolom om aan hulle lig te verskaf. Die wolkkolom het nooit weggegaan nie — bedags of snags. So het die Here Israel gelei.
 
 ---
 
@@ -90,7 +90,7 @@ God lei sy volk. Hy het hulle uit slawerny gebring en voor hulle gegaan in wolk 
 
 ### Vers om te onthou
 
-"En die Here het hulle bedags voor hulle gelei in 'n wolk, en snags in 'n vuursag, om vir hulle lig te gee." — Exodus 13:21 〔AFR20-kontrole〕
+"Die Here het bedags in 'n wolkkolom voor hulle uitgegaan om hulle op die pad te lei, en snags in 'n vuurkolom om aan hulle lig te verskaf, sodat hulle bedags en snags kon trek." — Exodus 13:21 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

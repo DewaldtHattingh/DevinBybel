@@ -11,7 +11,7 @@ must_include:
 theology_centre: "God gee sy wet"
 continuity_from: EXO-13
 continuity_to: EXO-15
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Sinai en die Tien Gebooie
@@ -89,7 +89,7 @@ God gee sy wil aan sy volk. Sy gebooie wys hoe om Hom te eer en ander lief te h�
 
 ### Vers om te onthou
 
-"Ek is die Here, jou God, wat jou uit die land Egipte, uit die slawehuis, uitgelei het." — Exodus 20:2 〔AFR20-kontrole〕
+"Ek is die Here jou God, wat jou uit Egipteland, uit die plek van slawerny, uitgelei het." — Exodus 20:2 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

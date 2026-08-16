@@ -12,7 +12,7 @@ must_include:
 theology_centre: "God beskerm sy plan"
 continuity_from: JOS-06
 continuity_to: EXO-02
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Moses as baba
@@ -48,7 +48,7 @@ Die volk het gegroei, en Farao se vrees het groter geword. Hy het beveel dat elk
 
 > **Beeldnota:** 'n Moeder maak 'n klein rietmandjie dig; baba Moses lê rustig binne.
 
-Een moeder, Jokebed, het haar seuntjie drie maande lank versteek. Toe kon sy nie meer nie. Sy het 'n mandjie van riete gemaak, dit met teer en pek diggesmeer, en haar baba daarin gelê. Sy het die mandjie tussen die rivierriet langs die Nyl neergesit. Haar suster Miryam het van ver af gekyk. Jokebed en haar man was van die stam Levi.
+Een moeder, Jokebed, het haar seuntjie drie maande lank versteek. Toe kon sy nie meer nie. Sy het 'n papirusmandjie gemaak, dit met pik en teer diggesmeer, en haar baba daarin gelê. Sy het die mandjie tussen die palmiete aan die kant van die Nyl neergesit. Haar suster Miryam het van ver af gekyk. Jokebed en haar man was van die stam Levi.
 
 ---
 
@@ -68,7 +68,7 @@ En weet jy wat toe gebeur het? Farao se dogter het by die rivier kom bad. Sy het
 
 > **Beeldnota:** Jokebed voed die baba; prinses kyk vriendelik; rustige hoftuin.
 
-So het Jokebed haar eie seun weer in haar arms gehou — nou as sy opvoedster. Toe die seuntjie groot genoeg was, het Farao se dogter hom as haar seun aangeneem. Sy het hom Moses genoem, want sy het gesê: Ek het hom uit die water getrek. Niemand het geweet dat hierdie baba later Israel sou lei nie. Die Here was reeds by hom.
+So het Jokebed haar eie seun weer in haar arms gehou — nou as sy opvoedster. Toe die seuntjie groot genoeg was, het Farao se dogter hom as haar seun aangeneem. Sy het hom Moses genoem, want sy het gesê: Uit die water het ek hom gehaal. Niemand het geweet dat hierdie baba later Israel sou lei nie. Die Here was reeds by hom.
 
 ---
 
@@ -92,7 +92,7 @@ God beskerm sy plan selfs wanneer 'n magtige koning bang is. Hy kan 'n baba in F
 
 ### Vers om te onthou
 
-"Maar die kind het groot geword, en sy het hom aan Farao se dogter gebring, en hy was vir haar soos 'n seun." — Exodus 2:10 〔AFR20-kontrole〕
+"Toe die seuntjie groter geword het, het sy hom na die farao se dogter gebring, en hy het haar seun geword." — Exodus 2:10 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

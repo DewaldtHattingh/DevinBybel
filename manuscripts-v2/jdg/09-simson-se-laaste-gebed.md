@@ -12,7 +12,7 @@ must_include:
 theology_centre: "God hoor selfs aan die einde"
 continuity_from: SIM-05
 continuity_to: RUT-01
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Simson se laaste gebed
@@ -48,7 +48,7 @@ Die Filistynse vorste het 'n groot offerfees vir hulle god Dagon gehou. Ons god 
 
 > **Beeldnota:** Simson se hande op pilare; kind lei hom; ernstige oomblik.
 
-Simson het vir die seun wat hom gelei het gesê: Laat my die pilare voel waarop die huis rus, sodat ek daar teen kan leun. Daar was baie mense op die dak — drie duisend man en vrou — om Simson te sien en om Dagon te prys. Simson het die twee middelste pilare gegryp — een met sy regterhand en een met sy linkerhand. Drie duisend man en vrou was op die dak om Simson te sien. Drie duisend mense was op die dak.
+Simson het vir die seun wat hom gelei het gesê: Laat my die pilare voel waarop die huis rus, sodat ek daar teen kan leun. Daar was baie mense op die dak — ongeveer drieduisend man en vrou — om Simson te sien en om Dagon te prys.
 
 ---
 
@@ -58,7 +58,7 @@ Simson het vir die seun wat hom gelei het gesê: Laat my die pilare voel waarop 
 
 > **Beeldnota:** Simson bid; hande op pilare; tempel begin wankel; geen gewonde gewys nie.
 
-Simson het tot die Here gebid: Here God, onthou my tog en versterk my net hierdie een keer, o God, dat ek aan die Filistyne vergelding kan gee vir my twee oë. En weet jy wat toe gebeur het? Hy het die twee middelste pilare gegryp en hulle laat wankel. Hy het meer gedood in sy dood as in sy hele lewe — en die tempel het op almal geval. Hy het die pilare laat wankel. Die tempel het op almal geval.
+Simson het tot die Here gebid: Here, my Heer, dink tog aan my! Maak my asseblief nog net hierdie keer sterk, o God, sodat ek my vir een van my twee oë op die Filistyne kan wreek. En weet jy wat toe gebeur het? Hy het die twee middelste pilare gegryp en hulle laat wankel. Hy het meer gedood in sy dood as in sy hele lewe — en die tempel het op almal geval. Hy het die pilare laat wankel. Die tempel het op almal geval.
 
 ---
 
@@ -91,7 +91,7 @@ God hoor die gebed van die wat na Hom terugkeer, selfs aan die einde van 'n moei
 
 ### Vers om te onthou
 
-"Here Here, onthou my tog en versterk my net hierdie een keer, o God." — Rigters 16:28 〔AFR20-kontrole〕
+"Here, my Heer, dink tog aan my! Maak my asseblief nog net hierdie keer sterk, o God, sodat ek my vir een van my twee oë op die Filistyne kan wreek." — Rigters 16:28 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

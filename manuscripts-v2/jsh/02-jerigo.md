@@ -13,7 +13,7 @@ must_include:
 theology_centre: "Gehoorsaamheid; genade vir Ragab"
 continuity_from: JSH-01
 continuity_to: JSH-03
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jerigo
@@ -39,7 +39,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Ragab laat spioene deur venster af; rooi koord; stad agter.
 
-Ragab het gesê: Ek weet die Here het julle hierdie land gegee. Sy het die spioene gehelp ontsnap deur die venster. Sy het gevra: Spaar my en my familie as julle die stad vat. Hulle het gesê: Bind hierdie rooi koord in die venster. Sy het geloof gehad in die God van Israel. Sy het gesê: Ek weet die Here julle hierdie land gegee het. Sy het 'n rooi koord in die venster gebind.
+Ragab het gesê: Ek weet die Here het julle hierdie land gegee. Sy het die spioene gehelp ontsnap deur die venster. Sy het gevra: Spaar my en my familie as julle die stad vat. Hulle het gesê: Bind hierdie karmosynrooi tou aan die venster.
 
 ---
 
@@ -92,7 +92,7 @@ God gee oorwinning op sy manier. Die wat op Hom vertrou — soos Ragab — word 
 
 ### Vers om te onthou
 
-"Bind hierdie rooi koord in die venster waardeur jy ons laat afgedaal het." — Josua 2:18 〔AFR20-kontrole〕
+"Bind hierdie karmosynrooi gevlegte tou vasmaak aan die venster waardeur jy ons laat sak het." — Josua 2:18 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

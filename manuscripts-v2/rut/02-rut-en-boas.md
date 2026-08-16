@@ -12,7 +12,7 @@ must_include:
 theology_centre: "God se voorsienigheid; loskoping"
 continuity_from: RUT-01
 continuity_to: SAM-01
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Rut en Boas
@@ -91,7 +91,7 @@ Die Here werk deur mense se goedheid en trou. Boas se loskoping wys hoe God sorg
 
 ### Vers om te onthou
 
-"Mag die Here jou beloon vir wat jy gedoen het." — Rut 2:12 〔AFR20-kontrole〕
+"Mag jy vir alles wat jy gedoen het, ruim vergoed word deur die Here, die God van Israel, onder wie se vleuels jy kom skuil het." — Rut 2:12 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

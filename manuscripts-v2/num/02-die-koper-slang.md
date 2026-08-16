@@ -12,7 +12,7 @@ must_include:
 theology_centre: "Redding deur op te kyk soos God sê"
 continuity_from: NUM-01
 continuity_to: DEU-01
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die koper slang
@@ -38,7 +38,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Slange in woestyn; mense bang; geen wonde of bloed gewys nie.
 
-Die Here het brandende slange onder die volk gestuur. Baie mense is gebyt en het gesterf. Israel het na Moses gegaan en gesê: Ons het gesondig deur teen die Here en teen jou te praat. Bid vir ons dat die Here die slange van ons wegneem. Israel het na Moses gegaan en gesê: Ons het gesondig — bid vir ons. Baie mense van Israel het gesterf. Moses het vir die volk gebid.
+Die Here het giftige slange onder die volk ingestuur. Baie mense van die volk Israel het gesterf. Israel het na Moses gegaan en gesê: Ons het gesondig deur teen die Here en teen jou te praat. Bid vir ons dat die Here die slange van ons wegneem. Israel het na Moses gegaan en gesê: Ons het gesondig — bid vir ons. Baie mense van Israel het gesterf. Moses het vir die volk gebid.
 
 ---
 
@@ -48,7 +48,7 @@ Die Here het brandende slange onder die volk gestuur. Baie mense is gebyt en het
 
 > **Beeldnota:** Moses bid; Here gee instruksie; koper slang word gemaak.
 
-Moses het vir die volk gebid. Die Here het gesê: Maak 'n slang en sit dit op 'n paal. Elkeen wat gebyt is en daarna kyk, sal lewe. Moses het 'n koper slang gemaak en dit op 'n paal opgerig. Moses het 'n koper slang gemaak en dit op 'n paal opgerig in die middel van die kamp. Moses het 'n slang van koper gemaak en dit op 'n paal opgerig. Elkeen wat gekyk het, het gelewe.
+Moses het vir die volk gebid. Die Here het gesê: Maak 'n slang en sit dit op 'n paal. Elkeen wat gebyt is en daarna kyk, sal lewe. Moses het 'n koper slang gemaak en dit op 'n paal opgerig. Moses het 'n koperslang gemaak en dit op 'n paal opgerig.
 
 ---
 
@@ -90,7 +90,7 @@ Wanneer ons sonde bely en na God kyk soos Hy sê, gee Hy lewe. Hy red die wat na
 
 ### Vers om te onthou
 
-"En die Here het vir Moses gesê: Maak vir jou 'n brandende slang en sit dit op 'n paal, en elkeen wat gebyt is en daarna kyk, sal lewe." — Numeri 21:8 〔AFR20-kontrole〕
+"Die Here het vir Moses gesê: Maak vir jou 'n slang en sit dit op 'n paal, dan sal elkeen wat gepik is en daarna kyk, bly leef." — Numeri 21:8 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

@@ -10,7 +10,7 @@ must_include:
 theology_centre: "God beheer selfs die lig"
 continuity_from: EXO-06
 continuity_to: EXO-08
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Duisternis
@@ -26,7 +26,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Moses voor Farao; donker wolk begin opstap; ernstige atmosfeer.
 
-**Een dag, lank, lank gelede,** het die negende pla oor Egipte gekom. Die Here het vir Moses gesê: Strek jou hand uit na die hemel, en daar sal duisternis wees oor die land van Egipte — duisternis wat gevoel kan word. Moses het sy hand na die hemel uitgestrek. Moses het sy hand na die hemel uitgestrek. Drie dae lank was daar duisternis oor Egipte.
+**Een dag, lank, lank gelede,** het die negende pla oor Egipte gekom. Die Here het vir Moses gesê: Strek jou hand uit na die hemel, sodat daar 'n duisternis oor Egipteland kom, 'n tasbare duisternis. Moses het sy hand na die hemel uitgestrek. Drie dae lank was daar duisternis oor Egipte.
 
 ---
 
@@ -46,7 +46,7 @@ Drie dae lank was daar duisternis oor Egipte. Die duisternis was so dik dat niem
 
 > **Beeldnota:** Gosen met lig; Israel kan sien; Egipte donker; onderskeid duidelik.
 
-Maar by al die kinders van Israel was daar lig in hulle wonings. Die Here het weer onderskeid gemaak. Terwyl Egipte in duisternis sit, kon Israel sien. Farao het vir Moses geroep en gesê: Gaan weg van my. Moenie my weer sien nie, want die dag wat jy my sien, sal jy sterf. By Israel was daar lig in hulle wonings. Farao het vir Moses gesê: Moenie my weer sien nie.
+Maar vir al die Israeliete was dit lig in hulle woonplekke. Die Here het weer onderskeid gemaak.
 
 ---
 
@@ -89,7 +89,7 @@ God beheer selfs die lig en die duisternis. Hy maak onderskeid tussen sy volk en
 
 ### Vers om te onthou
 
-"En die Here het vir Moses gesê: Strek jou hand uit na die hemel, dat daar duisternis mag wees oor die land van Egipte, duisternis wat gevoel kan word." — Exodus 10:21 〔AFR20-kontrole〕
+"Die Here het vir Moses gesê: Strek jou hand uit na die hemel, sodat daar 'n duisternis oor Egipteland kom, 'n tasbare duisternis." — Exodus 10:21 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

@@ -13,7 +13,7 @@ must_include:
 theology_centre: "Krag is van die Gees"
 continuity_from: SIM-01
 continuity_to: SIM-03
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Simson en die leeu
@@ -49,7 +49,7 @@ Simson en sy ouers het na Timna vertrek. Hulle het nie geweet dat die Here hierd
 
 > **Beeldnota:** Syhoek-stryd; geen bloed; Simson het niks in sy hande nie; geen gloed.
 
-Simson het geen spies, swaard of ander wapen in sy hand gehad nie. Toe het die Gees van die Here kragtig oor hom gekom. Met sy kaal hande het Simson die jong leeu uitmekaar geskeur. Daarna het hy verder gegaan. Hy het nie vir sy pa of sy ma vertel wat by die wingerde gebeur het nie. Hy het die leeu se bek oopgeruk — hy het niks in sy hand gehad nie. Met kaal hande het hy die leeu verskeur.
+Simson het geen spies, swaard of ander wapen in sy hand gehad nie. Toe het die Gees van die Here van hom besit geneem. Met sy kaal hande het Simson die jong leeu uitmekaar geskeur soos 'n mens 'n bokkie uitmekaar sou skeur.
 
 ---
 
@@ -59,7 +59,7 @@ Simson het geen spies, swaard of ander wapen in sy hand gehad nie. Toe het die G
 
 > **Beeldnota:** Oue leeukarkas nie-grafies; bye en heuning; Simson deel heuning met ouers.
 
-'n Ruk later het Simson weer na Timna gegaan. Onderweg het hy van die pad afgedraai om na die dooie leeu te kyk. Daar, binne-in die leeu se karkas, was 'n swerm bye en heuning. Simson het van die heuning geëet en ook vir sy ouers gegee. Hulle het geëet, maar hy het nie vertel waar dit vandaan gekom het nie. Later het bye 'n kolonie in die leeu se karkas gemaak en heuning geproduseer. Bye en heuning was in die leeu se karkas.
+'n Ruk later het Simson weer na Timna gegaan. Onderweg het hy van die pad afgedraai om na die oorskot van die leeu te kyk. Daar, in die karkas van die leeu, was 'n swerm bye en heuning.
 
 ---
 
@@ -92,7 +92,7 @@ Simson se krag is van die Gees van die Here — nie van homself nie.
 
 ### Vers om te onthou
 
-"Die Gees van die Here het kragtig oor hom gekom." — Rigters 14:6 〔AFR20-kontrole〕
+"Die Gees van die Here het van hom besit geneem." — Rigters 14:6 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

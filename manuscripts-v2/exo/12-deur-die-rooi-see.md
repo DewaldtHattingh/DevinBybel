@@ -12,7 +12,7 @@ must_include:
 theology_centre: "Die Here red magtig"
 continuity_from: EXO-11
 continuity_to: EXO-13
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Deur die Rooi See
@@ -91,7 +91,7 @@ Waar ons vasgekeer voel, maak God 'n weg. Hy red magtig die wat op Hom vertrou.
 
 ### Vers om te onthou
 
-"En Israel het die groot hand gesien wat die Here aan die Egiptenaars gebruik het; en die volk het die Here gevrees en in die Here en in sy dienaar Moses geglo." — Exodus 14:31 〔AFR20-kontrole〕
+"Toe Israel die magtige daad sien wat die Here aan die Egiptenaars gebruik het, het die volk vir die Here ontsag gehad en hulle vertroue in die Here en in sy dienskneg Moses gestel." — Exodus 14:31 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

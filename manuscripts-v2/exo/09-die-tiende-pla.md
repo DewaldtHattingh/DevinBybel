@@ -10,7 +10,7 @@ must_include:
 theology_centre: "Oordeel is werklik"
 continuity_from: EXO-08
 continuity_to: EXO-10
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die tiende pla
@@ -26,7 +26,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Moses praat ernstig met Farao; donker nag; spanning.
 
-**Een dag, lank, lank gelede,** het Moses vir Farao gewaarsku oor die tiende pla. Om middernag sal die Here deur Egipte gaan, het hy gesê. Elke eerstgeborene in Egipte sal sterf — van Farao se seun af tot die eerstgeborene van die slaaf by die meule. Maar onder Israel sal nie 'n hond sy tong teen enige mens of dier uitsteek nie. Elke eerstgeborene in Egipte sou sterf — van Farao se seun af tot die eerstgeborene van die slaaf by die meule. Om middernag.
+**Een dag, lank, lank gelede,** het Moses vir Farao gewaarsku oor die tiende pla. Teen middernag sal die Here dwarsdeur Egipte trek, het hy gesê. Elke eerstgeborene in Egipteland sal sterf — van Farao se seun af tot die eerstgeborene van die slavin agter die maalklippe. Maar by al die Israeliete sal nie eers 'n hond grom nie.
 
 ---
 
@@ -46,7 +46,7 @@ Die nag het gekom. Israel het binne gebly, met bloed op hulle deure. Die Here so
 
 > **Beeldnota:** Stil nag; huilende paleis in verte; geen grafiese detail.
 
-Om middernag het die Here deur Egipte gegaan. In Farao se huis, by die meule en in die tronk — oral waar daar geen bloed op die deur was nie, het die eerstgeborene gesterf. Van die seun van Farao af tot die eerstgeborene van die gevangene. Ook die eerstgeborene van die vee. In Israel se huise, waar die bloed was, het niemand gesterf nie. Groot gegil in Egipte.
+Om middernag het die Here alle eersgeborenes in Egipteland getref — van die eersgeborene van Farao af tot die eersgeborene van die krygsgevangene in die kerker, ook al die eersgeborenes van die vee.
 
 ---
 
@@ -89,7 +89,7 @@ God se oordeel is werklik. Maar waar die bloed van die lam was, het Hy verbygega
 
 ### Vers om te onthou
 
-"En dit het gebeur om middernag dat die Here al die eerstgeborenes in die land Egipte doodgeslaan het." — Exodus 12:29 〔AFR20-kontrole〕
+"Dit het teen middernag gebeur. Die Here het alle eersgeborenes in Egipteland getref." — Exodus 12:29 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

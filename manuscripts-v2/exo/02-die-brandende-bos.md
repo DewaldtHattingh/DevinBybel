@@ -14,7 +14,7 @@ must_include:
 theology_centre: "God roep; heilige grond"
 continuity_from: EXO-01
 continuity_to: EXO-03
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die brandende bos
@@ -48,9 +48,9 @@ In Midian het Moses by 'n put gehelp toe sewe susters hulle skape water wou gee.
 
 ![Beeld: stygende-aksie](../../assets/images/EXO-02-p3.png)
 
-> **Beeldnota:** Brandende bos op Horeb; Moses staan ver weg en kyk; vlamme in takke maar geen as nie.
+> **Beeldnota:** Doringbos op Horeb; Moses staan ver weg en kyk; vlamme in takke maar geen as nie.
 
-Eendag het Moses sy skape laat wei naby die berg Horeb. En weet jy wat toe gebeur het? 'n Engel het in 'n brandende bos verskyn. Die bos het gebrand, maar dit het nie opgebrand nie. Moses het nader gegaan om te kyk. Die Engel van die Here het in die bos verskyn. Moses het gewonder: Waarom brand die bos nie op nie?
+Eendag het Moses sy kleinvee laat wei naby die berg Horeb. En weet jy wat toe gebeur het? Die Engel van die Here het in 'n doringbos verskyn — die bos was aan die brand, maar dit het nie opgebrand nie. Moses het nader gegaan om te kyk. Moses het gewonder: Waarom brand die doringbos nie uit nie?
 
 ---
 
@@ -60,7 +60,7 @@ Eendag het Moses sy skape laat wei naby die berg Horeb. En weet jy wat toe gebeu
 
 > **Beeldnota:** Moses staan sonder skoene; lig uit die bos; heilige grond aangedui.
 
-Die Here het uit die bos geroep: Moses, Moses! Hy het geantwoord: Hier is ek. Moenie nader kom nie, het die Here gesê. Trek jou skoene uit, want die plek waarop jy staan, is heilige grond. Ek is die God van jou vaders — van Abraham, Isak en Jakob. Ek het die nood van my volk gesien. Gaan na Farao en sê: Laat my volk uitgaan.
+Die Here het uit die doringbos geroep: Moses, Moses! Hy het geantwoord: Hier is ek. Moenie nader kom nie, het die Here gesê. Trek jou skoene uit, want die plek waarop jy staan, is heilige grond. Ek is die God van jou vaders — van Abraham, Isak en Jakob. Ek het die nood van my volk gesien. Gaan na Farao en sê: Laat my volk uitgaan.
 
 Moses het gevra: Wie sal ek sê stuur my? Die Here het geantwoord: EK IS WIE EK IS. Sê vir Israel: EK IS het my na julle gestuur. Die Here het gesê: Ek het die nood van my volk in Egipte gesien en hulle klaagte gehoor.
 
@@ -96,7 +96,7 @@ God roep mense om sy volk te help, en Hy gee hulp — soos Aäron — vir die wa
 
 ### Vers om te onthou
 
-"God het vir Moses geantwoord: EK IS WIE EK IS." — Exodus 3:14 〔AFR20-kontrole〕
+"God sê toe vir Moses: 'Ek Is Wie Ek Is.'" — Exodus 3:14 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

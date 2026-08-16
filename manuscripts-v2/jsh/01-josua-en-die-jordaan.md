@@ -12,7 +12,7 @@ must_include:
 theology_centre: "God is by Josua"
 continuity_from: DEU-01
 continuity_to: JSH-02
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Josua en die Jordaan
@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Josua staan alleen; Jordaanrivier in verte; nuwe dag.
 
-**Een dag, lank, lank gelede,** het Moses gesterf. Die Here het vir Josua gesê: Wees sterk en vol moed. Soos Ek met Moses was, sal Ek met jou wees. Ek sal jou nie los of verlaat nie. Trek nou op en gaan die land in wat Ek Israel gegee het. Josua was Moses se dienaar. Die Here het gesê: Trek op en gaan die land in.
+**Een dag, lank, lank gelede,** het Moses gesterf. Die Here het vir Josua gesê: Wees dapper en sterk. Soos Ek met Moses was, sal Ek met jou wees. Ek sal jou nie los of verlaat nie. Trek nou op en gaan die land in wat Ek Israel gegee het. Josua was Moses se dienaar. Die Here het gesê: Trek op en gaan die land in.
 
 ---
 
@@ -48,7 +48,7 @@ Israel het by die Jordaanrivier gekamp. Die rivier was vol — dit was oesfeesty
 
 > **Beeldnota:** Priesters dra ark in water; water staan stil; wonderbaarlike oomblik.
 
-Die priesters wat die ark gedra het, het die water ingestap. En weet jy wat toe gebeur het? Die water wat van bo af gekom het, het opgestaan soos 'n dam. Die water verder af het weggetrek. Die priesters het in die middel van die rivier gestaan terwyl die hele volk op droë grond oorgestek het. Die water wat van bo af gekom het, het opgestaan soos 'n dam ver by die stad Adam. Op droë grond oorgestek.
+Die priesters wat die verbondsark gedra het, het die water ingestap. En weet jy wat toe gebeur het? Die water wat van bo af gekom het, het opgedam — baie ver terug, vanaf Adam. Die priesters het in die middel van die rivier gestaan terwyl die hele volk op droë grond oorgestek het.
 
 ---
 
@@ -91,7 +91,7 @@ God is by Josua soos Hy by Moses was. Wees sterk en vol moed, want die Here gaan
 
 ### Vers om te onthou
 
-"Wees sterk en vol moed, want jy sal hierdie volk die land laat beërwe." — Josua 1:6 〔AFR20-kontrole〕
+"Wees dapper en sterk, want jy moet hierdie volk die land in besit laat neem." — Josua 1:6 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

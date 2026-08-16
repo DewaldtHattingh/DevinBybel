@@ -12,7 +12,7 @@ must_include:
 theology_centre: "God gebruik die swakke"
 continuity_from: JDG-01
 continuity_to: JDG-03
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Gideon geroep
@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Gideon dors koring in wingerd; engel verskyn; aand.
 
-**Een dag, lank, lank gelede,** het Midian Israel swaar onderdruk. Gideon het koring dors om dit vir die Midianiete weg te steek. 'n Engel het verskyn en gesê: Die Here is met jou, dapper held. Gideon het gesê: As die Here met ons is, waarom gebeur dit alles? Die Midianiete het Israel se oes vernietig. Israel het in bergspore gewoon uit vrees. Gideon het koring dors.
+**Een dag, lank, lank gelede,** het Midian Israel swaar onderdruk. Gideon het koring dors om dit vir die Midianiete weg te steek. 'n Engel het verskyn en gesê: Die Here is met jou, dapper kryger. Gideon het gesê: As die Here met ons is, waarom gebeur dit alles? Die Midianiete het Israel se oes vernietig. Israel het in bergspore gewoon uit vrees. Gideon het koring dors.
 
 ---
 
@@ -48,7 +48,7 @@ Die Here het Gideon gestuur om Israel te red. Eerste moes hy die altaar van Baä
 
 > **Beeldnota:** Gideon vra teken met wol; vloot op grond; ernstige gebed.
 
-Gideon het vir die Here gevra om 'n teken te gee. Hy het 'n wolvloot op die dorsvloer gelê. As daar dou op die wol alleen is en die grond droog, sal ek weet, het hy gesê. So het dit gebeur. Die volgende nag het hy dit omgekeerd gevra — en die Here het weer geluister. Die eerste nag was die wol nat en die grond droog. Die tweede nag was dit omgekeerd. Wol en dou as teken.
+Gideon het vir die Here gevra om 'n teken te gee. Hy het 'n pasgeskeerde vag op die dorsvloer gelê. As daar net op die vag dou is, maar al die grond is droog, sal ek weet, het hy gesê. So het dit gebeur. Die volgende nag het hy dit omgekeerd gevra — en die Here het weer geluister.
 
 ---
 
@@ -91,7 +91,7 @@ God gebruik die swakke en die bang. Hy roep mense wat nie op hulleself vertrou n
 
 ### Vers om te onthou
 
-"En die Engel van die Here het aan hom verskyn en vir hom gesê: Die Here is met jou, dapper held!" — Rigters 6:12 〔AFR20-kontrole〕
+"En die Engel van die Here het aan hom verskyn en vir hom gesê: Die Here is met jou, dapper kryger!" — Rigters 6:12 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

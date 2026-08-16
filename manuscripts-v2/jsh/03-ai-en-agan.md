@@ -12,7 +12,7 @@ must_include:
 theology_centre: "Sonde in die kamp"
 continuity_from: JSH-02
 continuity_to: JDG-01
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Ai en Agan
@@ -38,7 +38,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Israel vlug; manne val; Josua kniel; ernstige gesig.
 
-Die manne van Ai het Israel verslaan. Sowat ses en dertig manne is dood. Die res het teruggevlug. Israel se harte het gesmelt en geword soos water. Josua het voor die ark van die Here gekniel. Waarom het U ons oor die Jordaan gebring om ons te laat vernietig? het hy gevra. Sowat ses en dertig manne is dood. Israel se harte het gesmelt. Josua het gekniel.
+Ongeveer drieduisend van die manskappe het daarheen opgetrek, maar hulle het gevlug voor die manne van Ai. Sowat ses-en-dertig van hulle is neergevel.
 
 ---
 
@@ -48,7 +48,7 @@ Die manne van Ai het Israel verslaan. Sowat ses en dertig manne is dood. Die res
 
 > **Beeldnota:** Die Here praat met Josua; ernstige oomblik; volk wag.
 
-Die Here het vir Josua gesê: Israel het gesondig. Hulle het my verbond oortree en van die gewyde goed geneem. Hulle het gelieg en dit onder hulle goed weggesteek. Daarom kan Israel nie voor sy vyande staan nie. Verwyder die sonde uit julle midde, of Ek sal nie meer by julle wees nie. Daar is verbode goed in die kamp. Verwyder die sonde uit julle midde. Sonde uit die kamp.
+Die Here het vir Josua gesê: Israel het gesondig. Hulle het my verbond oortree en van die bangoed geneem.
 
 ---
 
@@ -58,7 +58,7 @@ Die Here het vir Josua gesê: Israel het gesondig. Hulle het my verbond oortree 
 
 > **Beeldnota:** Agan voor Josua; mantel, silwer en goud; ernstig; geen geweld.
 
-En weet jy wat toe gebeur het? Agan, die seun van Karmi, is uitgevind. Hy het bely: Ek het 'n Babiloniese mantel gesien, en silwer en goud. Ek het dit begeer en geneem. Ek het dit onder my tent versteek. Die Here het Israel se nederlaag veroorsaak omdat een man gesondig het. Agan het 'n Babiloniese mantel, silwer en goud gesteel en onder sy tent versteek. Agan het bely.
+En weet jy wat toe gebeur het? Agan, die seun van Karmi, is uitgevind. Hy het bely: Ek het 'n mooi koningsmantel uit Sinar, tweehonderd sikkel silwer en 'n staaf goud gesien. Ek het dit begeer en dit onder my tent versteek.
 
 ---
 
@@ -91,7 +91,7 @@ Sonde in die kamp maak die hele volk swak. God wil hê sy mense moet rein wees s
 
 ### Vers om te onthou
 
-"En die Here het vir Josua gesê: Staan op! Waarom lê jy so op jou aangesig?" — Josua 7:10 〔AFR20-kontrole〕
+"Die Here het Josua geantwoord: Staan op! Waarom lê jy nou op jou gesig?" — Josua 7:10 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

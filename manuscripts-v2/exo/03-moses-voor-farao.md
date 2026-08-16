@@ -12,7 +12,7 @@ must_include:
 theology_centre: "Farao weier"
 continuity_from: EXO-02
 continuity_to: EXO-04
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Moses voor Farao
@@ -91,7 +91,7 @@ God stuur sy boodskap duidelik, maar mense kan steeds weier om te luister. God s
 
 ### Vers om te onthou
 
-"En die Here het vir Moses en Aäron gesê: Wanneer Farao vir julle sê: Doen vir julle 'n wonder, dan moet jy vir Aäron sê: Neem jou staf en gooi dit neer voor Farao." — Exodus 7:8–9 〔AFR20-kontrole〕
+"As die farao met julle praat en sê: 'Doen julle 'n teken!' dan moet jy vir Aäron sê: Neem jou staf en gooi dit voor die farao neer, dan sal dit 'n slang word.'" — Exodus 7:9 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

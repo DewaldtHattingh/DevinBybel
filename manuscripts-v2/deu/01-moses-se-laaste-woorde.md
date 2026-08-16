@@ -11,7 +11,7 @@ must_include:
 theology_centre: "God se sorg eindig nie by Moses nie"
 continuity_from: NUM-02
 continuity_to: JSH-01
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Moses se laaste woorde
@@ -27,7 +27,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Moses, oud en sterk, praat met Israel; woestynkamp; ernstige aand.
 
-**Een dag, lank, lank gelede,** was Moses baie oud — honderd en twintig jaar. Hy het vir Israel sy laaste woorde gegee. Wees sterk en vol moed, het hy gesê. Moenie bang wees nie, want die Here jou God gaan self met jou. Hy sal jou nie los of verlaat nie. Sy oë was nie dof nie en sy krag was nie verminder nie. Hy het die wet vir Israel herhaal.
+**Een dag, lank, lank gelede,** was Moses baie oud — honderd en twintig jaar. Hy het vir Israel sy laaste woorde gegee. Wees dapper en sterk, het hy gesê. Moenie bang wees nie, want die Here jou God gaan self met jou. Hy sal jou nie los of verlaat nie. Sy oë was nie dof nie en sy krag was nie verminder nie. Hy het die wet vir Israel herhaal.
 
 ---
 
@@ -67,7 +67,7 @@ En weet jy wat die Here vir Moses gesê het? Dit is die land wat Ek aan Abraham,
 
 > **Beeldnota:** Israel treur; Josua staan stewig; rustige aand.
 
-Moses, die dienaar van die Here, het op die berg gesterf soos die Here gesê het. Israel het vir hom dertig dae lank bewee. Josua, die seun van Nun, was vol van die gees van wysheid, want Moses het hom hande opgelê. Die kinders van Israel het na Josua geluister en gedoen soos die Here Moses beveel het. God se sorg eindig nie by Moses nie. Niemand weet waar sy graf is nie. Israel het dertig dae vir hom bewee.
+Moses, die dienaar van die Here, het op die berg gesterf soos die Here gesê het. Israel het vir hom dertig dae lank bewee. Josua, die seun van Nun, was vervul met 'n gees van wysheid, want Moses het hom hande opgelê. Die kinders van Israel het na Josua geluister en gedoen soos die Here Moses beveel het. God se sorg eindig nie by Moses nie. Niemand weet waar sy graf is nie. Israel het dertig dae vir hom bewee.
 
 ---
 
@@ -90,7 +90,7 @@ God se sorg eindig nie wanneer een leier gaan nie. Hy stel nuwe leiers aan en ho
 
 ### Vers om te onthou
 
-"En die Here het vir Josua gesê: Wees sterk en vol moed, want jy sal hierdie volk inbring in die land." — Deuteronomium 31:23 〔AFR20-kontrole〕
+"Die Here het Josua, die seun van Nun, opdrag gegee en vir hom gesê: Wees dapper en sterk, want dit is jy wat die Israeliete moet inbring in die land wat Ek met 'n eed aan hulle beloof het. Ek sal met jou wees." — Deuteronomium 31:23 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

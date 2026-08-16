@@ -11,7 +11,7 @@ must_include:
 theology_centre: "God se mag oor skepping"
 continuity_from: EXO-05
 continuity_to: EXO-07
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Hael en sprinkane
@@ -47,7 +47,7 @@ Swaar hael het geval, en vuur het tussen die hael deur geloop. Dit was die ergst
 
 > **Beeldnota:** Swerm sprinkane in die lug; oes vernietig; agste pla.
 
-Die agste pla het gekom. 'n Ooswind het sprinkane gebring oor die hele land. Hulle het alles geëet wat die hael oorgelaat het — elke plant in die veld. Die sprinkane het Egipte volgemaak. Farao se amptenare het gesê: Hoe lank sal hierdie man 'n strik vir ons wees? Laat die mense gaan. Maar Farao wou steeds nie luister nie. 'n Ooswind het sprinkane gebring. Hulle het alles geëet wat die hael oorgelaat het.
+Die agste pla het gekom. 'n Ooswind het treksprinkane gebring oor die hele land. Hulle het alles geëet wat die hael oorgelaat het — elke plant in die veld.
 
 ---
 
@@ -57,7 +57,7 @@ Die agste pla het gekom. 'n Ooswind het sprinkane gebring oor die hele land. Hul
 
 > **Beeldnota:** Moses bid; wind waai sprinkane weg; leë veld; spanning.
 
-Moses het vir Farao gesê: Ek sal uit jou sien gaan en vir die Here bid. Die Here het 'n baie sterk westewind gebring en die sprinkane in die Rooi See gewaai. Nie een sprinkaan was in Egipte oor nie. En weet jy wat toe gebeur het? Farao se hart was weer verhard. Hy wou nie Israel laat gaan nie. Die Here het 'n sterk westewind gebring en die sprinkane in die Rooi See gewaai.
+Moses het vir Farao gesê: Ek sal uit jou sien gaan en vir die Here bid. Die Here het 'n baie sterk westewind gebring en die treksprinkane in die Rietsee ingedryf. Nie een sprinkaan was in Egipte oor nie.
 
 ---
 
@@ -90,7 +90,7 @@ God se mag strek oor die hele skepping — wind, hael en sprinkane doen wat Hy s
 
 ### Vers om te onthou
 
-"En die Here het vir Moses gesê: Strek jou hand uit na die hemel, dat daar hael mag wees." — Exodus 9:22 〔AFR20-kontrole〕
+"Die Here het vir Moses gesê: Strek jou hand uit na die hemel, sodat daar hael sal val in die hele Egipteland, op mens en dier en op al die plante in die veld in Egipteland." — Exodus 9:22 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

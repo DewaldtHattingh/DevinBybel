@@ -12,7 +12,7 @@ must_include:
 theology_centre: "God red deur onverwagte mense"
 continuity_from: JSH-03
 continuity_to: JDG-02
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Debora en Barak
@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Debora onder palmboom; Israeliete kom luister; warm dag.
 
-**Een dag, lank, lank gelede,** het Israel weer gedoen wat kwaad is in die oë van die Here. Die Here het hulle aan Koning Jabin van Kanaän oorgelewer. Sy leier Sisera het Israel swaar onderdruk — nege honderd yster strydwagens. Israel het twintig jaar lank geroep om hulp. Koning Jabin van Kanaän het in Hasor gewoon. Sy leier Sisera het nege honderd yster strydwagens gehad. Koning Jabin het in Hasor gewoon. Sisera het nege honderd yster strydwagens gehad. Israel het twintig jaar gely.
+**Een dag, lank, lank gelede,** het Israel weer gedoen wat kwaad is in die oë van die Here. Die Here het hulle aan Koning Jabin van Kanaän oorgelewer. Sy leier Sisera het Israel swaar onderdruk — nege honderd yster strydwagens. Israel het twintig jaar lank geroep om hulp. Koning Jabin van Kanaän het in Gasor gewoon. Sy leier Sisera het negehonderd ysterstrydwaens gehad. Israel het twintig jaar gely.
 
 ---
 
@@ -58,7 +58,7 @@ Barak het gesê: As jy saamgaan, gaan ek. Andersins nie. Debora het ja gesê, ma
 
 > **Beeldnota:** Sisera vlug te voet; Barak se leër jaag; geen geweld in beeld.
 
-En weet jy wat toe gebeur het? Die Here het Sisera se leër in verwarring gebring. Al die strydwagens was nutteloos. Sisera het te voet weggevlug. Barak het die leër agterna gejaag totdat geen man oorgebly het nie. Die Here het Sisera se leër in verwarring gebring by die Kishonrivier. Die Here het die strydwagens in verwarring gebring by die Kishonrivier.
+En weet jy wat toe gebeur het? Die Here het Sisera se leër in verwarring gebring. Al die strydwagens was nutteloos. Sisera het te voet weggevlug. Barak het die leër agterna gejaag totdat geen man oorgebly het nie. Die Here het Sisera se leër in verwarring gebring by die Kishonrivier.
 
 ---
 
@@ -68,7 +68,7 @@ En weet jy wat toe gebeur het? Die Here het Sisera se leër in verwarring gebrin
 
 > **Beeldnota:** Jael by tent; Sisera rus; rustige tent — geen wapen gewys.
 
-Sisera het by Jael se tent skuiling gesoek. Sy het hom laat rus. Toe hy slaap, het sy hom gedood. So het die Here deur Debora se woord, deur Barak se leër en deur Jael oorwinning gegee. Die land het veertig jaar rus gehad. Jael het Sisera 'n kom melk gegee en hom laat slaap — toe hy slaap, het sy hom gedood. Jael was die vrou van Heber die Keniet. Sy het Sisera 'n kom melk gegee. Jael het Sisera gedood terwyl hy slaap.
+Sisera het by Jael se tent skuiling gesoek. Sy het hom laat rus. Toe hy slaap, het sy hom gedood. Jael was die vrou van Geber die Keniet. Sy het Sisera 'n bietjie water gegee uit haar leersak met melk. So het die Here deur Debora se woord, deur Barak se leër en deur Jael oorwinning gegee.
 
 ---
 

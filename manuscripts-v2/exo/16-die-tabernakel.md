@@ -11,7 +11,7 @@ must_include:
 theology_centre: "God wil by sy volk wees"
 continuity_from: EXO-15
 continuity_to: NUM-01
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die tabernakel
@@ -90,7 +90,7 @@ God wil naby sy volk wees. Die tabernakel wys dat Hy in hulle midde woon en hull
 
 ### Vers om te onthou
 
-"En die wolk het die tent van die samekoms bedek, en die heerlikheid van die Here het die tabernakel gevul." — Exodus 40:34 〔AFR20-kontrole〕
+"Die wolk het die Tent van Ontmoeting bedek, en die heerlikheid van die Here het die tabernakel gevul." — Exodus 40:34 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

@@ -11,7 +11,7 @@ must_include:
 theology_centre: "God voorsien"
 continuity_from: EXO-12
 continuity_to: EXO-14
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Brood en water in die woestyn
@@ -37,7 +37,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Wit korrels op grond; mense tel dit; wonder in gesigte.
 
-Die volgende oggend lê daar wit korrels rondom die kamp. Wat is dit? het hulle gevra. Dis die brood wat die Here vir julle gegee het, het Moses gesê. Elkeen moet net genoeg vir daardie dag insamel. Sondag moet julle niks insamel nie — daar sal dubbel wees. Sommige het te veel gehou, en dit het wurms gekry. Sommige het te veel manna gehou, en dit het wurms gekry en stink. Elkeen moet net genoeg vir daardie dag insamel — twee liter per persoon. Sondag dubbel insamel.
+Die volgende oggend lê daar wit korrels rondom die kamp. Wat is dit? het hulle gevra. Dis die brood wat die Here vir julle gegee het, het Moses gesê. Elkeen moet net genoeg vir daardie dag insamel. Sondag moet julle niks insamel nie — daar sal dubbel wees. Sommige het te veel gehou, en dit het maaiers gekry en gestink. Elkeen moet net genoeg vir daardie dag insamel — 'n omer per persoon. Op die sesde dag moet julle dubbel insamel.
 
 ---
 
@@ -89,10 +89,10 @@ Selfs wanneer ons kla, voorsien God vir sy volk. Hy gee genoeg vir elke dag.
 
 ### Vers om te onthou
 
-"Ek het vir julle brood uit die hemel laat reën, dat die volk daarvan kan eet." — Exodus 16:4 〔AFR20-kontrole〕
+"Kyk, Ek gaan vir julle brood uit die hemel laat reën; dan moet die volk uitgaan en genoeg vir elke dag bymekaarmaak." — Exodus 16:4 〔AFR20-kontrole〕
 
 ### Onthou jy?
 
 1. Wat het elke oggend op die grond gele?
-2. Watter reël het die Here oor Sondag gegee?
+2. Watter reël het die Here oor die sesde dag gegee?
 3. Waarvandaan het water vir die volk gekom?

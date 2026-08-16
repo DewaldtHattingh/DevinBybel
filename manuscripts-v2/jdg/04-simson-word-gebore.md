@@ -12,7 +12,7 @@ must_include:
 theology_centre: "God roep voor geboorte"
 continuity_from: JDG-03
 continuity_to: SIM-02
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Simson word gebore
@@ -58,7 +58,7 @@ Manoah het gebid dat die man van God weer sal kom. Die engel het teruggekom. Man
 
 > **Beeldnota:** Baba Simson in arms; ouers kyk met verwondering; warm huislig.
 
-En weet jy wat toe gebeur het? Die vrou het 'n seun gekry en hom Simson genoem. Sy het hom grootgemaak soos die engel gesê het. Die Here het hom seën. En die Gees van die Here het begin om hom te roer — nog voor enige groot dade. Hulle het hom Simson genoem. Die Here het die seun seën. Simson — die Gees het begin om hom te roer.
+En weet jy wat toe gebeur het? Die vrou het 'n seun gekry en hom Simson genoem. Sy het hom grootgemaak soos die engel gesê het. Die Here het hom seën. En die Gees van die Here het hom begin aanvuur — nog voor enige groot dade. Hulle het hom Simson genoem. Die Here het die seun seën. Simson — die Gees het begin om hom te roer.
 
 ---
 
@@ -68,7 +68,7 @@ En weet jy wat toe gebeur het? Die vrou het 'n seun gekry en hom Simson genoem. 
 
 > **Beeldnota:** Jong Simson — gewone seun, sterk bou; Filistyne in verte; rustige aand.
 
-Simson het grootgeword onder die sorg van sy ouers. Hy was anders — afgesonder vir God se werk. Israel het nog onder die Filistyne gely, maar die Here het reeds iemand voorberei. Die Here was by hom. Die Gees van die Here het begin om hom te roer in die kamp van Dan. Die Here het iemand voorberei.
+Simson het grootgeword onder die sorg van sy ouers. Hy was anders — afgesonder vir God se werk. Israel het nog onder die Filistyne gely, maar die Here het reeds iemand voorberei. Die Here was by hom. Die Gees van die Here het hom begin aanvuur by Magane-Dan, tussen Sora en Estaol. Die Here het iemand voorberei.
 
 ---
 
@@ -91,7 +91,7 @@ God roep en berei mense voor nog voor hulle gebore word. Simson se lewe was van 
 
 ### Vers om te onthou
 
-"En die Gees van die Here het begin om hom te roer in die kamp van Dan." — Rigters 13:25 〔AFR20-kontrole〕
+"Die Gees van die Here het hom begin aanvuur by Magane-Dan, tussen Sora en Estaol." — Rigters 13:25 〔AFR20-kontrole〕
 
 ### Onthou jy?
 
