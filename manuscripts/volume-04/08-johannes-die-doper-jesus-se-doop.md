@@ -1,0 +1,131 @@
+---
+story_id: V04-08
+title: "Johannes die Doper; Jesus se doop"
+volume: 4
+pages: 6
+primary_passage: "Matt. 3:1–17"
+must_include:
+  - "Repent"
+  - "baptise"
+  - "Jesus baptised"
+  - "Spirit as dove"
+  - "voice from heaven"
+deferred_to: ["V04-09"]
+continuity_from: "V04-07"
+continuity_to: "V04-09"
+theology_centre: "Jesus is the beloved Son; He steps into our path of repentance"
+violence_note: "geen"
+afr20_quote_check: pending
+---
+
+# Johannes die Doper; Jesus se doop
+
+**Primêre gedeelte:** Matt. 3:1–17  
+**Verhaal-ID:** V04-08
+
+---
+
+## Bladsy 1 — Opening
+
+![Beeld: opening](../../assets/images/V04-08-p1.png)
+
+> **Beeldnota:** Woestyn en Jordaanrivier; Johannes met eenvoudige klere; mense in verte; wye hemel.
+
+**Een dag, lank, lank gelede,** in die woestyn by die Jordaanrivier, kom Johannes die Doper. Hy roep: Berei die weg vir die Here. Keer om! Draai weg van sondige dade. Die koninkryk van die hemel is naby.
+
+Mense kom luister. Johannes doop hulle in die rivier. Die doop wys: hulle wil God volg en skoon begin.
+
+
+By die Jordaanrivier kom Johannes die Doper. Hy roep: keer om! Berei die weg vir die Here. Die koninkryk van die hemel is naby. Mense kom van ver om te luister.
+
+---
+## Bladsy 2 — Probleem
+
+![Beeld: probleem](../../assets/images/V04-08-p2.png)
+
+> **Beeldnota:** Jesus kom na rivier; Johannes kyk verbaas; rivier wyd; helder lig begin.
+
+Jesus kom van Galilea na Johannes. Jesus wil deur Johannes gedoop word. Johannes sê: Ek het meer nodig dat jy my doop. Jy is groter as ek. Jesus sê: Laat dit geskied. Dit is reg so.
+
+Johannes doop Jesus in die Jordaan. Jesus stap in die water. Die doop is een teken van oorgee aan God.
+
+
+Jesus kom van Galilea. Hy wil deur Johannes gedoop word. Johannes sê: ek het meer nodig dat jy my doop. Jesus sê: laat dit geskied. Dit is reg so.
+
+---
+## Bladsy 3 — Stygende aksie
+
+![Beeld: stygende-aksie](../../assets/images/V04-08-p3.png)
+
+> **Beeldnota:** Jesus uit water; hemel oop; lig wyd; geen magiese stof.
+
+Toe Jesus uit die water kom, die hemel gaan oop. Die Heilige Gees daal op Jesus neer soos een duif. Die Gees kom op hom — nie as een monster nie, maar soos God wys: hier is my Seun.
+
+Dit is een groot oomblik. Jesus is gereed vir die werk wat God vir hom gee.
+
+
+Johannes doop Jesus in die rivier. Jesus stap in die water. Toe hy uitkom, die hemel gaan oop. Die Heilige Gees daal neer soos een duif op Jesus.
+
+---
+## Bladsy 4 — Hoofdraai
+
+![Beeld: hoofdraai](../../assets/images/V04-08-p4.png)
+
+> **Beeldnota:** Lig van bo; Jesus in water; duif-vorm in lig; stem uit wye hemel.
+
+Uit die hemel kom een stem: Dit is my geliefde Seun. In hom het ek my welbehae gevonden. God self sê wie Jesus is. Nie net Johannes nie — die Vader in die hemel spreek.
+
+Jesus is die Seun van God. Die Gees is op hom. Die hemel is oop.
+
+
+Uit die hemel kom een stem: Dit is my geliefde Seun. In hom het ek my welbehae gevonden. God self maak bekend wie Jesus is. Die Gees is op hom.
+
+---
+## Bladsy 5 — Ontknoping
+
+![Beeld: ontknoping](../../assets/images/V04-08-p5.png)
+
+> **Beeldnota:** Jesus aan rivier; kalm water; Johannes naby; sagte lig; vrede.
+
+Jesus stap verder. Johannes bly roep mense om te keer om. Die Here was by Jesus by die rivier. God maak bekend: hier is my Seun.
+
+En weet jy wat toe gebeur het? Jesus begin sy openbare werk — en God wys wie hy is.
+
+
+Jesus stap verder. Johannes bly roep mense om te keer om. God het gesproken by die rivier. Jesus is gereed vir sy werk in die wêreld.
+
+---
+## Bladsy 6 — Geheue
+
+![Beeld: geheue](../../assets/images/V04-08-p6.png)
+
+> **Beeldnota:** Klein rivier en hemel; rustig.
+
+### Wie was in hierdie verhaal?
+
+- **Jesus** — word in die Jordaan gedoop; die geliefde Seun.
+- **Johannes die Doper** — roep om keer om; doop Jesus.
+- **God die Vader** — spreek uit die hemel.
+- **Die Heilige Gees** — daal op Jesus neer soos een duif.
+
+### Wat leer ons?
+
+Jesus is God se geliefde Seun. By die doop wys God dit met die Gees en die stem uit die hemel.
+
+### Vers om te onthou
+
+Dit is my geliefde Seun. In hom het ek my welbehage gevonden. — Matt. 3:17. 〔AFR20-kontrole〕
+
+### Onthou jy?
+
+1. Wat roep Johannes die mense om te doen?
+2. Hoe daal die Heilige Gees op Jesus neer?
+3. Wat sê die stem uit die hemel?
+
+---
+
+## Produksie-notas
+
+- **Worteltelling (ongeveer):** narrative 400 / geheue 95 / totaal 505
+- **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.
+
