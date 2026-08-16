@@ -1,0 +1,133 @@
+---
+story_id: V05-09
+title: "Jesus word begrawe"
+volume: 5
+pages: 6
+primary_passage: "Matt. 27:57–66"
+must_include:
+  - "Joseph of Arimathea; tomb; stone; guard"
+deferred_to: ["V05-10"]
+continuity_from: "V05-08"
+continuity_to: "V05-10"
+theology_centre: "Jesus word eerbiedig begrawe; die graf word verseël"
+violence_note: "geen"
+afr20_quote_check: pending
+---
+
+# Jesus word begrawe
+
+**Primêre gedeelte:** Matt. 27:57–66  
+**Verhaal-ID:** V05-09
+
+---
+
+## Bladsy 1 — Opening
+
+![Beeld: opening](../../assets/images/V05-09-p1.png)
+
+> **Beeldnota:** Sononder; Josef van Arimatéa stap na Pilatus; ernstige maar kalm gesig.
+
+**Een dag, lank, lank gelede,** toe die aand gekom het, het 'n ryk man genaamd Josef van Arimatéa na Pilatus gegaan. Hy was 'n dissipels van Jesus. Hy het Jesus se liggaam gevra.
+
+Die sabbat het stil verbygegaan. Jesus se vriende was hartseer en bang — hulle het nie geweet wat sou kom nie.
+
+Dit was lank, lank gelede — maar hierdie storie is nog steeds vir ons vanaand.
+
+---
+
+## Bladsy 2 — Probleem
+
+![Beeld: probleem](../../assets/images/V05-09-p2.png)
+
+> **Beeldnota:** Josef en helpers neem Jesus se liggaam af; linne doek; geen wonde of bloed sigbaar nie.
+
+Pilatus het die liggaam gegee. Josef het fyn linne geneem en Jesus daarmee toegewikkel. Saam met Nikodemus het hulle Jesus in 'n nuwe graf gelê — een wat in 'n rots uitgekap was.
+
+Josef van Arimatéa was 'n ryk man en 'n dissipels van Jesus. Hy het na Pilatus gegaan en Jesus se liggaam gevra.
+
+Die mense het geluister en onthou. Dit was 'n dag wat hulle nooit sou vergeet nie.
+
+---
+
+## Bladsy 3 — Stygende aksie
+
+![Beeld: stygende-aksie](../../assets/images/V05-09-p3.png)
+
+> **Beeldnota:** Groot klip word voor die graf gerol; vroue kyk van ver; stil aandstemming.
+
+Hulle het 'n groot klip voor die ingang van die graf gerol en weggegaan. Maria Magdalena en die ander Maria het gesit en gekyk waar Jesus gelê is. Dit was die dag voor die sabbat.
+
+Hy het fyn linne geneem en Jesus daarmee toegewikkel. Saam met Nikodemus het hulle Jesus in 'n nuwe rotsgraf gelê.
+
+En weet jy wat toe gebeur het? Die Here was naby — selfs toe dit moeilik gelyk het.
+
+---
+
+## Bladsy 4 — Hoofdraai
+
+![Beeld: hoofdraai](../../assets/images/V05-09-p4.png)
+
+> **Beeldnota:** Priesters by Pilatus; bekommerde gesigte; geen dreigende wapens nie.
+
+Die hoofpriesters en Fariseërs het by Pilatus gekom. Hulle het gesê: Onthou, daardie bedrieër het gesê ná drie dae sal Hy opstaan. Beveel dat die graf verseël word en soldate dit bewaak.
+
+Maria Magdalena en die ander Maria het gesit en gekyk waar Jesus gelê is. Dit was die dag voor die sabbat.
+
+Die dissipels het gekyk en geluister. Alles het presies so gebeur soos God belowe het.
+
+---
+
+## Bladsy 5 — Ontknoping
+
+![Beeld: ontknoping](../../assets/images/V05-09-p5.png)
+
+> **Beeldnota:** Soldate sit by die verseëlde graf; maanlig; stil nag; alles lyk klaar.
+
+Pilatus het gesê: Neem 'n wag en maak dit so veilig as julle kan. Hulle het die graf verseël en soldate geplaas om dit te bewaak. Die sabbat het stil verbygegaan. Jesus se vriende was hartseer — maar die storie was nog nie verby nie.
+
+Die priesters het die graf laat verseël en soldate geplaas om dit te bewaak. Maar God se plan was nog nie verby nie.
+
+Die graf was verseël en bewaak. Alles het klaar gelyk — maar God se storie was nog nie verby nie.
+
+Die Here was by hulle — selfs toe die pad swaar was. En ons weet: God vergeet sy kinders nooit.
+
+---
+
+## Bladsy 6 — Geheue
+
+![Beeld: geheue](../../assets/images/V05-09-p6.png)
+
+> **Beeldnota:** Stil rotsgraf met klip; sagte naglig; geen mense nie.
+
+Ons kan nou rustig wees. Die storie is vertel, en die Here bly by ons — vanaand, môre, en altyd.
+
+### Wie was in hierdie verhaal?
+
+- **Josef van Arimatéa** — vra vir Jesus se liggaam en lê Hom in 'n graf
+- **Maria Magdalena en die ander Maria** — kyk waar Jesus gelê is
+- **Die soldate** — bewaak die verseëlde graf
+
+
+
+Ons kan vanaand rustig wees, want God se storie eindig altyd in sy goeie hande.
+
+### Wat leer ons?
+
+Jesus is regtig gesterf en begrawe — maar God se plan was nog nie verby nie. Ons kan hierdie waarheid vanaand rustig onthou.
+
+### Vers om te onthou
+
+"Hy het dit in sy nuwe graf gelê." — Matt. 27:60. 〔AFR20-kontrole〕
+
+### Onthou jy?
+
+1. Wie het Jesus se liggaam gevra?
+2. Waar is Jesus begrawe?
+3. Wie het die graf laat bewaak?
+
+---
+
+## Produksie-notas
+
+- **Worteltelling (ongeveer):** narrative 396 / geheue 119 / totaal 515
+- **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.
