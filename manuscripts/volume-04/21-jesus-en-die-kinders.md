@@ -31,10 +31,8 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** mense bring klein kinders na Jesus. Hulle wil dat hy die kinders aanbid en sy hande op hulle sal leg. Die kinders is klein — babas en jong kinders. Die ouers wil hoor dat God hulle kinders ook sien en liefhet. Kinders is nie te klein vir Jesus nie.
 
-
-Ouers bring klein kinders na Jesus. Babas en jong kinders. Hulle wil dat hy hulle sal seen — hande op hulle hoof. Die kinders is klein en vol lewe.
-
 ---
+
 ## Bladsy 2 — Probleem
 
 ![Beeld: probleem](../../assets/images/V04-21-p2.png)
@@ -43,22 +41,18 @@ Ouers bring klein kinders na Jesus. Babas en jong kinders. Hulle wil dat hy hull
 
 Die dissipels maak die mense weg. Hulle sê die kinders moet nie pla nie. Die dissipels dink Jesus is te besig vir kinders — te besig om hande op klein hoofde te leg. Hulle wys die ouers en kinders weg. Maar Jesus is nie tevred met dit nie.
 
-
-Die dissipels maak die mense weg. Hulle sê: die kinders pla. Jesus is te besig. Die dissipels wys ouers en kinders weg.
-
 ---
+
 ## Bladsy 3 — Stygende aksie
 
 ![Beeld: stygende-aksie](../../assets/images/V04-21-p3.png)
 
 > **Beeldnota:** Jesus roep dissipels; dissipels luister; kinders wag naby.
 
-Jesus is ontsteld. Hy sê vir sy dissipels: Laat die kinders na my kom. Moenie hulle weerhou nie. Vir sulke behoort die koninkryk van God. Die dissipels moet luister. Kinders leer vroeg. Jesus wys: kinders is nie te klein vir God se koninkryk nie.
-
-
-Jesus is ontsteld. Hy sê: Laat die kinders na my kom. Moenie hulle weerhou nie. Vir sulke behoort die koninkryk van God.
+Jesus is ontsteld. Hy sê vir sy dissipels: Laat die kinders na my kom. Moenie hulle weerhou nie. Vir sulke behoort die koninkryk van God. Die dissipels moet luister. Jesus wys: kinders is nie te klein vir God se koninkryk nie.
 
 ---
+
 ## Bladsy 4 — Hoofdraai
 
 ![Beeld: hoofdraai](../../assets/images/V04-21-p4.png)
@@ -67,10 +61,8 @@ Jesus is ontsteld. Hy sê: Laat die kinders na my kom. Moenie hulle weerhou nie.
 
 Jesus neem die kinders in sy arms. Hy leg sy hande op hulle en seen hulle. Hy sit kinders op sy knieë. Jesus is naby die klein kinders — nie ver weg nie. Hy sê: Wie nie die koninkryk van God aanneem soos een kind nie, sal daar nooit ingaan nie.
 
-
-Jesus neem kinders in sy arms. Hy leg hande op hulle en seen hulle. Hy sê: Wie nie die koninkryk aanneem soos een kind nie, sal nooit ingaan nie.
-
 ---
+
 ## Bladsy 5 — Ontknoping
 
 ![Beeld: ontknoping](../../assets/images/V04-21-p5.png)
@@ -79,10 +71,8 @@ Jesus neem kinders in sy arms. Hy leg hande op hulle en seen hulle. Hy sê: Wie 
 
 Die kinders is by Jesus. Die ouers is tevred. Jesus wys hoe om in God se koninkryk te kom: soos een kind — oop, nie vol van self nie, bereid om te ontvang. En weet jy wat toe gebeur het? Jesus sê: kom na my — selfs die klein kinders.
 
-
-Die kinders is by Jesus. Ouers is tevred. Jesus wys: kom na my — selfs die klein kinders. Oop en bereid om te ontvang, soos een kind.
-
 ---
+
 ## Bladsy 6 — Geheue
 
 ![Beeld: geheue](../../assets/images/V04-21-p6.png)
@@ -114,6 +104,5 @@ Laat die kinders na my kom, moenie hulle weerhou nie. — Mark. 10:14. 〔AFR20-
 
 ## Produksie-notas
 
-- **Worteltelling (ongeveer):** narrative 405 / geheue 95 / totaal 500
+- **Worteltelling (ongeveer):** narrative 400 / geheue 95 / totaal 495
 - **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.
-
