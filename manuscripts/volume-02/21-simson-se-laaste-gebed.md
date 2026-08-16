@@ -32,7 +32,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Simson in tronk; haar begin langer; moeg maar lewend.
 
-**Een dag, lank, lank gelede,** het Simson in die tronk in Gaza gesit. Die Filistyne het hom blind en geboei gehou. Maar terwyl hy daar gemaal het, het sy haar begin teruggroei.
+**Een dag, lank, lank gelede,** het Simson in die tronk in Gaza gesit. Die Filistyne het hom blind en geboei gehou. Maar terwyl hy daar gemaal het, het sy haar begin teruggroei. Die Filistyne het hom blind en met koperkettings geboei gehou. Terwyl hy daar gemaal het, het sy haar begin teruggroei — maar niemand het dit opgemerk nie.
 
 ---
 
@@ -42,7 +42,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Groot fees in Dagon se tempel; duisende mense; Simson word gebring.
 
-Die Filistynse vorste het ’n groot offerfees vir hulle god Dagon gehou. Ons god het Simson in ons hand gegee, het hulle gesê. Hulle het Simson uit die tronk gehaal om vir hulle te vermaak. Hulle het hom tussen die twee middelste pilare van die tempel laat staan.
+Die Filistynse vorste het ’n groot offerfees vir hulle god Dagon gehou. Ons god het Simson in ons hand gegee, het hulle gesê. Hulle het Simson uit die tronk gehaal om vir hulle te vermaak. Hulle het hom tussen die twee middelste pilare van die tempel laat staan. Die Filistynse vorste het ’n groot offerfees vir Dagon gehou. Ons god het ons vyand in ons hand gegee, het hulle gesê. Hulle het hom tussen die twee middelste pilare van die tempel laat staan.
 
 ---
 
@@ -52,7 +52,7 @@ Die Filistynse vorste het ’n groot offerfees vir hulle god Dagon gehou. Ons go
 
 > **Beeldnota:** Simson se hande op pilare; kind lei hom; ernstige oomblik.
 
-Simson het vir die seun wat hom gelei het gesê: Laat my die pilare voel waarop die huis rus, sodat ek daar teen kan leun. Daar was baie mense op die dak — drie duisend man en vrou — om Simson te sien en om Dagon te prys.
+Simson het vir die seun wat hom gelei het gesê: Laat my die pilare voel waarop die huis rus, sodat ek daar teen kan leun. Daar was baie mense op die dak — drie duisend man en vrou — om Simson te sien en om Dagon te prys. Simson het vir die seun wat hom gelei het gesê: Laat my die pilare voel waarop die huis rus. Daar was drie duisend man en vrou op die dak — om Simson te sien en om Dagon te prys.
 
 ---
 
@@ -62,7 +62,7 @@ Simson het vir die seun wat hom gelei het gesê: Laat my die pilare voel waarop 
 
 > **Beeldnota:** Simson bid; hande op pilare; tempel begin wankel; geen gewonde gewys nie.
 
-Simson het tot die Here gebid: Here God, onthou my tog en versterk my net hierdie een keer, o God, dat ek aan die Filistyne vergelding kan gee vir my twee oë. En weet jy wat toe gebeur het? Hy het die twee middelste pilare gegryp — een met sy regterhand en een met sy linkerhand. Hy het hulle laat wankel.
+Simson het tot die Here gebid: Here God, onthou my tog en versterk my net hierdie een keer, o God, dat ek aan die Filistyne vergelding kan gee vir my twee oë. En weet jy wat toe gebeur het? Hy het die twee middelste pilare gegryp — een met sy regterhand en een met sy linkerhand. Hy het hulle laat wankel. Simson het tot die Here gebid: Versterk my net hierdie een keer, dat ek aan die Filistyne vergelding kan gee vir my twee oë. Hy het die twee middelste pilare gegryp en hulle laat wankel.
 
 ---
 
@@ -72,7 +72,7 @@ Simson het tot die Here gebid: Here God, onthou my tog en versterk my net hierdi
 
 > **Beeldnota:** Tempel val; stofwolk; van ver af; ernstige maar nie grafiese nie.
 
-Die tempel het op die vorste en al die mense geval. Simson het meer gedood in sy dood as in sy hele lewe. Hy is in Manoah se graf begrawe. So eindig Simson se storie — en die tyd van die rigters, toe elkeen gedoen het wat reg was in sy eie oë.
+Die tempel het op die vorste en al die mense geval. Simson het meer gedood in sy dood as in sy hele lewe. Hy is in Manoah se graf begrawe. So eindig Simson se storie — en die tyd van die rigters, toe elkeen gedoen het wat reg was in sy eie oë. Die tempel het op die vorste en al die mense geval. Simson het meer gedood in sy dood as in sy hele lewe. Hy is in Manoah se graf begrawe — en die tyd van die rigters het geëindig.
 
 ---
 

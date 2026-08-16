@@ -31,7 +31,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Berg Sinai; Israel se kamp onder; wolk op die berg.
 
-**Een dag, lank, lank gelede,** het Israel by die berg Sinai gekamp. Die Here het vir Moses gesê: As julle my stem gehoorzaam en my verbond hou, sal julle my besitende volk wees. Berei die volk voor, het Hy gesê. Was hulle klere en wees vir drie dae gereed.
+**Een dag, lank, lank gelede,** het Israel by die berg Sinai gekamp. Die Here het vir Moses gesê: As julle my stem gehoorzaam en my verbond hou, sal julle my besitende volk wees. Berei die volk voor, het Hy gesê. Was hulle klere en wees vir drie dae gereed. Drie maande na hulle uit Egipte getrek het, het Israel by die berg Sinai gekamp. Die Here het gesê: Julle sal my besitende volk wees — ’n koninkryk van priesters.
 
 ---
 
@@ -41,7 +41,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Berg met rook en donder; volk staan ver weg; heilige grens.
 
-Op die derde dag was daar donder en weerlig en ’n swaar wolk op die berg. ’n Trompet het baie hard geblaas. Die berg het geskud. Die volk was bang en het aan die voet van die berg bly staan. Moses het nader gegaan waar die Here was.
+Op die derde dag was daar donder en weerlig en ’n swaar wolk op die berg. ’n Trompet het baie hard geblaas. Die berg het geskud. Die volk was bang en het aan die voet van die berg bly staan. Moses het nader gegaan waar die Here was. Die volk moes hul klere was en vir twee dae gereed wees. Hulle moes nie naby die berg kom nie — selfs nie ’n dier laat wei teen die berg nie.
 
 ---
 
@@ -51,7 +51,7 @@ Op die derde dag was daar donder en weerlig en ’n swaar wolk op die berg. ’n
 
 > **Beeldnota:** Moses op berg; wolk; ernstige atmosfeer.
 
-Die Here het die Tien Gebooie uitgespreek — woorde vir hoe sy volk moet leef. Ek is die Here jou God. Moenie ander gode voor my aangun nie. Moenie vir jouself ’n gesneden beeld maak nie. Moenie die Naam van die Here jou God misbruik nie. Onthou die sabbatdag. Eer jou vader en jou moeder. Moenie dood nie. Moenie egbreuk pleeg nie. Moenie steel nie. Moenie vals getuienis gee nie. Moenie begeer nie.
+Die Here het die Tien Gebooie uitgespreek — woorde vir hoe sy volk moet leef. Ek is die Here jou God. Moenie ander gode voor my aangun nie. Moenie vir jouself ’n gesneden beeld maak nie. Moenie die Naam van die Here jou God misbruik nie. Onthou die sabbatdag. Eer jou vader en jou moeder. Moenie dood nie. Moenie egbreuk pleeg nie. Moenie steel nie. Moenie vals getuienis gee nie. Moenie begeer nie. Die gebooie dek God en ander mense — geen ander gode, geen beelde, geen vals getuienis, geen doodslag of diefstal nie. Die sabbat en ouers-eer is ook daar.
 
 ---
 
@@ -61,7 +61,7 @@ Die Here het die Tien Gebooie uitgespreek — woorde vir hoe sy volk moet leef. 
 
 > **Beeldnota:** Volk terugdeins; Moses alleen op berg; blits in wolk.
 
-En weet jy wat toe gebeur het? Toe die volk die donder en die trompet en die rook gesien het, het hulle teruggedeins en ver gestaan. Hulle het vir Moses gesê: Praat jy met ons, dan sal ons luister. Maar laat God nie met ons praat nie, anders sterf ons. Hulle was bang vir die heerlikheid van die Here.
+En weet jy wat toe gebeur het? Toe die volk die donder en die trompet en die rook gesien het, het hulle teruggedeins en ver gestaan. Hulle het vir Moses gesê: Praat jy met ons, dan sal ons luister. Maar laat God nie met ons praat nie, anders sterf ons. Hulle was bang vir die heerlikheid van die Here. Die berg Sinai het gerook — die Here het daarop neergedaal in vuur. Die trompet se klank het harder en harder geword.
 
 ---
 
@@ -71,7 +71,7 @@ En weet jy wat toe gebeur het? Toe die volk die donder en die trompet en die roo
 
 > **Beeldnota:** Moses daal af met twee stene; volk wag; sagte aandlig.
 
-Die Here het die woorde op twee stene tablette geskryf. Moses het die Tien Gebooie vir die volk gebring. Dit was nie net reëls nie — dit was die pad vir ’n volk wat naby die lewende God woon. Die Here was by hulle.
+Die Here het die woorde op twee stene tablette geskryf. Moses het die Tien Gebooie vir die volk gebring. Dit was nie net reëls nie — dit was die pad vir ’n volk wat naby die lewende God woon. Die Here was by hulle. Moses het veertig dae en veertig nagte op die berg gebly. Die Here het die woorde op twee stene tablette geskryf — die werk van God.
 
 ---
 

@@ -32,7 +32,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Gideon dors koring in wingerd; engel verskyn; aand.
 
-**Een dag, lank, lank gelede,** het Midian Israel swaar onderdruk. Gideon het koring dors om dit vir die Midianiete weg te steek. ’n Engel het verskyn en gesê: Die Here is met jou, dapper held. Gideon het gesê: As die Here met ons is, waarom gebeur dit alles?
+**Een dag, lank, lank gelede,** het Midian Israel swaar onderdruk. Gideon het koring dors om dit vir die Midianiete weg te steek. ’n Engel het verskyn en gesê: Die Here is met jou, dapper held. Gideon het gesê: As die Here met ons is, waarom gebeur dit alles? Die Midianiete het Israel se oes vernietig. Israel het in rotsholtes gewoon om weg te kruip. Gideon het koring dors in die wingerd — bang dat die Midianiete dit sou wegvat.
 
 ---
 
@@ -42,7 +42,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Gideon breek altaar van Baäl; nag; ernstige daad.
 
-Die Here het Gideon gestuur om Israel te red. Eerste moes hy die altaar van Baäl in sy pa se huis afbreek en ’n altaar vir die Here bou. Gideon was bang, maar hy het dit in die nag gedoen. Die mense wou hom doodmaak, maar sy pa het gesê: Laat Baäl self hom straf as hy kwaad is.
+Die Here het Gideon gestuur om Israel te red. Eerste moes hy die altaar van Baäl in sy pa se huis afbreek en ’n altaar vir die Here bou. Gideon was bang, maar hy het dit in die nag gedoen. Die mense wou hom doodmaak, maar sy pa het gesê: Laat Baäl self hom straf as hy kwaad is. Die engel het gesê: Gaan in jou krag en red Israel. Gideon het die altaar van Baäl afgebreek en ’n altaar vir die Here gebou. Die mense wou hom doodmaak, maar sy pa het gesê: Laat Baäl self hom straf.
 
 ---
 
@@ -52,7 +52,7 @@ Die Here het Gideon gestuur om Israel te red. Eerste moes hy die altaar van Baä
 
 > **Beeldnota:** Groot leër word klein; manne drink by water; drie honderd oor.
 
-Gideon het ’n leër opgeroep — baie manne. Die Here het gesê: Daar is te veel. Hy het die leër laat krimp totdat net drie honderd man oor was. Die Here wou wys: Israel sal nie roem op hulleself nie, maar sê die Here het ons gered.
+Gideon het ’n leër opgeroep — baie manne. Die Here het gesê: Daar is te veel. Hy het die leër laat krimp totdat net drie honderd man oor was. Die Here wou wys: Israel sal nie roem op hulleself nie, maar sê die Here het ons gered. Drie en twintig duisend man het opgeroep. Die Here het gesê: Daar is te veel — Israel sal roem op hulleself. Hy het die leër laat krimp totdat net drie honderd oor was.
 
 ---
 
@@ -62,7 +62,7 @@ Gideon het ’n leër opgeroep — baie manne. Die Here het gesê: Daar is te ve
 
 > **Beeldnota:** Drie honderd met fakkels in kanne; Midian se kamp slaap; nag.
 
-Die Here het vir Gideon gesê: Gaan af na die kamp. Elke man moet ’n fakkels in ’n klei kan hou en ’n trompet. Om die kamp gegaan hulle en het die kanne gebreek, die fakkels gewys en die trompette geblaas. En weet jy wat toe gebeur het? Die Midianiete het in verwarring gevlug en teen mekaar geveg.
+Die Here het vir Gideon gesê: Gaan af na die kamp. Elke man moet ’n fakkels in ’n klei kan hou en ’n trompet. Om die kamp gegaan hulle en het die kanne gebreek, die fakkels gewys en die trompette geblaas. En weet jy wat toe gebeur het? Die Midianiete het in verwarring gevlug en teen mekaar geveg. Elke man het ’n fakkels in ’n klei kan gehou en ’n trompet in sy hand. Om die Midianitiese kamp het hulle die kanne gebreek, die fakkels gewys en geroep: ’n Swaard vir die Here en vir Gideon!
 
 ---
 
@@ -72,7 +72,7 @@ Die Here het vir Gideon gesê: Gaan af na die kamp. Elke man moet ’n fakkels i
 
 > **Beeldnota:** Israel jaag; Midian verslaan; oggendlig; rustige oorwinning.
 
-Gideon het die ander stamme geroep om te help. Midian is verslaan. Israel het veertig jaar rus gehad. Gideon het geweet: dit was nie sy drie honderd man nie — die Here het Israel gered.
+Gideon het die ander stamme geroep om te help. Midian is verslaan. Israel het veertig jaar rus gehad. Gideon het geweet: dit was nie sy drie honderd man nie — die Here het Israel gered. Die Midianiete het in verwarring gevlug en teen mekaar geveg. Gideon het boodskappers gestuur na Efraim, Manasse, Asjer en Naftali. Israel het veertig jaar rus gehad.
 
 ---
 

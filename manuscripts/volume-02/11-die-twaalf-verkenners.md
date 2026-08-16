@@ -32,7 +32,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Twaalf manne vertrek; Kanaän in die verte; son.
 
-**Een dag, lank, lank gelede,** het die Here vir Moses gesê: Stuur manne om die land Kanaän te verken — een uit elke stam, twaalf in totaal. Hulle het veertig dae deur die land gegaan. Die land was ryk — met druiwe so groot dat twee man dit op ’n stok moes dra.
+**Een dag, lank, lank gelede,** het die Here vir Moses gesê: Stuur manne om die land Kanaän te verken — een uit elke stam, twaalf in totaal. Hulle het veertig dae deur die land gegaan. Die land was ryk — met druiwe so groot dat twee man dit op ’n stok moes dra. Die Here het een man uit elke stam gestuur. Hulle het druiwe van Eskol meegebring — so groot dat twee man dit op ’n stok moes dra.
 
 ---
 
@@ -42,7 +42,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Tien manne praat bang; volk luister bekommerd; groot druif tafel.
 
-Toe die twaalf teruggekom het, het tien van hulle gesê: Die land is goed, maar die mense is sterk. Ons lyk soos sprinkane voor hulle. Die volk het bang geword en gekla. Laat ons liewer ’n leier kies en teruggaan na Egipte, het hulle gesê.
+Toe die twaalf teruggekom het, het tien van hulle gesê: Die land is goed, maar die mense is sterk. Ons lyk soos sprinkane voor hulle. Die volk het bang geword en gekla. Laat ons liewer ’n leier kies en teruggaan na Egipte, het hulle gesê. Hulle het gesê die land vloei oor van melk en hening, maar die mense is sterk en die stede versterk. Die volk het die hele nag gehuil.
 
 ---
 
@@ -52,7 +52,7 @@ Toe die twaalf teruggekom het, het tien van hulle gesê: Die land is goed, maar 
 
 > **Beeldnota:** Kaleb en Josua staan vorentoe; volk luister; ernstige oomblik.
 
-Maar Kaleb en Josua het die volk laat stil word. As die Here welbehae aan ons het, sal Hy ons inbring, het hulle gesê. Moenie rebelleer teen die Here nie. Die volk wou hulle met klippe gooi. Die Here se heerlikheid het by die tent verskyn.
+Maar Kaleb en Josua het die volk laat stil word. As die Here welbehae aan ons het, sal Hy ons inbring, het hulle gesê. Moenie rebelleer teen die Here nie. Die volk wou hulle met klippe gooi. Die Here se heerlikheid het by die tent verskyn. Kaleb het gesê: Ons moet dadelik optrek en die land inpak. Moenie bang wees vir die mense van die land nie. Die volk wou hulle met klippe gooi.
 
 ---
 
@@ -62,7 +62,7 @@ Maar Kaleb en Josua het die volk laat stil word. As die Here welbehae aan ons he
 
 > **Beeldnota:** Moses bid; Here praat; donker wolk; ernstig.
 
-Die Here het gesê: Hulle sal veertig jaar in die woestyn rondswerf — een jaar vir elke dag van verkenning. Hierdie geslag sal nie die land inkom nie. Maar Kaleb en Josua — die wat My welbehae gehad het — sal die land sien. Kinders wat hulle nie geken het nie, sal wel inkom.
+Die Here het gesê: Hulle sal veertig jaar in die woestyn rondswerf — een jaar vir elke dag van verkenning. Hierdie geslag sal nie die land inkom nie. Maar Kaleb en Josua — die wat My welbehae gehad het — sal die land sien. Kinders wat hulle nie geken het nie, sal wel inkom. Almal van twintig jaar en ouer sou in die woestyn sterf. Net Kaleb en Josua — en die kinders — sou die beloofde land sien.
 
 ---
 
@@ -72,7 +72,7 @@ Die Here het gesê: Hulle sal veertig jaar in die woestyn rondswerf — een jaar
 
 > **Beeldnota:** Volk treur; Kaleb en Josua staan stewig; sagte aand.
 
-En weet jy wat toe gebeur het? Die volk het die volgende oggend spijt gekry en probeer opgaan. Maar die Here was nie by hulle nie. Hulle is teruggedryf. Israel sou veertig jaar in die woestyn swerf. Maar die Here het barmhartigheid gehou vir die kinders en vir die wat op Hom vertrou het.
+En weet jy wat toe gebeur het? Die volk het die volgende oggend spijt gekry en probeer opgaan. Maar die Here was nie by hulle nie. Hulle is teruggedryf. Israel sou veertig jaar in die woestyn swerf. Maar die Here het barmhartigheid gehou vir die kinders en vir die wat op Hom vertrou het. Die Amalekiete en Kanaäniete het hulle teruggedryf toe hulle sonder die Here probeer opgaan het. Israel sou veertig jaar swerf.
 
 ---
 

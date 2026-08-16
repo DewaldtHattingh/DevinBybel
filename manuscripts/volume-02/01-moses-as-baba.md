@@ -31,7 +31,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Egiptiese werf met swaar arbeid; Hebreeuse gesinne in die agtergrond; warm aandlig.
 
-**Een dag, lank, lank gelede,** het daar ’n nuwe Farao in Egipte regeer. Hy het die Israeliete nie geken soos vroeër konings nie. Hy was bang hulle sou te sterk word. So het hy hulle swaar laat werk — bakstene maak, strate bou, sonsondergang tot sonsopkoms.
+**Een dag, lank, lank gelede,** het daar ’n nuwe Farao in Egipte regeer. Hy het die Israeliete nie geken soos vroeër konings nie. Hy was bang hulle sou te sterk word. So het hy hulle swaar laat werk — bakstene maak, strate bou, sonsondergang tot sonsopkoms. Die Israeliete het in die land Gosen gewoon en vir Farao bakstene gemaak. Hulle families het groot geword — seuns en dogters, oumas en oupas.
 
 ---
 
@@ -41,7 +41,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Farao op sy troon gee ’n bevel; bekommerde moeders hou babas vas.
 
-Die volk het gegroei, en Farao se vrees het groter geword. Hy het beveel dat elke Hebreeuse seuntjie in die rivier gegooi moes word. Dogtertjies moes lewe. Dit was ’n donker tyd vir Israel. Maar die Here het sy volk nie vergeet nie.
+Die volk het gegroei, en Farao se vrees het groter geword. Hy het beveel dat elke Hebreeuse seuntjie in die rivier gegooi moes word. Dogtertjies moes lewe. Dit was ’n donker tyd vir Israel. Maar die Here het sy volk nie vergeet nie. Die vroegste Israelitiese seuntjies is in die Nylrivier gegooi. Ouers moes bang wees, maar dogtertjies moes lewe.
 
 ---
 
@@ -51,7 +51,7 @@ Die volk het gegroei, en Farao se vrees het groter geword. Hy het beveel dat elk
 
 > **Beeldnota:** ’n Moeder maak ’n klein rietmandjie dig; baba Moses lê rustig binne.
 
-Een moeder, Jokebed, het haar seuntjie drie maande lank versteek. Toe kon sy nie meer nie. Sy het ’n mandjie van riete gemaak, dit met teer en pek diggesmeer, en haar baba daarin gelê. Sy het die mandjie tussen die rivierriet langs die Nyl neergesit. Sy suster Miryam het van ver af gekyk.
+Een moeder, Jokebed, het haar seuntjie drie maande lank versteek. Toe kon sy nie meer nie. Sy het ’n mandjie van riete gemaak, dit met teer en pek diggesmeer, en haar baba daarin gelê. Sy het die mandjie tussen die rivierriet langs die Nyl neergesit. Sy suster Miryam het van ver af gekyk. Jokebed en haar man was van die stam Levi. Hulle het gesien dat hulle seuntjie mooi was — en hom drie maande lank in die huis versteek.
 
 ---
 
@@ -61,7 +61,7 @@ Een moeder, Jokebed, het haar seuntjie drie maande lank versteek. Toe kon sy nie
 
 > **Beeldnota:** Farao se dogter buk oor die mandjie; Miryam staan naby; rivierwater glinster sag.
 
-En weet jy wat toe gebeur het? Farao se dogter het by die rivier kom bad. Sy het die mandjie sien dryf en dit laat haal. Die baba het gehuil, en sy het medelye met hom gehad. Dis ’n seuntjie, het sy gesê. Miryam het vinnig gevra: Moet ek vir jou ’n Hebreeuse vrou bring om hom groot te maak? Ja, het die prinses gesê.
+En weet jy wat toe gebeur het? Farao se dogter het by die rivier kom bad. Sy het die mandjie sien dryf en dit laat haal. Die baba het gehuil, en sy het medelye met hom gehad. Dis ’n seuntjie, het sy gesê. Miryam het vinnig gevra: Moet ek vir jou ’n Hebreeuse vrou bring om hom groot te maak? Ja, het die prinses gesê. Miryam het naby die rivier gewag. Farao se dogter het diensmeisies by haar gehad toe sy die mandjie laat haal het.
 
 ---
 
@@ -71,7 +71,7 @@ En weet jy wat toe gebeur het? Farao se dogter het by die rivier kom bad. Sy het
 
 > **Beeldnota:** Jokebed voed die baba; prinses kyk vriendelik; rustige hoftuin.
 
-So het Jokebed haar eie seun weer in haar arms gehou — nou as sy opvoedster. Toe die seuntjie groot genoeg was, het Farao se dogter hom as haar seun aangeneem. Sy het hom Moses genoem, want sy het gesê: Ek het hom uit die water getrek. Niemand het geweet dat hierdie baba later Israel sou lei nie. Die Here was reeds by hom.
+So het Jokebed haar eie seun weer in haar arms gehou — nou as sy opvoedster. Toe die seuntjie groot genoeg was, het Farao se dogter hom as haar seun aangeneem. Sy het hom Moses genoem, want sy het gesê: Ek het hom uit die water getrek. Niemand het geweet dat hierdie baba later Israel sou lei nie. Die Here was reeds by hom. Jokebed het haar seun weer in haar arms gehou as sy opvoedster. Moses het in Farao se huis grootgeword — maar hy was ’n Israeliet.
 
 ---
 

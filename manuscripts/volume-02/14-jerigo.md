@@ -31,7 +31,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Jerigo se mure; twee spioene by Ragab se huis; aand.
 
-**Een dag, lank, lank gelede,** het Josua twee manne gestuur om Jerigo in die geheim te verken. Hulle het by Ragab gaan bly — ’n vrou wat in die stad gewoon het. Sy het hulle versteek toe die koning se manne hulle soek.
+**Een dag, lank, lank gelede,** het Josua twee manne gestuur om Jerigo in die geheim te verken. Hulle het by Ragab gaan bly — ’n vrou wat in die stad gewoon het. Sy het hulle versteek toe die koning se manne hulle soek. Ragab se huis was in die muur van Jerigo. Die koning het gehoor daar is spioene en Ragab gevra om hulle uit te lewer. Sy het hulle versteek.
 
 ---
 
@@ -41,7 +41,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Ragab laat spioene deur venster af; rooi koord; stad agter.
 
-Ragab het gesê: Ek weet die Here het julle hierdie land gegee. Sy het die spioene gehelp ontsnap deur die venster — haar huis was in die muur. Sy het gevra: Spaar my en my familie as julle die stad vat. Hulle het gesê: Bind hierdie rooi koord in die venster. En weet jy wat toe gebeur het? Sy het geloof gehad in die God van Israel.
+Ragab het gesê: Ek weet die Here het julle hierdie land gegee. Sy het die spioene gehelp ontsnap deur die venster — haar huis was in die muur. Sy het gevra: Spaar my en my familie as julle die stad vat. Hulle het gesê: Bind hierdie rooi koord in die venster. En weet jy wat toe gebeur het? Sy het geloof gehad in die God van Israel. Sy het die spioene op die dak versteek onder vlasstengels. Sy het gesê: Ek weet die Here het julle hierdie land gegee. Sy het hulle deur die venster laat afdraai met ’n tou.
 
 ---
 
@@ -51,7 +51,7 @@ Ragab het gesê: Ek weet die Here het julle hierdie land gegee. Sy het die spioe
 
 > **Beeldnota:** Israel marsjeer om Jerigo — ark voor; sewe dae patroon.
 
-Jerigo was dig gesluit. Die Here het vir Josua gesê: Julle moet elke dag een keer om die stad marsjeer — ses dae lank. Op die sewende dag moet julle sewe keer marsjeer. Die priesters moet die ark dra en hoorne blaas.
+Jerigo was dig gesluit. Die Here het vir Josua gesê: Julle moet elke dag een keer om die stad marsjeer — ses dae lank. Op die sewende dag moet julle sewe keer marsjeer. Die priesters moet die ark dra en hoorne blaas. Jerigo was dig gesluit — geen mens het in of uitgegaan nie. Sewe priesters moes voor die ark loop en hoorne blaas terwyl Israel elke dag om die stad marsjeer.
 
 ---
 
@@ -61,7 +61,7 @@ Jerigo was dig gesluit. Die Here het vir Josua gesê: Julle moet elke dag een ke
 
 > **Beeldnota:** Sewende dag — mure begin val; volk staan; geen geweld in beeld.
 
-Op die sewende dag het hulle sewe keer om die stad gegaan. By die sewende keer het die priesters die hoorne geblaas en die volk geskreeu. Die mure van Jerigo het geval. Israel het die stad ingeneem soos die Here beveel het.
+Op die sewende dag het hulle sewe keer om die stad gegaan. By die sewende keer het die priesters die hoorne geblaas en die volk geskreeu. Die mure van Jerigo het geval. Israel het die stad ingeneem soos die Here beveel het. Op die sewende dag het hulle sewe keer om die stad gegaan. By die sewende rondte het die priesters die hoorne geblaas en die volk geskreeu. Die mure het geval — plat op die grond.
 
 ---
 
@@ -71,7 +71,7 @@ Op die sewende dag het hulle sewe keer om die stad gegaan. By die sewende keer h
 
 > **Beeldnota:** Ragab en familie veilig; rooi koord in venster; rustige aand.
 
-Josua het Ragab en haar familie gespaar — almal wat in haar huis was. Sy het in Israel gewoon. Die Here het Jerigo gegee op sy manier, nie met gewone oorlogswapens nie, maar deur vertroue en gehoorsaamheid. Die Here was by Josua.
+Josua het Ragab en haar familie gespaar — almal wat in haar huis was. Sy het in Israel gewoon. Die Here het Jerigo gegee op sy manier, nie met gewone oorlogswapens nie, maar deur vertroue en gehoorsaamheid. Die Here was by Josua. Josua het Ragab en haar familie gespaar — almal in haar huis is veilig gebly. Die rooi koord het in die venster gebly as teken. Ragab het in Israel gewoon.
 
 ---
 

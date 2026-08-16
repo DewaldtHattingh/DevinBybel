@@ -31,7 +31,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Filistynse manne druk Simson se vrou; sy lyk bang; feeshuis.
 
-**Een dag, lank, lank gelede,** het die Filistyne Simson se vrou gedreig. Vertel ons die raaisel se antwoord, het hulle gesê, of ons verbrand jou. Sy het Simson aanhoudend gevra totdat hy dit vertel het: Wat is sterker as ’n leeu? Wat is soeter as heuning?
+**Een dag, lank, lank gelede,** het die Filistyne Simson se vrou gedreig. Vertel ons die raaisel se antwoord, het hulle gesê, of ons verbrand jou. Sy het Simson aanhoudend gevra totdat hy dit vertel het: Wat is sterker as ’n leeu? Wat is soeter as heuning? Sy het hom aanhoudend gevra totdat hy die antwoord op die sewende dag vertel het — die leeu en die heuning.
 
 ---
 
@@ -41,7 +41,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Simson woedend; vertrek van Timnah; ernstige gesig.
 
-Die Filistyne het die raaisel op die sewende dag gerai. Simson was woedend. Julle het my uie geploeg met my kalf, het hy gesê — hulle het sy vrou gebruik om hom te mislei. Die Here het hom krag gegee. Hy het na Askalon gegaan en dertig manne daar verslaan en hulle klere geneem om die weddenskap te betaal.
+Die Filistyne het die raaisel op die sewende dag gerai. Simson was woedend. Julle het my uie geploeg met my kalf, het hy gesê — hulle het sy vrou gebruik om hom te mislei. Die Here het hom krag gegee. Hy het na Askalon gegaan en dertig manne daar verslaan en hulle klere geneem om die weddenskap te betaal. Hy het na Askalon gegaan — dertig manne verslaan en hulle klere geneem om die weddenskap te betaal.
 
 ---
 
@@ -51,7 +51,7 @@ Die Filistyne het die raaisel op die sewende dag gerai. Simson was woedend. Jull
 
 > **Beeldnota:** Simson vang jakkalse; stel sterte aan brand; veld in verte.
 
-Later, toe die Filistyne Simson se vrou en haar pa verbrand het, het hy wraak geneem. Hy het drie honderd jakkalse gevang, twee aan twee gebind en fakkels tussen hulle sterte vasgemaak. Hy het hulle in die Filistyne se koringlande losgelaat. Die vuur het die oes vernietig.
+Later, toe die Filistyne Simson se vrou en haar pa verbrand het, het hy wraak geneem. Hy het drie honderd jakkalse gevang, twee aan twee gebind en fakkels tussen hulle sterte vasgemaak. Hy het hulle in die Filistyne se koringlande losgelaat. Die vuur het die oes vernietig. Hy het drie honderd jakkalse gevang, twee aan twee gebind, en fakkels tussen hulle sterte vasgemaak. Die vuur het die Filistyne se koringlande vernietig.
 
 ---
 
@@ -61,7 +61,7 @@ Later, toe die Filistyne Simson se vrou en haar pa verbrand het, het hy wraak ge
 
 > **Beeldnota:** Simson met kaakbeen van esel; Filistyne vlug; geen bloed gewys nie.
 
-Die Filistyne het hom in Lehi vasgekeer. Simson was moeg. Die Gees van die Here het weer kragtig op hom gekom. Hy het ’n vars kaakbeen van ’n esel gevat en daarmee duisend man verslaan. En weet jy wat toe gebeur het? God het water uit die holte laat kom sodat hy kon drink en lewe.
+Die Filistyne het hom in Lehi vasgekeer. Simson was moeg. Die Gees van die Here het weer kragtig op hom gekom. Hy het ’n vars kaakbeen van ’n esel gevat en daarmee duisend man verslaan. En weet jy wat toe gebeur het? God het water uit die holte laat kom sodat hy kon drink en lewe. Die Gees van die Here het weer kragtig op hom gekom. God het water uit die holte laat kom sodat hy kon drink nadat hy moeg was.
 
 ---
 
@@ -71,7 +71,7 @@ Die Filistyne het hom in Lehi vasgekeer. Simson was moeg. Die Gees van die Here 
 
 > **Beeldnota:** Simson sit alleen; Filistyne in verte; rustige aand; ernstige stemming.
 
-Simson het Israel twintig jaar lank as rigter gelei. Hy was sterk wanneer die Gees van die Here op hom gekom het. Maar hy het ook foute gemaak — hy het nie altyd na God se pad geluister nie. Die stryd met die Filistyne was nog nie verby nie.
+Simson het Israel twintig jaar lank as rigter gelei. Hy was sterk wanneer die Gees van die Here op hom gekom het. Maar hy het ook foute gemaak — hy het nie altyd na God se pad geluister nie. Die stryd met die Filistyne was nog nie verby nie. Hy het Israel twintig jaar lank as rigter gelei. Die stryd met die Filistyne was nog nie verby nie.
 
 ---
 

@@ -32,7 +32,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Israelitiese huise; families maak voorbereidings; sagte aandlig.
 
-**Een dag, lank, lank gelede,** het die Here vir Moses en Aäron in Egipte gesê: Hierdie maand is vir julle die begin van die maande. Elke gesin moet ’n lam kies — een sonder gebrek. Hulle moet dit op die veertiende dag van die maand slag.
+**Een dag, lank, lank gelede,** het die Here vir Moses en Aäron in Egipte gesê: Hierdie maand is vir julle die begin van die maande. Elke gesin moet ’n lam kies — een sonder gebrek. Hulle moet dit op die veertiende dag van die maand slag. Die lam moes een jaar oud wees, sonder enige gebrek. Die hele gemeenskap van Israel moes dit op dieselfde nag eet.
 
 ---
 
@@ -42,7 +42,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Bloed op deurposte met hysop; ongesuurde brood op tafel.
 
-Die Here het presiese instruksies gegee. Neem van die bloed en stryf dit aan beide deurposte en die balk bo die deur. Julle moet die lam in die nag eet — gebraai, met ongesuurde brood en bitter kruie. Eet dit haastig, met julle gordels vas en skoene aan. Dit is die Here se Paasfees.
+Die Here het presiese instruksies gegee. Neem van die bloed en stryf dit aan beide deurposte en die balk bo die deur. Julle moet die lam in die nag eet — gebraai, met ongesuurde brood en bitter kruie. Eet dit haastig, met julle gordels vas en skoene aan. Dit is die Here se Paasfees. Geen suurdeeg moes in hulle huise wees nie. Hulle moes haastig eet — gordels vas, skoene aan, staf in die hand.
 
 ---
 
@@ -52,7 +52,7 @@ Die Here het presiese instruksies gegee. Neem van die bloed en stryf dit aan bei
 
 > **Beeldnota:** Families eet binne; deurposte gemerk; stil ernstige nag.
 
-Om middernag het die Here deur Egipte gegaan. Waar Hy die bloed op die deurposte sien, het Hy verbygegaan en nie toegelaat dat die verderwer in daardie huise kom nie. Maar in Egiptiese huise sonder die teken is elke eerstgeborene gesterf — van Farao se seun af tot die eerstgeborene van die gevangene.
+Om middernag het die Here deur Egipte gegaan. Waar Hy die bloed op die deurposte sien, het Hy verbygegaan en nie toegelaat dat die verderwer in daardie huise kom nie. Maar in Egiptiese huise sonder die teken is elke eerstgeborene gesterf — van Farao se seun af tot die eerstgeborene van die gevangene. In Farao se huis, by die meule en in die tronk — oral waar daar geen bloed op die deur was nie, het die eerstgeborene gesterf.
 
 ---
 
@@ -62,7 +62,7 @@ Om middernag het die Here deur Egipte gegaan. Waar Hy die bloed op die deurposte
 
 > **Beeldnota:** Farao roep Moses en Aäron in die nag; huilende paleis agtergrond.
 
-En weet jy wat toe gebeur het? Daardie nag het Farao en al sy dienaars opgestaan. Daar was groot gegil in Egipte, want daar was geen huis sonder iemand wat dood was nie. Farao het Moses en Aäron in die nag geroep. Trek uit, het hy gesê, julle en die kinders van Israel. Gaan dien die Here soos julle gesê het.
+En weet jy wat toe gebeur het? Daardie nag het Farao en al sy dienaars opgestaan. Daar was groot gegil in Egipte, want daar was geen huis sonder iemand wat dood was nie. Farao het Moses en Aäron in die nag geroep. Trek uit, het hy gesê, julle en die kinders van Israel. Gaan dien die Here soos julle gesê het. Daar was groot gegil in Egipte — geen huis sonder iemand wat dood was nie. Farao het Moses en Aäron in die nag geroep.
 
 ---
 
@@ -72,7 +72,7 @@ En weet jy wat toe gebeur het? Daardie nag het Farao en al sy dienaars opgestaan
 
 > **Beeldnota:** Israeliete trek uit met brooddeeg; Egiptenaars gee geskenke; oggendlig.
 
-Die Egiptenaars het Israel gejaag om uit te gaan. Hulle het silwer en goud en klere gegee. So het die Israeliete uit Egipte getrek — ongeveer ses honderd duisend mans, behalwe kinders. Hulle het ongesuurde deeg saamgeneem, want hulle is haastig uitgejaag. Die Here het sy volk gered.
+Die Egiptenaars het Israel gejaag om uit te gaan. Hulle het silwer en goud en klere gegee. So het die Israeliete uit Egipte getrek — ongeveer ses honderd duisend mans, behalwe kinders. Hulle het ongesuurde deeg saamgeneem, want hulle is haastig uitgejaag. Die Here het sy volk gered. Die Israeliete het ongeveer vier honderd dertig jaar in Egipte gewoon. Hulle het goud, silwer en klere van die Egiptenaars gekry en ongesuurde deeg op hulle skouers gedra.
 
 ---
 

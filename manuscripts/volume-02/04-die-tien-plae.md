@@ -36,7 +36,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Nylrivier rooi; Egiptenaars verbaas; eerste pla begin.
 
-**Een dag, lank, lank gelede,** het Moses en Aäron weer voor Farao gestaan. Die Here het plae oor Egipte gestuur omdat Farao nie Israel sou laat gaan nie. Een na een het die plae gekom — presies soos God gesê het.
+**Een dag, lank, lank gelede,** het Moses en Aäron weer voor Farao gestaan. Die Here het plae oor Egipte gestuur omdat Farao nie Israel sou laat gaan nie. Een na een het die plae gekom — presies soos God gesê het. Aäron het sy staf oor die riviere uitgestrek. Die vis in die rivier het gesterf en die water het stank — sewe dae lank.
 
 ---
 
@@ -46,7 +46,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Paddas oral; mugge en vlieë; vee lê siek; geen bloed of wonde gewys nie.
 
-Die eerste pla: die water van die Nyl het bloed geword. Dan paddas — oral in huise en bedde. Die derde pla: mugge op mense en diere. Die vierde: vlieë wat oral was. Die vyfde: veepes — Egiptiese vee het gesterf, maar Israel se vee het gelewe. Die sesde: sere op mense en diere. Farao se hart het steeds hard gebly.
+Die eerste pla: die water van die Nyl het bloed geword. Dan paddas — oral in huise en bedde. Die derde pla: mugge op mense en diere. Die vierde: vlieë wat oral was. Die vyfde: veepes — Egiptiese vee het gesterf, maar Israel se vee het gelewe. Die sesde: sere op mense en diere. Farao se hart het steeds hard gebly. Aäron het sy hand uitgestrek en paddas het oral gekom — in bedde, oonde en bakke. Farao se towenaars kon die paddas nie wegneem nie. Stof op die grond het lewendige mugge geword, en swerms vlieë het Egipte volgemaak.
 
 ---
 
@@ -56,7 +56,7 @@ Die eerste pla: die water van die Nyl het bloed geword. Dan paddas — oral in h
 
 > **Beeldnota:** Hagel val; koring plat; sprinkane swerm in die lug.
 
-Die sewende pla: swaar hail en vuur uit die hemel — dit het plante en bome beskadig. Die agste: sprinkane — hulle het alles oorblywende geëet. Die negende pla: duisternis — drie dae lank kon niemand hulle hande voor hulle oë sien nie, behalwe waar Israel gewoon het. En weet jy wat toe gebeur het? Farao het steeds nie laat gaan nie.
+Die sewende pla: swaar hael en vuur uit die hemel — dit het plante en bome beskadig. Die agste: sprinkane — hulle het alles oorblywende geëet. Die negende pla: duisternis — drie dae lank kon niemand hulle hande voor hulle oë sien nie, behalwe waar Israel gewoon het. En weet jy wat toe gebeur het? Farao het steeds nie laat gaan nie. Net in Gosien, waar Israel gewoon het, was daar geen hael nie. Die sprinkane het alles oorblywende geëet wat die hael oorgelaat het.
 
 ---
 
@@ -66,7 +66,7 @@ Die sewende pla: swaar hail en vuur uit die hemel — dit het plante en bome bes
 
 > **Beeldnota:** Moses praat ernstig met Farao; donker skadu oor paleis; spanning.
 
-Moses het Farao gewaarsku oor die tiende pla. Om middernag sal die Here deur Egipte gaan, het hy gesê. Elke eerstgeborene in Egipte sal sterf — van Farao se seun af tot die eerstgeborene van die slaaf by die meule. Maar onder Israel sal nie ’n hond sy tong teen enige mens of dier uitsteek nie. Dan sal julle weet dat die Here onderskeid maak tussen Egipte en Israel.
+Moses het Farao gewaarsku oor die tiende pla. Om middernag sal die Here deur Egipte gaan, het hy gesê. Elke eerstgeborene in Egipte sal sterf — van Farao se seun af tot die eerstgeborene van die slaaf by die meule. Maar onder Israel sal nie ’n hond sy tong teen enige mens of dier uitsteek nie. Dan sal julle weet dat die Here onderskeid maak tussen Egipte en Israel. Moses het gesê: Laat my volk gaan om My te dien. As jy weier, sal nog een pla kom — elke eerstgeborene in Egipte sal sterf, mens en dier.
 
 ---
 
@@ -76,7 +76,7 @@ Moses het Farao gewaarsku oor die tiende pla. Om middernag sal die Here deur Egi
 
 > **Beeldnota:** Farao se gesig wys vrees; Moses en Aäron vertrek; stil aand.
 
-Farao het Moses en Aäron weggejaag. Moenie my weer sien nie, het hy gesê, want die dag wat jy my sien, sal jy sterf. Moses het geantwoord: Soos jy sê — ek sal nie weer voor jou verskyn nie. Nege plae was verby. Die tiende was aangekondig. Die Here was by sy volk.
+Farao het Moses en Aäron weggejaag. Moenie my weer sien nie, het hy gesê, want die dag wat jy my sien, sal jy sterf. Moses het geantwoord: Soos jy sê — ek sal nie weer voor jou verskyn nie. Nege plae was verby. Die tiende was aangekondig. Die Here was by sy volk. Die negende pla se duisternis het drie dae geduur. Nou wag die volk op die Paasfees — die nag wanneer die Here sou verbygaan.
 
 ---
 
@@ -114,4 +114,4 @@ God is magtig oor alles — water, diere, weer en lewe. Hy stuur oordeel sodat s
 
 - **Worteltelling (ongeveer):** narratief 450 / geheue 130 / totaal 580
 - **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.
-- **Must-include oudit:** Alle tien plae in volgorde: bloed, paddas, mugge, vlieë, veepest, sere, hail, sprinkane, duisternis, eerstgeborene aangekondig.
+- **Must-include oudit:** Alle tien plae in volgorde: bloed, paddas, mugge, vlieë, veepest, sere, hael, sprinkane, duisternis, eerstgeborene aangekondig.

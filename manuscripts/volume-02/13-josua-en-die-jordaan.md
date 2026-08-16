@@ -30,7 +30,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Josua staan alleen; Jordaanrivier in verte; nuwe dag.
 
-**Een dag, lank, lank gelede,** het Moses gesterf. Die Here het vir Josua gesê: Wees sterk en vol moed. Soos Ek met Moses was, sal Ek met jou wees. Ek sal jou nie los of verlaat nie. Trek nou op en gaan die land in wat Ek Israel gegee het.
+**Een dag, lank, lank gelede,** het Moses gesterf. Die Here het vir Josua gesê: Wees sterk en vol moed. Soos Ek met Moses was, sal Ek met jou wees. Ek sal jou nie los of verlaat nie. Trek nou op en gaan die land in wat Ek Israel gegee het. Die Here het vir Josua gesê: Van die woestyn tot die Groot See, en tot by die groot rivier — al die land wat Ek beloof het, sal julle beërwe.
 
 ---
 
@@ -40,7 +40,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Jordaan in vloed; Israel se kamp aan oewer; ark sigbaar.
 
-Israel het by die Jordaanrivier gekamp. Die rivier was vol — dit was oesfeestyd en die water het oor al sy banke geloop. Hoe sou hulle oorkom? Die Here het gesê: As die ark van die verbond die water raak, sal die Jordaan opdroog.
+Israel het by die Jordaanrivier gekamp. Die rivier was vol — dit was oesfeestyd en die water het oor al sy banke geloop. Hoe sou hulle oorkom? Die Here het gesê: As die ark van die verbond die water raak, sal die Jordaan opdroog. Die volk moes nog drie dae wag voordat hulle oorgestek het — tyd om hulleself voor te berei. Die rivier was vol, want dit was oesfeestyd.
 
 ---
 
@@ -50,7 +50,7 @@ Israel het by die Jordaanrivier gekamp. Die rivier was vol — dit was oesfeesty
 
 > **Beeldnota:** Priesters dra ark in water; water staan stil; wonderbaarlike oomblik.
 
-Die priesters wat die ark gedra het, het die water ingestap. En weet jy wat toe gebeur het? Die water wat van bo af gekom het, het opgestaan soos ’n dam. Die water verder af het weggetrek. Die priesters het in die middel van die rivier gestaan terwyl die hele volk op droë grond oorgestek het.
+Die priesters wat die ark gedra het, het die water ingestap. En weet jy wat toe gebeur het? Die water wat van bo af gekom het, het opgestaan soos ’n dam. Die water verder af het weggetrek. Die priesters het in die middel van die rivier gestaan terwyl die hele volk op droë grond oorgestek het. Die water van bo af het opgestaan soos ’n dam, en die water verder af het weggetrek na die Doodsee. Die priesters het in die middel van die rivier gestaan.
 
 ---
 
@@ -60,7 +60,7 @@ Die priesters wat die ark gedra het, het die water ingestap. En weet jy wat toe 
 
 > **Beeldnota:** Twaalf manne tel twaalf klippe; rivier agter hulle.
 
-Die Here het Josua gesê: Kies twaalf manne — een uit elke stam. Laat hulle twaalf klippe uit die middel van die Jordaan neem en dit as gedenksteen oprig waar julle vannag kamp. Wanneer julle kinders vra wat dit beteken, vertel hulle: Israel het hier op droë grond deur die Jordaan gegaan.
+Die Here het Josua gesê: Kies twaalf manne — een uit elke stam. Laat hulle twaalf klippe uit die middel van die Jordaan neem en dit as gedenksteen oprig waar julle vannag kamp. Wanneer julle kinders vra wat dit beteken, vertel hulle: Israel het hier op droë grond deur die Jordaan gegaan. Josua het die klippe as gedenksteen opgerig by Gilgal. Wanneer julle kinders vra wat dit beteken, vertel julle van die Jordaan wat opgedroog het.
 
 ---
 
@@ -70,7 +70,7 @@ Die Here het Josua gesê: Kies twaalf manne — een uit elke stam. Laat hulle tw
 
 > **Beeldnota:** Volk veilig aan ander kant; gedenksteen; sagte aand.
 
-Toe almal veilig oorgestek het, het die priesters met die ark uit die rivier gekom. Die water het weer teruggevloei. Israel staan nou in die beloofde land. Josua het sterk en vol moed gewees, want die Here was by hom.
+Toe almal veilig oorgestek het, het die priesters met die ark uit die rivier gekom. Die water het weer teruggevloei. Israel staan nou in die beloofde land. Josua het sterk en vol moed gewees, want die Here was by hom. Toe die priesters met die ark uit die rivier gekom het, het die water weer teruggevloei. Josua het die volk laat herdenk dat die lewende God by hulle was.
 
 ---
 

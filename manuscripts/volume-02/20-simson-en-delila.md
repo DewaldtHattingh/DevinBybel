@@ -32,7 +32,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Simson en Delila in huis; Filistynse leiers in verte; aand.
 
-**Een dag, lank, lank gelede,** het Simson verlief geraak op Delila in die vallei van Sorek. Die Filistynse vorste het vir Delila silwer gebied: Vind uit waar sy krag vandaan kom en hoe ons hom kan oorweldig.
+**Een dag, lank, lank gelede,** het Simson verlief geraak op Delila in die vallei van Sorek. Die Filistynse vorste het vir Delila silwer gebied: Vind uit waar sy krag vandaan kom en hoe ons hom kan oorweldig. Die Filistynse vyf vorste het Delila silwer gebied: Vind uit waar sy krag vandaan kom. Elke vorst het elf honderd silwerstukke beloof.
 
 ---
 
@@ -42,7 +42,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Delila vra Simson; hy glimlag; toue op bed — geen geweld.
 
-Delila het Simson gevra: Vertel my asseblief waar jou groot krag vandaan kom. Simson het drie keer vals antwoorde gegee. Bind my met sewe vars toue, het hy die eerste keer gesê. Bind my met nuwe toue, die tweede keer. Weef my hare in die weefgetou, die derde keer. Elke keer het die Filistyne hom probeer vang, en elke keer het hy hulle maklik ontsnap.
+Delila het Simson gevra: Vertel my asseblief waar jou groot krag vandaan kom. Simson het drie keer vals antwoorde gegee. Bind my met sewe vars toue, het hy die eerste keer gesê. Bind my met nuwe toue, die tweede keer. Weef my hare in die weefgetou, die derde keer. Elke keer het die Filistyne hom probeer vang, en elke keer het hy hulle maklik ontsnap. Simson het drie keer vals antwoorde gegee — met toue, nuwe toue en die weefgetou. Elke keer het die Filistyne hom probeer vang, en elke keer het hy hulle maklik ontsnap.
 
 ---
 
@@ -52,7 +52,7 @@ Delila het Simson gevra: Vertel my asseblief waar jou groot krag vandaan kom. Si
 
 > **Beeldnota:** Delila druk Simson; hy lyk moeg; ernstige gesprek.
 
-Delila het elke dag gedruk: Hoe kan jy sê jy hou van my as jy nie vir my vertrou nie? Uiteindelik was Simson moeg van haar vrae. Hy het haar alles vertel: ’n skeermes het nooit oor sy hoof gekom nie, want hy is ’n Nasireër van God. As sy haar gesny word, sal sy krag van hom weggaan.
+Delila het elke dag gedruk: Hoe kan jy sê jy hou van my as jy nie vir my vertrou nie? Uiteindelik was Simson moeg van haar vrae. Hy het haar alles vertel: ’n skeermes het nooit oor sy hoof gekom nie, want hy is ’n Nasireër van God. As sy haar gesny word, sal sy krag van hom weggaan. Delila het elke dag gedruk totdat Simson moeg was van haar vrae. Hy het alles vertel: hy is ’n Nasireër — ’n skeermes het nooit oor sy hoof gekom nie.
 
 ---
 
@@ -62,7 +62,7 @@ Delila het elke dag gedruk: Hoe kan jy sê jy hou van my as jy nie vir my vertro
 
 > **Beeldnota:** Delila sny Simson se haar terwyl hy slaap; Filistyne wag buite; geen geweld in beeld.
 
-Delila het Simson laat slaap op haar skoot. Sy het ’n man geroep om sy sewe hare te sny. En weet jy wat toe gebeur het? Sy krag het van hom weggegaan. Die Gees van die Here het van hom gewyk. Die Filistyne het hom gevang.
+Delila het Simson laat slaap op haar skoot. Sy het ’n man geroep om sy sewe hare te sny. En weet jy wat toe gebeur het? Sy krag het van hom weggegaan. Die Gees van die Here het van hom gewyk. Die Filistyne het hom gevang. Delila het ’n man geroep om sy sewe hare te sny terwyl hy op haar skoot slaap. Sy krag het van hom weggegaan en die Gees van die Here het van hom gewyk.
 
 ---
 
@@ -72,7 +72,7 @@ Delila het Simson laat slaap op haar skoot. Sy het ’n man geroep om sy sewe ha
 
 > **Beeldnota:** Simson geboei; bande om oë; geen wonde gewys; donker sel.
 
-Die Filistyne het sy oë uitgegrawe en hom na Gaza gebring. Hulle het hom met koperkettings geboei en in die tronk laat maal soos ’n os. Die sterk man was nou swak. Maar sy haar het begin teruggroei — en die Here het hom nie heeltemal vergeet nie.
+Die Filistyne het sy oë uitgegrawe en hom na Gaza gebring. Hulle het hom met koperkettings geboei en in die tronk laat maal soos ’n os. Die sterk man was nou swak. Maar sy haar het begin teruggroei — en die Here het hom nie heeltemal vergeet nie. Die Filistyne het sy oë uitgegrawe en hom na Gaza gebring. Hulle het hom met koperkettings geboei en in die tronk laat maal soos ’n os. Maar sy haar het begin teruggroei.
 
 ---
 

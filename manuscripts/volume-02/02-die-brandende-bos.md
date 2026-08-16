@@ -33,7 +33,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Moses as jong man in Egipte; woestynpad voor hom; warm middaglig.
 
-**Een dag, lank, lank gelede,** het Moses grootgeword in Farao se huis. Maar hy het gesien hoe swaar sy volk werk. Eendag het hy ’n Egiptenaar doodgeslaan wat ’n Hebreeër mishandel het. Farao wou Moses doodmaak. Moses het weggevlug na die land Midian.
+**Een dag, lank, lank gelede,** het Moses grootgeword in Farao se huis. Maar hy het gesien hoe swaar sy volk werk. Eendag het hy ’n Egiptenaar doodgeslaan wat ’n Hebreeër mishandel het. Farao wou Moses doodmaak. Moses het weggevlug na die land Midian. Hy het die Egiptenaar in die sand begrawe. Toe Farao dit gehoor het, wou hy Moses doodmaak — en Moses het weggevlug.
 
 ---
 
@@ -43,7 +43,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Moses by ’n put in Midian help sewe susters; skape naby.
 
-In Midian het Moses by ’n put gehelp toe sewe susters hulle skape water wou gee. Hy het by hulle pa, Jetro, gaan woon en hom met een van die susters, Sippra, getroud. Moses het vee opgepas. Veertig jaar het verbygegaan. Die Israeliete het steeds swaar gewerk in Egipte. Die Here het hulle nie vergeet nie.
+In Midian het Moses by ’n put gehelp toe sewe susters hulle skape water wou gee. Hy het by hulle pa, Jetro, gaan woon en hom met een van die susters, Sippra, getroud. Moses het vee opgepas. Veertig jaar het verbygegaan. Die Israeliete het steeds swaar gewerk in Egipte. Die Here het hulle nie vergeet nie. Jetro was priester in Midian. Moses het by hom gewoon, met Sippra getroud, en hulle het ’n seun Gersom gekry.
 
 ---
 
@@ -53,7 +53,7 @@ In Midian het Moses by ’n put gehelp toe sewe susters hulle skape water wou ge
 
 > **Beeldnota:** Brandende bos op Horeb; Moses staan ver weg en kyk; vlamme in takke maar geen as nie.
 
-Eendag het Moses sy skape laat wei naby die berg Horeb. En weet jy wat toe gebeur het? ’n Engel het in ’n brandende bos verskyn. Die bos het gebrand, maar dit het nie opgebrand nie. Moses het nader gegaan om te kyk.
+Eendag het Moses sy skape laat wei naby die berg Horeb. En weet jy wat toe gebeur het? ’n Engel het in ’n brandende bos verskyn. Die bos het gebrand, maar dit het nie opgebrand nie. Moses het nader gegaan om te kyk. Die berg Horeb lê in die woestyn. Moses het sy skape laat wei daar naby toe hy die bos sien brand sonder om op te brand.
 
 ---
 
@@ -65,7 +65,7 @@ Eendag het Moses sy skape laat wei naby die berg Horeb. En weet jy wat toe gebeu
 
 Die Here het uit die bos geroep: Moses, Moses! Hy het geantwoord: Hier is ek. Moenie nader kom nie, het die Here gesê. Trek jou skoene uit, want die plek waarop jy staan, is heilige grond. Ek is die God van jou vaders — van Abraham, Isak en Jakob. Ek het die nood van my volk gesien. Gaan na Farao en sê: Laat my volk uitgaan.
 
-Moses het gevra: Wie sal ek sê stuur my? Die Here het geantwoord: EK IS WIE EK IS. Sê vir Israel: EK IS het my na julle gestuur.
+Moses het gevra: Wie sal ek sê stuur my? Die Here het geantwoord: EK IS WIE EK IS. Sê vir Israel: EK IS het my na julle gestuur. Die Here het gesê: Ek het die nood van Israel in Egipte gesien en hulle gekreun gehoor. Ek het My afgebuig om hulle uit te red.
 
 ---
 
@@ -75,7 +75,7 @@ Moses het gevra: Wie sal ek sê stuur my? Die Here het geantwoord: EK IS WIE EK 
 
 > **Beeldnota:** Moses en Aäron ontmoet mekaar; broers omhels; rustige aand.
 
-Moses was bang. Hy kon nie goed praat nie, het hy gesê. Die Here het hom sy broer Aäron gegee om saam met hom te praat. Aäron sou vir Farao die woorde sê. Die Here het ook tekens gegee — ’n staf wat in ’n slang verander, en ander tekens om te wys dat Hy stuur. Moses het weer na Egipte gegaan. Die Here was by hom.
+Moses was bang. Hy kon nie goed praat nie, het hy gesê. Die Here het hom sy broer Aäron gegee om saam met hom te praat. Aäron sou vir Farao die woorde sê. Die Here het ook tekens gegee — ’n staf wat in ’n slang verander, en ander tekens om te wys dat Hy stuur. Moses het weer na Egipte gegaan. Die Here was by hom. Die Here het Moses se staf in ’n slang laat verander en weer terug in ’n staf. Aäron sou na Moses toe kom en saam met hom praat.
 
 ---
 

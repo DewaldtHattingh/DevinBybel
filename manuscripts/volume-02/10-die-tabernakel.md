@@ -30,7 +30,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Israel in woestyn; tentkamp; sonlig.
 
-**Een dag, lank, lank gelede,** het die Here vir Moses gesê: Laat die kinders van Israel vir My ’n heiligdom maak, dat Ek in hulle midde kan woon. Ek sal My woonplek onder julle laat wees. Soos Ek julle op die reis gelei het, so sal Ek naby julle bly.
+**Een dag, lank, lank gelede,** het die Here vir Moses gesê: Laat die kinders van Israel vir My ’n heiligdom maak, dat Ek in hulle midde kan woon. Ek sal My woonplek onder julle laat wees. Soos Ek julle op die reis gelei het, so sal Ek naby julle bly. Die Here het presiese planne gegee vir die heilige tent — die tabernakel. Dit sou die plek wees waar Hy onder sy volk sou woon op die reis deur die woestyn.
 
 ---
 
@@ -40,7 +40,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Mense bring geskenke — goud, silwer, stof, hout; vrywillige gawe.
 
-Die Here het gesê: Neem vir My ’n offer van elkeen wat vrywillig gee. Goud en silwer, pers en rooi stof, fyn linne, bokhare, akasia-hout. Almal wat ’n gewillige hart gehad het, het gebring. Kunsvlyers het die werk gedoen.
+Die Here het gesê: Neem vir My ’n offer van elkeen wat vrywillig gee. Goud en silwer, pers en rooi stof, fyn linne, bokhare, akasia-hout. Almal wat ’n gewillige hart gehad het, het gebring. Kunsvlyers het die werk gedoen. Kunsvlyers soos Besalel en Oholiab het die werk geleid. Almal wat ’n gewillige hart gehad het, het goud, silwer, koper, purper, fyn linne en bokhare gebring.
 
 ---
 
@@ -50,7 +50,7 @@ Die Here het gesê: Neem vir My ’n offer van elkeen wat vrywillig gee. Goud en
 
 > **Beeldnota:** Tabernakel word opgerig — tent, gordyne, ark binne; geen mense in heiligdom nie.
 
-Hulle het die tabernakel gebou — ’n heilige tent. Binne was die ark van die verbond, waar die tablette gehou is. Daar was ’n altaar en ’n lampstand en ander heilige goed, presies soos die Here beveel het. Dit was die plek waar God onder sy volk sou woon.
+Hulle het die tabernakel gebou — ’n heilige tent. Binne was die ark van die verbond, waar die tablette gehou is. Daar was ’n altaar en ’n lampstand en ander heilige goed, presies soos die Here beveel het. Dit was die plek waar God onder sy volk sou woon. Binne was die ark van die verbond met die twee stene tablette, die verzoendeksel, die goue lampstand, die altaar vir reukoffers en die altaar vir brandoffers — presies soos die Here beveel het.
 
 ---
 
@@ -60,7 +60,7 @@ Hulle het die tabernakel gebou — ’n heilige tent. Binne was die ark van die 
 
 > **Beeldnota:** Tabernakel voltooi; Moses staan by ingang; ernstige oomblik.
 
-Toe alles klaar was, het Moses die tabernakel opgerig. Hy het die heilige goed binne gesit. Hy het die altaar en die voorhof opgestel. Alles was volgens die Here se bevel.
+Toe alles klaar was, het Moses die tabernakel opgerig. Hy het die heilige goed binne gesit. Hy het die altaar en die voorhof opgestel. Alles was volgens die Here se bevel. Moses het die tabernakel op die eerste dag van die eerste maand opgerig. Hy het die heilige goed binne gesit en die altaar en voorhof opgestel. Aäron en sy seuns is in hulle amp aangestel.
 
 ---
 
@@ -70,7 +70,7 @@ Toe alles klaar was, het Moses die tabernakel opgerig. Hy het die heilige goed b
 
 > **Beeldnota:** Wolk vul tent; heerlikheid; volk kniel op afstand; sagte lig.
 
-En weet jy wat toe gebeur het? Die wolk het die tent van die samekoms bedek, en die heerlikheid van die Here het die tabernakel gevul. Moses kon nie ingaan nie, want die wolk het daar gebly. Bedags was die wolk bo die tabernakel. Wanneer die wolk opstyg, het Israel getrek. Die Here was in die midde van sy volk.
+En weet jy wat toe gebeur het? Die wolk het die tent van die samekoms bedek, en die heerlikheid van die Here het die tabernakel gevul. Moses kon nie ingaan nie, want die wolk het daar gebly. Bedags was die wolk bo die tabernakel. Wanneer die wolk opstyg, het Israel getrek. Die Here was in die midde van sy volk. Die wolk het die tent bedek en die heerlikheid van die Here het die tabernakel gevul. Bedags was die wolk bo die tabernakel. Wanneer die wolk opstyg, het Israel getrek — tot die wolk weer neergedaal het.
 
 ---
 

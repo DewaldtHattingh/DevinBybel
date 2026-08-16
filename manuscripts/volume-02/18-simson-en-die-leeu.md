@@ -32,7 +32,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Simson loop pad na Timnah; gewone jong man; Filistynse dorp in verte.
 
-**Een dag, lank, lank gelede,** het Simson grootgeword in die land van sy ouers. Hy het na Timnah gegaan en daar ’n Filistynse vrou gesien. Hy het vir sy ouers gesê: Kry haar vir my as vrou. Sy ouers was bekommerd — sy is nie uit ons volk nie. Maar Simson wou hê.
+**Een dag, lank, lank gelede,** het Simson grootgeword in die land van sy ouers. Hy het na Timnah gegaan en daar ’n Filistynse vrou gesien. Hy het vir sy ouers gesê: Kry haar vir my as vrou. Sy ouers was bekommerd — sy is nie uit ons volk nie. Maar Simson wou hê. Die Filistyne het in Timnah gewoon — nie ver van Israel af nie. Simson se ouers het bekommerd gewonder of dit reg is om ’n vreemde vrou te neem.
 
 ---
 

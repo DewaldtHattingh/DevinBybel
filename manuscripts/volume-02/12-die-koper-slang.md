@@ -31,7 +31,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Woestynpad; Israel trek; son brand.
 
-**Een dag, lank, lank gelede,** het Israel om die land Edom getrek. Die pad was lank. Die volk het ongeduldig geword. Hulle het teen God en teen Moses gekla. Waarom het julle ons uit Egipte gebring? het hulle gesê. Ons haat hierdie ellendige kos.
+**Een dag, lank, lank gelede,** het Israel om die land Edom getrek. Die pad was lank. Die volk het ongeduldig geword. Hulle het teen God en teen Moses gekla. Waarom het julle ons uit Egipte gebring? het hulle gesê. Ons haat hierdie ellendige kos. Israel het om die land Edom getrek — die lang pad deur die woestyn. Hulle het ongeduldig geword en gemurmureer teen God en teen Moses.
 
 ---
 
@@ -41,7 +41,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Slange in woestyn; mense bang; geen wonde of bloed gewys nie.
 
-Die Here het brandende slange onder die volk gestuur. Baie mense is gebyt en het gesterf. Israel het na Moses gegaan en gesê: Ons het gesondig deur teen die Here en teen jou te praat. Bid vir ons dat die Here die slange van ons wegneem.
+Die Here het brandende slange onder die volk gestuur. Baie mense is gebyt en het gesterf. Israel het na Moses gegaan en gesê: Ons het gesondig deur teen die Here en teen jou te praat. Bid vir ons dat die Here die slange van ons wegneem. Die Here het brandende slange onder die volk gestuur. Baie mense is gebyt en het gesterf. Israel het na Moses gegaan, hulle sonde bely en gevra dat die Here die slange wegneem.
 
 ---
 
@@ -51,7 +51,7 @@ Die Here het brandende slange onder die volk gestuur. Baie mense is gebyt en het
 
 > **Beeldnota:** Moses bid; Here gee instruksie; koper slang word gemaak.
 
-Moses het vir die volk gebid. Die Here het gesê: Maak ’n slang en sit dit op ’n paal. Elkeen wat gebyt is en daarna kyk, sal lewe. Moses het ’n koper slang gemaak en dit op ’n paal opgerig.
+Moses het vir die volk gebid. Die Here het gesê: Maak ’n slang en sit dit op ’n paal. Elkeen wat gebyt is en daarna kyk, sal lewe. Moses het ’n koper slang gemaak en dit op ’n paal opgerig. Moses het vir die volk gebid. Die Here het gesê: Maak ’n brandende slang en sit dit op ’n paal. Moses het ’n koper slang gemaak en dit in die middel van die kamp opgerig.
 
 ---
 
@@ -61,7 +61,7 @@ Moses het vir die volk gebid. Die Here het gesê: Maak ’n slang en sit dit op 
 
 > **Beeldnota:** Man kyk na koper slang; ander mense kyk ook; hoop in gesigte.
 
-En weet jy wat toe gebeur het? Wanneer iemand gebyt is en na die koper slang op die paal gekyk het, het hy gelewe. Dit was nie die slang wat gered het nie — dit was die Here wat redding gee vir die wat na sy teken kyk en na Hom vertrou.
+En weet jy wat toe gebeur het? Wanneer iemand gebyt is en na die koper slang op die paal gekyk het, het hy gelewe. Dit was nie die slang wat gered het nie — dit was die Here wat redding gee vir die wat na sy teken kyk en na Hom vertrou. Wanneer iemand gebyt is en na die koper slang op die paal gekyk het, het hy gelewe. Dit was nie die slang wat gered het nie — dit was die Here wat redding gee vir die wat na sy teken kyk.
 
 ---
 
@@ -71,7 +71,7 @@ En weet jy wat toe gebeur het? Wanneer iemand gebyt is en na die koper slang op 
 
 > **Beeldnota:** Koper slang op paal; volk trek verder; rustige aand.
 
-Israel het geleer dat kla nie die antwoord is nie. Hulle het hulle sonde bely. God het ’n weg gegee om te lewe. Later sou Jesus sê dat soos Moses die slang opgehef het, so sal die Seun van die mens opgehef word. Die Here was by sy volk.
+Israel het geleer dat kla nie die antwoord is nie. Hulle het hulle sonde bely. God het ’n weg gegee om te lewe. Later sou Jesus sê dat soos Moses die slang opgehef het, so sal die Seun van die mens opgehef word. Die Here was by sy volk. Israel het geleer dat kla nie die antwoord is nie. Later sou Jesus sê dat soos Moses die slang in die woestyn opgehef het, so sal die Seun van die mens opgehef word.
 
 ---
 

@@ -33,7 +33,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Israel trek deur woestyn; wolk/sag voor hulle; oggendlig.
 
-**Een dag, lank, lank gelede,** het Israel uit Egipte getrek. Die Here het voor hulle gegaan — bedags in ’n wolk, snags in ’n vuursag. Hulle het na die Rooi See toe gegaan en langs die see gekamp.
+**Een dag, lank, lank gelede,** het Israel uit Egipte getrek. Die Here het voor hulle gegaan — bedags in ’n wolk, snags in ’n vuursag. Hulle het na die Rooi See toe gegaan en langs die see gekamp. Die Here het nie Israel deur die Filistynse land gelei nie — die volk sou dalk terugkeer na Egipte. Hy het hulle deur die woestyn na die Rooi See gelei, en Josef se bene het saam gegaan.
 
 ---
 
@@ -43,7 +43,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Israel vasgekeer — see voor, Egiptiese leër agter; spanning.
 
-Farao het spijt gekry dat hy Israel laat gaan het. Hy het sy strydwagens en ruiters gestuur om hulle terug te bring. Die Israeliete het die Egiptenaars sien kom. Hulle was bang. Voor hulle was die see. Agter hulle die leër. Hulle het vir Moses gekla.
+Farao het spijt gekry dat hy Israel laat gaan het. Hy het sy strydwagens en ruiters gestuur om hulle terug te bring. Die Israeliete het die Egiptenaars sien kom. Hulle was bang. Voor hulle was die see. Agter hulle die leër. Hulle het vir Moses gekla. Farao het ses honderd uitgesoekde strydwagens geneem — elke strydwagen met sy ruiters. Die Egiptenaars het Israel ingehaal by Pi-Hahirot, tussen Migdol en die see.
 
 ---
 
@@ -53,7 +53,7 @@ Farao het spijt gekry dat hy Israel laat gaan het. Hy het sy strydwagens en ruit
 
 > **Beeldnota:** Moses steek hand uit; sterk wind; water begin skei.
 
-Moses het gesê: Moenie bang wees nie. Die Here sal vir julle veg. Hy het sy staf oor die see uitgestrek. Die Here het ’n sterk oostewind die hele nag geblaas. Die water het teruggewyk, en die seebodem het droog geword.
+Moses het gesê: Moenie bang wees nie. Die Here sal vir julle veg. Hy het sy staf oor die see uitgestrek. Die Here het ’n sterk oostewind die hele nag geblaas. Die water het teruggewyk, en die seebodem het droog geword. Die engel van God en die wolk het van voor Israel af na agter hulle gegaan. Die wolk het vir Israel lig gegee en vir die Egiptenaars duisternis — die hele nag het Moses sy hand oor die see uitgestrek.
 
 ---
 
@@ -63,7 +63,7 @@ Moses het gesê: Moenie bang wees nie. Die Here sal vir julle veg. Hy het sy sta
 
 > **Beeldnota:** Israel loop tussen twee watermure; wolk agter hulle; wonderbaarlike pad.
 
-En weet jy wat toe gebeur het? Die kinders van Israel het deur die see op droë grond gegaan. Water staan links en regs soos mure. Die wolk het tussen hulle en die Egiptenaars gegaan. Toe Israel veilig aan die ander kant was, het die Egiptenaars agterna gegaan.
+En weet jy wat toe gebeur het? Die kinders van Israel het deur die see op droë grond gegaan. Water staan links en regs soos mure. Die wolk het tussen hulle en die Egiptenaars gegaan. Toe Israel veilig aan die ander kant was, het die Egiptenaars agterna gegaan. Die kinders van Israel het op droë grond deur die see gegaan. Die Egiptenaars het agterna gegaan — al hulle perde, strydwagens en ruiters. Die Here het na die Egiptenaars gekyk deur die vuursag.
 
 ---
 
@@ -73,7 +73,7 @@ En weet jy wat toe gebeur het? Die kinders van Israel het deur die see op droë 
 
 > **Beeldnota:** Water vloei terug; Israel kyk van veilig af; oggendson.
 
-Moses het weer sy hand oor die see uitgestrek. Die water het teruggekeer en die strydwagens en ruiters bedek. Israel het gesien dat die Here groot redding gegee het. Miryam en die vroue het getrommel en gesing: Ek wil die Here loof, want Hy is hoog verhewe. Die Here was by sy volk.
+Moses het weer sy hand oor die see uitgestrek. Die water het teruggekeer en die strydwagens en ruiters bedek. Israel het gesien dat die Here groot redding gegee het. Miryam en die vroue het getrommel en gesing: Ek wil die Here loof, want Hy is hoog verhewe. Die Here was by sy volk. Toe die Egiptenaars probeer vlug het, het die Here hulle wielruppe laat los. Die water het teruggekeer en die strydwagens bedek. Moses en die volk het die Here se lof gesing.
 
 ---
 
