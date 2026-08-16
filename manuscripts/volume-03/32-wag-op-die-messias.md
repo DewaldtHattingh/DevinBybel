@@ -1,0 +1,127 @@
+---
+story_id: V03-32
+title: "Wag op die Messias"
+volume: 3
+pages: 6
+primary_passage: "Mal. 3:1; 4:1–6; summary hope"
+must_include:
+  - "Messenger promise; day of the Lord; remember law; Elijah-figure hope; long silence toward NT"
+deferred_to: ["V04-01"]
+continuity_from: "V03-31"
+continuity_to: "V04-01"
+theology_centre: "Promise of messenger; Elijah hope; waiting for Messiah"
+violence_note: "geen"
+afr20_quote_check: pending
+---
+
+# Wag op die Messias
+
+**Primêre gedeelte:** Maleagi 3:1; 4:1–6; opsomming van hoop  
+**Verhaal-ID:** V03-32
+
+---
+
+## Bladsy 1 — Opening
+
+![Beeld: opening](../../assets/images/V03-32-p1.png)
+
+> **Beeldnota:** Tempel; sononder; profete se boeke; stilte kom.
+
+**Een dag, lank, lank gelede,** nadat Nehemia die muur gebou het, het die profete opgehou praat. Jeremia, Jesaja, Daniël — hulle het almal van 'n Koning beloof wat sou kom. Maar die jare het verbygegaan. Israel het gewag.
+
+Na Nehemia stil profete. Jeremia, Jesaja, Daniël het van 'n Koning beloof. Jare verby — Israel wag. Profete ophou praat.
+
+Profete het opgehou. Jeremia, Jesaja, Daniël het van 'n Koning beloof. Jare verby — Israel wag.
+
+---
+
+## Bladsy 2 — Probleem
+
+![Beeld: probleem](../../assets/images/V03-32-p2.png)
+
+> **Beeldnota:** Mense in tempel; halfhartig; vrae in lug.
+
+Die volk het soms vergeet om die Here te dien. Hulle het gevra: Waar is die God van geregtigheid? Hulle het die wet onthou, maar nie altyd geleef nie. Hulle het gewag — en gewonder wanneer die belofte sou kom.
+
+Mense vra soms: Waar is die God van geregtigheid? Wet onthou, maar nie altyd geleef nie. Wag en wonder. En weet jy wat toe gebeur het? Die moeilikheid het groter geword voordat die Here help.
+
+Mense vra: Waar is die Here? Wet onthou, maar nie altyd geleef nie.
+
+---
+
+## Bladsy 3 — Stygende aksie
+
+![Beeld: stygende-aksie](../../assets/images/V03-32-p3.png)
+
+> **Beeldnota:** Profeet Maleagi; wys na pad; boodskapper kom.
+
+Die laaste profeet, Maleagi, het gepraat. Hy het gesê: Kyk — Ek stuur my boodskapper voor My uit. Hy sal die pad voor My berei. En die Here vir wie julle soek, sal skielik na sy tempel kom.
+
+Maleagi, laaste profeet: Ek stuur my boodskapper voor My uit. Hy berei die pad. Boodskapper kom.
+
+Maleagi: Ek stuur my boodskapper voor My uit. Hy berei die pad. Die Here kom na sy tempel.
+
+---
+
+## Bladsy 4 — Hoofdraai
+
+![Beeld: hoofdraai](../../assets/images/V03-32-p4.png)
+
+> **Beeldnota:** Dag van die Here — lig en vuur simbolies; son sonder grafiese geweld.
+
+Maleagi het ook gewaarsku: Die dag van die Here kom — soos 'n oond wat brand. Maar vir die wat die Here vrees, sal die Son van geregtigheid opgaan met genesing. Onthou die wet van Moses. Wag op wat die Here beloof het.
+
+Die dag van die Here kom — soos 'n oord. Vir wie die Here vrees, Son van geregtigheid. Onthou Moses se wet. Onthou wet. Die Here was naby — al het dit nie dadelik so gevoel nie.
+
+Dag van die Here kom. Vir wie die Here vrees, Son van geregtigheid. Onthou Moses se wet.
+
+---
+
+## Bladsy 5 — Ontknoping
+
+![Beeld: ontknoping](../../assets/images/V03-32-p5.png)
+
+> **Beeldnota:** Hemel; stil nag; ster; Elia-figuur hoop; lang stilte.
+
+Maleagi het gesê: Ek stuur vir julle Elia voordat die groot dag kom. Dan sal ouers se harte na hulle kinders wend. Daarna het die profete opgehou. Vier honderd jaar stilte — maar die beloftes het gebly. Israel het gewag op die Messias.
+
+Maleagi beloof Elia voor die groot dag. Daarna stilte — vierhonderd jaar. Israel wag op die Messias. 400 jaar stilte.
+
+Maleagi beloof 'n boodskapper en Elia-figuur. Daarna stilte — maar beloftes bly. Israel wag op die Messias. Volume 3 eindig met hoop wat nog moet kom.
+
+Elia-figuur beloof. Daarna vierhonderd jaar stilte. Israel wag op die Messias — Volume 4 wag.
+
+---
+
+## Bladsy 6 — Geheue
+
+![Beeld: geheue](../../assets/images/V03-32-p6.png)
+
+> **Beeldnota:** Klein, rustige illustrasie (~25–35% van bladsy); ster bo Bethlehem rigting.
+
+### Wie was in hierdie verhaal?
+
+- **Maleagi** — Laaste profeet wat van 'n boodskapper en Elia beloof het.
+- **Israel** — Volk wat gewag het op die Here se beloftes.
+- **Die Here** — Hy beloof 'n boodskapper en die dag van geregtigheid.
+
+### Wat leer ons?
+
+Na die profete het Israel lank gewag — maar die Here het beloof: 'n boodskapper kom, onthou die wet, en die Messias sal kom.
+
+### Vers om te onthou
+
+"Ek stuur my boodskapper voor My uit, en hy sal die pad voor My berei." — Maleagi 3:1. 〔AFR20-kontrole〕
+
+### Onthou jy?
+
+1. Wie was die laaste profeet in die Ou Testament?
+2. Wat het Maleagi beloof kom voor die Here?
+3. Hoe lank was daar stilte voordat die Nuwe Testament begin?
+
+---
+
+## Produksie-notas
+
+- **Worteltelling (ongeveer):** narrative 431 / geheue 101 / totaal 532
+- **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor Volume 4 begin.
