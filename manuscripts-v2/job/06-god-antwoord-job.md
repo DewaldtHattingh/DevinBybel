@@ -12,7 +12,7 @@ must_include:
 theology_centre: "God is wys en soewerein"
 continuity_from: JOB-05
 continuity_to: JOB-07
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # God antwoord Job
@@ -64,9 +64,9 @@ Job het geluister. Hy het nie al die antwoorde gehad nie. Niemand het nie, behal
 
 > **Beeldnota:** Job voor storm; hande oor mond — verwondering, nie vrees nie.
 
-Job het vir die Here gesê: Ek is onbeduidend — wat kan ek U antwoord? Ek sal my hand op my mond sit. Ek het een keer gepraat, maar ek sal nie antwoord nie — twee keer nie, want Ek weet dit nie.
+Job het vir die Here gesê: Ek is onbeduidend — wat kan ek U antwoord? Ek sal my hand op my mond sit. Ek het een keer gepraat, maar ek sal nie antwoord nie — twee keer nie, want ek weet dit nie.
 
-Job het gesien: God is groter as enige menslike vraag. Die skepping wys sy wysheid en sy mag. Job het gesê: Ek het U gehoor met die ore, maar nou sien ek U met my oë. Job het erken: ek het te veel gepraat.
+Job het gesien: God is groter as enige menslike vraag. Die skepping wys sy wysheid en sy mag. Job het gesê: Op hoorsê het ek van U verneem, maar nou het my oog U gesien. Job het erken: ek het te veel gepraat.
 
 ---
 
@@ -78,7 +78,7 @@ Job het gesien: God is groter as enige menslike vraag. Die skepping wys sy wyshe
 
 God het nie elke detail verduidelik nie. Hy het Job gewys wie Hy is — die Maker, die Een wat die see en die diere en die sterre ken.
 
-Job het gesê: Ek het van U gehoor met die ore, maar nou sien ek U met my oë. Ek het te veel gepraat — dinge wat ek nie verstaan het nie.
+Job het gesê: Op hoorsê het ek van U verneem, maar nou het my oog U gesien. Ek het te veel gepraat — dinge wat ek nie verstaan het nie.
 
 Die storm het geslaag. God het gepraat. Job het geluister. Job het sy hand op sy mond gesit en erken God is groter as sy vrae.
 

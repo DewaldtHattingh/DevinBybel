@@ -14,7 +14,7 @@ must_include:
 theology_centre: "Sonde groei; God sien"
 continuity_from: GEN-02
 continuity_to: GEN-04
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Kain en Abel
@@ -32,7 +32,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het Adam en Eva twee seuns gehad: Kain en Abel. Kain het die grond bearbei en groente gekweek. Abel het skape gehooi en vir die skape gesorg. Albei het vir God 'n offer gebring.
 
-Kain het vrugte van die land gebring as offer. Abel het die beste van sy skape gebring — die vetste dele. God het na Abel en sy offer gekyk, maar nie na Kain en sy offer nie.
+Kain het vrugte van die land gebring as offer. Abel het die eersgeborenes van sy kleinvee gebring — van hulle vet. God het Abel en sy offer met guns beskou, maar Kain en sy offer nie met guns beskou nie.
 
 ---
 
@@ -66,7 +66,7 @@ En weet jy wat toe gebeur het? God het dit gesien.
 
 > **Beeldnota:** God vra Kain; Kain staan met gespekte hande weggesteek.
 
-God het vir Kain gevra: Waar is Abel, jou broer? Kain het gesê hy weet nie — is hy sy broer se keeper?
+God het vir Kain gevra: Waar is Abel, jou broer? Kain het gesê hy weet nie — is hy dan sy broer se oppasser?
 
 God het gesê: Wat het jy gedoen? Abel se bloed roep van die grond af na My. Jy het jou broer vermoor. Nou sal die grond nie meer vir jou vrugte gee nie. Jy sal dwalend wees op die aarde.
 
@@ -78,9 +78,9 @@ God het gesê: Wat het jy gedoen? Abel se bloed roep van die grond af na My. Jy 
 
 > **Beeldnota:** Teken op Kain se voorkop; hy loop ver weg — geen geweld nie.
 
-Kain het gesê sy straf is te swaar — hy sal dwalend wees en weg van God se aangesig. Hy was bang dat iemand hom sal doodmaak. God het 'n teken op Kain geplaas sodat niemand hom mag slaan nie.
+Kain het gesê sy straf is te swaar om te dra. Hy was bang dat iemand hom sal doodmaak. God het op Kain 'n merkteken gesit, sodat niemand wat hom teëkom, hom sou doodslaan nie.
 
-Kain het weggetrek en in die land Nod gaan woon, ver van die Here af. Adam en Eva het hulle seun Abel verloor — en Kain het weggegaan met 'n teken op sy voorkop, soos God belowe het.
+Kain het uit die Here se teenwoordigheid weggetrek en in die land Nod gaan woon, oos van Eden. Adam en Eva het hulle seun Abel verloor — en Kain het weggegaan met 'n merkteken, soos God belowe het.
 
 ---
 

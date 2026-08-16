@@ -12,7 +12,7 @@ must_include:
 theology_centre: "God se genade ná die ontmoeting"
 continuity_from: JOB-07
 continuity_to: ABR-01
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Job word herstel
@@ -30,7 +30,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** nadat Job vir sy vriende gebid het, het die Here Job se lot verander. Job het vir sy vriende gebid — en toe het God begin herstel.
 
-Die Here het Job se vorige rykdom verdubbel. Almal wat hom geken het, het hom geskenke gegee — stukke silwer en goue ringe. Die Here het Job se vee verdubbel — veertien duisend skape.
+Die Here het Job se lot verander toe hy vir sy vriende gebid het. Die Here het alles wat Job besit het, vermeerder — dubbeld soveel. Al sy broers en susters en al sy vorige kennisse het na hom gekom en saam met hom in sy huis brood geëet. Elkeen van hulle het vir hom een kesita en een goue ring gegee. Die Here het veertienduisend stuks kleinvee gegee.
 
 ---
 
@@ -40,9 +40,9 @@ Die Here het Job se vorige rykdom verdubbel. Almal wat hom geken het, het hom ge
 
 > **Beeldnota:** Job met nuwe vee; skape, kamele, osse — welvaart keer terug.
 
-Die Here het Job veertien duisend skape gegee, ses duisend kamele, duisend span osse en duisend esels. Hy het ook sewe seuns en drie dogters gekry — nuwe kinders, met nuwe name.
+Die Here het Job veertienduisend stuks kleinvee gegee, sesduisend kamele, 'n duisend pare beeste en 'n duisend donkiemerries. Hy het ook sewe seuns en drie dogters gekry — nuwe kinders, met nuwe name.
 
-Die dogters was Jemima, Kesia en Keren-Happuk. Hulle was die mooiste vroue in die land. Job het hulle erfgenaam gemaak saam met hulle broers. Hy het weer sewe seuns en drie dogters gekry.
+Die dogters was Jemima, Kesia en Keren-Happoeg. Hulle was die mooiste vroue in die hele land. Job het hulle erfdeel saam met hulle broers gegee.
 
 ---
 
@@ -52,7 +52,7 @@ Die dogters was Jemima, Kesia en Keren-Happuk. Hulle was die mooiste vroue in di
 
 > **Beeldnota:** Job met gesin; kinders rondom; vreugde — geen spog nie.
 
-Job het nog honderd veertig jaar geleef. Hy het sy kinders en kindskinders gesien — vier geslagte. Hy het oud geword en vol lewe gehad.
+Job het honderd-en-veertig jaar lank geleef. Hy het sy kinders en sy kinders se nageslag gesien — vier geslagte. Hy het oud geword en versadig van lewensdae gehad.
 
 Sy broers en susters en almal wat hom geken het, het weer by hom gekom. Hulle het saam met hom geëet in sy huis. Hulle het hom bekommer en hom geskenke gegee oor sy lyding. Sy dogters Jemima, Kesia en Keren-Happuk was die mooiste in die land.
 
@@ -66,7 +66,7 @@ Sy broers en susters en almal wat hom geken het, het weer by hom gekom. Hulle he
 
 Job se lewe is herstel. Hy het weer vee en kinders gehad. Maar die les van Job se verhaal is nie dat geduld altyd dubbel teruggee nie.
 
-Die les is dat God regverdig is en groter as ons vrae — en dat Hy genade gee ná die ontmoeting. Job het God ontmoet in die storm. Nou het hy weer geleef. Job het honderd en veertig jaar geleef en sy kinders en kleinkinders gesien.
+Die les is dat God regverdig is en groter as ons vrae — en dat Hy genade gee ná die ontmoeting. Job het God ontmoet in die storm. Nou het hy weer geleef. Job het honderd-en-veertig jaar geleef en sy kinders en kleinkinders gesien.
 
 ---
 
@@ -78,7 +78,7 @@ Die les is dat God regverdig is en groter as ons vrae — en dat Hy genade gee n
 
 Job het gesterf oud en vol dae. Hy het God vertrou deur die swaarste tye — en God het hom nie vergeet nie.
 
-Die verhaal van Job eindig met herstel — maar eers het daar kom: verlies, siekte, verkeerde vriende, God se antwoord, en Job se gebed vir hulle. Herstel kom ná die ontmoeting met God. Die Here het Job se laaste dae meer geseën as sy eerste.
+Die verhaal van Job eindig met herstel — maar eers het daar kom: verlies, siekte, verkeerde vriende, God se antwoord, en Job se gebed vir hulle. Herstel kom ná die ontmoeting met God. Die Here het die einde van Job meer geseën as sy begin.
 
 ---
 
@@ -100,7 +100,7 @@ God se genade kom ná die ontmoeting. Job se herstel was 'n geskenk — nie omda
 
 ### Vers om te onthou
 
-"En die Here het die laaste dae van Job se lewe meer geseën as die eerste." — Job 42:12. 〔AFR20-kontrole〕
+"Die Here het die einde van Job meer geseën as sy begin." — Job 42:12. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

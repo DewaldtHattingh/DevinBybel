@@ -10,7 +10,7 @@ must_include:
 theology_centre: "God korrigeer valse raad"
 continuity_from: JOB-06
 continuity_to: JOB-08
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Job se vriende word teregwys
@@ -26,9 +26,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** God praat met Elifaz; drie vriende luister — ernstig, nie skrikwekkend nie.
 
-**Een dag, lank, lank gelede,** nadat die Here met Job gepraat het, het Hy ook met Job se drie vriende gepraat. Hy was kwaad op Elifaz die Temaniet en sy twee vriende.
+**Een dag, lank, lank gelede,** nadat die Here met Job gepraat het, het Hy ook met Job se drie vriende gepraat. Hy was kwaad op Elifaz uit Teman en sy twee vriende.
 
-Die Here het gesê: My toorn is ontsteek teen julle, want julle het nie van My gepraat wat reg is soos my dienaar Job nie. Die Here was toornig op Elifaz, Bildad en Sofar. Die Here was toornig.
+Die Here het gesê: My toorn het ontbrand teen julle, want julle het nie, soos my dienskneg Job, gesê wat reg is oor My nie.
 
 ---
 
@@ -40,7 +40,7 @@ Die Here het gesê: My toorn is ontsteek teen julle, want julle het nie van My g
 
 Elifaz, Bildad en Sofar het vir Job verkeerde dinge gesê. Hulle het gedink lyding beteken altyd sonde. Hulle het Job beskuldig terwyl Job reg gepraat het oor God.
 
-God het hulle reggestel. Hulle woorde was verkeerd. Job se woorde — selfs sy klaag — was nader aan die waarheid as hulle eenvoudige antwoord. Julle het nie reg van My gepraat nie, soos My dienaar Job nie. Job het reg gepraat.
+God het hulle reggestel. Hulle woorde was verkeerd. Job se woorde — selfs sy klaag — was nader aan die waarheid as hulle eenvoudige antwoord. Julle het nie, soos my dienskneg Job, gesê wat reg is oor My nie.
 
 ---
 
@@ -50,7 +50,7 @@ God het hulle reggestel. Hulle woorde was verkeerd. Job se woorde — selfs sy k
 
 > **Beeldnota:** God gee opdrag; Job moet bid; vriende wag.
 
-Die Here het vir Elifaz gesê: Neem nou sewe bulle en sewe ramme en gaan na my dienaar Job toe. Offer 'n brandoffer vir julleself. My dienaar Job sal vir julle bid — en Ek sal sy gebed aanvaar en julle nie behandel soos julle dwaasheid verdien nie.
+Die Here het vir Elifaz gesê: Neem dan nou vir julle sewe bulle en sewe ramme, gaan na my dienskneg Job, en bring ter wille van julleself 'n brandoffer. My dienskneg Job moet vir julle bid, dat Ek julle nie iets onbehoorliks aandoen nie.
 
 God het nie gesê: Wees net geduldig. Hy het gesê: Julle het verkeerd gepraat. Job moet vir julle bid. Job moes vir sy vriende bid en offer bring namens hulle. Job moes bid.
 
@@ -74,9 +74,9 @@ Die Here het Job se gebed aanvaar. Die vriende se sondes is vergewe — omdat Jo
 
 > **Beeldnota:** Vier manne saam; vrede; offerrook styg op — geen herstel van vee nog nie.
 
-Elifaz, Bildad en Sofar het gedoen wat God gesê het. Hulle het offers gebring. Job het vir hulle gebid.
+Elifaz uit Teman, Bildad uit Suag en Sofar uit Naäma het gegaan en gedoen wat die Here vir hulle gesê het, en die Here was Job goedgesind.
 
-God het die vriende reggestel. Job het vergewe deur te bid. Die les was nie net geduld nie — dit was dat verkeerde raad reggestel moet word, en dat Job sy vriende gebed het terwyl hulle nog verkeerd was. Die Here het Job se goed begin herstel. Goed herstel.
+God het die vriende reggestel. Job het vergewe deur te bid. Die les was nie net geduld nie — dit was dat verkeerde raad reggestel moet word, en dat Job sy vriende gebed het terwyl hulle nog verkeerd was.
 
 ---
 
@@ -98,7 +98,7 @@ God korrigeer valse raad. Job het vir sy vriende gebid — selfs nadat hulle hom
 
 ### Vers om te onthou
 
-"My dienaar Job sal vir julle bid, en Ek sal sy gebed aanvaar." — Job 42:8. 〔AFR20-kontrole〕
+"My dienskneg Job moet vir julle bid, dat Ek julle nie iets onbehoorliks aandoen nie." — Job 42:8. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

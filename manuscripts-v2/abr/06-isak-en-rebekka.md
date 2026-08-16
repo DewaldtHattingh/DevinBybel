@@ -12,7 +12,7 @@ must_include:
 theology_centre: "God lei"
 continuity_from: ABR-05
 continuity_to: ABR-07
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Isak en Rebekka
@@ -30,7 +30,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** was Isak nou 'n man. Abraham was oud en wou seker maak Isak kry 'n vrou uit sy eie familie, nie uit Kanaän nie.
 
-Hy het sy oudste dienaar gesê: Swer by die Here dat jy nie 'n vrou vir my seun uit die Kanaaniete sal neem nie. Gaan na my familie in Mesopotamië en kry 'n vrou vir Isak. Die dienaar het tien kamele gelaai met geskenke en vertrek. Abraham het sy oudste dienaar gesweer om 'n vrou vir Isak uit sy familie te kry.
+Hy het sy oudste dienaar gesê: Plaas jou hand onder my heup dat jy nie 'n vrou vir my seun uit die Kanaaniete sal neem nie. Gaan na my familie in Mesopotamië en kry 'n vrou vir Isak. Die dienaar het tien kamele gelaai met geskenke en vertrek. Abraham het sy oudste dienaar gesweer om 'n vrou vir Isak uit sy familie te kry.
 
 ---
 
@@ -101,7 +101,7 @@ God hoor gebed en lei mense op hulle pad. Vriendelikheid soos Rebekka s'n is 'n 
 
 ### Vers om te onthou
 
-"Die Here voor wie ek loop, sal sy engel saam met jou stuur." — Genesis 24:40. 〔AFR20-kontrole〕
+"Die Here voor wie ek leef, sal sy engel saam met jou stuur." — Genesis 24:40. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

@@ -12,7 +12,7 @@ must_include:
 theology_centre: "Job is getrou vóór die beproewing"
 continuity_from: GEN-06
 continuity_to: JOB-02
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Job en sy gesin
@@ -28,9 +28,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Job op 'n heuwel met skape en familie; vreedsame land Uz; warm sonsondergang.
 
-**Een dag, lank, lank gelede,** het daar 'n man Job in die land Uz gewoon. Hy was regverdig en het God gevrees. Hy het kwaad vermy en reg gedoen.
+**Een dag, lank, lank gelede,** het daar 'n man Job in die land Us gewoon. Hy was opreg en onberispelik in sy optrede; hy het vir God ontsag gehad en die kwaad vermy.
 
-Job was die rykste man in die ooste. Hy het sewe seuns en drie dogters gehad. Sy kinders het bymekaar gekom vir feeste — elkeen in sy eie huis — en hulle het mekaar genooi om saam te eet en drink. Job het in die land Uz gewoon — oos van Kanaän.
+Job was die rykste man in die ooste. Hy het sewe seuns en drie dogters gehad. Sy kinders het bymekaar gekom vir feeste — elkeen in sy eie huis — en hulle het mekaar genooi om saam te eet en drink. Job het in die land Us gewoon.
 
 ---
 
@@ -40,9 +40,7 @@ Job was die rykste man in die ooste. Hy het sewe seuns en drie dogters gehad. Sy
 
 > **Beeldnota:** Job bid in die oggend; kinders in die agtergrond by feestafel — vreedsaam.
 
-Wanneer die feeste verby was, het Job hulle laat roep en vir hulle reinig. Hy het vroeg in die oggend offers gebring — een vir elke kind. Hy het gedink: Miskien het my kinders iets verkeerd gedoen en God gelaster in hulle hart.
-
-So het Job altyd gedoen. Hy was bang dat hulle sonde mag wees, en hy het vir hulle gebid. Hy het brandoffers gebring vir elke kind — sewe bulle en sewe ramme.
+Wanneer die feesdae verby was, het Job hulle laat haal en hulle geheilig. Hy het vroeg in die môre vir elkeen van hulle 'n brandoffer gebring; want Job het gedink: Miskien het my kinders gesondig en God in hulle harte gevloek. So het Job dit elke keer gedoen.
 
 ---
 
@@ -54,7 +52,7 @@ So het Job altyd gedoen. Hy was bang dat hulle sonde mag wees, en hy het vir hul
 
 Job het baie skape, kamele, osse en esels gehad. Hy het meer as enigiemand in die ooste gehad. Sy diensbode het hard gewerk, en alles het goed gegaan.
 
-Die Here het gesê Job is 'n regverdige man — daar is niemand soos hy op die aarde nie. Hy vrees God en vermy kwaad. Hy het sewe duisend skape en drie duisend kamele gehad.
+Die Here het gesê Job is opreg en onberispelik — daar is niemand soos hy op die aarde nie. Hy het vir God ontsag en die kwaad vermy. Hy het sewe duisend stuks kleinvee en drie duisend kamele gehad.
 
 ---
 
@@ -100,7 +98,7 @@ Job was getrou aan God voordat enigiets sleg gebeur het. Hy het vir sy kinders g
 
 ### Vers om te onthou
 
-"Daar was 'n man in die land Uz met die naam Job; en hierdie man was regverdig en vrees God." — Job 1:1. 〔AFR20-kontrole〕
+"In die land Us was daar 'n man met die naam Job; en hierdie man was opreg en onberispelik in sy optrede; hy het vir God ontsag gehad en die kwaad vermy." — Job 1:1. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

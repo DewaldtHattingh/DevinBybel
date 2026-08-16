@@ -16,7 +16,7 @@ must_include:
 theology_centre: "Sonde verwoes; God praat nog"
 continuity_from: GEN-01
 continuity_to: GEN-03
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Adam en Eva en die sondeval
@@ -72,7 +72,7 @@ God het gevra: Wie het vir jou gesê jy is naakt? Het jy van die boom geëet wat
 
 > **Beeldnota:** God praat met die slang; geen geweld nie, ernstige gesig.
 
-God het die slang gestraf — hy sal op sy buik kruip en stof eet vir al sy lewe. Hy het ook gesê daar sal kom 'n nageslag van die vrou wat die slang se kop sal vertrap — en die slang sal sy hak skerp maak. Dit is 'n belofte dat kwaad nie die laaste woord sal hê nie.
+God het die slang gestraf — hy sal op sy pens seil en stof eet, solank hy leef. Hy het ook gesê: Vyandskap sal Ek tussen jou en die vrou stel, en tussen jou nageslag en haar nageslag. Hy sal jou kop aanval, en jy sal sy hakskeen aanval. Dit is 'n belofte dat kwaad nie die laaste woord sal hê nie.
 
 God het ook vir Eva en Adam gesê hulle lewe sal nou swaard wees — die grond sal dorings dra, en hulle sal hard moet werk om kos te kry. Uiteindelik sal hulle terugkeer na die stof waaruit hulle gemaak is.
 
@@ -84,7 +84,7 @@ God het ook vir Eva en Adam gesê hulle lewe sal nou swaard wees — die grond s
 
 > **Beeldnota:** Adam en Eva loop uit die tuin; engel by die ingang, nie skrikwekkend nie.
 
-Adam en Eva moes die tuin verlaat. God het vir hulle klere van vel gemaak en hulle aangekleed. Cherubs en 'n brandende swaard het die pad na die lewensboom bewaak. Hulle kon nie teruggaan soos voorheen nie. Die sonde het skade laat bly — maar God se belofte staan nog.
+Adam en Eva moes die tuin verlaat. God het vir hulle rokke van vel gemaak en dit vir hulle aangetrek. Gerubs en 'n flikkerende swaard wat heen en weer beweeg, het die pad na die boom van die lewe bewaak. Hulle kon nie teruggaan soos voorheen nie. Die sonde het skade laat bly — maar God se belofte staan nog.
 
 ---
 
@@ -107,7 +107,7 @@ Ongehoorsaamheid bring skade en skaamte. God straf sonde, maar beloof ook dat Hy
 
 ### Vers om te onthou
 
-"Maar van die boom van die kennis van goed en kwaad, daarvan mag jy nie eet nie." — Genesis 2:17. 〔AFR20-kontrole〕
+"maar van die boom van die kennis van goed en kwaad, daarvan mag jy nie eet nie, want die dag wanneer jy daarvan eet, sal jy beslis sterf." — Genesis 2:17. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

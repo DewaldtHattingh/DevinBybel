@@ -10,7 +10,7 @@ must_include:
 theology_centre: "God hou sy tyd"
 continuity_from: ABR-03
 continuity_to: ABR-05
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Isak word gebore
@@ -64,7 +64,7 @@ Die belofte wat so onmoontlik gelyk het, het waar geword — 'n seun vir Abraham
 
 Abraham het Isak op die agtste dag besny, soos God beveel het. Die seun van die belofte was nou deel van die verbond — Isak, nie Ismael nie, was die een deur wie God sy belofte sou voortsit.
 
-Sara het gelag — nie meer van ongeloof nie, maar van blydskap. God het haar laat lag. Op die dag Isak gespeen is, het Sara Hagar en Ismaël weggejaag.
+Sara het gelag — nie meer van ongeloof nie, maar van blydskap. God het haar laat lag.
 
 ---
 
@@ -76,7 +76,7 @@ Sara het gelag — nie meer van ongeloof nie, maar van blydskap. God het haar la
 
 Sara het gesê: God het my laat lag — almal wat hoor sal saamlag. Wie sou gesê het Sara sou nog 'n baba kry, nou dat sy so oud is?
 
-Maar God het dit gedoen, presies soos Hy belowe het. Isak se naam herinner almal daaraan — lag van blydskap, omdat God sy woord hou. God het vir Hagar gesê: Ek sal Ismaël 'n groot nasie maak. God het ook Ismaël geseën.
+Maar God het dit gedoen, presies soos Hy belowe het. Isak se naam herinner almal daaraan — lag van blydskap, omdat God sy woord hou.
 
 ---
 

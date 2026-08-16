@@ -12,7 +12,7 @@ must_include:
 theology_centre: "Vergifnis; hoop bly"
 continuity_from: JOS-05
 continuity_to: null
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jakob in Egipte; Josef se vergifnis
@@ -40,9 +40,9 @@ By Beërsheba het Jakob offers gebring aan die God van sy vader Isak. God het in
 
 > **Beeldnota:** Jakob se karavaan trek; gesin, vee en goed; rivier oorgaan.
 
-Jakob het al sy gesin, kleinkinders, vee en goed na Egipte geneem — altesaam sewentig siele. Hulle het in Goshen gaan woon, die beste grond in Egipte, naby Josef, waar daar genoeg kos was vir almal en hulle vee.
+Jakob het al sy gesin, kleinkinders, vee en goed na Egipte geneem — altesaam sewentig siele. Hulle het in die Gosenstreek gaan woon, die beste grond in Egipte, naby Josef, waar daar genoeg kos was vir almal en hulle vee.
 
-Josef het sy pa laat roep en na Farao gebring. Farao het Jakob en sy seuns goed ontvang en hulle in Goshen laat woon.
+Josef het sy pa laat roep en na Farao gebring. Farao het Jakob en sy seuns goed ontvang en hulle in die Gosenstreek laat woon.
 
 ---
 
@@ -64,7 +64,7 @@ Jakob het gesê: Nou kan ek sterwe, nadat ek jou aangesig gesien het en geweet h
 
 > **Beeldnota:** Jakob se begrafnis; broers bekommerd; Josef ernstig maar kalm.
 
-Jakob het sewentien jaar in Egipte geleef. Hy het honderd sewe-en-veertig jaar oud geword. Toe hy dood is, het Josef hom na Kanaän laat begrawe, soos Jakob gesweer het.
+Jakob het sewentien jaar in Egipte geleef. Hy het honderd-en-veertig jaar oud geword. Toe hy dood is, het Josef hom na Kanaän laat begrawe, soos Jakob gesweer het.
 
 Later, nadat Jakob dood was, het Josef se broers bang geword. Hulle het gedink: Nou sal Josef ons straf vir alles wat ons hom gedoen het. Hulle het boodskappers na Josef gestuur en gesê: Voor ons pa gesterf het, het hy gesê Josef moet hulle vergeef.
 
@@ -76,7 +76,7 @@ Later, nadat Jakob dood was, het Josef se broers bang geword. Hulle het gedink: 
 
 > **Beeldnota:** Josef praat sag met broers; wys na hemel; vrede.
 
-Josef het gehuil toe hy dit gehoor het. Hy het gesê: Moenie bang wees nie. Kan ek in die plek van God wees? Julle het kwaad teen my bedoel, maar God het dit ten goede gedraai — om soos nou te doen, om 'n groot nasie in lewe te hou.
+Josef het gehuil toe hy dit gehoor het. Hy het gesê: Moenie bang wees nie. Kan ek in die plek van God wees? Julle het kwaad teen my beplan, maar God het dit vir iets goeds in gedagte gehad — om soos nou te doen, om 'n groot nasie in lewe te hou.
 
 Hy het beloof om vir hulle en hulle kinders te sorg. Josef het ook gesweer dat God hulle een dag uit Egipte sal bring na die land wat Hy Abraham, Isak en Jakob beloof het. Toe Josef honderd tien jaar oud was en sterf, het hy gesê sy bene moet later na daardie land gebring word.
 
@@ -86,7 +86,7 @@ Hy het beloof om vir hulle en hulle kinders te sorg. Josef het ook gesweer dat G
 
 ![Beeld: geheue](../../assets/images/JOS-06-p6.png)
 
-> **Beeldnota:** Klein gesin by tent in Goshen — rustige slot.
+> **Beeldnota:** Klein gesin by tent in die Gosenstreek — rustige slot.
 
 ### Wie was in hierdie verhaal?
 
@@ -101,7 +101,7 @@ God bring families saam en hou sy beloftes. Josef het vergewe — en die hoop op
 
 ### Vers om te onthou
 
-"Julle het kwaad teen my bedoel, maar God het dit ten goede gedraai." — Genesis 50:20. 〔AFR20-kontrole〕
+"Julle het kwaad teen my beplan, maar God het dit vir iets goeds in gedagte gehad." — Genesis 50:20. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

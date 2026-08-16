@@ -13,7 +13,7 @@ must_include:
 theology_centre: "God verander mense"
 continuity_from: ABR-09
 continuity_to: JOS-01
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jakob word Israel
@@ -55,7 +55,7 @@ Jakob het sy vroue, kinders en al sy goed oor die Jabbokrivier laat gaan. Hy het
 
 Die man het gesê: Laat my gaan, want die dag breek. Jakob het gesê: Ek sal nie los nie tensy jy my seën. Die man het gevra: Wat is jou naam? Jakob het gesê: Jakob.
 
-Die man het gesê: Jy sal nie meer Jakob genoem word nie, maar Israel — want jy het met God en mense gestry en oorwin. Jakob het die plek Peniel genoem — ek het God van aangesig tot aangesig gesien. Die man het Jakob se heup ontwricht. Jakob het gesê: Ek laat jou nie gaan voor jy my seën nie.
+Die man het gesê: Jy sal nie meer Jakob genoem word nie, maar Israel — want jy het met God en mense stryd gevoer, en het oorwin. Jakob het die plek Pniël genoem — ek het God van aangesig tot aangesig gesien. Die man het Jakob se heup ontwricht. Jakob het gesê: Ek laat jou nie gaan voor jy my seën nie.
 
 ---
 
@@ -65,7 +65,7 @@ Die man het gesê: Jy sal nie meer Jakob genoem word nie, maar Israel — want j
 
 > **Beeldnota:** Jakob hink; sien Esau kom; buig sewe keer.
 
-Die son het opgekom toe hy Peniel verby was, en hy het gehinke, maar met 'n nuwe naam en 'n nuwe seën. Hy het Esau sien kom met sy vierhonderd man. Jakob het voor sy broer neergebuig, sewe keer, tot by sy broer toe. Hy het gesê: Jou naam sal nie meer Jakob wees nie, maar Israel.
+Die son het opgekom toe hy Pniël verby was, en hy het gehinke, maar met 'n nuwe naam en 'n nuwe seën. Hy het Esau sien kom met sy vierhonderd man. Jakob het voor sy broer neergebuig, sewe keer, tot by sy broer toe. Hy het gesê: Jou naam sal nie meer Jakob wees nie, maar Israel.
 
 ---
 

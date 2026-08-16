@@ -13,7 +13,7 @@ must_include:
 theology_centre: "Jaloesie vernietig"
 continuity_from: ABR-10
 continuity_to: JOS-02
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Josef se drome; verkoop
@@ -31,7 +31,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het Jakob in Kanaän gewoon. Hy het 'n seun Josef gehad by Rachel, sy geliefde vrou. Jakob het Josef meer liefgehad as sy ander seuns, want Josef was die seun van sy ouderdom.
 
-Jakob het vir Josef 'n spesiale jas gegee — met lang moue, mooi en kleurvol. Josef se broers het hom benyd en kon nie vriendelik met hom praat nie.
+Jakob het vir Josef 'n lang rok met moue gemaak, mooi en kleurvol. Josef se broers het hom benyd en kon nie vriendelik met hom praat nie.
 
 ---
 
@@ -55,7 +55,7 @@ Hy het nog 'n droom vertel: Die son, die maan en elf sterre het voor my gebuig. 
 
 Josef se broers het hom na Dotan gestuur om te kyk of alles reg is met die skape. Hulle het hom van ver af sien kom in sy spesiale jas. Hulle het planne gemaak om hom dood te maak.
 
-Ruben het gesê: Moenie sy bloed vergiet nie — gooi hom in hierdie leë put. Juda het later gesê: Wat help dit as ons ons broer doodmaak? Kom, laat ons hom verkoop aan die handelaars. Hulle het Josef in die put gegooi.
+Ruben het gesê: Moenie sy bloed vergiet nie — gooi hom in hierdie opgaarput in die woestyn. Juda het later gesê: Wat help dit as ons ons broer doodmaak? Kom, laat ons hom verkoop aan die handelaars. Hulle het Josef in die put gegooi.
 
 ---
 
@@ -67,7 +67,7 @@ Ruben het gesê: Moenie sy bloed vergiet nie — gooi hom in hierdie leë put. J
 
 Ismaeliete-handelaars het met hulle kamele verbygetrek op pad na Egipte. Juda het gesê: Kom, laat ons hom verkoop aan die handelaars in plaas daarvan om ons eie broer dood te maak. Hulle het Josef uit die put gehaal en vir twintig silwerstukke verkoop.
 
-Hulle het Josef se jas geneem en 'n bok gedood. Die jas is in die bok se bloed gedoek.
+Hulle het Josef se jas geneem en 'n bokram geslag. Die jas is in die bok se bloed gedoek.
 
 ---
 

@@ -12,7 +12,7 @@ must_include:
 theology_centre: "God is by die onregverdige gevangene"
 continuity_from: JOS-01
 continuity_to: JOS-03
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Josef by Potifar en in die tronk
@@ -30,7 +30,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het handelaars Josef na Egipte gebring. Potifar, een van Farao se amptenare en kaptein van die lyfwag, het hom by die Ismaeliete gekoop.
 
-Die Here was met Josef. Alles wat hy doen, het geslaag. Potifar het gesien dat die Here met Josef is, en alles wat Josef doen, doen die Here voorspoedig. Potifar het Josef oor sy hele huis gestel. Potifar het Josef gekoop. Die Here was met Josef en hy was suksesvol.
+Die Here was met Josef, en hy was 'n suksesvolle man. Hy was werksaam in die huis van sy eienaar, die Egiptenaar. Potifar het gesien dat die Here met Josef is, en dat die Here alles wat hy doen, laat slaag deur sy hand. Potifar het Josef oor sy hele huis gestel.
 
 ---
 
@@ -62,7 +62,7 @@ Potifar was kwaad en het Josef in die tronk gegooi waar die koning se gevangenes
 
 ![Beeld: hoofdraai](../../assets/images/JOS-02-p4.png)
 
-> **Beeldnota:** Skinkbord en bakker vertel drome; Josef luister in tronk.
+> **Beeldnota:** Hoof van die skinkers en hoof van die bakkers vertel drome; Josef luister in tronk.
 
 Farao se skinkbord en bakker het ook in die tronk geland. Hulle het op 'n nag gedroom, en Josef het die volgende oggend gesien hulle is bedroef.
 
@@ -93,7 +93,7 @@ Maar die skinkbord het Josef vergeet. Twee volle jare het verbygegaan, en Josef 
 - **Josef** — weier sonde; in tronk; vertolk drome.
 - **Potifar** — koop Josef; gooi hom in tronk.
 - **Potifar se vrou** — lieg oor Josef.
-- **Skinkbord en bakker** — droom; skinkbord vergeet Josef.
+- **Hoof van die skinkers en hoof van die bakkers** — droom; skinkbord vergeet Josef.
 
 ### Wat leer ons?
 
@@ -101,7 +101,7 @@ Die Here bly by ons selfs wanneer mense ons onreg doen. Josef het reg gebly, al 
 
 ### Vers om te onthou
 
-"Die Here was met Josef, sodat hy voorspoedig was." — Genesis 39:2. 〔AFR20-kontrole〕
+"Die Here was met Josef, en hy was 'n suksesvolle man." — Genesis 39:2. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

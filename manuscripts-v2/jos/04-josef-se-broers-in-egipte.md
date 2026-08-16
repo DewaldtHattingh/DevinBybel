@@ -13,7 +13,7 @@ must_include:
 theology_centre: "God werk agter die skerms"
 continuity_from: JOS-03
 continuity_to: JOS-05
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Josef se broers in Egipte
@@ -31,7 +31,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** was daar hongersnood in Kanaän en in Egipte. Jakob het vir sy seuns gesê: Waarom staan julle en kyk na mekaar? Ek het gehoor daar is graan in Egipte. Gaan koop vir ons, sodat ons kan lewe.
 
-Josef se tien broers het gegaan — Benjamin, die jongste, het by huis gebly. Josef was die regent van Egipte, die een wat graan uitgee aan al die mense.
+Josef se tien broers het gegaan — Benjamin, die jongste, het by huis gebly. Josef was die heerser oor die land, die een wat graan uitgee aan al die mense.
 
 ---
 
@@ -102,7 +102,7 @@ God bring planne wat lank gelede begin het, stadig waar. Josef toets of sy broer
 
 ### Vers om te onthou
 
-"Ons is regverdige man, ons is nie spioene nie." — Genesis 42:11. 〔AFR20-kontrole〕
+"Ons is eerlike mense. U dienaars is nie spioene nie." — Genesis 42:11. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

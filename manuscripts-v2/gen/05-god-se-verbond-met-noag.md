@@ -11,7 +11,7 @@ must_include:
 theology_centre: "God hou sy woord"
 continuity_from: GEN-04
 continuity_to: GEN-06
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # God se verbond met Noag
@@ -88,7 +88,7 @@ God het Noag en sy seuns gesalf: Wees vrugbaar, vermeerder en vul die aarde. Hul
 ### Wie was in hierdie verhaal?
 
 - **Noag** — bou altaar; ontvang God se belofte.
-- **Noag se seuns** — Sem, Ham en Jafet; deel van die verbond.
+- **Noag se seuns** — Sem, Gam en Jafet; deel van die verbond.
 - **God** — beloof genade en gee die reënboog as teken.
 
 ### Wat leer ons?
@@ -97,7 +97,7 @@ Na die oordeel gee God 'n belofte van genade. Die reënboog herinner ons dat God
 
 ### Vers om te onthou
 
-"Ek stel my reënboog in die wolk, en dit sal 'n teken van die verbond wees." — Genesis 9:13. 〔AFR20-kontrole〕
+"My boog plaas Ek in die wolke. Dit sal dien as teken van die verbond tussen My en die aarde." — Genesis 9:13. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

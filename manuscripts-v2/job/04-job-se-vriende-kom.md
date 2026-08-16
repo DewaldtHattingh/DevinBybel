@@ -10,7 +10,7 @@ must_include:
 theology_centre: "Ware medelye begin met stil teenwoordigheid"
 continuity_from: JOB-03
 continuity_to: JOB-05
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Job se vriende kom
@@ -26,9 +26,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Drie manne op pad; ver land; Job se stad in die ver.
 
-**Een dag, lank, lank gelede,** het drie vriende van Job gehoor van al die onheil wat hom getref het. Elifaz die Temaniet, Bildad die Suhiet en Sofar die Naamatiet het saambesluit om na Job toe te gaan en hom te troos.
-
-Hulle het ver gereis — van hulle eie lande af — om by hulle vriend te wees in sy swaarste tyd. Elifaz was van Teman, Bildad van Suah, en Sofar van Naäma. Van ver gekom.
+**Een dag, lank, lank gelede,** het drie van Job se vriende gehoor van al die teenspoed wat hom oorgekom het. Elifaz uit Teman, Bildad uit Suag en Sofar uit Naäma het op 'n bepaalde plek byeengekom om met hom meegevoel te gaan betuig en hom te gaan bemoedig.
 
 ---
 
@@ -38,9 +36,9 @@ Hulle het ver gereis — van hulle eie lande af — om by hulle vriend te wees i
 
 > **Beeldnota:** Vriende sien Job van ver; skok; geen grafiese siekte nie.
 
-Toe hulle Job van ver af sien, het hulle hom amper nie herken nie. Hy was so verander deur die siekte en die hartseer. Hulle het hulle stemme verhef en gehuil. Elkeen het sy klere geskeur en stof op sy kop gegooi.
+Toe hulle Job van ver af sien, het hulle hom amper nie herken nie. Hulle het hardop gehuil. Elkeen het sy mantel geskeur en stof in die lug op gegooi, oor hulle koppe.
 
-Hulle het saam met Job op die grond gaan sit — op die ashoop, naby hom. Hulle het gesien sy lyding was groot. Hulle het saam met Job getreur en sewe dae stilgesit. Sewe dae stil.
+Hulle het saam met hom op die grond gesit — en sewe dae en sewe nagte lank het niemand 'n woord met hom gepraat nie, want hulle het gesien dat die pyn ondraaglik erg was.
 
 ---
 
@@ -52,7 +50,7 @@ Hulle het saam met Job op die grond gaan sit — op die ashoop, naby hom. Hulle 
 
 Sewe dae en sewe nagte het hulle daar gesit — en niemand het 'n woord vir Job gesê nie. Hulle het gesien sy lyding was so swaar dat woorde nie genoeg was nie.
 
-Hulle het net daar gesit. Stil. Saam met hom. Nie gepraat nie. Nie probeer verduidelik nie. Net teenwoordig. Job het eers gepraat en sy geboortedag vervloek. Job het gepraat.
+Hulle het net daar gesit. Stil. Saam met hom. Nie gepraat nie. Nie probeer verduidelik nie. Net teenwoordig.
 
 ---
 
@@ -64,7 +62,7 @@ Hulle het net daar gesit. Stil. Saam met hom. Nie gepraat nie. Nie probeer verdu
 
 Dit was die beste wat hulle kon doen — om stil te wees en by hom te sit. Ware medelye begin soms nie met woorde nie, maar met teenwoordigheid.
 
-Job het geweet hulle is daar. Hy was nie heeltemal alleen nie. Drie vriende het gekom, ver gereis, en sewe dae lank niks gesê nie. Die vriende sou later probeer verduidelik waarom Job ly. Vriende het verkeerd gepraat.
+Job het geweet hulle is daar. Hy was nie heeltemal alleen nie. Drie vriende het gekom, ver gereis, en sewe dae lank niks gesê nie. Die vriende sou later probeer verduidelik waarom Job ly — maar hulle woorde sou verkeerd wees.
 
 ---
 
@@ -76,7 +74,7 @@ Job het geweet hulle is daar. Hy was nie heeltemal alleen nie. Drie vriende het 
 
 Na sewe dae sou die stilte breek. Job sou begin praat — en sy vriende sou antwoord. Maar eers het hulle net gesit, stil, saam met Job in sy pyn.
 
-Sewe dae van stilte. Drie vriende. Een man op 'n ashoop. Dit was hoe hulle begin het. Maar hulle sou mis het — Job was regverdig. Later reggestel.
+Sewe dae van stilte. Drie vriende. Een man in die as. Dit was hoe hulle begin het. Maar hulle sou mis het — Job was opreg, al het hulle hom beskuldig.
 
 ---
 
@@ -89,9 +87,9 @@ Sewe dae van stilte. Drie vriende. Een man op 'n ashoop. Dit was hoe hulle begin
 ### Wie was in hierdie verhaal?
 
 - **Job** — sit op ashoop; wag; vriende kom.
-- **Elifaz** — Temaniet; een van drie vriende.
-- **Bildad** — Suhiet; reis om Job te troos.
-- **Sofar** — Naamatiet; sit sewe dae stil.
+- **Elifaz** — uit Teman; een van drie vriende.
+- **Bildad** — uit Suag; reis om Job te troos.
+- **Sofar** — uit Naäma; sit sewe dae stil.
 
 ### Wat leer ons?
 
@@ -99,7 +97,7 @@ Ware medelye begin soms met stil teenwoordigheid. Drie vriende het ver gekom en 
 
 ### Vers om te onthou
 
-"Hulle het saam met hom op die grond gaan sit, en sewe dae en sewe nagte het niemand 'n woord met hom gepraat nie." — Job 2:13. 〔AFR20-kontrole〕
+"Hulle het saam met hom op die grond gesit – sewe dae en sewe nagte lank. Niemand het 'n woord met hom gepraat nie." — Job 2:13. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

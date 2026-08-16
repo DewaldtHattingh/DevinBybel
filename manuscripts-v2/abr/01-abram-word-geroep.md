@@ -14,7 +14,7 @@ must_include:
 theology_centre: "God roep en beloof"
 continuity_from: JOB-08
 continuity_to: ABR-02
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Abram word geroep
@@ -30,9 +30,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Abram en Sarai by hulle tente in Ur; kamele gepak.
 
-**Een dag, lank, lank gelede,** het Abram in Mesopotamië gewoon, in die stad Ur. Hy het 'n vrou Sarai gehad en 'n neef Lot. Hulle het in tente gewoon en vee gehad.
+**Een dag, lank, lank gelede,** het Abram in Ur van die Galdeërs gewoon. Hy het 'n vrou Sarai gehad en sy broerskind Lot. Hulle het in tente gewoon en vee gehad.
 
-Die Here het vir Abram gesê: Gaan weg uit jou land, jou familie en jou vader se huis na 'n land wat Ek jou sal wys. Abram het nie geweet waarheen hy sou gaan nie — maar God sou die pad wys. Abram het in Ur in Mesopotamië gewoon. Die Here het gesê: Gaan na 'n land wat Ek jou sal wys.
+Die Here het vir Abram gesê: Gaan weg uit jou land, weg van jou familie en jou ouerhuis, na die land wat Ek jou sal wys. Abram het nie geweet waarheen hy sou gaan nie — maar God sou die pad wys.
 
 ---
 
@@ -44,7 +44,7 @@ Die Here het vir Abram gesê: Gaan weg uit jou land, jou familie en jou vader se
 
 God het beloof: Ek sal jou 'n groot nasie maak. Ek sal jou seën en jou naam groot maak. Deur jou sal alle families op aarde geseën word. Ek sal diegene seën wat jou seën, en diegene vervloek wat jou vervloek.
 
-Abram het geglo. Hy was sewentig jaar oud toe hy vertrek het — met Sarai, Lot en al hulle vee en goed. Hulle het die pad na Kanaän ingeslaan. Deur jou sal alle families op aarde geseën word. Abram was sewentig jaar toe hy vertrek het.
+Abram het geglo. Hy was vyf-en-sewentig jaar oud toe hy uit Haran vertrek het — met Sarai, Lot en al hulle vee en goed. Hulle het die pad na Kanaän ingeslaan. Deur jou sal alle grootfamilies op aarde geseënd word.
 
 ---
 
@@ -54,9 +54,9 @@ Abram het geglo. Hy was sewentig jaar oud toe hy vertrek het — met Sarai, Lot 
 
 > **Beeldnota:** Abram se karavaan trek deur Kanaän; Canaaniete in veld.
 
-Hulle het na Kanaän gekom. Abram het die land deurgetrek tot by die groot boom More by Sichem. Die Canaaniete was al in die land. Die Here het aan Abram verskyn en gesê: Aan jou nageslag sal Ek hierdie land gee.
+Hulle het na Kanaän gekom. Abram het die land deurgetrek tot by die plek Sigem, tot by die akkerboom van Morê. Die Kanaäniete was al in die land. Die Here het aan Abram verskyn en gesê: Aan jou nageslag gee Ek hierdie land.
 
-Abram het daar 'n altaar vir die Here gebou. Hy het die Here aangeroep en Hom gedank vir die belofte. Die Here het aan Abram verskyn by die groot boom More en gesê: Aan jou nageslag sal Ek hierdie land gee.
+Abram het daar 'n altaar vir die Here gebou wat aan hom verskyn het.
 
 ---
 
@@ -66,9 +66,7 @@ Abram het daar 'n altaar vir die Here gebou. Hy het die Here aangeroep en Hom ge
 
 > **Beeldnota:** Abram bou altaar tussen Bet-el en Ai; kyk na sterre.
 
-Abram het verder getrek na die berg tussen Bet-el en Ai. Hy het sy tent daar opgeslaan, met Bet-el aan die weste en Ai aan die ooste. Hy het 'n altaar gebou en die Here aangeroep.
-
-Van daar het hy stadig suid getrek na die Negev-land. Oral waar hy kamp opgeslaan het, het hy altare gebou vir die Here. Hy het 'n altaar gebou tussen Bet-el en Ai en die Here aangeroep.
+Abram het daar 'n altaar vir die Here gebou. Hy het verder getrek na die heuwelland oos van Bet-el, en sy tent opgeslaan tussen Bet-el aan die westekant en Ai aan die oostekant. Hy het 'n altaar gebou en die Naam van die Here aangeroep.
 
 ---
 
@@ -80,7 +78,7 @@ Van daar het hy stadig suid getrek na die Negev-land. Oral waar hy kamp opgeslaa
 
 Abram het nie alles verstaan nie — waarheen die pad sou lei, of wanneer die belofte sou kom. Maar hy het geluister en gegaan, stap vir stap, met net God se woord om op te bou.
 
-Die Here was by hom op die pad. So het Abram se reis begin — 'n reis van geloof na die land wat God beloof het. Abram het geglo en die Here het hom gereken as regverdig.
+Van daar het hy algaande verder getrek in die rigting van die Negev. Die Here was by hom op die pad. So het Abram se reis begin — 'n reis van geloof na die land wat God beloof het.
 
 ---
 
@@ -94,7 +92,7 @@ Die Here was by hom op die pad. So het Abram se reis begin — 'n reis van geloo
 
 - **Abram** — het geluister en vertrek soos God gesê het.
 - **Sarai** — Abram se vrou; het saam getrek.
-- **Lot** — Abram se neef; het ook saam gegaan.
+- **Lot** — Abram se broerskind; het ook saam gegaan.
 - **Die Here** — beloof land en seën vir alle nasies.
 
 ### Wat leer ons?
@@ -103,7 +101,7 @@ God roep mense om te glo en te gaan, selfs as die pad onbekend is. Deur Abram se
 
 ### Vers om te onthou
 
-"Gaan jy na die land wat Ek jou sal wys." — Genesis 12:1. 〔AFR20-kontrole〕
+"Gaan weg uit jou land, weg van jou familie en jou ouerhuis, na die land wat Ek jou sal wys." — Genesis 12:1. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

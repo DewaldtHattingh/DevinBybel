@@ -13,7 +13,7 @@ must_include:
 theology_centre: "Bedrog het gevolge"
 continuity_from: ABR-06
 continuity_to: ABR-08
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jakob en Esau
@@ -43,7 +43,7 @@ Esau was 'n vaardige jagter en het in die veld gebly. Jakob het 'n man van die t
 
 Esau het eendag van die veld af gekom en was baie honger. Jakob het lentilbredie gekook. Esau het gesê: Laat my asseblief van die rooi bredie eet — ek is moeg en gaan dood.
 
-Jakob het gesê: Verkoop eers jou geboorte reg aan my. Esau het gesê: Ek gaan tog dood — wat help die geboorte reg my? Hy het die reg aan Jakob verkoop, geëet en gedrink, en opgestaan en weggegaan.
+Jakob het gesê: Verkoop eers jou eersgeboortereg aan my. Esau het gesê: Ek gaan tog dood — wat help die eersgeboortereg my? Hy het die reg aan Jakob verkoop, geëet en gedrink, en opgestaan en weggegaan.
 
 ---
 
@@ -67,7 +67,7 @@ Jakob het voor Isak gegaan met die kos. Isak het gevoel en gesê: Die stem is Ja
 
 Toe Esau teruggekom het met kos vir sy pa, het Isak gesê: Wie was jy wat net kos gebring het? Ek het hom reeds gesê en hom gesëen — en hy sal geseënd wees.
 
-Esau het hard gehuil en gesê: Seën my ook, my vader! Jakob het my bedrieg — twee keer! Hy het my geboorte reg geneem, en nou my seën! Isak het gesê die seën is reeds gegee aan Jakob. Esau het gesweer om Jakob te dood sodra Isak dood is.
+Esau het hard gehuil en gesê: Seën my ook, my vader! Jakob het my bedrieg — twee keer! Hy het my eersgeboortereg geneem, en nou my seën! Isak het gesê die seën is reeds gegee aan Jakob. Esau het gesweer om Jakob te dood sodra Isak dood is.
 
 ---
 
@@ -91,7 +91,7 @@ Die seën kon nie teruggeneem word nie — maar Jakob moes nou vlug. So het Jako
 
 ### Wie was in hierdie verhaal?
 
-- **Jakob** — koop geboorte reg; bedrieg vir seën; vlug.
+- **Jakob** — koop eersgeboortereg; bedrieg vir seën; vlug.
 - **Esau** — verkoop reg; hartseer; wil wreek.
 - **Isak** — gee seën; dink dit is Esau.
 - **Rebekka** — help Jakob met die plan.
@@ -102,10 +102,10 @@ Mense maak verkeerde keuses — Esau gee op, Jakob bedrieg. Bedrog laat pyn agte
 
 ### Vers om te onthou
 
-"Verkoop my vandag jou geboorte reg." — Genesis 25:31. 〔AFR20-kontrole〕
+"Verkoop my vandag jou eersgeboortereg." — Genesis 25:31. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 
-1. Waarvoor het Esau sy geboorte reg verkoop?
+1. Waarvoor het Esau sy eersgeboortereg verkoop?
 2. Waarom kon Isak nie 'n seën vir Esau gee nie?
 3. Waarheen het Jakob gevlug?

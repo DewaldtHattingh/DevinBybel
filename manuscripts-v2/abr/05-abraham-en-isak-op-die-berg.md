@@ -13,7 +13,7 @@ must_include:
 theology_centre: "God voorsien"
 continuity_from: ABR-04
 continuity_to: ABR-06
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Abraham en Isak op die berg
@@ -31,7 +31,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het God Abraham getoets. Hy het gesê: Neem jou seun Isak, jou enigste seun wat jy liefhet, en gaan na die land Moria. Offer hom daar as brandoffer op een van die berge wat Ek jou sal wys.
 
-Vroeg die volgende oggend het Abraham opgestaan. Hy het hout gesny vir die offer, sy esels saamgeroep en met Isak en twee diensbode vertrek. Hulle het drie dae geloop na die plek wat God gewys het. God het vir Abraham gesê: Neem jou seun Isak op die berg Moria en offer hom.
+Vroeg die volgende oggend het Abraham opgestaan. Hy het die hout vir 'n brandoffer gekloof, sy donkie opgesaal, twee van sy dienaars met hom saamgeneem, en ook sy seun Isak. Hulle het vertrek na die plek waaroor God met hom gepraat het — op die derde dag het Abraham die plek in die verte gesien.
 
 ---
 
@@ -41,9 +41,9 @@ Vroeg die volgende oggend het Abraham opgestaan. Hy het hout gesny vir die offer
 
 > **Beeldnota:** Vader en seun loop op bergpad; Isak dra hout.
 
-Abraham het vir die diensbode gesê: Bly hier met die esel. Ek en die seun sal verder gaan om te aanbid, en dan sal ons terugkom na julle toe.
+Abraham het vir die dienaars gesê: Bly julle hier met die donkie! Ek en die seun wil daarheen gaan om te aanbid, en dan sal ons na julle terugkom.
 
-Isak het Abraham gevra: My vader, hier is die vuur en die hout — maar waar is die lam vir die brandoffer? Abraham het gesê: My seun, God sal self die lam vir die brandoffer voorsien. Abraham het vroeg opgestaan en hout vir die brandoffer gesny.
+Isak het Abraham gevra: Pa, hier is die kole vuur en die hout — maar waar is die lam vir die brandoffer? Abraham het geantwoord: God sal vir Homself die lam vir 'n brandoffer voorsien, my seun.
 
 ---
 
@@ -63,9 +63,9 @@ Abraham het op die plek wat God gewys het 'n altaar van klippe gebou. Hy het die
 
 > **Beeldnota:** Engel roep; ram vas in bos; Abraham kyk op.
 
-'n Engel van die Here het uit die hemel geroep: Abraham! Abraham! Moenie die seun seer maak nie! Moenie aan hom iets doen nie! Nou weet Ek jy vrees God — jy het nie jou seun, jou enigste seun, vir My geweier nie.
+'n Engel van die Here het uit die hemel geroep: Abraham! Abraham! Moenie jou hand na die seun uitsteek nie, en moenie enigiets aan hom doen nie! Nou weet Ek dat jy vir God ontsag het — jy het nie jou seun, jou enigste, van My teruggehou nie.
 
-Abraham het opgekyk en 'n ram agter hom sien vassteek in 'n bos deur sy horings. Hy het die ram gegaan en dit as brandoffer gebring in plaas van sy seun. 'n Engel het geroep: Moenie die seun seer maak nie — nou weet Ek jy vrees God.
+Abraham het opgekyk en 'n enkele ram sien wat aan sy horings vasgevang is in 'n bos. Hy het die ram as brandoffer gebring in die plek van sy seun.
 
 ---
 
@@ -75,9 +75,9 @@ Abraham het opgekyk en 'n ram agter hom sien vassteek in 'n bos deur sy horings.
 
 > **Beeldnota:** Abraham en Isak trek huis toe; engel se woorde as lig bo hulle.
 
-Abraham het die plek Jehova-Jireh genoem — die Here sal voorsien. Die engel het weer geroep en beloof dat Abraham se nageslag soos die sterre en die sand aan die see sal wees.
+Abraham het daardie plek genoem Die Here voorsien — sodat daar vandag nog gesê word: Op die berg van die Here sal voorsien word.
 
-Abraham en Isak het saam teruggegaan na die diensbode. Isak leef nog — God het voorsien, net soos Abraham gesê het. Abraham het 'n ram in die struik gevind en dit as offer gebring.
+Abraham en Isak het saam teruggegaan na die diensbode. Isak leef nog — God het voorsien, net soos Abraham gesê het.
 
 ---
 
@@ -100,10 +100,10 @@ Abraham het God vertrou, selfs toe dit moeilik was. Die Here sien en voorsien �
 
 ### Vers om te onthou
 
-"God sal self die lam vir die brandoffer voorsien, my seun." — Genesis 22:8. 〔AFR20-kontrole〕
+"God sal vir Homself die lam vir 'n brandoffer voorsien, my seun." — Genesis 22:8. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 
 1. Wat het Isak op die berg gedra?
 2. Wat het Abraham in plaas van Isak geoffer?
-3. Wat beteken Jehova-Jireh?
+3. Wat beteken Die Here voorsien?

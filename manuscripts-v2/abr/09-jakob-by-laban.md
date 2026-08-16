@@ -12,7 +12,7 @@ must_include:
 theology_centre: "God sien uitbuiting"
 continuity_from: ABR-08
 continuity_to: ABR-10
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jakob by Laban

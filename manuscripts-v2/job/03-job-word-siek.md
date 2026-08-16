@@ -13,7 +13,7 @@ must_include:
 theology_centre: "Lyding raak die liggaam; Job hou vas"
 continuity_from: JOB-02
 continuity_to: JOB-04
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Job word siek
@@ -29,9 +29,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Hemelse toneel weer; Satan voor die Here — ernstig, nie skrikwekkend nie.
 
-**Een dag, lank, lank gelede,** het Satan weer voor die Here verskyn. Die Here het gevra: Het jy my dienaar Job opgemerk? Hy hou vas — regverdig, al het jy My aangespoel om hom te steur sonder rede.
+**Een dag, lank, lank gelede,** het die satan weer voor die Here verskyn. Die Here het gevra: Het jy kennis geneem van my dienskneg Job? Hy volhard steeds in sy onberispelike optrede, al het jy My aangestig om hom sonder rede te laat ondergaan.
 
-Satan het gesê: Vel vir vel — 'n mens gee alles wat hy het vir sy lewe. Maar streek U sy been uit en raak sy vlees en sy bene — dan sal hy U in die gesig vloek. Satan het Job met swere van sy voetsool tot sy kroon getref.
+Die satan het gesê: Dit is maar 'n vel vir 'n vel — alles wat aan 'n mens behoort, sal hy gee in ruil vir sy lewe. Maar steek net u hand uit en tas sy beendere en sy vlees aan — hy sal U beslis in u gesig vloek.
 
 ---
 
@@ -41,9 +41,9 @@ Satan het gesê: Vel vir vel — 'n mens gee alles wat hy het vir sy lewe. Maar 
 
 > **Beeldnota:** Job met siekte; ashoop; geen grafiese swere nie — ingetog.
 
-Die Here het gesê: Goed, hy is in jou hand — maar spaar sy lewe. Satan het weggegaan en Job met swere van sy kop tot sy voete getref. Job het op 'n ashoop gaan sit en met 'n potskerf sy lyf skaaf.
+Die Here het gesê: Kyk, hy is in jou hand, maar sy lewe moet jy spaar. Die satan het weggegaan, weg van die Here af, en Job getref met dodelike swere, van kop tot tone.
 
-Sy vrou het na hom gekyk en gesê: Hou jy nog vas aan jou integriteit? Vloek God en sterf! Job het op 'n ashoop gesit en 'n skerf gebruik om homself te skraap.
+Job het 'n potskerf gevat om hom mee te krap, terwyl hy in die as sit. Sy vrou het na hom gekyk en gesê: Volhard jy steeds in jou onberispelike optrede? Vloek God, en sterf!
 
 ---
 
@@ -53,9 +53,9 @@ Sy vrou het na hom gekyk en gesê: Hou jy nog vas aan jou integriteit? Vloek God
 
 > **Beeldnota:** Job antwoord sy vrou; ernstig maar kalm; ashoop.
 
-Job het vir sy vrou gesê: Jy praat soos 'n dwaas vrou praat. Sal ons goed van God ontvang en nie kwaad nie? In dit alles het Job nie met sy lippe gesondig nie.
+Job het vir sy vrou gesê: Jy praat soos een van die dwase vroue praat. Die goeie wat van God kom, dié aanvaar ons, maar die slegte — moet ons dit nie ook aanvaar nie? In dit alles het Job nie met 'n enkele woord gesondig nie.
 
-Hy het nie God gelaster nie. Hy het nie sy vrou se woorde gevolg nie. Hy het op die ashoop bly sit — siek, alleen, en steeds getrou. Job se vrou het gesê: Vloek God en sterf!
+Hy het nie God gelaster nie. Hy het nie sy vrou se woorde gevolg nie. Hy het in die as bly sit — siek, alleen, en steeds getrou.
 
 ---
 
@@ -65,9 +65,9 @@ Hy het nie God gelaster nie. Hy het nie sy vrou se woorde gevolg nie. Hy het op 
 
 > **Beeldnota:** Job op ashoop; stad in die ver; vriende nog nie daar nie.
 
-Job se lyding het nou sy liggaam geraak. Hy het nie net alles verloor nie — hy het siek geword. Sy vel was vol swere. Hy het op die ashoop gesit, die plek waar mense rou en hartseer wys.
+Job se lyding het nou sy liggaam geraak. Hy het nie net alles verloor nie — hy het siek geword. Sy vel was vol swere. Hy het in die as gesit, die plek waar mense rou en hartseer wys.
 
-Maar hy het God nie gelaster nie. Hy het gesê ons ontvang goed én kwaad van God se hand. Drie vriende — Elifaz, Bildad en Sofar — het van ver gekom.
+Maar hy het God nie gelaster nie. Drie vriende — Elifaz uit Teman, Bildad uit Suag en Sofar uit Naäma — het van ver gekom.
 
 ---
 
@@ -77,9 +77,9 @@ Maar hy het God nie gelaster nie. Hy het gesê ons ontvang goed én kwaad van Go
 
 > **Beeldnota:** Job alleen op ashoop; son sak; stil — wag op wat kom.
 
-Job het vasgehou. Hy het nie God gelaster nie, selfs toe sy vrou gesê het hy moet opgee. Hy het op die ashoop bly sit en gewag.
+Job het vasgehou. Hy het nie God gelaster nie, selfs toe sy vrou gesê het hy moet opgee. Hy het in die as bly sit en gewag.
 
-Drie vriende sou binnekort kom — Elifaz, Bildad en Sofar. Hulle sou sewe dae stil by hom sit. Maar eers was Job alleen, siek en getrou. Hulle het sewe dae stilgesit — niemand het 'n woord gepraat nie.
+Drie vriende sou binnekort kom — Elifaz, Bildad en Sofar. Hulle sou sewe dae stil by hom sit. Maar eers was Job alleen, siek en getrou.
 
 ---
 
@@ -102,7 +102,7 @@ Lyding kan die liggaam raak, nie net die goed wat ons het nie. Job het vasgehou 
 
 ### Vers om te onthou
 
-"Sal ons goed van God ontvang en nie kwaad nie?" — Job 2:10. 〔AFR20-kontrole〕
+"Die goeie wat van God kom, dié aanvaar ons, maar die slegte – moet ons dit nie ook aanvaar nie?" — Job 2:10. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

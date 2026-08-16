@@ -12,7 +12,7 @@ must_include:
 theology_centre: "God gee wysheid"
 continuity_from: JOS-02
 continuity_to: JOS-04
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Josef voor Farao
@@ -66,7 +66,7 @@ Josef het vertolk: Die twee drome is een. Sewe goeie jare met groot oes kom. Daa
 
 Farao het gesê: Kan ons iemand soos jy vind — 'n man in wie die Gees van God is? Niemand sal so verstandig en wys wees soos jy nie. Ek stel jou oor my hele land.
 
-Farao het Josef sy seëlring gegee, linne klere en 'n goue ketting om sy nek. Hy het hom in 'n wa laat ry en voor hom laat roep: Kniel! Josef het die Egiptiese naam Safnath-Paneah gekry. Farao het hom met Asnath, Potifera se dogter, laat trou.
+Farao het Josef sy seëlring gegee, linne klere en 'n goue ketting om sy nek. Hy het hom in 'n wa laat ry en voor hom laat roep: Kniel! Josef het die Egiptiese naam Safenat-Paneag gekry. Farao het hom met Asnath, Poti-Fera se dogter, laat trou.
 
 ---
 
@@ -100,7 +100,7 @@ God gee wysheid wanneer ons Hom die eer gee. Josef se tronk-jare was voorbereidi
 
 ### Vers om te onthou
 
-"Die antwoord is by God, Farao sal vrede hoor." — Genesis 41:16. 〔AFR20-kontrole〕
+"Dit berus nie by my nie! Net God kan 'n gunstige antwoord gee vir die farao." — Genesis 41:16. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

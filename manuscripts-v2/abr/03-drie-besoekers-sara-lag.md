@@ -11,7 +11,7 @@ must_include:
 theology_centre: "Niks is te moeilik vir die Here nie"
 continuity_from: ABR-02
 continuity_to: ABR-04
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Drie besoekers; Sara lag
@@ -41,7 +41,7 @@ Hy het hard gehardloop van die tentdeur af om hulle te verwelkom. Hy het gebuig 
 
 Abraham het water vir hulle voete laat was en kos laat voorberei — vars brood, 'n vet kalf, melk en botter. Hy was gasvry vir die vreemdelinge, selfs al het hy nie geweet wie hulle is nie.
 
-Een van die besoekers het gevra: Waar is Sara, jou vrou? Toe het hy gesê: Teen hierdie tyd volgende jaar sal Ek terugkom, en Sara sal 'n seun hê. Abraham het hulle water en kos gegee — kalf, melk en botter.
+Een van die besoekers het gevra: Waar is Sara, jou vrou? Teen hierdie tyd volgende jaar sal Ek terugkom, en Sara sal 'n seun hê. Abraham het hulle water en kos gegee — kalf, melk en botter.
 
 ---
 
@@ -63,7 +63,7 @@ Sy het gedink: My Here is oud, en ek is ook oud. Hoe kan dit moontlik wees? Een 
 
 > **Beeldnota:** Besoeker vra waarom Sara gelag het; Sara skud kop.
 
-Die Here het vir Abraham gevra: Waarom het Sara gelag? Het sy gesê: Kan ek regtig 'n kind kry, nou dat ek oud is? Is enigiets te moeilik vir die Here? Teen die stel tyd volgende jaar sal Sara 'n seun hê.
+Die Here het vir Abraham gevra: Waarom het Sara gelag? Is enigiets te wonderbaarlik vir die Here? Op die vasgestelde tyd wanneer die seisoen draai, sal Ek na jou toe terugkom, en dan sal Sara 'n seun hê.
 
 Sara was bang en het ontken. Sy het gesê sy het nie gelag nie. Hy het gesê: Nee, jy het wel gelag. Sara het in haar hart gelag: Kan ek nog genotskap hê, nou ek oud is?
 
@@ -75,9 +75,9 @@ Sara was bang en het ontken. Sy het gesê sy het nie gelag nie. Hy het gesê: Ne
 
 > **Beeldnota:** Besoekers vertrek; Abraham en Sara by tent — belofte hang in die lug.
 
-Die drie besoekers het vertrek. Sara het nog gelag in haar hart — half ongeloof, half hoop. Maar die Here het gesê: Is enigiets te moeilik vir My?
+Die drie besoekers het vertrek. Sara het nog gelag in haar hart — half ongeloof, half hoop. Maar die Here het gesê: Is enigiets te wonderbaarlik vir die Here?
 
-Teen hierdie tyd volgende jaar sou Sara 'n seun hê. Die belofte staan — al het Sara gelag omdat dit onmoontlik gelyk het. Die Here het gevra: Waarom het Sara gelag? Is enigiets te wonderlik vir die Here?
+Teen hierdie tyd volgende jaar sou Sara 'n seun hê. Die belofte staan — al het Sara gelag omdat dit onmoontlik gelyk het.
 
 ---
 
@@ -99,7 +99,7 @@ Vir God is niks te moeilik nie. Sara het gelag omdat die belofte onmoontlik gely
 
 ### Vers om te onthou
 
-"Is enigiets te moeilik vir die Here?" — Genesis 18:14. 〔AFR20-kontrole〕
+"Is enigiets te wonderbaarlik vir die Here?" — Genesis 18:14. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

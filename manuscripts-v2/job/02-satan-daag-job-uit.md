@@ -12,7 +12,7 @@ must_include:
 theology_centre: "God se soewereiniteit; Job se integriteit"
 continuity_from: JOB-01
 continuity_to: JOB-03
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Satan daag Job uit
@@ -28,9 +28,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Hemelse toneel — geen menslike gesig vir God nie; Satan en engels; ernstig, nie skrikwekkend nie.
 
-**Een dag, lank, lank gelede,** het daar 'n dag gekom toe die seuns van God voor die Here verskyn het. Satan het ook onder hulle gekom.
+**Een dag, lank, lank gelede,** het daar 'n dag gekom toe die hemelwesens gekom om by die Here hulle plekke in te neem. Die satan het ook saam met hulle gekom.
 
-Die Here het vir Satan gevra: Waar kom jy vandaan? Satan het gesê hy het die aarde deurgetrek. Die Here het gevra: Het jy ook my dienaar Job opgemerk? Daar is niemand soos hy op die aarde nie — regverdig en vrees God. Die seuns van God het voor die Here verskyn, en Satan was ook daar.
+Die Here het vir die satan gevra: Waar kom jy vandaan? Die satan het gesê hy het die aarde deurgetrek en daar rondgeloop. Die Here het gevra: Het jy kennis geneem van my dienskneg Job? Daar is niemand soos hy op die aarde nie — opreg en onberispelik; hy het vir God ontsag en die kwaad vermy.
 
 ---
 
@@ -40,9 +40,9 @@ Die Here het vir Satan gevra: Waar kom jy vandaan? Satan het gesê hy het die aa
 
 > **Beeldnota:** Satan wys na aarde; Job klein in die ver — geen dreigement sigbaar nie.
 
-Satan het gesê: Is dit sonder rede dat Job God vrees? U het alles rondom hom beskerm. Maar streek U sy hand uit en raak alles wat hy het — dan sal hy U in die gesig vloek.
+Die satan het gesê: Is dit sonder rede dat Job ontsag het vir God? U het hom en sy huis en alles wat aan hom behoort, aan alle kante afgeskerm. Maar steek nou net u hand uit en tas alles aan wat aan hom behoort — hy sal U beslis in u gesig vloek.
 
-Die Here het gesê: Goed, alles wat hy het is in jou hand — maar moenie sy lewe aanraak nie. Satan het weggegaan van die Here se aangesig. Satan het gesê: Skeer 'n hand af — dan sal Job U vervloek.
+Die Here het gesê: Kyk, alles wat aan hom behoort, is in jou hand. Net na homself mag jy jou hand nie uitsteek nie. Die satan het weggegaan, weg van die Here af.
 
 ---
 
@@ -52,9 +52,9 @@ Die Here het gesê: Goed, alles wat hy het is in jou hand — maar moenie sy lew
 
 > **Beeldnota:** Boodskappers hardloop na Job; leë veld; rou nuus — geen lyke nie.
 
-Op dieselfde dag het boodskappers een na die ander na Job gekom. Rowers het al sy osse en esels weggeneem en die dienste doodgemaak. 'n Ander boodskapper het gesê vuur van die hemel het Job se skape en herders vernietig.
+Op dieselfde dag het boodskappers een na die ander na Job gekom. Rowers het al sy osse en donkiemerries weggeneem en die werkers met die skerpte van die swaard neergevel. 'n Ander boodskapper het gesê die vuur van God het uit die hemel geval en Job se kleinvee en werkers verbrand en verteer.
 
-Nog een: die Kaldeërs het Job se kamele weggeneem. Die ergste boodskap het laaste gekom: Job se kinders was bymekaar in die oudste broer se huis. 'n Stormwind het die huis laat val, en al sy kinders is dood. Job se vee, diensbode en kinders is op een dag vernietig.
+Nog een: die Galdeërs het drie eenhede opgestel, Job se kamele weggeneem en die werkers met die skerpte van die swaard neergevel. Die ergste boodskap het laaste gekom: Job se kinders was bymekaar in die oudste broer se huis. 'n Sterk wind van die woestyn se kant af het die huis laat instort, en al sy kinders is dood. Job se vee, diensbode en kinders is op een dag vernietig.
 
 ---
 
@@ -64,9 +64,9 @@ Nog een: die Kaldeërs het Job se kamele weggeneem. Die ergste boodskap het laas
 
 > **Beeldnota:** Job sit op grond; rou klere; leë veld agter — geen grafiese detail nie.
 
-Job het sy klere geskeur en op die grond gaan sit. Hy het sy hare afgeskeer en voor die Here neergeval. Hy het gesê: Naakt het ek uit my moeder se skoot gekom, naakt sal ek teruggaan. Die Here het gegee, die Here het weggeneem — geprys die naam van die Here.
+Job het sy mantel geskeur en op die grond neergeval en in aanbidding gebuig. Hy het gesê: Naak het ek uit my moeder se skoot gekom, en naak sal ek na die skoot van die aarde terugkeer. Die Here het gegee en die Here het geneem — mag die Naam van die Here geprys word!
 
-In al hierdie lyding het Job nie God gelaster nie en nie iets verkeerd teen God gesê nie. Job het sy kleermantel geskeur en op die grond geval om te aanbid.
+In al hierdie lyding het Job nie gesondig nie en aan God niks ongerymds toegeskryf nie. Job het sy mantel geskeur en op die grond geval om te aanbid.
 
 ---
 
@@ -100,7 +100,7 @@ God regeer selfs wanneer Satan steur. Job het God nie gelaster nie, al het hy al
 
 ### Vers om te onthou
 
-"Die Here het gegee, en die Here het weggeneem; geprys die naam van die Here!" — Job 1:21. 〔AFR20-kontrole〕
+"Die Here het gegee, en die Here het geneem; mag die Naam van die Here geprys word!" — Job 1:21. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

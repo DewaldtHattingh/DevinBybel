@@ -11,7 +11,7 @@ must_include:
 theology_centre: "God se voorsienigheid"
 continuity_from: JOS-04
 continuity_to: JOS-06
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Josef maak homself bekend
@@ -63,7 +63,7 @@ Sy broers was so bang hulle kon nie antwoord nie. Josef het gesê: Kom nader na 
 
 > **Beeldnota:** Josef omhels broers; trane van vreugde; geen wraak nie.
 
-Josef het gesê: God het my voor julle uit gestuur om lewe vir julle te behou. Die hongersnood is nog net twee jaar. God het my vooruit gestuur om julle in die lewe te hou — 'n groot nasie te red, en om julle na my toe te bring.
+Josef het gesê: Dit is vir die behoud van lewens dat God my voor julle uit gestuur het. Die hongersnood is nog net twee jaar. God het my vooruit gestuur om julle in die lewe te hou — 'n groot nasie te red, en om julle na my toe te bring.
 
 Wat julle kwaad bedoel het, het God goed gemaak. Hy het hulle omhels en oor hulle skouers gehuil. Benjamin het ook gehuil op Josef se skouer. Ek is Josef, het hy gesê. Is my pa nog lewend?
 
@@ -75,7 +75,7 @@ Wat julle kwaad bedoel het, het God goed gemaak. Hy het hulle omhels en oor hull
 
 > **Beeldnota:** Karavane na Kanaän; geskenke; wagons vir Jakob.
 
-Josef het gesê: Gaan vinnig na my pa toe en sê vir hom: Jou seun Josef leef nog. Hy is regent oor die hele Egipte. Kom na my toe — moenie talm nie. Julle sal in Goshen woon, naby my, met al julle skape en kinders.
+Josef het gesê: Gaan vinnig na my pa toe en sê vir hom: Jou seun Josef leef nog. Hy is regent oor die hele Egipte. Kom na my toe — moenie talm nie. Julle sal in Gosenstreek woon, naby my, met al julle skape en kinders.
 
 Hy het wagons, kos en geskenke vir die reis gestuur. Jakob sou hoor: Josef leef nog. Die gesin sou weer bymekaar kom. Farao het gesê: Bring julle pa en julle gesinne na Egipte.
 
@@ -100,7 +100,7 @@ Wat mense kwaad bedoel, kan God gebruik vir goed. Josef het vergewe — nie gewr
 
 ### Vers om te onthou
 
-"God het my voor julle uit gestuur om lewe vir julle te behou." — Genesis 45:5. 〔AFR20-kontrole〕
+"Dit is vir die behoud van lewens dat God my voor julle uit gestuur het." — Genesis 45:5. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

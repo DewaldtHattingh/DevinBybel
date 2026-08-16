@@ -13,7 +13,7 @@ must_include:
 theology_centre: "God is by die vlugteling"
 continuity_from: ABR-07
 continuity_to: ABR-09
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jakob se droom by Bet-El
@@ -41,7 +41,7 @@ Toe die son ondergegaan het, het hy op 'n plek gaan slaap. Daar was klippe op di
 
 > **Beeldnota:** Jakob slaap; ladder tot hemel; engele op en af.
 
-Jakob het gedroom. Daar staan 'n ladder op die aarde met sy top in die hemel. Engele van God klim op en af op die ladder — op en af, tussen hemel en aarde.
+Jakob het gedroom. Daar staan trappe wat op die aarde staan, waarvan die bopunt na die hemel reik. boodskappers van God wat daarlangs op- en afgaan — op en af, tussen hemel en aarde.
 
 Jakob het in sy droom gesien hoe die hemel en die aarde aan mekaar verbind is. Hy het 'n klip onder sy kop gesit en in die ope veld geslaap.
 
@@ -99,7 +99,7 @@ Selfs as ons wegloop, is God by ons. Hy beloof om met ons te wees en ons nie te 
 
 ### Vers om te onthou
 
-"Ek is met jou en sal jou beskerm oral waar jy gaan." — Genesis 28:15. 〔AFR20-kontrole〕
+"Kyk, Ek is met jou, en Ek sal jou beskerm oral waar jy gaan." — Genesis 28:15. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

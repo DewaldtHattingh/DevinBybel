@@ -13,7 +13,7 @@ must_include:
 theology_centre: "Menslike trots vs God"
 continuity_from: GEN-05
 continuity_to: JOB-01
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die toring van Babel
@@ -31,7 +31,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het die hele wêreld een taal en dieselfde woorde gehad. Almal het mekaar verstaan. Mense het oos getrek en 'n vlakte in Sinear gevind.
 
-Hulle het vir mekaar gesê: Kom, laat ons bakstene maak en dit goed bak. Hulle het bakstene in plaas van klip gebruik, en teer in plaas van sement. Kom, het hulle gesê, laat ons 'n stad bou met 'n toring wat tot in die hemel reik. Dan sal ons 'n naam vir ons maak, sodat ons nie oor die hele aarde versprei word nie.
+Hulle het vir mekaar gesê: Kom, laat ons kleistene maak en bak dit hard. Hulle het kleistene in plaas van klip gebruik, en asfalt in plaas van messelklei. Kom, het hulle gesê, laat ons 'n stad bou met 'n toring met sy bopunt in die hemel. Dan sal ons vir onsself naam maak, sodat ons nie oor die hele aarde versprei word nie.
 
 ---
 
@@ -53,7 +53,7 @@ Hulle het die toring gebou — laag vir laag, hoër en hoër. Die stad het ook g
 
 > **Beeldnota:** Die Here kyk af van die hemel na die stad; ernstig maar nie woedend nie.
 
-Die Here het afgeklim om die stad en toring te sien wat die mense gebou het. Hy het gesê: Hulle is een volk en hulle het almal een taal. As hulle dit begin doen, sal niks vir hulle onmoontlik wees nie — hulle sal net aanhou bou.
+Die Here het afgedaal om die stad en toring te sien wat die mensekinders bou. Hy het gesê: Hulle is een volk en hulle almal het een taal. As hulle dit begin doen, sal niks van wat hulle beplan om te doen, vir hulle onmoontlik wees nie.
 
 Die Here het besluit om hulle plan te versteur, sodat hulle nie alles kan doen wat hulle wil nie.
 
@@ -98,7 +98,7 @@ Mense wil soms hul eie groot naam bou in plaas van God te eer. God regeer, en Hy
 
 ### Vers om te onthou
 
-"Kom, laat ons 'n stad bou en 'n toring met sy top in die hemel." — Genesis 11:4. 〔AFR20-kontrole〕
+"Kom ons bou vir ons 'n stad en 'n toring met sy bopunt in die hemel." — Genesis 11:4. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 

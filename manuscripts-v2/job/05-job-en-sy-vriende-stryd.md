@@ -11,7 +11,7 @@ must_include:
 theology_centre: "Verkeerde teologie kan seermaak"
 continuity_from: JOB-04
 continuity_to: JOB-06
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Job en sy vriende stry
@@ -103,7 +103,7 @@ Verkeerde teologie kan seermaak. Job se vriende wou help, maar hulle het gedink 
 
 ### Vers om te onthou
 
-"Onthou tog: Wie het ooit onskuldig vergaan?" — Job 4:7. 〔AFR20-kontrole〕
+"Dink tog daaraan: Wie het, terwyl hy onskuldig is, omgekom?" — Job 4:7. 〔AFR20-kontrole〕
 
 ### Onthou jy?
 
