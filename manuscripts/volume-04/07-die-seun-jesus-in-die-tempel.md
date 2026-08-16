@@ -1,0 +1,125 @@
+---
+story_id: V04-07
+title: "Die seun Jesus in die tempel"
+volume: 4
+pages: 6
+primary_passage: "Luke 2:41–52"
+must_include:
+  - "Passover age twelve"
+  - "listening/asking"
+  - "My Father's house"
+  - "obedience to parents"
+deferred_to: ["V04-08"]
+continuity_from: "V04-06"
+continuity_to: "V04-08"
+theology_centre: "Jesus belongs to God; He also honours His parents"
+violence_note: "geen"
+afr20_quote_check: pending
+---
+
+# Die seun Jesus in die tempel
+
+**Primêre gedeelte:** Luk. 2:41–52  
+**Verhaal-ID:** V04-07
+
+---
+
+## Bladsy 1 — Opening
+
+![Beeld: opening](../../assets/images/V04-07-p1.png)
+
+> **Beeldnota:** Pad na Jerusalem; Jesus twaalf jaar; familie en ander mense; tempel ver in verte.
+
+**Een dag, lank, lank gelede,** Jesus groei op in Nazaret. Josef en Maria gaan elke jaar na Jerusalem vir die Paasfees. Toe Jesus twaalf jaar oud is, gaan hulle weer. Hulle gaan soos hulle gewoon is. Jesus is nog een seun — maar hy is ook die Seun van God.
+
+
+Jesus groei op in Nazaret. Josef werk. Maria sorg vir die huis. Elke jaar gaan hulle na Jerusalem vir die Paasfees. Dit is een groot feest vir God se volk.
+
+---
+## Bladsy 2 — Probleem
+
+![Beeld: probleem](../../assets/images/V04-07-p2.png)
+
+> **Beeldnota:** Tempel groot en helder; Jesus tussen geleerdes; luister en vra; volwassenes rondom.
+
+Die feeste is klaar. Josef en Maria vertrek na huis. Hulle dink Jesus is in die groep. Maar Jesus bly in Jerusalem. Hy is nie by sy familie nie. Josef en Maria soek hom. Hulle soek drie dae. Hulle is bekommerd.
+
+
+Toe Jesus twaalf is, gaan hulle weer. Na die feest vertrek die groep na huis. Josef en Maria dink Jesus is saam. Drie dae soek hulle hom in die menigte.
+
+---
+## Bladsy 3 — Stygende aksie
+
+![Beeld: stygende-aksie](../../assets/images/V04-07-p3.png)
+
+> **Beeldnota:** Jesus in tempel; groot pilare; lig van bo; geleerdes luister na hom.
+
+Hulle vind Jesus in die tempel. Hy sit by die geleerdes. Hy luister na hulle. Hy vra hulle vrae. Almal wat luister, wonder oor sy antwoorde. Jesus verstaan die dinge van God. Hy is nog jong — maar sy wysheid is groot.
+
+Maria sê: Kind, waarom het jy dit vir ons gedoen? Ons was so bekommerd. Jesus antwoord: Waarom soek jy my? Moet ek nie in die huis van my Vader wees nie?
+
+
+Hulle vind Jesus in die tempel. Hy sit by die geleerdes. Hy luister. Hy vra vrae. Almal wonder oor sy antwoorde. Jesus is jong — maar sy wysheid is groot.
+
+---
+## Bladsy 4 — Hoofdraai
+
+![Beeld: hoofdraai](../../assets/images/V04-07-p4.png)
+
+> **Beeldnota:** Jesus met Maria en Josef; tempel agter; Jesus se gesig rustig; ouers luister.
+
+Jesus noem God sy Vader. Die tempel is die huis van sy Vader. Josef en Maria verstaan nie alles wat hy sê nie. Maria onthou dit in haar hart. Jesus is hulle seun — en hy is ook die Seun van God.
+
+Jesus gaan saam met hulle na Nazaret. Hy is onderdanig aan Josef en Maria. Hy luister na hulle.
+
+
+Maria sê: Kind, ons was bekommerd. Jesus sê: Moet ek nie in die huis van my Vader wees nie? God is sy Vader. Jesus gaan huis met hulle en is onderdanig.
+
+---
+## Bladsy 5 — Ontknoping
+
+![Beeld: ontknoping](../../assets/images/V04-07-p5.png)
+
+> **Beeldnota:** Nazaret huis; Jesus help by werk; gewone lewe; sagte lig.
+
+Jesus groei op in Nazaret. Hy word sterker en wiser. God se genade is op hom. Die Here was by hom. Jesus leer en groei — en hy eer sy ouers.
+
+En weet jy wat toe gebeur het? Die kind uit Bethlehem word een seun wat God en sy familie eer.
+
+
+In Nazaret groei Jesus verder. Hy word sterker en wiser. God se genade is op hom. Jesus leer en groei — en hy eer sy ouers elke dag.
+
+---
+## Bladsy 6 — Geheue
+
+![Beeld: geheue](../../assets/images/V04-07-p6.png)
+
+> **Beeldnota:** Klein beeld van tempel en huis; rustig.
+
+### Wie was in hierdie verhaal?
+
+- **Jesus** — twaalf jaar; in die tempel luister en vra; gaan huis en is onderdanig.
+- **Maria en Josef** — soek Jesus drie dae; neem hom na Nazaret.
+- **Die geleerdes** — luister en wonder oor Jesus se antwoorde.
+
+### Wat leer ons?
+
+Jesus behoort aan God — die tempel is sy Vader se huis. Hy is ook onderdanig aan Maria en Josef. God en familie gaan saam.
+
+### Vers om te onthou
+
+Moet ek nie in die huis van my Vader wees? — Luk. 2:49. 〔AFR20-kontrole〕
+
+### Onthou jy?
+
+1. Hoe oud was Jesus toe hy in die tempel bly?
+2. Wat doen Jesus in die tempel toe sy ouers hom vind?
+3. Wat doen Jesus nadat hulle na Nazaret gaan?
+
+---
+
+## Produksie-notas
+
+- **Worteltelling (ongeveer):** narrative 410 / geheue 95 / totaal 505
+- **Môre-aand-herwinning:** Lees vanaand se *Onthou jy?*-vrae môre voor die volgende storie.
+
