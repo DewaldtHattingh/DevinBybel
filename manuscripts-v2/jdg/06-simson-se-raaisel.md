@@ -27,7 +27,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Fees met Simson en metgeselle; warm lig; trouviering.
 
-**Een dag, lank, lank gelede,** het Simson 'n troufees in Timna gehou. Hy het dertig jong Filistynse mans as metgeselle gekry. By feesse moes mense mekaar raaisels vra — en die verloorders moes geskenke gee. Simson het vir hulle gesê: As julle my raaisel binne sewe feesdae kan uitlê en raai, sal ek julle dertig linnegewades en dertig feestrokke gee.
+**Een dag, lank, lank gelede,** het Simson 'n troufees in Timna gehou. Hy het dertig jong Filistynse mans as metgeselle gekry. By feesse moes mense mekaar raaisels vra — en die verloorders moes geskenke gee. Simson het vir hulle gesê: As julle my raaisel binne sewe feesdae kan uitlê en raai, sal ek julle dertig linnegewades en dertig feestrokke gee. Simson het sewe dae lank feesgehou. Die verloorders moes dertig linnegewades gee.
 
 ---
 
@@ -37,7 +37,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Simson gee raaisel; manne luister; leeu/heuning-motief subtiel.
 
-Simson het vir hulle 'n raaisel gevra: Uit die eter het kos gekom, en uit die sterke het soetigheid gekom. Die geheim was iets wat net Simson geweet het — die leeu en die heuning langs die pad. Die mans kon die antwoord nie sommer vind nie. Op die sewende dag het die Filistyne Simson se vrou gedreig om haar te verbrand.
+Simson het vir hulle 'n raaisel gevra: Uit die eter het kos gekom, en uit die sterke het soetigheid gekom. Die geheim was iets wat net Simson geweet het — die leeu en die heuning langs die pad. Die mans kon die antwoord nie sommer vind nie. Op die sewende dag het die Filistyne Simson se vrou gedreig om haar te verbrand. Die geheim was die leeu en die heening langs die pad — net Simson het dit geweet. Die Filistyne kon die raaisel nie raai nie.
 
 ---
 
@@ -47,7 +47,7 @@ Simson het vir hulle 'n raaisel gevra: Uit die eter het kos gekom, en uit die st
 
 > **Beeldnota:** Filistynse manne druk Simson se vrou; sy lyk bang; spanning.
 
-Op die sewende dag het die Filistyne Simson se vrou gedreig. Vertel ons die raaisel se antwoord, het hulle gesê, of ons verbrand jou. Sy het Simson aanhoudend gevra totdat hy dit op die sewende dag vertel het. Simson was woedend. Julle het my uie geploeg met my kalf, het hy gesê.
+Op die sewende dag het die Filistyne Simson se vrou gedreig. Vertel ons die raaisel se antwoord, het hulle gesê, of ons verbrand jou. Sy het Simson aanhoudend gevra totdat hy dit op die sewende dag vertel het. Simson was woedend. Julle het my uie geploeg met my kalf, het hy gesê. Die Filistyne het Simson se vrou gedreig: Ons sal jou en jou pa se huis verbrand. Simson se vrou het die antwoord onder druk verklap.
 
 ---
 
@@ -57,7 +57,7 @@ Op die sewende dag het die Filistyne Simson se vrou gedreig. Vertel ons die raai
 
 > **Beeldnota:** Simson woedend; vertrek van Timnah; ernstige gesig.
 
-En weet jy wat toe gebeur het? Die Filistyne het die raaisel gerai. Simson was woedend. Julle het my uie geploeg met my kalf, het hy gesê — hulle het sy vrou gebruik om hom te mislei. Die Gees van die Here het hom krag gegee. Hy het na Askalon gegaan en dertig manne verslaan en hulle klere geneem om die weddenskap te betaal. Die Gees van die Here het hom krag gegee om na Askalon te gaan.
+En weet jy wat toe gebeur het? Die Filistyne het die raaisel gerai. Simson was woedend. Julle het my uie geploeg met my kalf, het hy gesê — hulle het sy vrou gebruik om hom te mislei. Die Gees van die Here het hom krag gegee. Hy het na Askalon gegaan en dertig manne verslaan en hulle klere geneem om die weddenskap te betaal. Die Gees van die Here het hom krag gegee om na Askalon te gaan. Simson het na Askalon gegaan en dertig manne verslaan. Simson het na Askalon gegaan.
 
 ---
 
@@ -67,7 +67,7 @@ En weet jy wat toe gebeur het? Die Filistyne het die raaisel gerai. Simson was w
 
 > **Beeldnota:** Simson vertrek; vrou en skoonfamilie in verte; ernstige stemming.
 
-Simson het woedend van Timna weggegaan. Die konflik met die Filistyne het erger geword. Simson het foute gemaak — hy het sy geheim verklap. Maar die Here het steeds sy plan met Simson voortgesit. Simson het foute gemaak, maar die Here het steeds sy plan met Simson voortgesit.
+Simson het woedend van Timna weggegaan. Die konflik met die Filistyne het erger geword. Simson het foute gemaak — hy het sy geheim verklap. Maar die Here het steeds sy plan met Simson voortgesit. Simson het foute gemaak, maar die Here het steeds sy plan met Simson voortgesit. Simson se vrou is aan sy metgesel gegee. Die konflik het erger geword.
 
 ---
 

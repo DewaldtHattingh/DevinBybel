@@ -29,7 +29,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het Josef sy broers laat vertrek met vol sakke graan. Hy het sy silwerbeker in Benjamin se sak laat sit, sonder dat hulle dit geweet het.
 
-Toe hulle nog nie ver van die stad af was nie, het Josef hulle laat agtervolg. Die beker is in Benjamin se sak gevind. Die straf sou wees dat Benjamin as slaaf in Egipte bly.
+Toe hulle nog nie ver van die stad af was nie, het Josef hulle laat agtervolg. Die beker is in Benjamin se sak gevind. Die straf sou wees dat Benjamin as slaaf in Egipte bly. Josef het sy silwerbeker in Benjamin se sak laat sit.
 
 ---
 
@@ -41,7 +41,7 @@ Toe hulle nog nie ver van die stad af was nie, het Josef hulle laat agtervolg. D
 
 Juda het voor Josef neergeval en gesmeek. Hy het die hele storie vertel — hoe hulle pa se hart gebroke sal wees as Benjamin nie terugkom nie. Hy het gesê: Ek het my pa versekering gegee — laat my bly in Benjamin se plek as slaaf.
 
-Josef kon nie meer hou nie. Hy het vir al die diensbode gesê: Gaan uit! Toe niemand meer daar was nie, het hy homself aan sy broers bekend gemaak.
+Josef kon nie meer hou nie. Hy het vir al die diensbode gesê: Gaan uit! Toe niemand meer daar was nie, het hy homself aan sy broers bekend gemaak. Juda het gesweer: Ek sal myself persoonlik verantwoordelik hou vir die seun.
 
 ---
 
@@ -53,7 +53,7 @@ Josef kon nie meer hou nie. Hy het vir al die diensbode gesê: Gaan uit! Toe nie
 
 Josef het hard gehuil — so hard dat die Egiptenaars dit gehoor het. Hy het gesê: Ek is Josef! Lewe my pa nog?
 
-Sy broers was so bang hulle kon nie antwoord nie. Josef het gesê: Kom nader na my. Moenie bekommerd wees nie en moenie kwaad op julleself wees dat julle my hierheen verkoop het nie.
+Sy broers was so bang hulle kon nie antwoord nie. Josef het gesê: Kom nader na my. Moenie bekommerd wees nie en moenie kwaad op julleself wees dat julle my hierheen verkoop het nie. Josef kon nie meer hou nie. Hy het hardop gehuil.
 
 ---
 
@@ -65,7 +65,7 @@ Sy broers was so bang hulle kon nie antwoord nie. Josef het gesê: Kom nader na 
 
 Josef het gesê: God het my voor julle uit gestuur om lewe vir julle te behou. Die hongersnood is nog net twee jaar. God het my vooruit gestuur om julle in die lewe te hou — 'n groot nasie te red, en om julle na my toe te bring.
 
-Wat julle kwaad bedoel het, het God goed gemaak. Hy het hulle omhels en oor hulle skouers gehuil. Benjamin het ook gehuil op Josef se skouer.
+Wat julle kwaad bedoel het, het God goed gemaak. Hy het hulle omhels en oor hulle skouers gehuil. Benjamin het ook gehuil op Josef se skouer. Ek is Josef, het hy gesê. Is my pa nog lewend?
 
 ---
 
@@ -77,7 +77,7 @@ Wat julle kwaad bedoel het, het God goed gemaak. Hy het hulle omhels en oor hull
 
 Josef het gesê: Gaan vinnig na my pa toe en sê vir hom: Jou seun Josef leef nog. Hy is regent oor die hele Egipte. Kom na my toe — moenie talm nie. Julle sal in Goshen woon, naby my, met al julle skape en kinders.
 
-Hy het wagons, kos en geskenke vir die reis gestuur. Jakob sou hoor: Josef leef nog. Die gesin sou weer bymekaar kom.
+Hy het wagons, kos en geskenke vir die reis gestuur. Jakob sou hoor: Josef leef nog. Die gesin sou weer bymekaar kom. Farao het gesê: Bring julle pa en julle gesinne na Egipte.
 
 ---
 

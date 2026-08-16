@@ -30,7 +30,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het daar 'n man Job in die land Uz gewoon. Hy was regverdig en het God gevrees. Hy het kwaad vermy en reg gedoen.
 
-Job was die rykste man in die ooste. Hy het sewe seuns en drie dogters gehad. Sy kinders het bymekaar gekom vir feeste — elkeen in sy eie huis — en hulle het mekaar genooi om saam te eet en drink.
+Job was die rykste man in die ooste. Hy het sewe seuns en drie dogters gehad. Sy kinders het bymekaar gekom vir feeste — elkeen in sy eie huis — en hulle het mekaar genooi om saam te eet en drink. Job het in die land Uz gewoon — oos van Kanaän.
 
 ---
 
@@ -42,7 +42,7 @@ Job was die rykste man in die ooste. Hy het sewe seuns en drie dogters gehad. Sy
 
 Wanneer die feeste verby was, het Job hulle laat roep en vir hulle reinig. Hy het vroeg in die oggend offers gebring — een vir elke kind. Hy het gedink: Miskien het my kinders iets verkeerd gedoen en God gelaster in hulle hart.
 
-So het Job altyd gedoen. Hy was bang dat hulle sonde mag wees, en hy het vir hulle gebid.
+So het Job altyd gedoen. Hy was bang dat hulle sonde mag wees, en hy het vir hulle gebid. Hy het brandoffers gebring vir elke kind — sewe bulle en sewe ramme.
 
 ---
 
@@ -54,7 +54,7 @@ So het Job altyd gedoen. Hy was bang dat hulle sonde mag wees, en hy het vir hul
 
 Job het baie skape, kamele, osse en esels gehad. Hy het meer as enigiemand in die ooste gehad. Sy diensbode het hard gewerk, en alles het goed gegaan.
 
-Die Here het gesê Job is 'n regverdige man — daar is niemand soos hy op die aarde nie. Hy vrees God en vermy kwaad.
+Die Here het gesê Job is 'n regverdige man — daar is niemand soos hy op die aarde nie. Hy vrees God en vermy kwaad. Hy het sewe duisend skape en drie duisend kamele gehad.
 
 ---
 
@@ -66,7 +66,7 @@ Die Here het gesê Job is 'n regverdige man — daar is niemand soos hy op die a
 
 Job het nie net ryk gewees nie — hy het God gevrees. Hy het vir sy kinders gebid en offers gebring. Hy het geweet dat alles wat hy het, van die Here kom.
 
-So het Job geleef voordat enigiets sleg met hom gebeur het. Hy was getrou — nie omdat hy ryk was nie, maar omdat hy God liefgehad het en Hom gevrees het.
+So het Job geleef voordat enigiets sleg met hom gebeur het. Hy was getrou — nie omdat hy ryk was nie, maar omdat hy God liefgehad het en Hom gevrees het. Die Here het Job se karakter geken voordat die beproewing begin het.
 
 ---
 
@@ -78,7 +78,7 @@ So het Job geleef voordat enigiets sleg met hom gebeur het. Hy was getrou — ni
 
 Job se lewe was vol en goed. Hy het vir sy gesin gesorg en vir God gebid. Die Here het hom geken as 'n regverdige man.
 
-Maar die verhaal van Job gaan nie net oor rykdom nie. Dit gaan oor wie hy was voordat die swaar dae gekom het — 'n man wat God gevrees het en vir sy kinders gebid het, elke dag.
+Maar die verhaal van Job gaan nie net oor rykdom nie. Dit gaan oor wie hy was voordat die swaar dae gekom het — 'n man wat God gevrees het en vir sy kinders gebid het, elke dag. Job se getrouheid was gebaseer op sy vrees vir God, nie sy rykdom nie.
 
 ---
 

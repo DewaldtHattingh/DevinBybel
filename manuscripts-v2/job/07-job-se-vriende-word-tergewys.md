@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** nadat die Here met Job gepraat het, het Hy ook met Job se drie vriende gepraat. Hy was kwaad op Elifaz die Temaniet en sy twee vriende.
 
-Die Here het gesê: My toorn is ontsteek teen julle, want julle het nie van My gepraat wat reg is soos my dienaar Job nie.
+Die Here het gesê: My toorn is ontsteek teen julle, want julle het nie van My gepraat wat reg is soos my dienaar Job nie. Die Here was toornig op Elifaz, Bildad en Sofar. Die Here was toornig.
 
 ---
 
@@ -40,7 +40,7 @@ Die Here het gesê: My toorn is ontsteek teen julle, want julle het nie van My g
 
 Elifaz, Bildad en Sofar het vir Job verkeerde dinge gesê. Hulle het gedink lyding beteken altyd sonde. Hulle het Job beskuldig terwyl Job reg gepraat het oor God.
 
-God het hulle reggestel. Hulle woorde was verkeerd. Job se woorde — selfs sy klaag — was nader aan die waarheid as hulle eenvoudige antwoord.
+God het hulle reggestel. Hulle woorde was verkeerd. Job se woorde — selfs sy klaag — was nader aan die waarheid as hulle eenvoudige antwoord. Julle het nie reg van My gepraat nie, soos My dienaar Job nie. Job het reg gepraat.
 
 ---
 
@@ -52,7 +52,7 @@ God het hulle reggestel. Hulle woorde was verkeerd. Job se woorde — selfs sy k
 
 Die Here het vir Elifaz gesê: Neem nou sewe bulle en sewe ramme en gaan na my dienaar Job toe. Offer 'n brandoffer vir julleself. My dienaar Job sal vir julle bid — en Ek sal sy gebed aanvaar en julle nie behandel soos julle dwaasheid verdien nie.
 
-God het nie gesê: Wees net geduldig. Hy het gesê: Julle het verkeerd gepraat. Job moet vir julle bid.
+God het nie gesê: Wees net geduldig. Hy het gesê: Julle het verkeerd gepraat. Job moet vir julle bid. Job moes vir sy vriende bid en offer bring namens hulle. Job moes bid.
 
 ---
 
@@ -64,7 +64,7 @@ God het nie gesê: Wees net geduldig. Hy het gesê: Julle het verkeerd gepraat. 
 
 Job het vir sy vriende gebid. Selfs nadat hulle hom verkeerd behandel het, het hy vir hulle gebid. Hy het nie gewreek nie. Hy het gebid dat God hulle sou vergewe.
 
-Die Here het Job se gebed aanvaar. Die vriende se sondes is vergewe — omdat Job vir hulle gebid het.
+Die Here het Job se gebed aanvaar. Die vriende se sondes is vergewe — omdat Job vir hulle gebid het. Job het gebid vir sy vriende, en die Here het hulle sonde vergewe. Sonde vergewe.
 
 ---
 
@@ -76,7 +76,7 @@ Die Here het Job se gebed aanvaar. Die vriende se sondes is vergewe — omdat Jo
 
 Elifaz, Bildad en Sofar het gedoen wat God gesê het. Hulle het offers gebring. Job het vir hulle gebid.
 
-God het die vriende reggestel. Job het vergewe deur te bid. Die les was nie net geduld nie — dit was dat verkeerde raad reggestel moet word, en dat Job sy vriende gebed het terwyl hulle nog verkeerd was.
+God het die vriende reggestel. Job het vergewe deur te bid. Die les was nie net geduld nie — dit was dat verkeerde raad reggestel moet word, en dat Job sy vriende gebed het terwyl hulle nog verkeerd was. Die Here het Job se goed begin herstel. Goed herstel.
 
 ---
 

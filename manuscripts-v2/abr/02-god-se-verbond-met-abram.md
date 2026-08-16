@@ -30,7 +30,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het Abram vir die Here gesê: Ek het nog geen kind nie. My erfgenaam sal my bediende Eliezer van Damaskus wees.
 
-God het vir Abram laat tel: Kyk na die hemel en tel die sterre as jy kan. So talryk sal jou nageslag wees. Abram het na die donker hemel gekyk — soveel sterre, meer as hy kon tel — en hy het geglo die Here. Hy het dit vir hom as regverdigheid gereken.
+God het vir Abram laat tel: Kyk na die hemel en tel die sterre as jy kan. So talryk sal jou nageslag wees. Abram het na die donker hemel gekyk — soveel sterre, meer as hy kon tel — en hy het geglo die Here. Hy het dit vir hom as regverdigheid gereken. Die Here het Abram in 'n visioen gesê: Moenie bang wees nie, Abram — Ek is jou skild.
 
 ---
 
@@ -42,7 +42,7 @@ God het vir Abram laat tel: Kyk na die hemel en tel die sterre as jy kan. So tal
 
 God het gesê: Ek is die Here wat jou uit Ur gebring het om hierdie land te gee. Abram het gevra: Waarmee sal ek weet dat ek dit sal erf?
 
-God het 'n verbond met Abram gesluit en die grense van die land gewys — van die Egiptenaar se rivier tot die groot rivier, die Efrate. Abram het in diep slaap geval, en 'n groot en vreeslike duisternis het op hom neergedaal.
+God het 'n verbond met Abram gesluit en die grense van die land gewys — van die Egiptenaar se rivier tot die groot rivier, die Efrate. Abram het in diep slaap geval, en 'n groot en vreeslike duisternis het op hom neergedaal. Abram het gesê: Ek het geen erfgenaam nie. Eliezer van Damascus sal my erf.
 
 ---
 
@@ -54,7 +54,7 @@ God het 'n verbond met Abram gesluit en die grense van die land gewys — van di
 
 Jare later, toe Abram nege-en-negentig was, het die Here verskyn en gesê: Ek is God Almagtig. Loop voor My en wees opreg. Ek sal my verbond tussen My en jou bevestig.
 
-God het gesê: Jou naam sal nie meer Abram wees nie, maar Abraham — vader van 'n menigte nasies. En Sarai se naam sal Sara wees. Ek sal haar seën, en sy sal 'n seun vir jou baar.
+God het gesê: Jou naam sal nie meer Abram wees nie, maar Abraham — vader van 'n menigte nasies. En Sarai se naam sal Sara wees. Ek sal haar seën, en sy sal 'n seun vir jou baar. Die Here het hom buite laat kyk: Tel die sterre — so talryk sal jou nageslag wees.
 
 ---
 
@@ -66,7 +66,7 @@ God het gesê: Jou naam sal nie meer Abram wees nie, maar Abraham — vader van 
 
 Abraham het gelag — hy was amper honderd, Sara negentig. Hoe kan Sara 'n seun kry? Hy het gedink: Laat Ismael voor U lewe!
 
-God het gesê: Nee — Sara sal vir jou 'n seun baar. Jy moet hom Isak noem. Ek sal my verbond met hom bevestig — 'n ewige verbond vir sy nageslag. Isak sal volgende jaar gebore word.
+God het gesê: Nee — Sara sal vir jou 'n seun baar. Jy moet hom Isak noem. Ek sal my verbond met hom bevestig — 'n ewige verbond vir sy nageslag. Isak sal volgende jaar gebore word. Abram het geglo, en die Here het dit hom as geregtigheid gereken.
 
 ---
 
@@ -78,7 +78,7 @@ God het gesê: Nee — Sara sal vir jou 'n seun baar. Jy moet hom Isak noem. Ek 
 
 God het die besnydenis as teken van die verbond gegee. Op dieselfde dag het Abraham, sy seun Ismael en al die manne in sy huis hulle laat besny. Abraham was nege-en-negentig toe Ismael dertien was.
 
-God se belofte staan vas — nie deur menslike krag nie, maar deur God wat beloof en doen wat Hy sê.
+God se belofte staan vas — nie deur menslike krag nie, maar deur God wat beloof en doen wat Hy sê. God het die verbond bevestig — Abram sou vader van baie nasies wees.
 
 ---
 

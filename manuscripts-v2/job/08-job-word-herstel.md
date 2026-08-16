@@ -30,7 +30,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** nadat Job vir sy vriende gebid het, het die Here Job se lot verander. Job het vir sy vriende gebid — en toe het God begin herstel.
 
-Die Here het Job se vorige rykdom verdubbel. Almal wat hom geken het, het hom geskenke gegee — stukke silwer en goue ringe.
+Die Here het Job se vorige rykdom verdubbel. Almal wat hom geken het, het hom geskenke gegee — stukke silwer en goue ringe. Die Here het Job se vee verdubbel — veertien duisend skape.
 
 ---
 
@@ -42,7 +42,7 @@ Die Here het Job se vorige rykdom verdubbel. Almal wat hom geken het, het hom ge
 
 Die Here het Job veertien duisend skape gegee, ses duisend kamele, duisend span osse en duisend esels. Hy het ook sewe seuns en drie dogters gekry — nuwe kinders, met nuwe name.
 
-Die dogters was Jemima, Kesia en Keren-Happuk. Hulle was die mooiste vroue in die land. Job het hulle erfgenaam gemaak saam met hulle broers.
+Die dogters was Jemima, Kesia en Keren-Happuk. Hulle was die mooiste vroue in die land. Job het hulle erfgenaam gemaak saam met hulle broers. Hy het weer sewe seuns en drie dogters gekry.
 
 ---
 
@@ -54,7 +54,7 @@ Die dogters was Jemima, Kesia en Keren-Happuk. Hulle was die mooiste vroue in di
 
 Job het nog honderd veertig jaar geleef. Hy het sy kinders en kindskinders gesien — vier geslagte. Hy het oud geword en vol lewe gehad.
 
-Sy broers en susters en almal wat hom geken het, het weer by hom gekom. Hulle het saam met hom geëet in sy huis. Hulle het hom bekommer en hom geskenke gegee oor sy lyding.
+Sy broers en susters en almal wat hom geken het, het weer by hom gekom. Hulle het saam met hom geëet in sy huis. Hulle het hom bekommer en hom geskenke gegee oor sy lyding. Sy dogters Jemima, Kesia en Keren-Happuk was die mooiste in die land.
 
 ---
 
@@ -66,7 +66,7 @@ Sy broers en susters en almal wat hom geken het, het weer by hom gekom. Hulle he
 
 Job se lewe is herstel. Hy het weer vee en kinders gehad. Maar die les van Job se verhaal is nie dat geduld altyd dubbel teruggee nie.
 
-Die les is dat God regverdig is en groter as ons vrae — en dat Hy genade gee ná die ontmoeting. Job het God ontmoet in die storm. Nou het hy weer geleef.
+Die les is dat God regverdig is en groter as ons vrae — en dat Hy genade gee ná die ontmoeting. Job het God ontmoet in die storm. Nou het hy weer geleef. Job het honderd en veertig jaar geleef en sy kinders en kleinkinders gesien.
 
 ---
 
@@ -78,7 +78,7 @@ Die les is dat God regverdig is en groter as ons vrae — en dat Hy genade gee n
 
 Job het gesterf oud en vol dae. Hy het God vertrou deur die swaarste tye — en God het hom nie vergeet nie.
 
-Die verhaal van Job eindig met herstel — maar eers het daar kom: verlies, siekte, verkeerde vriende, God se antwoord, en Job se gebed vir hulle. Herstel kom ná die ontmoeting met God.
+Die verhaal van Job eindig met herstel — maar eers het daar kom: verlies, siekte, verkeerde vriende, God se antwoord, en Job se gebed vir hulle. Herstel kom ná die ontmoeting met God. Die Here het Job se laaste dae meer geseën as sy eerste.
 
 ---
 

@@ -29,7 +29,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Warm familie/konteks: jong Simson by Manoah en sy ma; hare sigbaar; Filistyne veraf.
 
-**Een dag, lank, lank gelede,** het Simson grootgeword in die land Dan. Toe hy 'n jong man was, het hy na Timna gegaan en daar 'n Filistynse vrou gesien met wie hy wou trou. Sy pa en ma het beswaar gemaak, maar Simson het aangehou vra.
+**Een dag, lank, lank gelede,** het Simson grootgeword in die land Dan. Toe hy 'n jong man was, het hy na Timna gegaan en daar 'n Filistynse vrou gesien met wie hy wou trou. Sy pa en ma het beswaar gemaak, maar Simson het aangehou vra. Simson het gesê: Kry vir my hierdie vrou. Sy ouers wou hê hy moet in Israel trou. Simson wou 'n Filistynse vrou in Timna trou.
 
 ---
 
@@ -39,7 +39,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Pad/wingerd; ouers verder agter; jong leeu kom te voorskyn.
 
-Simson en sy ouers het na Timna vertrek. Hulle het nie geweet dat die Here hierdie gebeurtenis sou gebruik teen die Filistyne nie. Naby die wingerde het 'n jong leeu brullend op Simson afgestorm.
+Simson en sy ouers het na Timna vertrek. Hulle het nie geweet dat die Here hierdie gebeurtenis sou gebruik teen die Filistyne nie. Naby die wingerde het 'n jong leeu brullend op Simson afgestorm. Die Here het hierdie gebeurtenis beplan om die Filistyne te straf. 'n Jong leeu het by die wingerde op hom afgestorm.
 
 ---
 
@@ -49,7 +49,7 @@ Simson en sy ouers het na Timna vertrek. Hulle het nie geweet dat die Here hierd
 
 > **Beeldnota:** Syhoek-stryd; geen bloed; Simson het niks in sy hande nie; geen gloed.
 
-Simson het geen spies, swaard of ander wapen in sy hand gehad nie. Toe het die Gees van die Here kragtig oor hom gekom. Met sy kaal hande het Simson die jong leeu uitmekaar geskeur. Daarna het hy verder gegaan. Hy het nie vir sy pa of sy ma vertel wat by die wingerde gebeur het nie.
+Simson het geen spies, swaard of ander wapen in sy hand gehad nie. Toe het die Gees van die Here kragtig oor hom gekom. Met sy kaal hande het Simson die jong leeu uitmekaar geskeur. Daarna het hy verder gegaan. Hy het nie vir sy pa of sy ma vertel wat by die wingerde gebeur het nie. Hy het die leeu se bek oopgeruk — hy het niks in sy hand gehad nie. Met kaal hande het hy die leeu verskeur.
 
 ---
 
@@ -59,7 +59,7 @@ Simson het geen spies, swaard of ander wapen in sy hand gehad nie. Toe het die G
 
 > **Beeldnota:** Oue leeukarkas nie-grafies; bye en heuning; Simson deel heuning met ouers.
 
-'n Ruk later het Simson weer na Timna gegaan. Onderweg het hy van die pad afgedraai om na die dooie leeu te kyk. Daar, binne-in die leeu se karkas, was 'n swerm bye en heuning. Simson het van die heuning geëet en ook vir sy ouers gegee. Hulle het geëet, maar hy het nie vertel waar dit vandaan gekom het nie.
+'n Ruk later het Simson weer na Timna gegaan. Onderweg het hy van die pad afgedraai om na die dooie leeu te kyk. Daar, binne-in die leeu se karkas, was 'n swerm bye en heuning. Simson het van die heuning geëet en ook vir sy ouers gegee. Hulle het geëet, maar hy het nie vertel waar dit vandaan gekom het nie. Later het bye 'n kolonie in die leeu se karkas gemaak en heuning geproduseer. Bye en heuning was in die leeu se karkas.
 
 ---
 
@@ -69,7 +69,7 @@ Simson het geen spies, swaard of ander wapen in sy hand gehad nie. Toe het die G
 
 > **Beeldnota:** Simson op pad na troue; rustige aand; leeu/heuning-motief subtiel.
 
-Die leeu en die heuning sou belangrik word by Simson se troufees. Simson se krag was nie van homself nie — die Gees van die Here het kragtig oor hom gekom. Die Here was by hom.
+Die leeu en die heuning sou belangrik word by Simson se troufees. Simson se krag was nie van homself nie — die Gees van die Here het kragtig oor hom gekom. Die Here was by hom. Simson se troue in Timna sou die begin wees van sy stryd met die Filistyne. Die Gees van die Here het kragtig oor hom gekom.
 
 ---
 

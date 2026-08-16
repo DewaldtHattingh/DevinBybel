@@ -27,7 +27,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Israel in woestyn; tentkamp; sonlig.
 
-**Een dag, lank, lank gelede,** het die Here vir Moses gesê: Laat die kinders van Israel vir My 'n heiligdom maak, dat Ek in hulle midde kan woon. Ek sal My woonplek onder julle laat wees. Soos Ek julle op die reis gelei het, so sal Ek naby julle bly.
+**Een dag, lank, lank gelede,** het die Here vir Moses gesê: Laat die kinders van Israel vir My 'n heiligdom maak, dat Ek in hulle midde kan woon. Ek sal My woonplek onder julle laat wees. Soos Ek julle op die reis gelei het, so sal Ek naby julle bly. Volgens alles wat Ek jou wys — die patroon van die tent — so moet julle dit maak. 'n Heiligdom in die midde van die volk.
 
 ---
 
@@ -37,7 +37,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Mense bring geskenke — goud, silwer, stof, hout; vrywillige gawe.
 
-Die Here het gesê: Neem vir My 'n offer van elkeen wat vrywillig gee. Goud en silwer, pers en rooi stof, fyn linne, bokhare, akasia-hout. Almal wat 'n gewillige hart gehad het, het gebring. Kunsvlyers soos Besalel en Oholiab het die werk geleid.
+Die Here het gesê: Neem vir My 'n offer van elkeen wat vrywillig gee. Goud en silwer, pers en rooi stof, fyn linne, bokhare, akasia-hout. Almal wat 'n gewillige hart gehad het, het gebring. Kunsvlyers soos Besalel en Oholiab het die werk geleid. Goud en silwer, pers en rooi en bloupurper stof, fyn linne, bokhare en akasia-hout. Vrywillige gawes.
 
 ---
 
@@ -47,7 +47,7 @@ Die Here het gesê: Neem vir My 'n offer van elkeen wat vrywillig gee. Goud en s
 
 > **Beeldnota:** Tabernakel word opgerig — tent, gordyne, ark binne.
 
-Hulle het die tabernakel gebou — 'n heilige tent. Binne was die ark van die verbond, waar die tablette gehou is. Daar was 'n altaar en 'n lampstand en ander heilige goed, presies soos die Here beveel het. Dit was die plek waar God onder sy volk sou woon.
+Hulle het die tabernakel gebou — 'n heilige tent. Binne was die ark van die verbond, waar die tablette gehou is. Daar was 'n altaar en 'n lampstand en ander heilige goed, presies soos die Here beveel het. Dit was die plek waar God onder sy volk sou woon. Binne was die ark van die verbond, die altaar en die lampstand van suiwer goud. Ark, altaar, lampstand.
 
 ---
 
@@ -57,7 +57,7 @@ Hulle het die tabernakel gebou — 'n heilige tent. Binne was die ark van die ve
 
 > **Beeldnota:** Tabernakel voltooi; Moses staan by ingang; ernstige oomblik.
 
-Toe alles klaar was, het Moses die tabernakel opgerig. Hy het die heilige goed binne gesit. Hy het die altaar en die voorhof opgestel. Alles was volgens die Here se bevel. Aäron en sy seuns is in hulle amp aangestel.
+Toe alles klaar was, het Moses die tabernakel opgerig. Hy het die heilige goed binne gesit. Hy het die altaar en die voorhof opgestel. Alles was volgens die Here se bevel. Aäron en sy seuns is in hulle amp aangestel. Moses het die tabernakel opgerig op die eerste dag van die eerste maand. Aäron as priester.
 
 ---
 
@@ -67,7 +67,7 @@ Toe alles klaar was, het Moses die tabernakel opgerig. Hy het die heilige goed b
 
 > **Beeldnota:** Wolk vul tent; heerlikheid; volk kniel op afstand; sagte lig.
 
-En weet jy wat toe gebeur het? Die wolk het die tent van die samekoms bedek, en die heerlikheid van die Here het die tabernakel gevul. Moses kon nie ingaan nie, want die wolk het daar gebly. Bedags was die wolk bo die tabernakel. Wanneer die wolk opstyg, het Israel getrek. Die Here was in die midde van sy volk.
+En weet jy wat toe gebeur het? Die wolk het die tent van die samekoms bedek, en die heerlikheid van die Here het die tabernakel gevul. Moses kon nie ingaan nie, want die wolk het daar gebly. Bedags was die wolk bo die tabernakel. Wanneer die wolk opstyg, het Israel getrek. Die Here was in die midde van sy volk. Moses kon nie ingaan nie, want die wolk en die heerligheid van die Here het die tabernakel gevul. Wolk en heerlikheid.
 
 ---
 

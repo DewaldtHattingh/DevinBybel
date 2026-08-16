@@ -31,7 +31,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het Jakob van Beërsheba af weggetrek na Haran. Hy het alleen geloop — ver van huis, bang vir Esau, met net 'n stok in sy hand.
 
-Toe die son ondergegaan het, het hy op 'n plek gaan slaap. Daar was klippe op die plek. Hy het een van die klippe onder sy kop geseë en op die grond gaan lê.
+Toe die son ondergegaan het, het hy op 'n plek gaan slaap. Daar was klippe op die plek. Hy het een van die klippe onder sy kop geseë en op die grond gaan lê. Jakob het van Beërsheba weggetrek na Haran. Hy het by Bet-el kamp gemaak.
 
 ---
 
@@ -43,7 +43,7 @@ Toe die son ondergegaan het, het hy op 'n plek gaan slaap. Daar was klippe op di
 
 Jakob het gedroom. Daar staan 'n ladder op die aarde met sy top in die hemel. Engele van God klim op en af op die ladder — op en af, tussen hemel en aarde.
 
-Jakob het in sy droom gesien hoe die hemel en die aarde aan mekaar verbind is.
+Jakob het in sy droom gesien hoe die hemel en die aarde aan mekaar verbind is. Hy het 'n klip onder sy kop gesit en in die ope veld geslaap.
 
 ---
 
@@ -53,7 +53,7 @@ Jakob het in sy droom gesien hoe die hemel en die aarde aan mekaar verbind is.
 
 > **Beeldnota:** Die Here staan bo die ladder; lig oor Jakob.
 
-Die Here het bo die ladder gestaan. Hy het gesê: Ek is die Here, Abraham se God en Isak se God. Die land waarop jy lê, gee Ek aan jou en jou nageslag. Jou nageslag sal soos stof op die aarde wees. Deur jou en jou nageslag sal alle families op aarde geseën word.
+Die Here het bo die ladder gestaan. Hy het gesê: Ek is die Here, Abraham se God en Isak se God. Die land waarop jy lê, gee Ek aan jou en jou nageslag. Jou nageslag sal soos stof op die aarde wees. Deur jou en jou nageslag sal alle families op aarde geseën word. Hy het gedroom van 'n ladder tussen hemel en aarde, met engele wat op en af klim.
 
 ---
 
@@ -65,7 +65,7 @@ Die Here het bo die ladder gestaan. Hy het gesê: Ek is die Here, Abraham se God
 
 Die Here het gesê: Ek is met jou. Ek sal jou beskerm oral waar jy gaan en jou terugbring na hierdie land. Ek sal nie jou los nie totdat Ek gedoen het wat Ek jou beloof het.
 
-Jakob het wakker geword en gesê: Waarlik, die Here is op hierdie plek, en ek het dit nie geweet nie. Hoe vreeslik is hierdie plek! Dit is die huis van God — die poort van die hemel.
+Jakob het wakker geword en gesê: Waarlik, die Here is op hierdie plek, en ek het dit nie geweet nie. Hoe vreeslik is hierdie plek! Dit is die huis van God — die poort van die hemel. Die Here het gesê: Ek is met jou en sal jou terugbring na hierdie land.
 
 ---
 
@@ -77,7 +77,7 @@ Jakob het wakker geword en gesê: Waarlik, die Here is op hierdie plek, en ek he
 
 Jakob het vroeg in die oggend opgestaan. Hy het die klip wat onder sy kop was as altaar opgerig en olie daarop gegooi. Hy het die plek Bet-El genoem — huis van God.
 
-Hy het 'n gelofte gemaak: As die Here my terugbring veilig na my vader se huis, sal die Here my God wees. Toe het hy verder op pad gegaan na Haran, met die belofte nog vars in sy gedagtes.
+Hy het 'n gelofte gemaak: As die Here my terugbring veilig na my vader se huis, sal die Here my God wees. Toe het hy verder op pad gegaan na Haran, met die belofte nog vars in sy gedagtes. Jakob het die plek Bet-el genoem — die huis van God.
 
 ---
 

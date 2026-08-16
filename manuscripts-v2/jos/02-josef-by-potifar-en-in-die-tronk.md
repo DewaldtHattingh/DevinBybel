@@ -30,7 +30,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het handelaars Josef na Egipte gebring. Potifar, een van Farao se amptenare en kaptein van die lyfwag, het hom by die Ismaeliete gekoop.
 
-Die Here was met Josef. Alles wat hy doen, het geslaag. Potifar het gesien dat die Here met Josef is, en alles wat Josef doen, doen die Here voorspoedig. Potifar het Josef oor sy hele huis gestel.
+Die Here was met Josef. Alles wat hy doen, het geslaag. Potifar het gesien dat die Here met Josef is, en alles wat Josef doen, doen die Here voorspoedig. Potifar het Josef oor sy hele huis gestel. Potifar het Josef gekoop. Die Here was met Josef en hy was suksesvol.
 
 ---
 
@@ -42,7 +42,7 @@ Die Here was met Josef. Alles wat hy doen, het geslaag. Potifar het gesien dat d
 
 Potifar se vrou het na Josef gekyk en vir hom gesê: Slaap by my. Josef het nee gesê — my meester vertrou my met alles in sy huis. Ek sal nie hierdie groot kwaad doen en sondig teen God nie.
 
-Sy het dag na dag gepla, maar Josef het geweier. Op 'n dag toe niemand in die huis was nie, het sy sy jas gegryp. Josef het sy jas in haar hand gelaat en weggehardloop na buite.
+Sy het dag na dag gepla, maar Josef het geweier. Op 'n dag toe niemand in die huis was nie, het sy sy jas gegryp. Josef het sy jas in haar hand gelaat en weggehardloop na buite. Potifar se vrou het vir Josef gelieg en gesê hy het haar aangerand.
 
 ---
 
@@ -54,7 +54,7 @@ Sy het dag na dag gepla, maar Josef het geweier. Op 'n dag toe niemand in die hu
 
 Sy het Josef se jas behou en vir haar man gesê: Kyk, die Hebrew slaaf wat jy ingebring het, het my probeer skaad! Toe ek hard geroep het, het hy sy jas gelaat en weggehardloop.
 
-Potifar was kwaad en het Josef in die tronk gegooi waar die koning se gevangenes was. Maar die Here was steeds met Josef — Hy het hom genade gegee voor die tronkhoof.
+Potifar was kwaad en het Josef in die tronk gegooi waar die koning se gevangenes was. Maar die Here was steeds met Josef — Hy het hom genade gegee voor die tronkhoof. Josef is in die tronk gegooi waar die koning se gevangenes was.
 
 ---
 
@@ -66,7 +66,7 @@ Potifar was kwaad en het Josef in die tronk gegooi waar die koning se gevangenes
 
 Farao se skinkbord en bakker het ook in die tronk geland. Hulle het op 'n nag gedroom, en Josef het die volgende oggend gesien hulle is bedroef.
 
-Hy het gevra: Waarom kyk julle vandag so bedroef? Vertel my julle drome. Josef het gesê die drome kom van God. Hy het die drome vertolk: die skinkbord sal weer by Farao dien, maar die bakker sal hang.
+Hy het gevra: Waarom kyk julle vandag so bedroef? Vertel my julle drome. Josef het gesê die drome kom van God. Hy het die drome vertolk: die skinkbord sal weer by Farao dien, maar die bakker sal hang. Die tronkopsigter het alles onder Josef se sorg gegee.
 
 ---
 
@@ -78,7 +78,7 @@ Hy het gevra: Waarom kyk julle vandag so bedroef? Vertel my julle drome. Josef h
 
 So het dit presies gebeur — die skinkbord is terug by Farao, en die bakker is opgehang. Josef het die skinkbord gevra: Onthou my asseblief as jy by Farao is. Vertel hom van my en kry my uit hierdie tronk.
 
-Maar die skinkbord het Josef vergeet. Twee volle jare het verbygegaan, en Josef was nog in die tronk. Maar die Here het hom nie vergeet nie — Hy was steeds by Josef.
+Maar die skinkbord het Josef vergeet. Twee volle jare het verbygegaan, en Josef was nog in die tronk. Maar die Here het hom nie vergeet nie — Hy was steeds by Josef. Josef het die bakker en die wynbewaarder se drome vertolk.
 
 ---
 

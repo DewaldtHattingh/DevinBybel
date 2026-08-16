@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Josua staan alleen; Jordaanrivier in verte; nuwe dag.
 
-**Een dag, lank, lank gelede,** het Moses gesterf. Die Here het vir Josua gesê: Wees sterk en vol moed. Soos Ek met Moses was, sal Ek met jou wees. Ek sal jou nie los of verlaat nie. Trek nou op en gaan die land in wat Ek Israel gegee het.
+**Een dag, lank, lank gelede,** het Moses gesterf. Die Here het vir Josua gesê: Wees sterk en vol moed. Soos Ek met Moses was, sal Ek met jou wees. Ek sal jou nie los of verlaat nie. Trek nou op en gaan die land in wat Ek Israel gegee het. Josua was Moses se dienaar. Die Here het gesê: Trek op en gaan die land in.
 
 ---
 
@@ -38,7 +38,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Jordaan in vloed; Israel se kamp aan oewer; ark sigbaar.
 
-Israel het by die Jordaanrivier gekamp. Die rivier was vol — dit was oesfeestyd en die water het oor al sy banke geloop. Hoe sou hulle oorkom? Die Here het gesê: As die ark van die verbond die water raak, sal die Jordaan opdroog.
+Israel het by die Jordaanrivier gekamp. Die rivier was vol — dit was oesfeestyd en die water het oor al sy banke geloop. Hoe sou hulle oorkom? Die Here het gesê: As die ark van die verbond die water raak, sal die Jordaan opdroog. Die rivier was vol — oesfeestyd — en die water het oor al sy banke geloop. Die ark moes die water raak.
 
 ---
 
@@ -48,7 +48,7 @@ Israel het by die Jordaanrivier gekamp. Die rivier was vol — dit was oesfeesty
 
 > **Beeldnota:** Priesters dra ark in water; water staan stil; wonderbaarlike oomblik.
 
-Die priesters wat die ark gedra het, het die water ingestap. En weet jy wat toe gebeur het? Die water wat van bo af gekom het, het opgestaan soos 'n dam. Die water verder af het weggetrek. Die priesters het in die middel van die rivier gestaan terwyl die hele volk op droë grond oorgestek het.
+Die priesters wat die ark gedra het, het die water ingestap. En weet jy wat toe gebeur het? Die water wat van bo af gekom het, het opgestaan soos 'n dam. Die water verder af het weggetrek. Die priesters het in die middel van die rivier gestaan terwyl die hele volk op droë grond oorgestek het. Die water wat van bo af gekom het, het opgestaan soos 'n dam ver by die stad Adam. Op droë grond oorgestek.
 
 ---
 
@@ -58,7 +58,7 @@ Die priesters wat die ark gedra het, het die water ingestap. En weet jy wat toe 
 
 > **Beeldnota:** Twaalf manne tel twaalf klippe; rivier agter hulle.
 
-Die Here het Josua gesê: Kies twaalf manne — een uit elke stam. Laat hulle twaalf klippe uit die middel van die Jordaan neem en dit as gedenksteen oprig. Wanneer julle kinders vra wat dit beteken, vertel hulle: Israel het hier op droë grond deur die Jordaan gegaan.
+Die Here het Josua gesê: Kies twaalf manne — een uit elke stam. Laat hulle twaalf klippe uit die middel van die Jordaan neem en dit as gedenksteen oprig. Wanneer julle kinders vra wat dit beteken, vertel hulle: Israel het hier op droë grond deur die Jordaan gegaan. Twaalf klippe uit die middel van die Jordaan, waar die priesters se voete gestaan het. Twaalf klippe as gedenksteen.
 
 ---
 
@@ -68,7 +68,7 @@ Die Here het Josua gesê: Kies twaalf manne — een uit elke stam. Laat hulle tw
 
 > **Beeldnota:** Volk veilig aan ander kant; gedenksteen; sagte aand.
 
-Toe almal veilig oorgestek het, het die priesters met die ark uit die rivier gekom. Die water het weer teruggevloei. Israel staan nou in die beloofde land. Josua het sterk en vol moed gewees, want die Here was by hom.
+Toe almal veilig oorgestek het, het die priesters met die ark uit die rivier gekom. Die water het weer teruggevloei. Israel staan nou in die beloofde land. Josua het sterk en vol moed gewees, want die Here was by hom. Israel staan nou in die beloofde land, oorkant Jerigo. Die Here was by Josua. Die hele nasie het die belofte van die Here bevestig.
 
 ---
 

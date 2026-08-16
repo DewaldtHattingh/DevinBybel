@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Goudgeel koringveld; Rut buig om aren op te tel; Naomi wag tuis.
 
-**Een dag, lank, lank gelede,** het Rut en Naomi in Betlehem gebly sonder brood genoeg. Rut het na die koringlande toe gegaan om aren agter die oesers op te tel. Dit was die Here se wet van sorg vir arm mense. Rut het elke oggend vroeg opgestaan.
+**Een dag, lank, lank gelede,** het Rut en Naomi in Betlehem gebly sonder brood genoeg. Rut het na die koringlande toe gegaan om aren agter die oesers op te tel. Dit was die Here se wet van sorg vir arm mense. Rut het elke oggend vroeg opgestaan. Rut het in die veld van Boas geval — 'n familielid van Elimelek. Rut het aren opgetel.
 
 ---
 
@@ -38,7 +38,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Rut tussen ander oesers; sy tel skaars aren; Naomi tuis.
 
-Rut het hard gewerk, maar sy het min gehad. Naomi was oud en kon nie self werk nie. Sy het tuis gebid dat die Here hulle iets sal gee om te eet. Rut se hande was vol aren, maar dit was nog nie genoeg nie.
+Rut het hard gewerk, maar sy het min gehad. Naomi was oud en kon nie self werk nie. Sy het tuis gebid dat die Here hulle iets sal gee om te eet. Rut se hande was vol aren, maar dit was nog nie genoeg nie. Die wet sê arm mense mag aren agter die oesers optel. Naomi het gebid.
 
 ---
 
@@ -48,7 +48,7 @@ Rut het hard gewerk, maar sy het min gehad. Naomi was oud en kon nie self werk n
 
 > **Beeldnota:** Boas op sy perd; kyk na Rut; werkers laat ekstra koring val.
 
-Die land het aan Boas behoort, 'n goeie man uit Naomi se familie. Boas het Rut opgemerk en vir sy werkers gesê sy moet veilig oes en genoeg kos kry. Hy het vir Rut gesê: Moet nie in 'n ander veld gaan oes nie — bly by my meisies. Naomi het uitgevind wie Boas was en gesê: Hy is een van ons naaste familie wat kan red.
+Die land het aan Boas behoort, 'n goeie man uit Naomi se familie. Boas het Rut opgemerk en vir sy werkers gesê sy moet veilig oes en genoeg kos kry. Hy het vir Rut gesê: Moet nie in 'n ander veld gaan oes nie — bly by my meisies. Naomi het uitgevind wie Boas was en gesê: Hy is een van ons naaste familie wat kan red. Boas het vir Rut gesê: Die Here vergoed jou werk onder sy vleuels. Boas het vir Rut genadigheid bewys.
 
 ---
 
@@ -58,7 +58,7 @@ Die land het aan Boas behoort, 'n goeie man uit Naomi se familie. Boas het Rut o
 
 > **Beeldnota:** Dorsvloer in die aand; Boas en Rut in respekvolle gesprek; maanlig.
 
-Rut het op die dorsvloer gegaan soos Naomi gesê het — op 'n eerbare, respekvolle manier. Boas het verstaan wat sy vra. En weet jy wat toe gebeur het? Hy het die regte familieredemption gedoen voor die ouens van die stad. Hy het Rut as vrou geneem.
+Rut het op die dorsvloer gegaan soos Naomi gesê het — op 'n eerbare, respekvolle manier. Boas het verstaan wat sy vra. En weet jy wat toe gebeur het? Hy het die regte familieredemption gedoen voor die ouens van die stad. Hy het Rut as vrou geneem. Boas het die loskoping voltooi voor die ouens van die stad. Loskoping voor die stad.
 
 ---
 
@@ -68,7 +68,7 @@ Rut het op die dorsvloer gegaan soos Naomi gesê het — op 'n eerbare, respekvo
 
 > **Beeldnota:** Boas, Rut en Naomi; klein baba Obed; blydskap by die poort.
 
-Hulle het 'n seuntjie gekry en hom Obed genoem. Ouma Naomi het die kind op haar knieë gelê. Obed sou later die oupa van Isai word — en uit daardie gesin sou koning Dawid kom. Die Here se goedertierenheid het leegheid in nuwe lewe verander.
+Hulle het 'n seuntjie gekry en hom Obed genoem. Ouma Naomi het die kind op haar knieë gelê. Obed sou later die oupa van Isai word — en uit daardie gesin sou koning Dawid kom. Die Here se goedertierenheid het leegheid in nuwe lewe verander. Obed was die oupa van Isai — en uit daardie gesin sou Dawid kom. Obed — oupa van Isai.
 
 ---
 

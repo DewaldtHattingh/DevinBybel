@@ -31,7 +31,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het Satan weer voor die Here verskyn. Die Here het gevra: Het jy my dienaar Job opgemerk? Hy hou vas — regverdig, al het jy My aangespoel om hom te steur sonder rede.
 
-Satan het gesê: Vel vir vel — 'n mens gee alles wat hy het vir sy lewe. Maar streek U sy been uit en raak sy vlees en sy bene — dan sal hy U in die gesig vloek.
+Satan het gesê: Vel vir vel — 'n mens gee alles wat hy het vir sy lewe. Maar streek U sy been uit en raak sy vlees en sy bene — dan sal hy U in die gesig vloek. Satan het Job met swere van sy voetsool tot sy kroon getref.
 
 ---
 
@@ -43,7 +43,7 @@ Satan het gesê: Vel vir vel — 'n mens gee alles wat hy het vir sy lewe. Maar 
 
 Die Here het gesê: Goed, hy is in jou hand — maar spaar sy lewe. Satan het weggegaan en Job met swere van sy kop tot sy voete getref. Job het op 'n ashoop gaan sit en met 'n potskerf sy lyf skaaf.
 
-Sy vrou het na hom gekyk en gesê: Hou jy nog vas aan jou integriteit? Vloek God en sterf!
+Sy vrou het na hom gekyk en gesê: Hou jy nog vas aan jou integriteit? Vloek God en sterf! Job het op 'n ashoop gesit en 'n skerf gebruik om homself te skraap.
 
 ---
 
@@ -55,7 +55,7 @@ Sy vrou het na hom gekyk en gesê: Hou jy nog vas aan jou integriteit? Vloek God
 
 Job het vir sy vrou gesê: Jy praat soos 'n dwaas vrou praat. Sal ons goed van God ontvang en nie kwaad nie? In dit alles het Job nie met sy lippe gesondig nie.
 
-Hy het nie God gelaster nie. Hy het nie sy vrou se woorde gevolg nie. Hy het op die ashoop bly sit — siek, alleen, en steeds getrou.
+Hy het nie God gelaster nie. Hy het nie sy vrou se woorde gevolg nie. Hy het op die ashoop bly sit — siek, alleen, en steeds getrou. Job se vrou het gesê: Vloek God en sterf!
 
 ---
 
@@ -67,7 +67,7 @@ Hy het nie God gelaster nie. Hy het nie sy vrou se woorde gevolg nie. Hy het op 
 
 Job se lyding het nou sy liggaam geraak. Hy het nie net alles verloor nie — hy het siek geword. Sy vel was vol swere. Hy het op die ashoop gesit, die plek waar mense rou en hartseer wys.
 
-Maar hy het God nie gelaster nie. Hy het gesê ons ontvang goed én kwaad van God se hand.
+Maar hy het God nie gelaster nie. Hy het gesê ons ontvang goed én kwaad van God se hand. Drie vriende — Elifaz, Bildad en Sofar — het van ver gekom.
 
 ---
 
@@ -79,7 +79,7 @@ Maar hy het God nie gelaster nie. Hy het gesê ons ontvang goed én kwaad van Go
 
 Job het vasgehou. Hy het nie God gelaster nie, selfs toe sy vrou gesê het hy moet opgee. Hy het op die ashoop bly sit en gewag.
 
-Drie vriende sou binnekort kom — Elifaz, Bildad en Sofar. Hulle sou sewe dae stil by hom sit. Maar eers was Job alleen, siek en getrou.
+Drie vriende sou binnekort kom — Elifaz, Bildad en Sofar. Hulle sou sewe dae stil by hom sit. Maar eers was Job alleen, siek en getrou. Hulle het sewe dae stilgesit — niemand het 'n woord gepraat nie.
 
 ---
 

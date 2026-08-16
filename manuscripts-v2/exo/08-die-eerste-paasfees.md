@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Israelitiese huise; families maak voorbereidings; sagte aandlig.
 
-**Een dag, lank, lank gelede,** het die Here vir Moses en Aäron in Egipte gesê: Hierdie maand is vir julle die begin van die maande. Elke gesin moet 'n lam kies — een sonder gebrek, een jaar oud. Hulle moet dit op die veertiende dag van die maand slag.
+**Een dag, lank, lank gelede,** het die Here vir Moses en Aäron in Egipte gesê: Hierdie maand is vir julle die begin van die maande. Elke gesin moet 'n lam kies — een sonder gebrek, een jaar oud. Hulle moet dit op die veertiende dag van die maand slag. Elke gesin moes 'n lam kies — een sonder gebrek, 'n mannetjie-lam, een jaar oud. Lam sonder gebrek, een jaar oud.
 
 ---
 
@@ -38,7 +38,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Bloed op deurposte met hysop; ongesuurde brood op tafel.
 
-Die Here het presiese instruksies gegee. Neem van die bloed en stryf dit aan beide deurposte en die balk bo die deur. Julle moet die lam in die nag eet — gebraai, met ongesuurde brood en bitter kruie. Eet dit haastig, met julle gordels vas en skoene aan. Geen suurdeeg moes in hulle huise wees nie.
+Die Here het presiese instruksies gegee. Neem van die bloed en stryf dit aan beide deurposte en die balk bo die deur. Julle moet die lam in die nag eet — gebraai, met ongesuurde brood en bitter kruie. Eet dit haastig, met julle gordels vas en skoene aan. Geen suurdeeg moes in hulle huise wees nie. Geen suurdeeg moes in hulle huise wees nie — vir sewe dae moes hulle net ongesuurde brood eet. Sewe dae ongesuurde brood.
 
 ---
 
@@ -48,7 +48,7 @@ Die Here het presiese instruksies gegee. Neem van die bloed en stryf dit aan bei
 
 > **Beeldnota:** Families eet binne; deurposte gemerk; stil ernstige nag.
 
-Dit is die Here se Paasfees. Die hele gemeenskap van Israel moes dit op dieselfde nag eet. Hulle moes haastig eet — gordels vas, skoene aan, staf in die hand. Die bloed op die deur sou 'n teken wees. Waar die Here die bloed sien, sal Hy verbygaan.
+Dit is die Here se Paasfees. Die hele gemeenskap van Israel moes dit op dieselfde nag eet. Hulle moes haastig eet — gordels vas, skoene aan, staf in die hand. Die bloed op die deur sou 'n teken wees. Waar die Here die bloed sien, sal Hy verbygaan. Geen Israeliet moes uit sy huis gaan tot die môre nie. Bloed op die deurposte.
 
 ---
 
@@ -58,7 +58,7 @@ Dit is die Here se Paasfees. Die hele gemeenskap van Israel moes dit op dieselfd
 
 > **Beeldnota:** Gesinne binne met gemerkte deure; wag vir die Here; geen grafiese detail.
 
-En weet jy wat die Here gesê het? As Ek die bloed sien, sal Ek verbygaan, en die pla sal nie oor julle kom om julle te verdelg nie. Die tiende pla sou kom — maar Israel sou beskerm wees deur die bloed van die lam. Moses het die volk geleer om hierdie fees elke jaar te herdenk.
+En weet jy wat die Here gesê het? As Ek die bloed sien, sal Ek verbygaan, en die pla sal nie oor julle kom om julle te verdelg nie. Die tiende pla sou kom — maar Israel sou beskerm wees deur die bloed van die lam. Moses het die volk geleer om hierdie fees elke jaar te herdenk. As Ek die bloed sien, sal Ek verbygaan.
 
 ---
 

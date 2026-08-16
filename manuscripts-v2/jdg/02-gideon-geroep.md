@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Gideon dors koring in wingerd; engel verskyn; aand.
 
-**Een dag, lank, lank gelede,** het Midian Israel swaar onderdruk. Gideon het koring dors om dit vir die Midianiete weg te steek. 'n Engel het verskyn en gesê: Die Here is met jou, dapper held. Gideon het gesê: As die Here met ons is, waarom gebeur dit alles?
+**Een dag, lank, lank gelede,** het Midian Israel swaar onderdruk. Gideon het koring dors om dit vir die Midianiete weg te steek. 'n Engel het verskyn en gesê: Die Here is met jou, dapper held. Gideon het gesê: As die Here met ons is, waarom gebeur dit alles? Die Midianiete het Israel se oes vernietig. Israel het in bergspore gewoon uit vrees. Gideon het koring dors.
 
 ---
 
@@ -38,7 +38,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Gideon breek altaar van Baäl; nag; ernstige daad.
 
-Die Here het Gideon gestuur om Israel te red. Eerste moes hy die altaar van Baäl in sy pa se huis afbreek en 'n altaar vir die Here bou. Gideon was bang, maar hy het dit in die nag gedoen. Die mense wou hom doodmaak, maar sy pa het gesê: Laat Baäl self hom straf as hy kwaad is.
+Die Here het Gideon gestuur om Israel te red. Eerste moes hy die altaar van Baäl in sy pa se huis afbreek en 'n altaar vir die Here bou. Gideon was bang, maar hy het dit in die nag gedoen. Die mense wou hom doodmaak, maar sy pa het gesê: Laat Baäl self hom straf as hy kwaad is. Gideon het die altaar van Baäl in die nag afgebreek met tien diensbode. Altaar van Baäl afgebreek.
 
 ---
 
@@ -48,7 +48,7 @@ Die Here het Gideon gestuur om Israel te red. Eerste moes hy die altaar van Baä
 
 > **Beeldnota:** Gideon vra teken met wol; vloot op grond; ernstige gebed.
 
-Gideon het vir die Here gevra om 'n teken te gee. Hy het 'n wolvloot op die dorsvloer gelê. As daar dou op die wol alleen is en die grond droog, sal ek weet, het hy gesê. So het dit gebeur. Die volgende nag het hy dit omgekeerd gevra — en die Here het weer geluister.
+Gideon het vir die Here gevra om 'n teken te gee. Hy het 'n wolvloot op die dorsvloer gelê. As daar dou op die wol alleen is en die grond droog, sal ek weet, het hy gesê. So het dit gebeur. Die volgende nag het hy dit omgekeerd gevra — en die Here het weer geluister. Die eerste nag was die wol nat en die grond droog. Die tweede nag was dit omgekeerd. Wol en dou as teken.
 
 ---
 
@@ -58,7 +58,7 @@ Gideon het vir die Here gevra om 'n teken te gee. Hy het 'n wolvloot op die dors
 
 > **Beeldnota:** Gideon roep leër op; baie manne kom; Here sê te veel.
 
-En weet jy wat toe gebeur het? Gideon het 'n groot leër opgeroep. Maar die Here het gesê: Daar is te veel manne. Israel sal roem op hulleself en sê: Ons het onsself gered. Gideon het geweet dat die Here iets anders beplan het.
+En weet jy wat toe gebeur het? Gideon het 'n groot leër opgeroep. Maar die Here het gesê: Daar is te veel manne. Israel sal roem op hulleself en sê: Ons het onsself gered. Gideon het geweet dat die Here iets anders beplan het. Twee en twintig duisend man het gekom, maar die Here het gesê: Daar is te veel. Die leër laat krimp.
 
 ---
 
@@ -68,7 +68,7 @@ En weet jy wat toe gebeur het? Gideon het 'n groot leër opgeroep. Maar die Here
 
 > **Beeldnota:** Gideon staan stewig; leër wag; rustige aand.
 
-Gideon was bang, maar die Here het hom geroep. Hy het die altaar van Baäl afgebreek en tekens gevra. God gebruik die swakke — nie die sterkste of die dapperste nie. Die Here was by Gideon. Die groot oorwinning sou volgende kom.
+Gideon was bang, maar die Here het hom geroep. Hy het die altaar van Baäl afgebreek en tekens gevra. God gebruik die swakke — nie die sterkste of die dapperste nie. Die Here was by Gideon. Die groot oorwinning sou volgende kom. Gideon het Midian verslaan. Israel het veertig jaar rus gehad.
 
 ---
 

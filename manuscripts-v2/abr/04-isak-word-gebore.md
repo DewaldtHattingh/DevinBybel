@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het die Here onthou wat Hy vir Sara beloof het. Hy het gedoen wat Hy gesê het — Hy het Sara besoek soos Hy belowe het.
 
-Sara het swanger geword en 'n seun vir Abraham gebaar in sy ouderdom, op die tyd wat God vir hom gesê het.
+Sara het swanger geword en 'n seun vir Abraham gebaar in sy ouderdom, op die tyd wat God vir hom gesê het. Die Here het Sara besoek soos Hy beloof het. Sara het swanger geword. Die Here het Sara besoek.
 
 ---
 
@@ -40,7 +40,7 @@ Sara het swanger geword en 'n seun vir Abraham gebaar in sy ouderdom, op die tyd
 
 Abraham was honderd jaar oud toe sy seun Isak vir hom gebore is. Sara het gesê: God het my laat lag — almal wat hoor sal saamlag.
 
-Sy het gesê: Wie sou vir Abraham gesê Sara sou bors voed? En tog het ek vir hom 'n seun gebaar in sy ouderdom.
+Sy het gesê: Wie sou vir Abraham gesê Sara sou bors voed? En tog het ek vir hom 'n seun gebaar in sy ouderdom. Abraham was honderd jaar oud toe Isak gebore is. Abraham was honderd jaar oud.
 
 ---
 
@@ -52,7 +52,7 @@ Sy het gesê: Wie sou vir Abraham gesê Sara sou bors voed? En tog het ek vir ho
 
 Abraham het die seun Isak genoem — want Sara het gesê God het my laat lag van blydskap. Die naam Isak beteken hy lag.
 
-Die belofte wat so onmoontlik gelyk het, het waar geword — 'n seun vir Abraham en Sara, presies soos God belowe het, teen die stel tyd.
+Die belofte wat so onmoontlik gelyk het, het waar geword — 'n seun vir Abraham en Sara, presies soos God belowe het, teen die stel tyd. Sara het gesê: God het my laat lag. Almal wat dit hoor, sal saam met my lag. Isak beteken lag.
 
 ---
 
@@ -64,7 +64,7 @@ Die belofte wat so onmoontlik gelyk het, het waar geword — 'n seun vir Abraham
 
 Abraham het Isak op die agtste dag besny, soos God beveel het. Die seun van die belofte was nou deel van die verbond — Isak, nie Ismael nie, was die een deur wie God sy belofte sou voortsit.
 
-Sara het gelag — nie meer van ongeloof nie, maar van blydskap. God het haar laat lag.
+Sara het gelag — nie meer van ongeloof nie, maar van blydskap. God het haar laat lag. Op die dag Isak gespeen is, het Sara Hagar en Ismaël weggejaag.
 
 ---
 
@@ -76,7 +76,7 @@ Sara het gelag — nie meer van ongeloof nie, maar van blydskap. God het haar la
 
 Sara het gesê: God het my laat lag — almal wat hoor sal saamlag. Wie sou gesê het Sara sou nog 'n baba kry, nou dat sy so oud is?
 
-Maar God het dit gedoen, presies soos Hy belowe het. Isak se naam herinner almal daaraan — lag van blydskap, omdat God sy woord hou.
+Maar God het dit gedoen, presies soos Hy belowe het. Isak se naam herinner almal daaraan — lag van blydskap, omdat God sy woord hou. God het vir Hagar gesê: Ek sal Ismaël 'n groot nasie maak. God het ook Ismaël geseën.
 
 ---
 

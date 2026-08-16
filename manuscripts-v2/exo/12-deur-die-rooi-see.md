@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Moses steek hand uit; sterk wind; water begin skei.
 
-**Een dag, lank, lank gelede,** het Moses sy staf oor die see uitgestrek. Die Here het 'n sterk oostewind die hele nag geblaas. Die water het teruggewyk, en die seebodem het droog geword. Die engel van God en die wolk het van voor Israel af na agter hulle gegaan.
+**Een dag, lank, lank gelede,** het Moses sy staf oor die see uitgestrek. Die Here het 'n sterk oostewind die hele nag geblaas. Die water het teruggewyk, en die seebodem het droog geword. Die engel van God en die wolk het van voor Israel af na agter hulle gegaan. Die Here het 'n sterk oostewind die hele nag geblaas. Die water het teruggewyk. Oostewind die hele nag.
 
 ---
 
@@ -38,7 +38,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Egiptiese leër nader; wolk tussen hulle en Israel; spanning.
 
-Die wolk het vir Israel lig gegee en vir die Egiptenaars duisternis. Die Egiptenaars het nader gekom. Israel staan voor 'n oop see — maar die pad is nog nie daar nie. Moses het sy hand die hele nag oor die see uitgestrek.
+Die wolk het vir Israel lig gegee en vir die Egiptenaars duisternis. Die Egiptenaars het nader gekom. Israel staan voor 'n oop see — maar die pad is nog nie daar nie. Moses het sy hand die hele nag oor die see uitgestrek. Die hele nag het die een nie nader aan die ander gekom nie. Wolk tussen Israel en Egipte.
 
 ---
 
@@ -48,7 +48,7 @@ Die wolk het vir Israel lig gegee en vir die Egiptenaars duisternis. Die Egipten
 
 > **Beeldnota:** Israel loop tussen twee watermure; wolk agter hulle; wonderbaarlike pad.
 
-En weet jy wat toe gebeur het? Die kinders van Israel het deur die see op droë grond gegaan. Water staan links en regs soos mure. Die wolk het tussen hulle en die Egiptenaars gegaan. Toe Israel veilig aan die ander kant was, het die Egiptenaars agterna gegaan — al hulle perde, strydwagens en ruiters.
+En weet jy wat toe gebeur het? Die kinders van Israel het deur die see op droë grond gegaan. Water staan links en regs soos mure. Die wolk het tussen hulle en die Egiptenaars gegaan. Toe Israel veilig aan die ander kant was, het die Egiptenaars agterna gegaan — al hulle perde, strydwagens en ruiters. Water staan links en regs soos mure — 'n muur aan hulle regterkant en linkerkant. Water soos mure.
 
 ---
 
@@ -58,7 +58,7 @@ En weet jy wat toe gebeur het? Die kinders van Israel het deur die see op droë 
 
 > **Beeldnota:** Moses steek hand weer uit; water vloei terug; geen grafiese detail.
 
-Moses het weer sy hand oor die see uitgestrek. Die water het teruggekeer en die strydwagens en ruiters bedek. Die Here het na die Egiptenaars gekyk deur die vuursag en hulle wielruppe laat los. Nie een van hulle was oor nie. Israel het gesien dat die Here groot redding gegee het.
+Moses het weer sy hand oor die see uitgestrek. Die water het teruggekeer en die strydwagens en ruiters bedek. Die Here het na die Egiptenaars gekyk deur die vuursag en hulle wielruppe laat los. Nie een van hulle was oor nie. Israel het gesien dat die Here groot redding gegee het. Die Egiptenaars het gesê: Laat ons vlug van Israel af, want die Here veg vir hulle! Water terug oor die Egiptenaars.
 
 ---
 
@@ -68,7 +68,7 @@ Moses het weer sy hand oor die see uitgestrek. Die water het teruggekeer en die 
 
 > **Beeldnota:** Israel veilig aan oewer; Miryam met trommel; blydskap.
 
-Miryam en die vroue het getrommel en gesing: Ek wil die Here loof, want Hy is hoog verhewe. Die Here was by sy volk. Waar hulle vasgekeer gevoel het, het God 'n weg gemaak. Die see het oopgegaan, en Israel was vry.
+Miryam en die vroue het getrommel en gesing: Ek wil die Here loof, want Hy is hoog verhewe. Die Here was by sy volk. Waar hulle vasgekeer gevoel het, het God 'n weg gemaak. Die see het oopgegaan, en Israel was vry. Miryam, die profetes, het 'n trommel geneem en die vroue het agter haar uitgegaan. Miryam het getrommel.
 
 ---
 

@@ -32,7 +32,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het Abram in Mesopotamië gewoon, in die stad Ur. Hy het 'n vrou Sarai gehad en 'n neef Lot. Hulle het in tente gewoon en vee gehad.
 
-Die Here het vir Abram gesê: Gaan weg uit jou land, jou familie en jou vader se huis na 'n land wat Ek jou sal wys. Abram het nie geweet waarheen hy sou gaan nie — maar God sou die pad wys.
+Die Here het vir Abram gesê: Gaan weg uit jou land, jou familie en jou vader se huis na 'n land wat Ek jou sal wys. Abram het nie geweet waarheen hy sou gaan nie — maar God sou die pad wys. Abram het in Ur in Mesopotamië gewoon. Die Here het gesê: Gaan na 'n land wat Ek jou sal wys.
 
 ---
 
@@ -44,7 +44,7 @@ Die Here het vir Abram gesê: Gaan weg uit jou land, jou familie en jou vader se
 
 God het beloof: Ek sal jou 'n groot nasie maak. Ek sal jou seën en jou naam groot maak. Deur jou sal alle families op aarde geseën word. Ek sal diegene seën wat jou seën, en diegene vervloek wat jou vervloek.
 
-Abram het geglo. Hy was sewentig jaar oud toe hy vertrek het — met Sarai, Lot en al hulle vee en goed. Hulle het die pad na Kanaän ingeslaan.
+Abram het geglo. Hy was sewentig jaar oud toe hy vertrek het — met Sarai, Lot en al hulle vee en goed. Hulle het die pad na Kanaän ingeslaan. Deur jou sal alle families op aarde geseën word. Abram was sewentig jaar toe hy vertrek het.
 
 ---
 
@@ -56,7 +56,7 @@ Abram het geglo. Hy was sewentig jaar oud toe hy vertrek het — met Sarai, Lot 
 
 Hulle het na Kanaän gekom. Abram het die land deurgetrek tot by die groot boom More by Sichem. Die Canaaniete was al in die land. Die Here het aan Abram verskyn en gesê: Aan jou nageslag sal Ek hierdie land gee.
 
-Abram het daar 'n altaar vir die Here gebou. Hy het die Here aangeroep en Hom gedank vir die belofte.
+Abram het daar 'n altaar vir die Here gebou. Hy het die Here aangeroep en Hom gedank vir die belofte. Die Here het aan Abram verskyn by die groot boom More en gesê: Aan jou nageslag sal Ek hierdie land gee.
 
 ---
 
@@ -68,7 +68,7 @@ Abram het daar 'n altaar vir die Here gebou. Hy het die Here aangeroep en Hom ge
 
 Abram het verder getrek na die berg tussen Bet-el en Ai. Hy het sy tent daar opgeslaan, met Bet-el aan die weste en Ai aan die ooste. Hy het 'n altaar gebou en die Here aangeroep.
 
-Van daar het hy stadig suid getrek na die Negev-land. Oral waar hy kamp opgeslaan het, het hy altare gebou vir die Here.
+Van daar het hy stadig suid getrek na die Negev-land. Oral waar hy kamp opgeslaan het, het hy altare gebou vir die Here. Hy het 'n altaar gebou tussen Bet-el en Ai en die Here aangeroep.
 
 ---
 
@@ -80,7 +80,7 @@ Van daar het hy stadig suid getrek na die Negev-land. Oral waar hy kamp opgeslaa
 
 Abram het nie alles verstaan nie — waarheen die pad sou lei, of wanneer die belofte sou kom. Maar hy het geluister en gegaan, stap vir stap, met net God se woord om op te bou.
 
-Die Here was by hom op die pad. So het Abram se reis begin — 'n reis van geloof na die land wat God beloof het.
+Die Here was by hom op die pad. So het Abram se reis begin — 'n reis van geloof na die land wat God beloof het. Abram het geglo en die Here het hom gereken as regverdig.
 
 ---
 

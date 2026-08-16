@@ -29,7 +29,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Swerms vlieë oor Egiptiese stad; Israel se kamp in Gosen skoon; warm dag.
 
-**Een dag, lank, lank gelede,** het die vierde pla oor Egipte gekom. Die Here het vir Moses gesê: Maak jouself gereed en staan vroeg voor Farao. Laat my volk gaan. As jy weier, sal Ek swerms vlieë op jou en jou dienaars en jou volk en in jou huise stuur.
+**Een dag, lank, lank gelede,** het die vierde pla oor Egipte gekom. Die Here het vir Moses gesê: Maak jouself gereed en staan vroeg voor Farao. Laat my volk gaan. As jy weier, sal Ek swerms vlieë op jou en jou dienaars en jou volk en in jou huise stuur. Die Here het gesê: As jy weier, sal Ek swerms vlieë op jou en jou dienaars en jou volk stuur.
 
 ---
 
@@ -39,7 +39,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Vlieë oral in huise; Egiptenaars waaier; geen wonde gewys nie.
 
-Swerms vlieë het Egipte volgemaak. Hulle was oral — in paleise en in huise. Die land was verwoes deur die vlieë. Maar in Gosien, waar Israel gewoon het, was daar geen vlieë nie. Die Here het onderskeid gemaak tussen sy volk en Egipte. Farao het Moses gevra om te bid, maar toe die vlieë weg was, het hy weer geweier.
+Swerms vlieë het Egipte volgemaak. Hulle was oral — in paleise en in huise. Die land was verwoes deur die vlieë. Maar in Gosien, waar Israel gewoon het, was daar geen vlieë nie. Die Here het onderskeid gemaak tussen sy volk en Egipte. Farao het Moses gevra om te bid, maar toe die vlieë weg was, het hy weer geweier. In Gosien, waar Israel gewoon het, was daar geen vlieë nie. Die Here het onderskeid gemaak.
 
 ---
 
@@ -49,7 +49,7 @@ Swerms vlieë het Egipte volgemaak. Hulle was oral — in paleise en in huise. D
 
 > **Beeldnota:** Dooie vee in Egiptiese veld; Israel se vee lewendig; vyfde pla.
 
-Die vyfde pla het gekom. Al die vee van die Egiptenaars het gesterf — perde, esels, kamele, beeste en skape. Maar nie een van Israel se vee het gesterf nie. Die Here het weer onderskeid gemaak. Farao het gesien dat Israel se vee nog leef, maar sy hart het hard gebly.
+Die vyfde pla het gekom. Al die vee van die Egiptenaars het gesterf — perde, esels, kamele, beeste en skape. Maar nie een van Israel se vee het gesterf nie. Die Here het weer onderskeid gemaak. Farao het gesien dat Israel se vee nog leef, maar sy hart het hard gebly. Al die vee van die Egiptenaars het gesterf, maar nie een van Israel se vee nie.
 
 ---
 
@@ -59,7 +59,7 @@ Die vyfde pla het gekom. Al die vee van die Egiptenaars het gesterf — perde, e
 
 > **Beeldnota:** Mense met sere op vel; sesde pla; geen grafiese wonde nie.
 
-En weet jy wat toe gebeur het? Die sesde pla het gekom. Moses het stof in die lug gegooi, en dit het sere geword op mense en diere in Egipte. Farao se towenaars kon nie voor Moses staan nie — hulle was ook met sere bedek. Maar die Here het Farao se hart verhard. Hy wou steeds nie laat gaan nie.
+En weet jy wat toe gebeur het? Die sesde pla het gekom. Moses het stof in die lug gegooi, en dit het sere geword op mense en diere in Egipte. Farao se towenaars kon nie voor Moses staan nie — hulle was ook met sere bedek. Maar die Here het Farao se hart verhard. Hy wou steeds nie laat gaan nie. Moses en Aäron het stof in die lug gegooi, en dit het sere geword op mense en diere.
 
 ---
 
@@ -69,7 +69,7 @@ En weet jy wat toe gebeur het? Die sesde pla het gekom. Moses het stof in die lu
 
 > **Beeldnota:** Israel se kamp veilig in Gosen; Egipte ly; rustige aand.
 
-Ses plae was verby — vlieë, veepes en sere. Elke keer het die Here onderskeid gemaak tussen Israel en Egipte. Farao het steeds geweier. Moses en Aäron het geweet dat nog plae sou kom. Die Here was by sy volk.
+Ses plae was verby — vlieë, veepes en sere. Elke keer het die Here onderskeid gemaak tussen Israel en Egipte. Farao het steeds geweier. Moses en Aäron het geweet dat nog plae sou kom. Die Here was by sy volk. Ses plae was verby. Elke keer het die Here onderskeid gemaak tussen Israel en Egipte.
 
 ---
 

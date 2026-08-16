@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Nylrivier rooi; Egiptenaars verbaas; eerste pla begin.
 
-**Een dag, lank, lank gelede,** het Moses en Aäron weer voor Farao gestaan. Die Here het gesê: Laat my volk gaan. Farao het geweier. So het die eerste plae begin — presies soos God gesê het. Aäron het sy staf oor die riviere uitgestrek. Die water van die Nyl het bloed geword.
+**Een dag, lank, lank gelede,** het Moses en Aäron weer voor Farao gestaan. Die Here het gesê: Laat my volk gaan. Farao het geweier. So het die eerste plae begin — presies soos God gesê het. Aäron het sy staf oor die riviere uitgestrek. Die water van die Nyl het bloed geword. Die Here het vir Moses gesê: Sê vir Aäron, neem jou staf en strek jou hand uit oor die riviere van Egipte.
 
 ---
 
@@ -38,7 +38,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Rooi rivier; vis dood; Egiptenaars kan nie drink nie; geen grafiese detail.
 
-Die vis in die rivier het gesterf. Die water het stank — sewe dae lank. Die Egiptenaars kon nie daaruit drink nie. Hulle het gate gegrawe om water te soek. Farao se towenaars het dieselfde met hulle towerkunste gedoen, maar Farao se hart het hard gebly. Hy wou steeds nie Israel laat gaan nie.
+Die vis in die rivier het gesterf. Die water het stank — sewe dae lank. Die Egiptenaars kon nie daaruit drink nie. Hulle het gate gegrawe om water te soek. Farao se towenaars het dieselfde met hulle towerkunste gedoen, maar Farao se hart het hard gebly. Hy wou steeds nie Israel laat gaan nie. Die vis in die rivier het gesterf. Sewe dae lank kon die Egiptenaars nie drink nie.
 
 ---
 
@@ -48,7 +48,7 @@ Die vis in die rivier het gesterf. Die water het stank — sewe dae lank. Die Eg
 
 > **Beeldnota:** Paddas oral in huise en bedde; tweede pla; geen geweld.
 
-Die tweede pla het gekom. Aäron het sy hand uitgestrek oor die riviere, en paddas het oral gekom — in bedde, oonde en bakke. Farao se towenaars kon die paddas nie wegneem nie. Farao het vir Moses gesê: Bid dat die paddas weggaan, dan sal ek die volk laat gaan. Moses het gebid, en die paddas is dood. Maar Farao het weer hard geword.
+Die tweede pla het gekom. Aäron het sy hand uitgestrek oor die riviere, en paddas het oral gekom — in bedde, oonde en bakke. Farao se towenaars kon die paddas nie wegneem nie. Farao het vir Moses gesê: Bid dat die paddas weggaan, dan sal ek die volk laat gaan. Moses het gebid, en die paddas is dood. Maar Farao het weer hard geword. Farao het vir Moses gesê: Bid dat die paddas weggaan. Moses het gebid, maar Farao het weer hard geword.
 
 ---
 
@@ -58,7 +58,7 @@ Die tweede pla het gekom. Aäron het sy hand uitgestrek oor die riviere, en padd
 
 > **Beeldnota:** Stof op grond word lewendige muggies; derde pla; mense en diere.
 
-En weet jy wat toe gebeur het? Die derde pla het gekom. Aäron het sy staf geslaan op die stof van die aarde. Die stof het lewendige muggies geword op mense en diere. Farao se towenaars het probeer, maar hulle kon dit nie doen nie. Hulle het vir Farao gesê: Dit is die vinger van God. Maar Farao se hart was hard. Hy wou nie luister nie.
+En weet jy wat toe gebeur het? Die derde pla het gekom. Aäron het sy staf geslaan op die stof van die aarde. Die stof het lewendige muggies geword op mense en diere. Farao se towenaars het probeer, maar hulle kon dit nie doen nie. Hulle het vir Farao gesê: Dit is die vinger van God. Maar Farao se hart was hard. Hy wou nie luister nie. Aäron het sy staf geslaan op die stof van die aarde, en die stof het lewendige muggies geword.
 
 ---
 
@@ -68,7 +68,7 @@ En weet jy wat toe gebeur het? Die derde pla het gekom. Aäron het sy staf gesla
 
 > **Beeldnota:** Moses en Aäron verlaat paleis; drie plae verby; rustige spanning.
 
-Drie plae was verby — bloed, paddas en muggies. Farao het steeds nie laat gaan nie. Moses en Aäron het geweet dat meer plae sou kom. Die Here was by sy volk. Hy oordeel Egipte omdat Farao weier.
+Drie plae was verby — bloed, paddas en muggies. Farao het steeds nie laat gaan nie. Moses en Aäron het geweet dat meer plae sou kom. Die Here was by sy volk. Hy oordeel Egipte omdat Farao weier. Drie plae was verby, maar Farao het steeds nie laat gaan nie. Die Here was by sy volk in Gosien.
 
 ---
 

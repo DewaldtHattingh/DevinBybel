@@ -30,7 +30,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het die Here Job uit 'n stormwind geantwoord. Job het lank gewag. Hy het vir God gevra waarom. Nou het God gepraat.
 
-Hy het nie eers met Job se vrae begin nie. Hy het met vrae begin — vir Job.
+Hy het nie eers met Job se vrae begin nie. Hy het met vrae begin — vir Job. Die Here het uit 'n stormwind gepraat — magtig en heilig. Uit die stormwind.
 
 ---
 
@@ -42,7 +42,7 @@ Hy het nie eers met Job se vrae begin nie. Hy het met vrae begin — vir Job.
 
 Waar was jy toe Ek die aarde se fondamente gelê het? Wie het die see sy grense gegee? Het jy die môresterre gesien? Ken jy die pad na die plek waar lig woon?
 
-God het Job gevra oor die skepping — die see, die wolke, die reën, die sneeu, die sterre. Job kon nie antwoord nie.
+God het Job gevra oor die skepping — die see, die wolke, die reën, die sneeu, die sterre. Job kon nie antwoord nie. Waar was jy toe Ek die fondamente van die aarde gelê het? Waar was jy toe Ek die aarde gelê het?
 
 ---
 
@@ -54,7 +54,7 @@ God het Job gevra oor die skepping — die see, die wolke, die reën, die sneeu,
 
 God het ook van die diere gepraat — die leeu, die bokke, die arend, die perd, die krokodil. Wie gee hulle kos? Wie ken hulle geboorte? Wie het hulle gemaak?
 
-Job het geluister. Hy het nie al die antwoorde gehad nie. Niemand het nie, behalwe God.
+Job het geluister. Hy het nie al die antwoorde gehad nie. Niemand het nie, behalwe God. God het van die leeu, die bok, die arend en die behemoth gepraat. Van die diere gepraat.
 
 ---
 
@@ -66,7 +66,7 @@ Job het geluister. Hy het nie al die antwoorde gehad nie. Niemand het nie, behal
 
 Job het vir die Here gesê: Ek is onbeduidend — wat kan ek U antwoord? Ek sal my hand op my mond sit. Ek het een keer gepraat, maar ek sal nie antwoord nie — twee keer nie, want Ek weet dit nie.
 
-Job het gesien: God is groter as enige menslike vraag. Die skepping wys sy wysheid en sy mag.
+Job het gesien: God is groter as enige menslike vraag. Die skepping wys sy wysheid en sy mag. Job het gesê: Ek het U gehoor met die ore, maar nou sien ek U met my oë. Job het erken: ek het te veel gepraat.
 
 ---
 
@@ -80,7 +80,7 @@ God het nie elke detail verduidelik nie. Hy het Job gewys wie Hy is — die Make
 
 Job het gesê: Ek het van U gehoor met die ore, maar nou sien ek U met my oë. Ek het te veel gepraat — dinge wat ek nie verstaan het nie.
 
-Die storm het geslaag. God het gepraat. Job het geluister.
+Die storm het geslaag. God het gepraat. Job het geluister. Job het sy hand op sy mond gesit en erken God is groter as sy vrae.
 
 ---
 

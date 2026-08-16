@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Israel se leër trek na Ai; klein stad in verte; oggendlig.
 
-**Een dag, lank, lank gelede,** het Israel Jerigo geneem. Josua het manne na die klein stad Ai gestuur. Moenie die hele leër stuur nie, het hy gesê — net 'n paar duisend man. Israel was selfversekerd. Maar iets was verkeerd in die kamp.
+**Een dag, lank, lank gelede,** het Israel Jerigo geneem. Josua het manne na die klein stad Ai gestuur. Moenie die hele leër stuur nie, het hy gesê — net 'n paar duisend man. Israel was selfversekerd. Maar iets was verkeerd in die kamp. Die Here het gesê: Moenie alles van Jerigo vir julleself neem nie — dit is gewy. Selfversekerd na Jerigo.
 
 ---
 
@@ -38,7 +38,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Israel vlug; manne val; Josua kniel; ernstige gesig.
 
-Die manne van Ai het Israel verslaan. Sowat ses en dertig manne is dood. Die res het teruggevlug. Israel se harte het gesmelt en geword soos water. Josua het voor die ark van die Here gekniel. Waarom het U ons oor die Jordaan gebring om ons te laat vernietig? het hy gevra.
+Die manne van Ai het Israel verslaan. Sowat ses en dertig manne is dood. Die res het teruggevlug. Israel se harte het gesmelt en geword soos water. Josua het voor die ark van die Here gekniel. Waarom het U ons oor die Jordaan gebring om ons te laat vernietig? het hy gevra. Sowat ses en dertig manne is dood. Israel se harte het gesmelt. Josua het gekniel.
 
 ---
 
@@ -48,7 +48,7 @@ Die manne van Ai het Israel verslaan. Sowat ses en dertig manne is dood. Die res
 
 > **Beeldnota:** Die Here praat met Josua; ernstige oomblik; volk wag.
 
-Die Here het vir Josua gesê: Israel het gesondig. Hulle het my verbond oortree en van die gewyde goed geneem. Hulle het gelieg en dit onder hulle goed weggesteek. Daarom kan Israel nie voor sy vyande staan nie. Verwyder die sonde uit julle midde, of Ek sal nie meer by julle wees nie.
+Die Here het vir Josua gesê: Israel het gesondig. Hulle het my verbond oortree en van die gewyde goed geneem. Hulle het gelieg en dit onder hulle goed weggesteek. Daarom kan Israel nie voor sy vyande staan nie. Verwyder die sonde uit julle midde, of Ek sal nie meer by julle wees nie. Daar is verbode goed in die kamp. Verwyder die sonde uit julle midde. Sonde uit die kamp.
 
 ---
 
@@ -58,7 +58,7 @@ Die Here het vir Josua gesê: Israel het gesondig. Hulle het my verbond oortree 
 
 > **Beeldnota:** Agan voor Josua; mantel, silwer en goud; ernstig; geen geweld.
 
-En weet jy wat toe gebeur het? Agan, die seun van Karmi, is uitgevind. Hy het bely: Ek het 'n Babiloniese mantel gesien, en silwer en goud. Ek het dit begeer en geneem. Ek het dit onder my tent versteek. Die Here het Israel se nederlaag veroorsaak omdat een man gesondig het.
+En weet jy wat toe gebeur het? Agan, die seun van Karmi, is uitgevind. Hy het bely: Ek het 'n Babiloniese mantel gesien, en silwer en goud. Ek het dit begeer en geneem. Ek het dit onder my tent versteek. Die Here het Israel se nederlaag veroorsaak omdat een man gesondig het. Agan het 'n Babiloniese mantel, silwer en goud gesteel en onder sy tent versteek. Agan het bely.
 
 ---
 
@@ -68,7 +68,7 @@ En weet jy wat toe gebeur het? Agan, die seun van Karmi, is uitgevind. Hy het be
 
 > **Beeldnota:** Israel weer sterk; Ai val; Josua staan stewig; rustige aand.
 
-Die sonde is uit die kamp verwyder. Toe het die Here weer met Israel gewees. Josua het Ai met 'n nuwe plan geneem — en hierdie keer het Israel gewen. Die Here het gewys: sonde in die kamp maak die hele volk swak. Maar wanneer die sonde weg is, lei God weer.
+Die sonde is uit die kamp verwyder. Toe het die Here weer met Israel gewees. Josua het Ai met 'n nuwe plan geneem — en hierdie keer het Israel gewen. Die Here het gewys: sonde in die kamp maak die hele volk swak. Maar wanneer die sonde weg is, lei God weer. Die tweede keer het Josua 'n hinderlaag geleg en Ai geneem.
 
 ---
 

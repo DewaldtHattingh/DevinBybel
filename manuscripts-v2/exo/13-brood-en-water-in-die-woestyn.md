@@ -27,7 +27,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Woestynkamp; Israeliete lyk moeg; son breek.
 
-**Een dag, lank, lank gelede,** het Israel in die woestyn getrek. Hulle het begin kla dat hulle nie genoeg kos het nie. Hulle het die vleispotte in Egipte onthou. Die Here het vir Moses gesê: Ek sal vir julle brood uit die hemel laat reën. Die hele gemeenskap het teen Moses en Aäron gekla in die woestyn van Sin.
+**Een dag, lank, lank gelede,** het Israel in die woestyn getrek. Hulle het begin kla dat hulle nie genoeg kos het nie. Hulle het die vleispotte in Egipte onthou. Die Here het vir Moses gesê: Ek sal vir julle brood uit die hemel laat reën. Die hele gemeenskap het teen Moses en Aäron gekla in die woestyn van Sin. Hulle het die vleispotte in Egipte onthou. Die Here het gesê: Ek sal brood uit die hemel laat reën. Israel het in die woestyn van Sin gekla.
 
 ---
 
@@ -37,7 +37,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Wit korrels op grond; mense tel dit; wonder in gesigte.
 
-Die volgende oggend lê daar wit korrels rondom die kamp. Wat is dit? het hulle gevra. Dis die brood wat die Here vir julle gegee het, het Moses gesê. Elkeen moet net genoeg vir daardie dag insamel. Sondag moet julle niks insamel nie — daar sal dubbel wees. Sommige het te veel gehou, en dit het wurms gekry. Sommige het te veel manna gehou, en dit het wurms gekry en stink.
+Die volgende oggend lê daar wit korrels rondom die kamp. Wat is dit? het hulle gevra. Dis die brood wat die Here vir julle gegee het, het Moses gesê. Elkeen moet net genoeg vir daardie dag insamel. Sondag moet julle niks insamel nie — daar sal dubbel wees. Sommige het te veel gehou, en dit het wurms gekry. Sommige het te veel manna gehou, en dit het wurms gekry en stink. Elkeen moet net genoeg vir daardie dag insamel — twee liter per persoon. Sondag dubbel insamel.
 
 ---
 
@@ -47,7 +47,7 @@ Die volgende oggend lê daar wit korrels rondom die kamp. Wat is dit? het hulle 
 
 > **Beeldnota:** Kwartels val in kamp; families eet; sagte aand.
 
-Die Here het ook voëls — kwartels — laat val, sodat die volk vleis gehad het. Hulle het die wit korrels manna genoem. Moses het 'n kruik vol manna voor die Here bewaar, sodat toekomstige geslagte kon sien wat God in die woestyn gegee het. So het Israel veertig jaar manna geëet. Moses het 'n kruik vol manna voor die Here bewaar vir toekomstige geslagte.
+Die Here het ook voëls — kwartels — laat val, sodat die volk vleis gehad het. Hulle het die wit korrels manna genoem. Moses het 'n kruik vol manna voor die Here bewaar, sodat toekomstige geslagte kon sien wat God in die woestyn gegee het. So het Israel veertig jaar manna geëet. Moses het 'n kruik vol manna voor die Here bewaar vir toekomstige geslagte. Veertig jaar manna geëet.
 
 ---
 
@@ -57,7 +57,7 @@ Die Here het ook voëls — kwartels — laat val, sodat die volk vleis gehad he
 
 > **Beeldnota:** Geen water; mense kla; Moses by rots.
 
-Later het hulle by Refidim gekamp, maar daar was geen water nie. Hulle het weer gemurmureer teen Moses. Die Here het vir Moses gesê: Neem jou staf en gaan voor die volk. Ek sal voor jou staan op die rots by Horeb. Slaan op die rots, en water sal uitkom. Moses het die rots geslaan in die teenwoordigheid van die oudstes van Israel.
+Later het hulle by Refidim gekamp, maar daar was geen water nie. Hulle het weer gemurmureer teen Moses. Die Here het vir Moses gesê: Neem jou staf en gaan voor die volk. Ek sal voor jou staan op die rots by Horeb. Slaan op die rots, en water sal uitkom. Moses het die rots geslaan in die teenwoordigheid van die oudstes van Israel. Die Here het vir Moses gesê: Slaan op die rots by Horeb, en water sal uitkom. Water uit die rots by Horeb.
 
 ---
 
@@ -67,7 +67,7 @@ Later het hulle by Refidim gekamp, maar daar was geen water nie. Hulle het weer 
 
 > **Beeldnota:** Water stroom uit rots; volk drink; rustige verligting.
 
-En weet jy wat toe gebeur het? Moses het die rots geslaan soos die Here gesê het. Water het uitgekom, en die volk het gedrink. Moses het die plek Massa en Meriba genoem, want Israel het die Here daar getoets. Maar die Here het voorsien. Brood uit die hemel en water uit die rots. Die Here het voorsien — brood uit die hemel en water uit die rots by Refidim.
+En weet jy wat toe gebeur het? Moses het die rots geslaan soos die Here gesê het. Water het uitgekom, en die volk het gedrink. Moses het die plek Massa en Meriba genoem, want Israel het die Here daar getoets. Maar die Here het voorsien. Brood uit die hemel en water uit die rots. Die Here het voorsien — brood uit die hemel en water uit die rots by Refidim. Die Here het voorsien.
 
 ---
 

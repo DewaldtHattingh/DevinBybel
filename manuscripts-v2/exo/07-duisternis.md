@@ -26,7 +26,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Moses voor Farao; donker wolk begin opstap; ernstige atmosfeer.
 
-**Een dag, lank, lank gelede,** het die negende pla oor Egipte gekom. Die Here het vir Moses gesê: Strek jou hand uit na die hemel, en daar sal duisternis wees oor die land van Egipte — duisternis wat gevoel kan word. Moses het sy hand na die hemel uitgestrek.
+**Een dag, lank, lank gelede,** het die negende pla oor Egipte gekom. Die Here het vir Moses gesê: Strek jou hand uit na die hemel, en daar sal duisternis wees oor die land van Egipte — duisternis wat gevoel kan word. Moses het sy hand na die hemel uitgestrek. Moses het sy hand na die hemel uitgestrek. Drie dae lank was daar duisternis oor Egipte.
 
 ---
 
@@ -36,7 +36,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Egiptiese stad in diep duisternis; mense kan nie hulle hande sien nie.
 
-Drie dae lank was daar duisternis oor Egipte. Die duisternis was so dik dat niemand hulle hande voor hulle oë kon sien nie. Niemand het opgestaan om te beweeg — drie dae lank. Die Egiptenaars kon nie sien waar hulle loop nie. Dit was 'n swaar, voelbare duisternis.
+Drie dae lank was daar duisternis oor Egipte. Die duisternis was so dik dat niemand hulle hande voor hulle oë kon sien nie. Niemand het opgestaan om te beweeg — drie dae lank. Die Egiptenaars kon nie sien waar hulle loop nie. Dit was 'n swaar, voelbare duisternis. Niemand het opgestaan om te beweeg — drie dae lank. Dit was 'n swaar, voelbare duisternis.
 
 ---
 
@@ -46,7 +46,7 @@ Drie dae lank was daar duisternis oor Egipte. Die duisternis was so dik dat niem
 
 > **Beeldnota:** Gosen met lig; Israel kan sien; Egipte donker; onderskeid duidelik.
 
-Maar by al die kinders van Israel was daar lig in hulle wonings. Die Here het weer onderskeid gemaak. Terwyl Egipte in duisternis sit, kon Israel sien. Farao het vir Moses geroep en gesê: Gaan weg van my. Moenie my weer sien nie, want die dag wat jy my sien, sal jy sterf.
+Maar by al die kinders van Israel was daar lig in hulle wonings. Die Here het weer onderskeid gemaak. Terwyl Egipte in duisternis sit, kon Israel sien. Farao het vir Moses geroep en gesê: Gaan weg van my. Moenie my weer sien nie, want die dag wat jy my sien, sal jy sterf. By Israel was daar lig in hulle wonings. Farao het vir Moses gesê: Moenie my weer sien nie.
 
 ---
 
@@ -56,7 +56,7 @@ Maar by al die kinders van Israel was daar lig in hulle wonings. Die Here het we
 
 > **Beeldnota:** Moses en Aäron verlaat paleis; Farao se harde gesig; donker agtergrond.
 
-Moses het geantwoord: Soos jy sê — ek sal nie weer voor jou verskyn nie. En weet jy wat toe gebeur het? Nege plae was verby. Die Here het selfs die lig beheer. Farao se hart was so hard dat hy steeds nie laat gaan nie. Moses het geweet: nog een pla sou kom.
+Moses het geantwoord: Soos jy sê — ek sal nie weer voor jou verskyn nie. En weet jy wat toe gebeur het? Nege plae was verby. Die Here het selfs die lig beheer. Farao se hart was so hard dat hy steeds nie laat gaan nie. Moses het geweet: nog een pla sou kom. Nege plae was verby. Farao se hart was so hard dat hy steeds nie laat gaan nie.
 
 ---
 
@@ -66,7 +66,7 @@ Moses het geantwoord: Soos jy sê — ek sal nie weer voor jou verskyn nie. En w
 
 > **Beeldnota:** Israel wag in lig; duisternis oor Egipte; rustige spanning.
 
-Die negende pla het gewys dat die Here selfs die lig en die duisternis beheer. Israel het in hulle huise lig gehad. Farao het geweier. Die volk wag nou op die laaste pla — en op die redding wat God beloof het. Die Here was by sy volk.
+Die negende pla het gewys dat die Here selfs die lig en die duisternis beheer. Israel het in hulle huise lig gehad. Farao het geweier. Die volk wag nou op die laaste pla — en op die redding wat God beloof het. Die Here was by sy volk. Die volk wag nou op die laaste pla. Moses en Aäron het Israel vertel wat nog sou kom.
 
 ---
 

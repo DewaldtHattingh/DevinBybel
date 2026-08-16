@@ -27,7 +27,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Simson keer terug na Timna; verbrande huis; ernstige gesig.
 
-**Een dag, lank, lank gelede,** het Simson teruggegaan na Timna met 'n geskenk vir sy vrou. Maar haar pa het gesê: Ek het gedink jy haat haar, en ek het haar aan jou metgesel gegee. Simson was woedend. Die Filistyne het sy vrou en haar pa verbrand. Simson het teruggegaan na Timna, maar sy vrou is aan sy metgesel gegee.
+**Een dag, lank, lank gelede,** het Simson teruggegaan na Timna met 'n geskenk vir sy vrou. Maar haar pa het gesê: Ek het gedink jy haat haar, en ek het haar aan jou metgesel gegee. Simson was woedend. Die Filistyne het sy vrou en haar pa verbrand. Simson het teruggegaan na Timna, maar sy vrou is aan sy metgesel gegee. Simson se vrou en haar pa is verbrand. Simson was woedend. Simson se vrou is aan sy metgesel gegee.
 
 ---
 
@@ -37,7 +37,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Simson vang jakkalse; stel sterte aan brand; veld in verte.
 
-Simson het wraak geneem. Hy het drie honderd jakkalse gevang, twee aan twee gebind en fakkels tussen hulle sterte vasgemaak. Hy het hulle in die Filistyne se koringlande losgelaat. Die vuur het die oes vernietig. Hy het die sterte van drie honderd jakkalse aan mekaar gebind met fakkels tussen hulle.
+Simson het wraak geneem. Hy het drie honderd jakkalse gevang, twee aan twee gebind en fakkels tussen hulle sterte vasgemaak. Hy het hulle in die Filistyne se koringlande losgelaat. Die vuur het die oes vernietig. Hy het die sterte van drie honderd jakkalse aan mekaar gebind met fakkels tussen hulle. Hy het drie honderd jakkalse gevang en fakkels tussen hulle sterte vasgemaak. Die vuur het die oes van die Filistyne vernietig.
 
 ---
 
@@ -47,7 +47,7 @@ Simson het wraak geneem. Hy het drie honderd jakkalse gevang, twee aan twee gebi
 
 > **Beeldnota:** Filistyne jaag Simson; Israel vra waarom; spanning.
 
-Die Filistyne het Simson gesoek. Hulle het die manne van Juda gevra: Waarom het julle dit aan ons gedoen? Juda se mense het Simson gebind en na die Filistyne gebring. Maar die Gees van die Here het kragtig op hom gekom. Hy het die toue laat breek. Juda se mense het gevra: Wat het jy ons aangedoen? Die Filistyne sal ons vernietig!
+Die Filistyne het Simson gesoek. Hulle het die manne van Juda gevra: Waarom het julle dit aan ons gedoen? Juda se mense het Simson gebind en na die Filistyne gebring. Maar die Gees van die Here het kragtig op hom gekom. Hy het die toue laat breek. Juda se mense het gevra: Wat het jy ons aangedoen? Die Filistyne sal ons vernietig! Drie duisend man van Juda het Simson gebind en na Lehi gebring. Die Gees van die Here het kragtig op hom gekom.
 
 ---
 
@@ -57,7 +57,7 @@ Die Filistyne het Simson gesoek. Hulle het die manne van Juda gevra: Waarom het 
 
 > **Beeldnota:** Simson met kaakbeen van esel; Filistyne vlug; geen bloed gewys nie.
 
-Die Filistyne het hom in Lehi vasgekeer. Simson was moeg. En weet jy wat toe gebeur het? Die Gees van die Here het weer kragtig op hom gekom. Hy het 'n vars kaakbeen van 'n esel gevat en daarmee duisend man verslaan. Hy het die kaakbeen van 'n esel gegryp — 'n onrein ding — en daarmee duisend man verslaan.
+Die Filistyne het hom in Lehi vasgekeer. Simson was moeg. En weet jy wat toe gebeur het? Die Gees van die Here het weer kragtig op hom gekom. Hy het 'n vars kaakbeen van 'n esel gevat en daarmee duisend man verslaan. Hy het die kaakbeen van 'n esel gegryp — 'n onrein ding — en daarmee duisend man verslaan. Hy het 'n kaakbeen van 'n esel gegryp en daarmee duisend man verslaan. Hy het die plek Ramat-Lehi genoem.
 
 ---
 
@@ -67,7 +67,7 @@ Die Filistyne het hom in Lehi vasgekeer. Simson was moeg. En weet jy wat toe geb
 
 > **Beeldnota:** Simson drink water; rustige aand; ernstige stemming.
 
-God het water uit die holte laat kom sodat Simson kon drink nadat hy moeg was. Hy het Israel twintig jaar lank as rigter gelei. Die stryd met die Filistyne was nog nie verby nie. Die Here was steeds by hom — maar die konflik het groter geword. Hy het Israel twintig jaar lank as rigter gelei tussen Zora en Eshtaol.
+God het water uit die holte laat kom sodat Simson kon drink nadat hy moeg was. Hy het Israel twintig jaar lank as rigter gelei. Die stryd met die Filistyne was nog nie verby nie. Die Here was steeds by hom — maar die konflik het groter geword. Hy het Israel twintig jaar lank as rigter gelei tussen Zora en Eshtaol. God het water uit 'n holte laat kom. Simson het twintig jaar as rigter gelei. Hy het twintig jaar as rigter gelei.
 
 ---
 

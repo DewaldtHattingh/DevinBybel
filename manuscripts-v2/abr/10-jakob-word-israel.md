@@ -31,7 +31,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het Jakob boodskappers na sy broer Esau gestuur. Die boodskappers het teruggekom en gesê: Esau kom jou tegemoet met vierhonderd man.
 
-Jakob was baie bang. Hy het sy groep in twee verdeel, en geskenke gestuur — bokke, skape, kamele, beeste en esels — in groepe, een na die ander, om Esau te paai. Hy het ook gebid: Here, red my asseblief van my broer Esau se hand, want ek vrees hom.
+Jakob was baie bang. Hy het sy groep in twee verdeel, en geskenke gestuur — bokke, skape, kamele, beeste en esels — in groepe, een na die ander, om Esau te paai. Hy het ook gebid: Here, red my asseblief van my broer Esau se hand, want ek vrees hom. Jakob het sy gesin en vee oor die Jabbokrivier gestuur.
 
 ---
 
@@ -43,7 +43,7 @@ Jakob was baie bang. Hy het sy groep in twee verdeel, en geskenke gestuur — bo
 
 Jakob het sy vroue, kinders en al sy goed oor die Jabbokrivier laat gaan. Hy het alleen agtergebly. Die nag was stil, behalwe vir die stromende water.
 
-'n Man het met Jakob geworstel tot die dag breek. Die man het Jakob se heup ontwrig — Jakob het daarna gehinke. Maar Jakob het nie losgelaat nie. Hy het geworstel, want hy wou die seën kry.
+'n Man het met Jakob geworstel tot die dag breek. Die man het Jakob se heup ontwrig — Jakob het daarna gehinke. Maar Jakob het nie losgelaat nie. Hy het geworstel, want hy wou die seën kry. Hy het alleen agtergebly en 'n man het met hom geworstel tot die dag breek.
 
 ---
 
@@ -55,7 +55,7 @@ Jakob het sy vroue, kinders en al sy goed oor die Jabbokrivier laat gaan. Hy het
 
 Die man het gesê: Laat my gaan, want die dag breek. Jakob het gesê: Ek sal nie los nie tensy jy my seën. Die man het gevra: Wat is jou naam? Jakob het gesê: Jakob.
 
-Die man het gesê: Jy sal nie meer Jakob genoem word nie, maar Israel — want jy het met God en mense gestry en oorwin. Jakob het die plek Peniel genoem — ek het God van aangesig tot aangesig gesien.
+Die man het gesê: Jy sal nie meer Jakob genoem word nie, maar Israel — want jy het met God en mense gestry en oorwin. Jakob het die plek Peniel genoem — ek het God van aangesig tot aangesig gesien. Die man het Jakob se heup ontwricht. Jakob het gesê: Ek laat jou nie gaan voor jy my seën nie.
 
 ---
 
@@ -65,7 +65,7 @@ Die man het gesê: Jy sal nie meer Jakob genoem word nie, maar Israel — want j
 
 > **Beeldnota:** Jakob hink; sien Esau kom; buig sewe keer.
 
-Die son het opgekom toe hy Peniel verby was, en hy het gehinke, maar met 'n nuwe naam en 'n nuwe seën. Hy het Esau sien kom met sy vierhonderd man. Jakob het voor sy broer neergebuig, sewe keer, tot by sy broer toe.
+Die son het opgekom toe hy Peniel verby was, en hy het gehinke, maar met 'n nuwe naam en 'n nuwe seën. Hy het Esau sien kom met sy vierhonderd man. Jakob het voor sy broer neergebuig, sewe keer, tot by sy broer toe. Hy het gesê: Jou naam sal nie meer Jakob wees nie, maar Israel.
 
 ---
 
@@ -77,7 +77,7 @@ Die son het opgekom toe hy Peniel verby was, en hy het gehinke, maar met 'n nuwe
 
 Esau het hardgeloop na Jakob toe. Hy het hom omhels, om sy nek gevalle en gehuil. Jakob het ook gehuil. Esau het die geskenke afgewys — hy het genoeg. Jakob het gesê: Asseblief, neem my geskenk, want om jou aangesig te sien is soos die aangesig van God sien.
 
-Hulle het vreedsaam gepraat. Die twee broers het mekaar weer ontmoet — nie as vyande nie, maar in vrede. Jakob het 'n nuwe naam: Israel.
+Hulle het vreedsaam gepraat. Die twee broers het mekaar weer ontmoet — nie as vyande nie, maar in vrede. Jakob het 'n nuwe naam: Israel. Jakob het Esau ontmoet en hulle het versoen.
 
 ---
 

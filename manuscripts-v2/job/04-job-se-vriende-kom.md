@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het drie vriende van Job gehoor van al die onheil wat hom getref het. Elifaz die Temaniet, Bildad die Suhiet en Sofar die Naamatiet het saambesluit om na Job toe te gaan en hom te troos.
 
-Hulle het ver gereis — van hulle eie lande af — om by hulle vriend te wees in sy swaarste tyd.
+Hulle het ver gereis — van hulle eie lande af — om by hulle vriend te wees in sy swaarste tyd. Elifaz was van Teman, Bildad van Suah, en Sofar van Naäma. Van ver gekom.
 
 ---
 
@@ -40,7 +40,7 @@ Hulle het ver gereis — van hulle eie lande af — om by hulle vriend te wees i
 
 Toe hulle Job van ver af sien, het hulle hom amper nie herken nie. Hy was so verander deur die siekte en die hartseer. Hulle het hulle stemme verhef en gehuil. Elkeen het sy klere geskeur en stof op sy kop gegooi.
 
-Hulle het saam met Job op die grond gaan sit — op die ashoop, naby hom. Hulle het gesien sy lyding was groot.
+Hulle het saam met Job op die grond gaan sit — op die ashoop, naby hom. Hulle het gesien sy lyding was groot. Hulle het saam met Job getreur en sewe dae stilgesit. Sewe dae stil.
 
 ---
 
@@ -52,7 +52,7 @@ Hulle het saam met Job op die grond gaan sit — op die ashoop, naby hom. Hulle 
 
 Sewe dae en sewe nagte het hulle daar gesit — en niemand het 'n woord vir Job gesê nie. Hulle het gesien sy lyding was so swaar dat woorde nie genoeg was nie.
 
-Hulle het net daar gesit. Stil. Saam met hom. Nie gepraat nie. Nie probeer verduidelik nie. Net teenwoordig.
+Hulle het net daar gesit. Stil. Saam met hom. Nie gepraat nie. Nie probeer verduidelik nie. Net teenwoordig. Job het eers gepraat en sy geboortedag vervloek. Job het gepraat.
 
 ---
 
@@ -64,7 +64,7 @@ Hulle het net daar gesit. Stil. Saam met hom. Nie gepraat nie. Nie probeer verdu
 
 Dit was die beste wat hulle kon doen — om stil te wees en by hom te sit. Ware medelye begin soms nie met woorde nie, maar met teenwoordigheid.
 
-Job het geweet hulle is daar. Hy was nie heeltemal alleen nie. Drie vriende het gekom, ver gereis, en sewe dae lank niks gesê nie.
+Job het geweet hulle is daar. Hy was nie heeltemal alleen nie. Drie vriende het gekom, ver gereis, en sewe dae lank niks gesê nie. Die vriende sou later probeer verduidelik waarom Job ly. Vriende het verkeerd gepraat.
 
 ---
 
@@ -76,7 +76,7 @@ Job het geweet hulle is daar. Hy was nie heeltemal alleen nie. Drie vriende het 
 
 Na sewe dae sou die stilte breek. Job sou begin praat — en sy vriende sou antwoord. Maar eers het hulle net gesit, stil, saam met Job in sy pyn.
 
-Sewe dae van stilte. Drie vriende. Een man op 'n ashoop. Dit was hoe hulle begin het.
+Sewe dae van stilte. Drie vriende. Een man op 'n ashoop. Dit was hoe hulle begin het. Maar hulle sou mis het — Job was regverdig. Later reggestel.
 
 ---
 

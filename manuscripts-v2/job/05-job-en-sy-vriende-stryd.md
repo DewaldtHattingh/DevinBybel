@@ -29,7 +29,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het Job ná die sewe dae stilte begin praat. Hy het gewens hy was nooit gebore nie. Hy het gevra waarom die lewe so swaar is. Hy het nie God gelaster nie — maar hy het wel gekla.
 
-Sy vriende het begin antwoord. Hulle het gedink hulle weet waarom Job ly.
+Sy vriende het begin antwoord. Hulle het gedink hulle weet waarom Job ly. Job en sy vriende het baie rondtes van gesprek gehad.
 
 ---
 
@@ -43,7 +43,7 @@ Elifaz het gesê: Wie het ooit onskuldig vergaan? Kyk, jy het ander mense geleer
 
 Bildad het gesê: God maak nie regverdiges onregverdig nie. Jy en jou kinders moes gesondig het. Bid tot God — Hy sal jou herstel.
 
-Sofar het gesê: Jy praat te veel. God weet alles — jy moet sondig wees, anders sou dit nie so met jou gebeur nie.
+Sofar het gesê: Jy praat te veel. God weet alles — jy moet sondig wees, anders sou dit nie so met jou gebeur nie. Elifaz het gesê: Wie ooit onskuldig perish? Die goddelose ly altyd.
 
 ---
 
@@ -57,7 +57,7 @@ Job het teruggepraat. Hy het gesê hy soek God, maar kan Hom nie vind nie. Hy he
 
 Die vriende het aanhou gesê: Jy moet gesondig het. God straf sondiges. As jy net sou bely en bid, sou alles beter word.
 
-So het hulle heen en weer gepraat — baie woorde, baie rondtes. Job het gekla. Die vriende het beskuldig.
+So het hulle heen en weer gepraat — baie woorde, baie rondtes. Job het gekla. Die vriende het beskuldig. Job het geantwoord: Ek wens ek was nooit gebore nie.
 
 ---
 
@@ -69,7 +69,7 @@ So het hulle heen en weer gepraat — baie woorde, baie rondtes. Job het gekla. 
 
 Die sentrale verskil was duidelik: Job se vriende het gedink lyding beteken altyd dat jy gesondig het. Job het geweet hy het God nie verlaat nie — maar hy het nie verstaan waarom hy ly nie.
 
-Hulle wou help, maar hulle woorde het seer gemaak. Hulle het Job vertel hy moes iets verkeerd gedoen het, terwyl Job geweet het hy het God gevrees.
+Hulle wou help, maar hulle woorde het seer gemaak. Hulle het Job vertel hy moes iets verkeerd gedoen het, terwyl Job geweet het hy het God gevrees. Die vriende het gedink Job se sonde is die rede vir sy lyding.
 
 ---
 
@@ -81,7 +81,7 @@ Hulle wou help, maar hulle woorde het seer gemaak. Hulle het Job vertel hy moes 
 
 Die debat het lank geduur. Geen van die vriende se antwoorde het Job se hart genees nie. Job het steeds gewag op God om te antwoord.
 
-Die woorde was klaar — vir nou. Job het gepraat. Die vriende het gepraat. Maar die ware antwoord sou van die Here self kom.
+Die woorde was klaar — vir nou. Job het gepraat. Die vriende het gepraat. Maar die ware antwoord sou van die Here self kom. Job het bly pleit vir regverdigheid voor God.
 
 ---
 

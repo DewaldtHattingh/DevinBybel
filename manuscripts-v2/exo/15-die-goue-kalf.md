@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Moses op berg; volk wag onder; tyd verby.
 
-**Een dag, lank, lank gelede,** het Moses op die berg Sinai gebly om die Here se woorde te ontvang. Die volk het lank gewag. Hulle het vir Aäron gesê: Maak vir ons gode wat voor ons uit sal gaan, want hierdie Moses wat ons uit Egipte opgelei het — ons weet nie wat van hom geword het nie.
+**Een dag, lank, lank gelede,** het Moses op die berg Sinai gebly om die Here se woorde te ontvang. Die volk het lank gewag. Hulle het vir Aäron gesê: Maak vir ons gode wat voor ons uit sal gaan, want hierdie Moses wat ons uit Egipte opgelei het — ons weet nie wat van hom geword het nie. Moses het veertig dae en veertig nagte op die berg gebly. Die volk het lank gewag.
 
 ---
 
@@ -38,7 +38,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Goue kalf; volk dans; Aäron staan naby; geen wild party nie.
 
-Aäron het al die goue oorskote laat bring. Hy het 'n beeld van 'n kalf gemaak. Die volk het gesê: Hier is jou gode, Israel, wat jou uit Egipte opgelei het! Hulle het feesgehou en rondom die kalf gedans. Die Here het dit gesien. Sy toorn het opgevlam.
+Aäron het al die goue oorskote laat bring. Hy het 'n beeld van 'n kalf gemaak. Die volk het gesê: Hier is jou gode, Israel, wat jou uit Egipte opgelei het! Hulle het feesgehou en rondom die kalf gedans. Die Here het dit gesien. Sy toorn het opgevlam. Aäron het al die goue oorskote laat bring en 'n beeld van 'n kalf gemaak.
 
 ---
 
@@ -48,7 +48,7 @@ Aäron het al die goue oorskote laat bring. Hy het 'n beeld van 'n kalf gemaak. 
 
 > **Beeldnota:** Moses daal vinnig af; tablette in hande; ernstige gesig.
 
-Die Here het vir Moses gesê: Gaan af, want jou volk het verderf gebring. Moses het vir die Here gesmeek: Keer U toorn, Here. Onthou Abraham, Isak en Israel. Die Here het gesê Hy sal nie die volk verdelg nie. Moses het afgegaan met die twee tablette in sy hand.
+Die Here het vir Moses gesê: Gaan af, want jou volk het verderf gebring. Moses het vir die Here gesmeek: Keer U toorn, Here. Onthou Abraham, Isak en Israel. Die Here het gesê Hy sal nie die volk verdelg nie. Moses het afgegaan met die twee tablette in sy hand. Moses het vir die Here gesmeek: Onthou Abraham, Isak en Israel.
 
 ---
 
@@ -58,7 +58,7 @@ Die Here het vir Moses gesê: Gaan af, want jou volk het verderf gebring. Moses 
 
 > **Beeldnota:** Moses gooi tablette; kalf vernietig; geen geweld in beeld.
 
-En weet jy wat toe gebeur het? Toe Moses die kalf en die dans sien, het hy woedend geword. Hy het die tablette uit sy hand gegooi en dit aan die voet van die berg gebreek. Hy het die kalf verbrand en tot stof vermaal. Die volk het gestraf word vir hulle groot sonde.
+En weet jy wat toe gebeur het? Toe Moses die kalf en die dans sien, het hy woedend geword. Hy het die tablette uit sy hand gegooi en dit aan die voet van die berg gebreek. Hy het die kalf verbrand en tot stof vermaal. Die volk het gestraf word vir hulle groot sonde. Hy het die kalf verbrand en tot stof vermaal. Drie duisend manne het gesterf.
 
 ---
 
@@ -68,7 +68,7 @@ En weet jy wat toe gebeur het? Toe Moses die kalf en die dans sien, het hy woede
 
 > **Beeldnota:** Moses weer op berg; nuwe tablette; sagte lig.
 
-Moses het weer op die berg gegaan. Die Here het nuwe tablette geskryf. Hy het Homself aan Moses bekendgemaak: Die Here, die Here, barmhartige en genadige God, lankmoedig en ryk in goedertierenheid en trou. Moses het gebid dat die Here in die midde van sy volk sal woon. Die Here het ja gesê.
+Moses het weer op die berg gegaan. Die Here het nuwe tablette geskryf. Hy het Homself aan Moses bekendgemaak: Die Here, die Here, barmhartige en genadige God, lankmoedig en ryk in goedertierenheid en trou. Moses het gebid dat die Here in die midde van sy volk sal woon. Die Here het ja gesê. Die Here het nuwe tablette geskryf en sy verbond hernu.
 
 ---
 

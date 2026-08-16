@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Woestynpad; Israel trek; son brand.
 
-**Een dag, lank, lank gelede,** het Israel om die land Edom getrek. Die pad was lank. Die volk het ongeduldig geword. Hulle het teen God en teen Moses gekla. Waarom het julle ons uit Egipte gebring? het hulle gesê. Ons haat hierdie ellendige kos. Die volk het teen God en teen Moses gekla oor die pad en die manna.
+**Een dag, lank, lank gelede,** het Israel om die land Edom getrek. Die pad was lank. Die volk het ongeduldig geword. Hulle het teen God en teen Moses gekla. Waarom het julle ons uit Egipte gebring? het hulle gesê. Ons haat hierdie ellendige kos. Die volk het teen God en teen Moses gekla oor die pad en die manna. Daar is geen brood en geen water nie, en ons haat hierdie ellendige kos — die manna. Israel het ongeduldig geword op die pad.
 
 ---
 
@@ -38,7 +38,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Slange in woestyn; mense bang; geen wonde of bloed gewys nie.
 
-Die Here het brandende slange onder die volk gestuur. Baie mense is gebyt en het gesterf. Israel het na Moses gegaan en gesê: Ons het gesondig deur teen die Here en teen jou te praat. Bid vir ons dat die Here die slange van ons wegneem. Israel het na Moses gegaan en gesê: Ons het gesondig — bid vir ons.
+Die Here het brandende slange onder die volk gestuur. Baie mense is gebyt en het gesterf. Israel het na Moses gegaan en gesê: Ons het gesondig deur teen die Here en teen jou te praat. Bid vir ons dat die Here die slange van ons wegneem. Israel het na Moses gegaan en gesê: Ons het gesondig — bid vir ons. Baie mense van Israel het gesterf. Moses het vir die volk gebid.
 
 ---
 
@@ -48,7 +48,7 @@ Die Here het brandende slange onder die volk gestuur. Baie mense is gebyt en het
 
 > **Beeldnota:** Moses bid; Here gee instruksie; koper slang word gemaak.
 
-Moses het vir die volk gebid. Die Here het gesê: Maak 'n slang en sit dit op 'n paal. Elkeen wat gebyt is en daarna kyk, sal lewe. Moses het 'n koper slang gemaak en dit op 'n paal opgerig. Moses het 'n koper slang gemaak en dit op 'n paal opgerig in die middel van die kamp.
+Moses het vir die volk gebid. Die Here het gesê: Maak 'n slang en sit dit op 'n paal. Elkeen wat gebyt is en daarna kyk, sal lewe. Moses het 'n koper slang gemaak en dit op 'n paal opgerig. Moses het 'n koper slang gemaak en dit op 'n paal opgerig in die middel van die kamp. Moses het 'n slang van koper gemaak en dit op 'n paal opgerig. Elkeen wat gekyk het, het gelewe.
 
 ---
 
@@ -58,7 +58,7 @@ Moses het vir die volk gebid. Die Here het gesê: Maak 'n slang en sit dit op 'n
 
 > **Beeldnota:** Man kyk na koper slang; ander mense kyk ook; hoop in gesigte.
 
-En weet jy wat toe gebeur het? Wanneer iemand gebyt is en na die koper slang op die paal gekyk het, het hy gelewe. Dit was nie die slang wat gered het nie — dit was die Here wat redding gee vir die wat na sy teken kyk en na Hom vertrou. Wanneer iemand gebyt is en na die koper slang gekyk het, het hy gelewe.
+En weet jy wat toe gebeur het? Wanneer iemand gebyt is en na die koper slang op die paal gekyk het, het hy gelewe. Dit was nie die slang wat gered het nie — dit was die Here wat redding gee vir die wat na sy teken kyk en na Hom vertrou. Wanneer iemand gebyt is en na die koper slang gekyk het, het hy gelewe. Baie mense het na die slang gekyk en lewe gekry. Dit was die Here wat redding gee.
 
 ---
 
@@ -68,7 +68,7 @@ En weet jy wat toe gebeur het? Wanneer iemand gebyt is en na die koper slang op 
 
 > **Beeldnota:** Koper slang op paal; volk trek verder; rustige aand.
 
-Israel het geleer dat kla nie die antwoord is nie. Hulle het hulle sonde bely. God het 'n weg gegee om te lewe — kyk na die teken wat Hy gegee het. Die Here was by sy volk. Israel het geleer dat kla nie die antwoord is nie — bely en kyk na God se teken.
+Israel het geleer dat kla nie die antwoord is nie. Hulle het hulle sonde bely. God het 'n weg gegee om te lewe — kyk na die teken wat Hy gegee het. Die Here was by sy volk. Israel het geleer dat kla nie die antwoord is nie — bely en kyk na God se teken. Die volk het verder getrek na Obot.
 
 ---
 

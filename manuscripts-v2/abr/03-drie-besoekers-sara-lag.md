@@ -29,7 +29,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het Abraham by die eikebome van Mamre gesit in die hitte van die dag. Hy het drie manne sien kom nader — reisigers op 'n warm dag, moeg van die pad.
 
-Hy het hard gehardloop van die tentdeur af om hulle te verwelkom. Hy het gebuig en gesê: My Here, as ek genade gevind het, moet U asseblief nie by u dienaar verbygaan nie.
+Hy het hard gehardloop van die tentdeur af om hulle te verwelkom. Hy het gebuig en gesê: My Here, as ek genade gevind het, moet U asseblief nie by u dienaar verbygaan nie. Drie manne het by Abraham se tent verskyn in die hitte van die dag.
 
 ---
 
@@ -41,7 +41,7 @@ Hy het hard gehardloop van die tentdeur af om hulle te verwelkom. Hy het gebuig 
 
 Abraham het water vir hulle voete laat was en kos laat voorberei — vars brood, 'n vet kalf, melk en botter. Hy was gasvry vir die vreemdelinge, selfs al het hy nie geweet wie hulle is nie.
 
-Een van die besoekers het gevra: Waar is Sara, jou vrou? Toe het hy gesê: Teen hierdie tyd volgende jaar sal Ek terugkom, en Sara sal 'n seun hê.
+Een van die besoekers het gevra: Waar is Sara, jou vrou? Toe het hy gesê: Teen hierdie tyd volgende jaar sal Ek terugkom, en Sara sal 'n seun hê. Abraham het hulle water en kos gegee — kalf, melk en botter.
 
 ---
 
@@ -53,7 +53,7 @@ Een van die besoekers het gevra: Waar is Sara, jou vrou? Toe het hy gesê: Teen 
 
 Sara het agter die tentdeur geluister. Sy was negentig jaar oud, en Abraham amper honderd. Sara het in haar hart gelag — kan ek regtig 'n baba kry, nou dat ek oud is?
 
-Sy het gedink: My Here is oud, en ek is ook oud. Hoe kan dit moontlik wees?
+Sy het gedink: My Here is oud, en ek is ook oud. Hoe kan dit moontlik wees? Een het gesê: Volgende jaar sal Sara 'n seun hê. Sara het agter die tentdeur geluister.
 
 ---
 
@@ -65,7 +65,7 @@ Sy het gedink: My Here is oud, en ek is ook oud. Hoe kan dit moontlik wees?
 
 Die Here het vir Abraham gevra: Waarom het Sara gelag? Het sy gesê: Kan ek regtig 'n kind kry, nou dat ek oud is? Is enigiets te moeilik vir die Here? Teen die stel tyd volgende jaar sal Sara 'n seun hê.
 
-Sara was bang en het ontken. Sy het gesê sy het nie gelag nie. Hy het gesê: Nee, jy het wel gelag.
+Sara was bang en het ontken. Sy het gesê sy het nie gelag nie. Hy het gesê: Nee, jy het wel gelag. Sara het in haar hart gelag: Kan ek nog genotskap hê, nou ek oud is?
 
 ---
 
@@ -77,7 +77,7 @@ Sara was bang en het ontken. Sy het gesê sy het nie gelag nie. Hy het gesê: Ne
 
 Die drie besoekers het vertrek. Sara het nog gelag in haar hart — half ongeloof, half hoop. Maar die Here het gesê: Is enigiets te moeilik vir My?
 
-Teen hierdie tyd volgende jaar sou Sara 'n seun hê. Die belofte staan — al het Sara gelag omdat dit onmoontlik gelyk het.
+Teen hierdie tyd volgende jaar sou Sara 'n seun hê. Die belofte staan — al het Sara gelag omdat dit onmoontlik gelyk het. Die Here het gevra: Waarom het Sara gelag? Is enigiets te wonderlik vir die Here?
 
 ---
 

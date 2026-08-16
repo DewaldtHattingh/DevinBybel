@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Droë veld en klein huisie; Naomi met Elimelek, Rut en Orpa op pad na Moab.
 
-**Een dag, lank, lank gelede,** het daar 'n hongersnood in die land Israel gekom. Mense het nie genoeg koring gehad om brood te bak nie. 'n Man genaamd Elimelek het sy vrou Naomi en hulle twee seuns na Moab toe gevlug om brood te soek. Hulle het ver van hulle eie tuiste Betlehem, die stad van brood, gewoon.
+**Een dag, lank, lank gelede,** het daar 'n hongersnood in die land Israel gekom. Mense het nie genoeg koring gehad om brood te bak nie. 'n Man genaamd Elimelek het sy vrou Naomi en hulle twee seuns na Moab toe gevlug om brood te soek. Hulle het ver van hulle eie tuiste Betlehem, die stad van brood, gewoon. Elimelek was van Betlehem in Juda. Die hongersnood het hulle na Moab gedryf.
 
 ---
 
@@ -38,7 +38,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Naomi alleen op 'n heuwel; leë hande; rou kleure; Moab in die verte.
 
-Jare het verbygegaan in Moab, en die hartseer het een vir een gekom. Eers het Elimelek gesterf. Daarna het die twee seuns ook gesterf, sonder kinders. Naomi was nou alleen in 'n vreemde land met haar twee skoondogters, Rut en Orpa. Drie vroue het geen man meer gehad nie.
+Jare het verbygegaan in Moab, en die hartseer het een vir een gekom. Eers het Elimelek gesterf. Daarna het die twee seuns ook gesterf, sonder kinders. Naomi was nou alleen in 'n vreemde land met haar twee skoondogters, Rut en Orpa. Drie vroue het geen man meer gehad nie. Mahlon en Chilion het Moabitiese vroue getrou — Orpa en Rut.
 
 ---
 
@@ -48,7 +48,7 @@ Jare het verbygegaan in Moab, en die hartseer het een vir een gekom. Eers het El
 
 > **Beeldnota:** Naomi op pad; Rut en Orpa loop saam met haar; gesprek by 'n kruising.
 
-Naomi het gehoor dat die Here sy volk in Israel weer brood gegee het. Sy het besluit om terug te gaan na Betlehem. By 'n kruising op die pad het sy vir Rut en Orpa gesê: Gaan terug na julle moeders se huise. Mag die Here julle genadig behandel. Orpa het haar gesegene en omgedraai. Rut het egter nie geluister nie.
+Naomi het gehoor dat die Here sy volk in Israel weer brood gegee het. Sy het besluit om terug te gaan na Betlehem. By 'n kruising op die pad het sy vir Rut en Orpa gesê: Gaan terug na julle moeders se huise. Mag die Here julle genadig behandel. Orpa het haar gesegene en omgedraai. Rut het egter nie geluister nie. Naomi het gesê: Die Here se hand het teen my uitgestrek.
 
 ---
 
@@ -58,7 +58,7 @@ Naomi het gehoor dat die Here sy volk in Israel weer brood gegee het. Sy het bes
 
 > **Beeldnota:** Rut praat met Naomi; ernstige oomblik; pad na Betlehem.
 
-Rut het gesê: Moenie my vra om van jou af te gaan nie. Waar jy gaan, gaan ek. Waar jy bly, bly ek. Jou volk is my volk, en jou God is my God. En weet jy wat toe gebeur het? Rut het Israel se God gekies, al het sy nog nie alles van Hom verstaan nie.
+Rut het gesê: Moenie my vra om van jou af te gaan nie. Waar jy gaan, gaan ek. Waar jy bly, bly ek. Jou volk is my volk, en jou God is my God. En weet jy wat toe gebeur het? Rut het Israel se God gekies, al het sy nog nie alles van Hom verstaan nie. Rut het gesê: Waar jy sterf, sal ek sterf. Net die dood sal ons skei.
 
 ---
 
@@ -68,7 +68,7 @@ Rut het gesê: Moenie my vra om van jou af te gaan nie. Waar jy gaan, gaan ek. W
 
 > **Beeldnota:** Betlehem se poort; mense kyk; Naomi en Rut met leë sakke; sagte aandlig.
 
-Toe hulle in Betlehem aankom, het die hele stad opgewonde geraak. Is dit Naomi? het mense gevra. Sy het gesê: Moenie my Naomi noem nie — noem my Mara, want die Almagtige het my lewe bitter laat voel. Sy het leeg teruggekom. Maar Rut die Moabitiese meisie was by haar. Die Here het hulle nie vergeet nie.
+Toe hulle in Betlehem aankom, het die hele stad opgewonde geraak. Is dit Naomi? het mense gevra. Sy het gesê: Moenie my Naomi noem nie — noem my Mara, want die Almagtige het my lewe bitter laat voel. Sy het leeg teruggekom. Maar Rut die Moabitiese meisie was by haar. Die Here het hulle nie vergeet nie. Hulle het in Betlehem aangekom aan die begin van die koringoogst.
 
 ---
 

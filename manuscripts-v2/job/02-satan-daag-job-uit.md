@@ -30,7 +30,7 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** het daar 'n dag gekom toe die seuns van God voor die Here verskyn het. Satan het ook onder hulle gekom.
 
-Die Here het vir Satan gevra: Waar kom jy vandaan? Satan het gesê hy het die aarde deurgetrek. Die Here het gevra: Het jy ook my dienaar Job opgemerk? Daar is niemand soos hy op die aarde nie — regverdig en vrees God.
+Die Here het vir Satan gevra: Waar kom jy vandaan? Satan het gesê hy het die aarde deurgetrek. Die Here het gevra: Het jy ook my dienaar Job opgemerk? Daar is niemand soos hy op die aarde nie — regverdig en vrees God. Die seuns van God het voor die Here verskyn, en Satan was ook daar.
 
 ---
 
@@ -42,7 +42,7 @@ Die Here het vir Satan gevra: Waar kom jy vandaan? Satan het gesê hy het die aa
 
 Satan het gesê: Is dit sonder rede dat Job God vrees? U het alles rondom hom beskerm. Maar streek U sy hand uit en raak alles wat hy het — dan sal hy U in die gesig vloek.
 
-Die Here het gesê: Goed, alles wat hy het is in jou hand — maar moenie sy lewe aanraak nie. Satan het weggegaan van die Here se aangesig.
+Die Here het gesê: Goed, alles wat hy het is in jou hand — maar moenie sy lewe aanraak nie. Satan het weggegaan van die Here se aangesig. Satan het gesê: Skeer 'n hand af — dan sal Job U vervloek.
 
 ---
 
@@ -54,7 +54,7 @@ Die Here het gesê: Goed, alles wat hy het is in jou hand — maar moenie sy lew
 
 Op dieselfde dag het boodskappers een na die ander na Job gekom. Rowers het al sy osse en esels weggeneem en die dienste doodgemaak. 'n Ander boodskapper het gesê vuur van die hemel het Job se skape en herders vernietig.
 
-Nog een: die Kaldeërs het Job se kamele weggeneem. Die ergste boodskap het laaste gekom: Job se kinders was bymekaar in die oudste broer se huis. 'n Stormwind het die huis laat val, en al sy kinders is dood.
+Nog een: die Kaldeërs het Job se kamele weggeneem. Die ergste boodskap het laaste gekom: Job se kinders was bymekaar in die oudste broer se huis. 'n Stormwind het die huis laat val, en al sy kinders is dood. Job se vee, diensbode en kinders is op een dag vernietig.
 
 ---
 
@@ -66,7 +66,7 @@ Nog een: die Kaldeërs het Job se kamele weggeneem. Die ergste boodskap het laas
 
 Job het sy klere geskeur en op die grond gaan sit. Hy het sy hare afgeskeer en voor die Here neergeval. Hy het gesê: Naakt het ek uit my moeder se skoot gekom, naakt sal ek teruggaan. Die Here het gegee, die Here het weggeneem — geprys die naam van die Here.
 
-In al hierdie lyding het Job nie God gelaster nie en nie iets verkeerd teen God gesê nie.
+In al hierdie lyding het Job nie God gelaster nie en nie iets verkeerd teen God gesê nie. Job het sy kleermantel geskeur en op die grond geval om te aanbid.
 
 ---
 
@@ -78,7 +78,7 @@ In al hierdie lyding het Job nie God gelaster nie en nie iets verkeerd teen God 
 
 Alles was weg — sy vee, sy diensbode, sy kinders. Job het alles verloor op een dag. Maar hy het God nie gelaster nie.
 
-Hy het gesê die Here gee en die Here neem weg. Hy het God geprys, selfs in die donkerste oomblik. So het Job gehou aan sy integriteit, al het Satan gedink hy sou opgee.
+Hy het gesê die Here gee en die Here neem weg. Hy het God geprys, selfs in die donkerste oomblik. So het Job gehou aan sy integriteit, al het Satan gedink hy sou opgee. Die Here het Satan se mag beperk — Job se lewe moes gespaar word.
 
 ---
 

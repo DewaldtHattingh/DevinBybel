@@ -28,7 +28,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Moses en Aäron voor Farao se troon; Egiptiese paleis; ernstige atmosfeer.
 
-**Een dag, lank, lank gelede,** het Moses en Aäron na Farao gegaan. Die Here het hulle gestuur. Hulle het gesê: So sê die Here, die God van Israel: Laat my volk uitgaan, dat hulle vir my 'n fees kan hou in die woestyn. Die oudstes van Israel het gebid toe hulle gehoor het dat God hulle onthou het.
+**Een dag, lank, lank gelede,** het Moses en Aäron na Farao gegaan. Die Here het hulle gestuur. Hulle het gesê: So sê die Here, die God van Israel: Laat my volk uitgaan, dat hulle vir my 'n fees kan hou in die woestyn. Die oudstes van Israel het gebid toe hulle gehoor het dat God hulle onthou het. Moses en Aäron het die oudstes van Israel bymekaar geroep. Toe hulle gehoor het dat God hulle onthou het, het hulle gebuig.
 
 ---
 
@@ -38,7 +38,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Farao wys af; Israeliete met swaar bakstene; oorsig beampte gee bevel.
 
-Farao het nie geluister nie. Wie is die Here, het hy gevra, dat ek na Hom moet luister? Ek ken die Here nie, en ek sal Israel nie laat uitgaan nie. In plaas daarvan het hy die werk nog swaarder gemaak. Die Israeliete moes nou self strooi soek om bakstene te maak, terwyl hulle steeds dieselfde hoeveelheid moes lewer.
+Farao het nie geluister nie. Wie is die Here, het hy gevra, dat ek na Hom moet luister? Ek ken die Here nie, en ek sal Israel nie laat uitgaan nie. In plaas daarvan het hy die werk nog swaarder gemaak. Die Israeliete moes nou self strooi soek om bakstene te maak, terwyl hulle steeds dieselfde hoeveelheid moes lewer. Die oorsigbeamptes het die volk geslaan omdat hulle nie klaargespeel het nie. Hulle het Moses en Aäron blameer.
 
 ---
 
@@ -48,7 +48,7 @@ Farao het nie geluister nie. Wie is die Here, het hy gevra, dat ek na Hom moet l
 
 > **Beeldnota:** Moeg Israeliete kla; Moses kyk op na die hemel; swaar werf agtergrond.
 
-Die volk het gekla. Hulle oorsigbeamptes is gestraf omdat hulle nie klaargespeel het nie. Hulle het Moses en Aäron blameer. Moses het weer na die Here gegaan. Hoekom het U hierdie mense in die nood gebring? het hy gevra. Die Here het gesê: Nou sal jy sien wat Ek aan Farao sal doen. Groter tekens sou kom.
+Die volk het gekla. Hulle oorsigbeamptes is gestraf omdat hulle nie klaargespeel het nie. Hulle het Moses en Aäron blameer. Moses het weer na die Here gegaan. Hoekom het U hierdie mense in die nood gebring? het hy gevra. Die Here het gesê: Nou sal jy sien wat Ek aan Farao sal doen. Groter tekens sou kom. Die Here het gesê: Deur 'n sterk hand sal Ek hulle uitdryf. Groter tekens sou kom.
 
 ---
 
@@ -58,7 +58,7 @@ Die volk het gekla. Hulle oorsigbeamptes is gestraf omdat hulle nie klaargespeel
 
 > **Beeldnota:** Moses gooi staf neer; slang kronkel; towenaars doen dieselfde; geen geweld.
 
-Moses en Aäron het weer voor Farao gestaan. Gooi jou staf neer, het die Here gesê. Moses het dit gedoen, en die staf het 'n slang geword. Farao se towenaars het dieselfde met hulle stawwe gedoen. Maar Moses se slang het hulle slange opgevreet. En weet jy wat toe gebeur het? Farao se hart het verhard. Hy wou steeds nie luister nie.
+Moses en Aäron het weer voor Farao gestaan. Gooi jou staf neer, het die Here gesê. Moses het dit gedoen, en die staf het 'n slang geword. Farao se towenaars het dieselfde met hulle stawwe gedoen. Maar Moses se slang het hulle slange opgevreet. En weet jy wat toe gebeur het? Farao se hart het verhard. Hy wou steeds nie luister nie. Farao se towenaars het dieselfde met hulle stawwe gedoen, maar Moses se slang het hulle slange opgevreet.
 
 ---
 
@@ -68,7 +68,7 @@ Moses en Aäron het weer voor Farao gestaan. Gooi jou staf neer, het die Here ge
 
 > **Beeldnota:** Moses en Aäron verlaat paleis; donker wolke begin opstap; rustige spanning.
 
-Die Here het vir Moses gesê: Farao se hart sal hard bly. Maar deur my hand aan Farao en aan Egipte sal Ek my teken doen, en dan sal Israel uitgaan. Moses en Aäron het geweet: groter dinge kom. Die Here was by hulle.
+Die Here het vir Moses gesê: Farao se hart sal hard bly. Maar deur my hand aan Farao en aan Egipte sal Ek my teken doen, en dan sal Israel uitgaan. Moses en Aäron het geweet: groter dinge kom. Die Here was by hulle. Deur my hand aan Farao en aan Egipte sal Ek my teken doen, en dan sal Israel uitgaan.
 
 ---
 

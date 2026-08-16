@@ -27,7 +27,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Donker wolke; hael begin val; Egiptiese veld; geen gewonde gewys nie.
 
-**Een dag, lank, lank gelede,** het die sewende pla oor Egipte gekom. Die Here het vir Moses gesê: Strek jou hand uit na die hemel, en daar sal hael wees oor die hele land van Egipte. Moses het sy staf na die hemel uitgestrek.
+**Een dag, lank, lank gelede,** het die sewende pla oor Egipte gekom. Die Here het vir Moses gesê: Strek jou hand uit na die hemel, en daar sal hael wees oor die hele land van Egipte. Moses het sy staf na die hemel uitgestrek. Moses het sy staf na die hemel uitgestrek. Die Here het donder en hael gestuur.
 
 ---
 
@@ -37,7 +37,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Swaar hael en vuur uit die lug; koring plat; bome beskadig.
 
-Swaar hael het geval, en vuur het tussen die hael deur geloop. Dit was die ergste storm wat Egipte ooit gesien het. Die hael het mense en diere gedood wat buite was. Dit het plante en bome platgeslaan. Maar in Gosien, waar Israel gewoon het, was daar geen hael nie. Farao het erken dat hy gesondig het, maar toe die hael opgehou het, het hy weer geweier.
+Swaar hael het geval, en vuur het tussen die hael deur geloop. Dit was die ergste storm wat Egipte ooit gesien het. Die hael het mense en diere gedood wat buite was. Dit het plante en bome platgeslaan. Maar in Gosien, waar Israel gewoon het, was daar geen hael nie. Farao het erken dat hy gesondig het, maar toe die hael opgehou het, het hy weer geweier. Dit was die ergste storm wat Egipte ooit gesien het. In Gosien was daar geen hael nie.
 
 ---
 
@@ -47,7 +47,7 @@ Swaar hael het geval, en vuur het tussen die hael deur geloop. Dit was die ergst
 
 > **Beeldnota:** Swerm sprinkane in die lug; oes vernietig; agste pla.
 
-Die agste pla het gekom. 'n Ooswind het sprinkane gebring oor die hele land. Hulle het alles geëet wat die hael oorgelaat het — elke plant in die veld. Die sprinkane het Egipte volgemaak. Farao se amptenare het gesê: Hoe lank sal hierdie man 'n strik vir ons wees? Laat die mense gaan. Maar Farao wou steeds nie luister nie.
+Die agste pla het gekom. 'n Ooswind het sprinkane gebring oor die hele land. Hulle het alles geëet wat die hael oorgelaat het — elke plant in die veld. Die sprinkane het Egipte volgemaak. Farao se amptenare het gesê: Hoe lank sal hierdie man 'n strik vir ons wees? Laat die mense gaan. Maar Farao wou steeds nie luister nie. 'n Ooswind het sprinkane gebring. Hulle het alles geëet wat die hael oorgelaat het.
 
 ---
 
@@ -57,7 +57,7 @@ Die agste pla het gekom. 'n Ooswind het sprinkane gebring oor die hele land. Hul
 
 > **Beeldnota:** Moses bid; wind waai sprinkane weg; leë veld; spanning.
 
-Moses het vir Farao gesê: Ek sal uit jou sien gaan en vir die Here bid. Die Here het 'n baie sterk westewind gebring en die sprinkane in die Rooi See gewaai. Nie een sprinkaan was in Egipte oor nie. En weet jy wat toe gebeur het? Farao se hart was weer verhard. Hy wou nie Israel laat gaan nie.
+Moses het vir Farao gesê: Ek sal uit jou sien gaan en vir die Here bid. Die Here het 'n baie sterk westewind gebring en die sprinkane in die Rooi See gewaai. Nie een sprinkaan was in Egipte oor nie. En weet jy wat toe gebeur het? Farao se hart was weer verhard. Hy wou nie Israel laat gaan nie. Die Here het 'n sterk westewind gebring en die sprinkane in die Rooi See gewaai.
 
 ---
 
@@ -67,7 +67,7 @@ Moses het vir Farao gesê: Ek sal uit jou sien gaan en vir die Here bid. Die Her
 
 > **Beeldnota:** Verwoeste Egiptiese land; Israel wag; rustige aand.
 
-Agt plae was verby — hael en sprinkane het Egipte se land verwoes. Die Here het sy mag oor die hemel en die aarde gewys. Farao het steeds geweier. Nog een groot pla sou kom. Die Here was by sy volk.
+Agt plae was verby — hael en sprinkane het Egipte se land verwoes. Die Here het sy mag oor die hemel en die aarde gewys. Farao het steeds geweier. Nog een groot pla sou kom. Die Here was by sy volk. Agt plae was verby. Nog een groot pla sou kom — die ergste van almal.
 
 ---
 
