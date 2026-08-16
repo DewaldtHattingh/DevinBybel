@@ -8,7 +8,7 @@ must_include: ["vrede", "wonde", "My Here", "salig sonder sien"]
 theology_centre: "Geloof"
 continuity_from: PAS-11
 continuity_to: PAS-13
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Tomas glo
@@ -98,7 +98,7 @@ Jesus leef — en gelukkig is die wat Hom vertrou, selfs sonder om Hom te sien. 
 
 ### Vers om te onthou
 
-"Gelukkig is die wat nie gesien het nie en tog glo." — Joh. 20:29. 〔AFR20-kontrole〕
+Gelukkig is hulle wat nie gesien het nie, en tog tot geloof gekom het. — Joh. 20:29.
 
 ### Onthou jy?
 

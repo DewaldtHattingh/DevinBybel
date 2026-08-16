@@ -8,7 +8,7 @@ must_include: ["doek-visioen", "heidene", "Gees val"]
 theology_centre: "Geen partydigheid"
 continuity_from: ACT-05
 continuity_to: ACT-07
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Petrus en Cornelius
@@ -98,7 +98,7 @@ God maak die goeie nuus oop vir alle mense — niemand is te ver of te anders ni
 
 ### Vers om te onthou
 
-"God maak geen onderskeid nie." — Hand. 10:34. 〔AFR20-kontrole〕
+God maak geen onderskeid nie. — Hand. 10:34.
 
 ### Onthou jy?
 

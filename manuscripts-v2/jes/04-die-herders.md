@@ -8,7 +8,7 @@ must_include: ["heerlikheid", "goeie nuus", "teken"]
 theology_centre: "Goeie nuus vir almal"
 continuity_from: JES-03
 continuity_to: JES-05
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die herders
@@ -32,7 +32,7 @@ Herders het in die veld gebly en hulle skape opgepas — die engel van die Here 
 
 > **Beeldnota:** Engel in helder lig; herders val op knieë of kyk op; skape rustig; lig wyd oor veld.
 
-Skielik staan daar een engel van die Here by hulle. Die glorie van die Here skyn om hulle. Hulle is bang. Die engel sê: Moenie bang wees nie. Ek bring goeie nuus — groot vreugde vir alle mense.
+Skielik staan daar een engel van die Here by hulle. Die glorie van die Here skyn om hulle. Hulle is bang. Die engel sê: Moenie bang wees nie. Moenie bang wees nie. Kyk, ek bring vir julle 'n goeie boodskap wat vir die hele volk 'n bron van groot vreugde sal wees.
 
 Die engel sê: Vandag is gebore vir jou die Verlosser. Hy is Christus, die Here. Die heerlikheid van die Here het om hulle geskyn — hulle was baie bang.
 
@@ -43,13 +43,13 @@ Die heerlikheid van die Here het om hulle geskyn — hulle was baie bang.
 
 > **Beeldnota:** Menigte engels in die hemel; lig wyd; herders klein onder; geen magiese stof.
 
-Die engel gee een teken. Hulle sal die kind vind in Bethlehem — lê in een krip. Op een slag is daar baie engels. Hulle prys God. Hulle sê: Glorie aan God in die hoogste, en vrede op aarde.
+Die engel gee een teken. Hulle sal die kind vind in Bethlehem — lê in een krip. Op een slag is daar baie engels. Hulle prys God. Hulle sê: Eer aan God in die hoogste, en vrede op aarde vir die mense in wie God 'n welbehae het!
 
 Die hemel is vol van lig en lof — nie om die herders bang te maak nie, maar om God se goeie nuus te sing.
 
-Dan kom baie engels. Hulle prys God in die hoogste. Hulle sê: vrede op aarde. Die hemel is vol lig — groot lig, wyd lig, nie om bang te maak nie. Die engel het gesê: Moenie bang wees nie — ek bring julle goeie nuus van groot vreugde.
+Dan kom baie engels. Hulle prys God in die hoogste. Hulle sê: vrede op aarde. Die hemel is vol lig — groot lig, wyd lig, nie om bang te maak nie. Die engel het gesê: Moenie bang wees nie — ek bring vir julle 'n goeie boodskap van groot vreugde.
 
-Die engel het gesê: Moenie bang wees nie — ek bring julle goeie nuus van groot vreugde.
+Die engel het gesê: Moenie bang wees nie — ek bring vir julle 'n goeie boodskap van groot vreugde.
 ---
 ## Bladsy 4 — Hoofdraai
 ![Beeld: hoofdraai](../../assets/images/JES-04-p4.png)
@@ -96,7 +96,7 @@ God maak sy goeie nuus bekend — groot vreugde vir alle mense. Jesus is die Ver
 
 ### Vers om te onthou
 
-Ek bring goeie nuus van groot vreugde wat vir die hele mensdom sal wees. — Luk. 2:10. 〔AFR20-kontrole〕
+Moenie bang wees nie. Kyk, ek bring vir julle 'n goeie boodskap wat vir die hele volk 'n bron van groot vreugde sal wees. — Luk. 2:10.
 
 ### Onthou jy?
 

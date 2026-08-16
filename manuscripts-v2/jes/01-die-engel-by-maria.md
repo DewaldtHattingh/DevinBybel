@@ -8,7 +8,7 @@ must_include: ["Gabriel", "Jesus", "Seun van die Allerhoogste", "laat dit so wee
 theology_centre: "God word mens"
 continuity_from: MAL-01
 continuity_to: JES-02
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die engel by Maria
@@ -32,11 +32,11 @@ Die engel Gabriel is na Maria in die stad Nasaret gestuur.
 
 > **Beeldnota:** Gabriel verskyn in helder lig; Maria kyk op met wonder, nie bang gelaat; die kamer bly eenvoudig.
 
-Maria was besig met haar werk. Skielik staan daar een by haar. Sy sien dat dit een engel is. Die engel se naam is Gabriel. Hy sê: Wees gegroet, jy wat vol genade is. Die Here is met jou.
+Maria was besig met haar werk. Skielik staan daar een by haar. Sy sien dat dit een engel is. Die engel se naam is Gabriel. Hy sê: Gegroet, begenadigde vrou! Die Here is met jou!
 
-Maria is verward. Wat beteken dit? In Nazaret slaap die ander mense nog. Net Maria en die engel in die stil kamer. Die engel sê: Moenie bang wees nie, Maria. Jy sal een seun kry. Jy moet hom Jesus noem. Jesus beteken: die Here sal verlos. Gabriel het gesê: Wees gegroet, jy is bevoorreg! Die Here is met jou.
+Maria is verward. Wat beteken dit? In Nazaret slaap die ander mense nog. Net Maria en die engel in die stil kamer. Die engel sê: Moenie bang wees nie, Maria. Jy sal een seun kry. Jy moet hom Jesus noem. Jesus beteken: die Here sal verlos. Die engel het gesê: Gegroet, begenadigde vrou! Die Here is met jou!
 
-Gabriel het gesê: Wees gegroet, jy is bevoorreg! Die Here is met jou.
+Die engel het gesê: Gegroet, begenadigde vrou! Die Here is met jou!
 ---
 ## Bladsy 3 — Stygende aksie
 ![Beeld: stygende-aksie](../../assets/images/JES-01-p3.png)
@@ -54,9 +54,9 @@ Maria het gevra: Hoe kan dit wees? Gabriel het gesê: Die Heilige Gees sal oor j
 
 > **Beeldnota:** Maria se hande oop in aanvaarding; Gabriel se gestalte word kleiner in lig; Maria se gesig rustig en ernstig.
 
-Gabriel sê ook: Jy weet van jou familie Elisa. Sy was ook ou en het een seun gekry. Niks is te moeilik vir God nie. Maria luister. Alles wat Gabriel sê, kom uit die woord van die Here.
+Gabriel sê ook: Jy weet van jou familielid Elisabet. Sy was ook ou en het een seun gekry. Niks is te moeilik vir God nie. Maria luister. Alles wat Gabriel sê, kom uit die woord van die Here.
 
-Maria antwoord met haar hart: Ek is die dienaar van die Here. Laat dit met my geskied soos jy gesê het. Dit is haar ja — nie omdat alles maklik lyk nie, maar omdat sy God vertrou. Die kind sal die Seun van die Allerhoogste genoem word — Hy sal die troon van Dawid beërwe.
+Maria antwoord met haar hart: Kyk, ek is die diensmeisie van die Here. Mag met my gebeur volgens u woord. Dit is haar ja — nie omdat alles maklik lyk nie, maar omdat sy God vertrou. Die kind sal die Seun van die Allerhoogste genoem word — Hy sal die troon van Dawid beërwe.
 
 Die kind sal die Seun van die Allerhoogste genoem word — Hy sal die troon van Dawid beërwe.
 ---
@@ -67,9 +67,9 @@ Die kind sal die Seun van die Allerhoogste genoem word — Hy sal die troon van 
 
 Die engel verlaat Maria. Die hemel is stil weer. Maria sit nog. Die naam Jesus bly in haar gedagte. Die Seun van die Allerhoogste. Die Seun van God. God hou sy belofte aan die wêreld. En Maria sê ja.
 
-En weet jy wat toe gebeur het? God begin sy groot plan met een meisie wat luister. Josef sal ook een boodskap kry — en die kind sal in Bethlehem kom. Maria het gesê: Ek is die dienskneg van die Here — laat dit met my gebeur soos u gesê het. Maria het ja gesê — God se plan het begin.
+En weet jy wat toe gebeur het? God begin sy groot plan met een meisie wat luister. Josef sal ook een boodskap kry — en die kind sal in Bethlehem kom. Maria het gesê: Ek is die diensmeisie van die Here — mag met my gebeur volgens u woord. Maria het ja gesê — God se plan het begin.
 
-Maria het gesê: Ek is die dienskneg van die Here — laat dit met my gebeur soos u gesê het. Maria het ja gesê — God se plan het begin.
+Maria het gesê: Ek is die diensmeisie van die Here — mag met my gebeur volgens u woord. Maria het ja gesê — God se plan het begin.
 ---
 ## Bladsy 6 — Geheue
 
@@ -89,7 +89,7 @@ God hou sy belofte. Hy roep gewone mense soos Maria om deel te word van sy plan 
 
 ### Vers om te onthou
 
-Ek is die dienaar van die Here. Laat dit met my geskied soos jy gesê het. — Luk. 1:38. 〔AFR20-kontrole〕
+Kyk, ek is die diensmeisie van die Here. Mag met my gebeur volgens u woord. — Luk. 1:38.
 
 ### Onthou jy?
 

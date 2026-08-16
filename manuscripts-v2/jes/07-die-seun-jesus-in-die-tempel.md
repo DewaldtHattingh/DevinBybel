@@ -8,7 +8,7 @@ must_include: ["twaalf", "My Vader se huis"]
 theology_centre: "Jesus ken sy Vader"
 continuity_from: JES-06
 continuity_to: JES-08
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die seun Jesus in die tempel
@@ -95,7 +95,7 @@ Jesus behoort aan God — die tempel is sy Vader se huis. Hy is ook onderdanig a
 
 ### Vers om te onthou
 
-Moet ek nie in die huis van my Vader wees? — Luk. 2:49. 〔AFR20-kontrole〕
+Waarom het julle na My gesoek? Het julle nie geweet dat Ek met die dinge van my Vader besig moet wees nie? — Luk. 2:49.
 
 ### Onthou jy?
 

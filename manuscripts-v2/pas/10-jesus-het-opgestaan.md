@@ -8,7 +8,7 @@ must_include: ["leë graf", "engele", "Maria"]
 theology_centre: "Hy leef"
 continuity_from: PAS-09
 continuity_to: PAS-11
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jesus het opgestaan
@@ -37,9 +37,9 @@ Op die eerste dag van die week, vroeg in die môre, het die vroue na die graf ge
 
 Toe hulle gekom het, was die klip reeds weggerol. Hulle het die graf ingegaan — maar Jesus se liggaam was nie daar nie. Hulle was baie verbaas.
 
-Die vroue het vroeg na die graf gegaan met speserye. Hulle het gewonder wie die groot klip sou wegrol. Hulle het 'n groot aardbewing gesien — 'n engel het die klip weggerol en op die klip gesit.
+Die vroue het vroeg na die graf gegaan met speserye. Hulle het gewonder wie die groot klip sou wegrol. Die klip was reeds weggerol. Skielik het twee mans in blink klere daar gestaan.
 
-Hulle het 'n groot aardbewing gesien — 'n engel het die klip weggerol en op die klip gesit.
+Die klip was reeds weggerol. Skielik het twee mans in blink klere daar gestaan.
 ---
 
 ## Bladsy 3 — Stygende aksie
@@ -47,11 +47,11 @@ Hulle het 'n groot aardbewing gesien — 'n engel het die klip weggerol en op di
 
 > **Beeldnota:** Twee engels in wit; vroue kniel; helder maar sagte lig; geen vrees-toneel nie.
 
-Twee manne in blink klere het daar gestaan. Hulle het gesê: Waarom soek julle die Lewende tussen die dodes? Hy is nie hier nie — Hy het opgestaan! Onthou hoe Hy vir julle gesê het dit sou gebeur.
+Twee manne in blink klere het daar gestaan. Hulle het gesê: Waarom soek julle die Lewende tussen die dodes? Hy is nie hier nie, maar is opgewek! Onthou hoe Hy vir julle gesê het dit sou gebeur.
 
-Toe hulle gekom het, was die klip reeds weg. Jesus se liggaam was nie in die graf nie — en hulle was verbaas. Die engel het gesê: Moenie bang wees nie — Jesus wat gekruisig is, is nie hier nie. Hy het opgestaan! Die engel het gesê: Hy is nie hier nie — Hy het opgestaan!
+Toe hulle gekom het, was die klip reeds weg. Jesus se liggaam was nie in die graf nie — en hulle was verbaas. Hulle het gesê: Waarom soek julle die Lewende by die dooies? Hy is nie hier nie, maar is opgewek!
 
-Die engel het gesê: Moenie bang wees nie — Jesus wat gekruisig is, is nie hier nie. Hy het opgestaan! Die engel het gesê: Hy is nie hier nie — Hy het opgestaan!
+Hulle het gesê: Waarom soek julle die Lewende by die dooies? Hy is nie hier nie, maar is opgewek!
 ---
 
 ## Bladsy 4 — Hoofdraai
@@ -61,9 +61,9 @@ Die engel het gesê: Moenie bang wees nie — Jesus wat gekruisig is, is nie hie
 
 Die vroue het die dissipels vertel, maar hulle het nie geglo nie. Petrus en Johannes het na die graf gehardloop. Johannes het eerste gekom en gekyk. Petrus het binnegegaan — die doek was daar, maar Jesus was weg.
 
-Twee engels het gesê: Waarom soek julle die Lewende tussen die dodes? Onthou, Hy het gesê Hy sou opstaan! Gaan sê vir sy dissipels dat Hy na Galilea vooruitgaan.
+Twee engels het gesê: Waarom soek julle die Lewende tussen die dodes? Onthou, Hy het gesê Hy sou opstaan! Onthou wat Hy vir julle gesê het toe Hy nog in Galilea was.
 
-Gaan sê vir sy dissipels dat Hy na Galilea vooruitgaan.
+Onthou wat Hy vir julle gesê het toe Hy nog in Galilea was.
 ---
 
 ## Bladsy 5 — Ontknoping
@@ -75,9 +75,9 @@ Maria Magdalena het by die graf gehuil. Sy het iemand gesien en gedink dit is di
 
 Petrus en Johannes het gehardloop en die leë graf gesien. Maria Magdalena het Jesus lewend ontmoet by die graf.
 
-Jesus leef! Die graf is leeg en die engels het die goeie nuus vertel. Dit was die grootste dag in die geskiedenis. Jesus het self aan die vroue verskyn — wees nie bevrees nie, gaan vertel my broers. Jesus leef — die swaarste dag het in die grootste vreugde verander.
+Jesus leef! Die graf is leeg en die engels het die goeie nuus vertel. Dit was die grootste dag in die geskiedenis. Maria Magdalena het die Here gesien en aan die dissipels vertel. Jesus leef — die swaarste dag het in die grootste vreugde verander.
 
-Jesus het self aan die vroue verskyn — wees nie bevrees nie, gaan vertel my broers. Jesus leef — die swaarste dag het in die grootste vreugde verander.
+Maria Magdalena het die Here gesien en aan die dissipels vertel. Jesus leef — die swaarste dag het in die grootste vreugde verander.
 ---
 
 ## Bladsy 6 — Geheue
@@ -98,7 +98,7 @@ Jesus het opgestaan — die graf is leeg en Hy leef weer! Ons kan hierdie waarhe
 
 ### Vers om te onthou
 
-"Hy is nie hier nie; Hy het opgestaan." — Luk. 24:6. 〔AFR20-kontrole〕
+Hy is nie hier nie, maar is opgewek! — Luk. 24:6.
 
 ### Onthou jy?
 

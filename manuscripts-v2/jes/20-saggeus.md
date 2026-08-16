@@ -8,7 +8,7 @@ must_include: ["boom", "vandag redding", "viervoudig"]
 theology_centre: "Soek en red wat verlore is"
 continuity_from: JES-19
 continuity_to: JES-21
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Saggeus
@@ -86,6 +86,6 @@ Jesus soek en red verlore mense. Wanneer Hy iemand vind, verander daardie lewe �
 
 ### Vers om te onthou
 
-“Die Seun van die mens het gekom om te soek en te red wat verlore is.” — Lukas 19:10. 〔AFR20-kontrole〕
+Die Seun van die mens het gekom om te soek en te red wat verlore is. — Luk. 19:10.
 
 ### Onthou jy?

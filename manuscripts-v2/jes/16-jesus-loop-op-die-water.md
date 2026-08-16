@@ -8,7 +8,7 @@ must_include: ["nag", "Dit is Ek", "Petrus sink", "red"]
 theology_centre: "Jesus red; aanbidding"
 continuity_from: JES-15
 continuity_to: JES-17
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jesus loop op die water
@@ -93,6 +93,6 @@ Jesus is die Seun van God — selfs op die water in die nag. Wanneer ons bang wo
 
 ### Vers om te onthou
 
-Wees sterk, moenie bang wees nie. Dit is ek. — Matt. 14:27. 〔AFR20-kontrole〕
+Hou moed, dit is Ek; moenie langer bang wees nie. — Matt. 14:27.
 
 ### Onthou jy?

@@ -8,7 +8,7 @@ must_include: ["stad", "rivier", "lewensboom", "sy aangesig"]
 theology_centre: "God by sy volk vir altyd"
 continuity_from: REV-04
 continuity_to: REV-06
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die nuwe Jerusalem
@@ -98,7 +98,7 @@ God belowe 'n stad van lig — waar sy volk sy aangesig sal sien en vir altyd by
 
 ### Vers om te onthou
 
-"En hulle sal sy aangesig sien, en sy Naam sal op hul voorhoofde wees." — Openb. 22:4. 〔AFR20-kontrole〕
+Hulle sal sy aangesig sien, en sy Naam is op hulle voorkoppe. — Openb. 22:4.
 
 ### Onthou jy?
 

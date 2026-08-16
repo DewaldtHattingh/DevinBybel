@@ -8,7 +8,7 @@ must_include: ["getuienis", "steniging", "Saul stem saam"]
 theology_centre: "Getrou tot die dood"
 continuity_from: ACT-02
 continuity_to: ACT-04
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Stefanus
@@ -98,7 +98,7 @@ Stefanus het Jesus getuig tot die einde — en die Here was by hom. Ons kan hier
 
 ### Vers om te onthou
 
-"Here Jesus, ontvang my gees!" — Hand. 7:59. 〔AFR20-kontrole〕
+Here Jesus, ontvang my gees! — Hand. 7:59.
 
 ### Onthou jy?
 

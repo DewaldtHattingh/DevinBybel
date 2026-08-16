@@ -8,7 +8,7 @@ must_include: ["naaste", "priester/Leviet", "Samaritaan"]
 theology_centre: "Wie is my naaste?"
 continuity_from: JES-16
 continuity_to: JES-18
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die barmhartige Samaritaan
@@ -96,6 +96,6 @@ Wie barmhartigheid doen, is naaste. Jesus sê: Gaan en doen dieselfde.
 
 ### Vers om te onthou
 
-Gaan en doen dieselfde. — Luk. 10:37. 〔AFR20-kontrole〕
+Gaan maak jy ook so. — Luk. 10:37.
 
 ### Onthou jy?

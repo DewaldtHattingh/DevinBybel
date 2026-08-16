@@ -8,7 +8,7 @@ must_include: ["Skrifte", "brood breek", "herken"]
 theology_centre: "Skrif wys na Hom"
 continuity_from: PAS-10
 continuity_to: PAS-12
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Op pad na Emmaus
@@ -98,7 +98,7 @@ Jesus maak die Skrif oop vir ons — en ons kan Hom herken wanneer Hy naby is. O
 
 ### Vers om te onthou
 
-"Was dit nie nodig dat die Christus hierdie dinge moes ly en dan in sy heerlikheid sou ingaan nie?" — Luk. 24:26. 〔AFR20-kontrole〕
+Moes die Christus nie hierdie dinge ly en dan in sy heerlikheid ingaan nie? — Luk. 24:26.
 
 ### Onthou jy?
 

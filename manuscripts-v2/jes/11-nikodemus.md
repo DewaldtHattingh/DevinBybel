@@ -8,7 +8,7 @@ must_include: ["nag", "nuut gebore", "slang", "God so lief"]
 theology_centre: "Nuwe lewe; kruis vooruit"
 continuity_from: JES-10
 continuity_to: JES-12
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Nikodemus
@@ -95,6 +95,6 @@ God so liefhet die wêreld dat hy sy Seun gee. Wie in Jesus glo, kry lewe — ni
 
 ### Vers om te onthou
 
-God so liefhet die wêreld dat hy sy eniggebore Seun gegee het. — Joh. 3:16. 〔AFR20-kontrole〕
+Want so lief het God die wêreld gehad dat Hy sy unieke Seun gegee het, sodat elkeen wat in Hom glo, nie verlore sal gaan nie, maar die ewige lewe sal hê. — Joh. 3:16.
 
 ### Onthou jy?

@@ -8,7 +8,7 @@ must_include: ["Ek is die opstanding", "ween", "Kom uit!"]
 theology_centre: "Jesus het mag oor dood"
 continuity_from: JES-18
 continuity_to: JES-20
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jesus wek Lasarus op
@@ -96,6 +96,6 @@ Jesus is die opstanding en die lewe. Hy huil met die wat treur — en hy gee lew
 
 ### Vers om te onthou
 
-Ek is die opstanding en die lewe. — Joh. 11:25. 〔AFR20-kontrole〕
+Ek is die opstanding en die lewe. — Joh. 11:25.
 
 ### Onthou jy?

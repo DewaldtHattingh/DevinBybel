@@ -8,7 +8,7 @@ must_include: ["drie versoekings", "Skrif-antwoorde"]
 theology_centre: "Jesus gehoorsaam waar Israel/Adam misluk"
 continuity_from: JES-08
 continuity_to: JES-10
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jesus word versoek
@@ -91,6 +91,6 @@ Jesus luister na God se woord en weier kwaad. Hy vertrou die Here — nie brood,
 
 ### Vers om te onthou
 
-Jy moet die Here jou God aanbid en hom alleen dien. — Matt. 4:10. 〔AFR20-kontrole〕
+Die Here jou God moet jy aanbid en Hom alleen dien. — Matt. 4:10.
 
 ### Onthou jy?

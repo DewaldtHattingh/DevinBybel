@@ -8,7 +8,7 @@ must_include: ["Josef", "graf", "klip", "wag"]
 theology_centre: "Ware dood"
 continuity_from: PAS-08
 continuity_to: PAS-10
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jesus word begrawe
@@ -98,7 +98,7 @@ Jesus is regtig gesterf en begrawe — maar God se plan was nog nie verby nie. O
 
 ### Vers om te onthou
 
-"Hy het dit in sy nuwe graf gelê." — Matt. 27:60. 〔AFR20-kontrole〕
+Hy het dit in sy nuwe graf gelê. — Matt. 27:60.
 
 ### Onthou jy?
 

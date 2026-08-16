@@ -8,7 +8,7 @@ must_include: ["leer", "gemeenskap", "kreupel loop"]
 theology_centre: "Nuwe lewe saam"
 continuity_from: ACT-01
 continuity_to: ACT-03
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die vroeë gemeente
@@ -98,7 +98,7 @@ Die gemeente leef saam in geloof — en Jesus se Naam bring regte genesing. Ons 
 
 ### Vers om te onthou
 
-"In die Naam van Jesus Christus van Nasaret, staan op en loop!" — Hand. 3:6. 〔AFR20-kontrole〕
+In die Naam van Jesus Christus van Nasaret, staan op en loop! — Hand. 3:6.
 
 ### Onthou jy?
 

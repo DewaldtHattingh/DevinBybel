@@ -8,7 +8,7 @@ must_include: ["lewende water", "ware aanbidding", "Messias"]
 theology_centre: "Jesus vir buitestaanders"
 continuity_from: JES-11
 continuity_to: JES-13
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die vrou by die put
@@ -87,6 +87,6 @@ Jesus gee lewende water — leven met God. Ware aanbidding is in gees en waarhei
 
 ### Vers om te onthou
 
-Maar die water wat ek hom sal gee, sal in hom een fontein van water word wat tot ewige lewe opspring. — Joh. 4:14. 〔AFR20-kontrole〕
+Maar die water wat Ek hom sal gee, sal in hom 'n fontein van water word wat opspring tot die ewige lewe. — Joh. 4:14.
 
 ### Onthou jy?

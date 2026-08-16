@@ -8,7 +8,7 @@ must_include: ["seël", "Leeu/Lam", "nuwe lied"]
 theology_centre: "Lam is waardig"
 continuity_from: REV-01
 continuity_to: REV-03
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die Lam wat waardig is
@@ -71,7 +71,7 @@ Die Leeu van die stam Juda, die Wortel van Dawid, het oorwin — maar Johannes h
 
 > **Beeldnota:** Menigte in wit; palmtakke; nuwe lied; sagte, vreugdevolle lig.
 
-Johannes het 'n groot menigte gehoor — van alle nasies en tale. Hulle het gesing: Waardig is die Lam wat geslag is, om krag en rykdom en wysheid te ontvang! Johannes het geweet: die Lam is Jesus. Hy alleen is waardig.
+Johannes het 'n groot menigte gehoor — van alle nasies en tale. Hulle het gesing: Waardig is die Lam wat geslag is, om die krag en rykdom en wysheid en sterkte en eer en heerlikheid en lof te ontvang! Johannes het geweet: die Lam is Jesus. Hy alleen is waardig.
 
 Johannes het geweet: die Lam is Jesus. Hy alleen is waardig om die seëls oop te maak.
 
@@ -98,7 +98,7 @@ Jesus, die Lam wat oorwin het, is alleen waardig — en die hemel prys Hom. Ons 
 
 ### Vers om te onthou
 
-"Waardig is die Lam wat geslag is, om die krag en die rykdom en die wysheid en die krag en die eer en die heerlikheid en die lof te ontvang!" — Openb. 5:12. 〔AFR20-kontrole〕
+Waardig is die Lam wat geslag is, om die krag en rykdom en wysheid en sterkte en eer en heerlikheid en lof te ontvang. — Openb. 5:12.
 
 ### Onthou jy?
 

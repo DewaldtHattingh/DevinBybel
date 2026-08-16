@@ -8,7 +8,7 @@ must_include: ["boot", "slaap", "Stil maar!", "Wie is Hy?"]
 theology_centre: "Jesus heers oor skepping"
 continuity_from: JES-13
 continuity_to: JES-15
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jesus stil die storm
@@ -83,6 +83,6 @@ Jesus het mag oor die wind en die see. Wie hy is, is groter as wat ons bang maak
 
 ### Vers om te onthou
 
-Wees stil! Wees rustig! — Mark. 4:39. 〔AFR20-kontrole〕
+Wees stil, bedaar! — Mark. 4:39.
 
 ### Onthou jy?

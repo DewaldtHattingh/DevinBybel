@@ -8,7 +8,7 @@ must_include: ["bekeer", "doop", "Gees", "stem uit hemel"]
 theology_centre: "Vader bevestig die Seun"
 continuity_from: JES-07
 continuity_to: JES-09
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Johannes; Jesus se doop
@@ -96,6 +96,6 @@ Jesus is God se geliefde Seun. By die doop wys God dit met die Gees en die stem 
 
 ### Vers om te onthou
 
-Dit is my geliefde Seun. In hom het ek my welbehage gevonden. — Matt. 3:17. 〔AFR20-kontrole〕
+Dit is my geliefde Seun oor wie Ek My verheug. — Matt. 3:17.
 
 ### Onthou jy?

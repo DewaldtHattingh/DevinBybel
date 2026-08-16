@@ -8,7 +8,7 @@ must_include: ["wind/vuur", "tale", "Petrus", "~3000"]
 theology_centre: "Gees gegee"
 continuity_from: PAS-13
 continuity_to: ACT-02
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Pinkster
@@ -71,7 +71,7 @@ Petrus het gepreek: Dit is wat die profeet Joël voorspel het — God sal sy Gee
 
 > **Beeldnota:** Mense kniel in gebed; doop in 'n stroom; vreugde; sagte aandstemming.
 
-Die mense het Petrus gevra: Wat moet ons doen? Petrus het gesê: Bekeer julle en laat julle doop. En julle sal die Gees ontvang. Daardie dag het ongeveer drieduisend mense glo en laat doop. Die kerk het begin groei.
+Die mense het Petrus gevra: Wat moet ons doen? Petrus het gesê: Bekeer julle, en laat elkeen van julle in die Naam van Jesus Christus tot vergewing van julle sondes gedoop word. En julle sal die Gees ontvang. Daardie dag het ongeveer drieduisend mense glo en laat doop. Die kerk het begin groei.
 
 Petrus het gepreek dat Jesus opgestaan het. Ongeveer drieduisend mense het glo en laat doop daardie dag.
 
@@ -98,7 +98,7 @@ God stuur sy Gees — en die goeie nuus van Jesus versprei na alle volke. Ons ka
 
 ### Vers om te onthou
 
-"Bekeer julle en laat julle elkeen doop in die Naam van Jesus Christus." — Hand. 2:38. 〔AFR20-kontrole〕
+Bekeer julle, en laat elkeen van julle in die Naam van Jesus Christus tot vergewing van julle sondes gedoop word. — Hand. 2:38.
 
 ### Onthou jy?
 

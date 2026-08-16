@@ -8,7 +8,7 @@ must_include: ["groot wit troon", "boeke"]
 theology_centre: "Oordeel is ernstig"
 continuity_from: REV-02
 continuity_to: REV-04
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # God oordeel regverdig
@@ -98,7 +98,7 @@ God oordeel regverdig — en Hy belowe ook om alles nuut te maak. Ons kan hierdi
 
 ### Vers om te onthou
 
-"En Hy wat op die troon sit, sê: Kyk, Ek maak alles nuut." — Openb. 21:5. 〔AFR20-kontrole〕
+Kyk, Ek maak alles nuut. — Openb. 21:5.
 
 ### Onthou jy?
 

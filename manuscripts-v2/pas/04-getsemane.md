@@ -8,7 +8,7 @@ must_include: ["waak", "nie My wil nie", "dissipels slaap"]
 theology_centre: "Gehoorsaamheid in angs"
 continuity_from: PAS-03
 continuity_to: PAS-05
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Getsemane
@@ -98,7 +98,7 @@ Jesus het die Vader vertrou, selfs toe die pad swaar was — en ons kan ook waak
 
 ### Vers om te onthou
 
-"My Vader, as dit moontlik is, laat hierdie beker aan My verbygaan. Nietemin, nie soos Ek wil nie, maar soos U wil." — Matt. 26:39. 〔AFR20-kontrole〕
+My Vader, as dit moontlik is, laat hierdie beker by My verbygaan. Nogtans, nie soos Ek wil nie, maar soos U wil. — Matt. 26:39.
 
 ### Onthou jy?
 

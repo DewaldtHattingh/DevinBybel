@@ -8,7 +8,7 @@ must_include: ["droom", "Egipte", "Herodes se geweld", "Nasaret"]
 theology_centre: "God beskerm die Kind"
 continuity_from: JES-05
 continuity_to: JES-07
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Vlug na Egipte
@@ -23,7 +23,7 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Josef wakker in nag; lig in droom; Maria en kind slaap; Bethlehem klein buite.
 
-**Een dag, lank, lank gelede,** nadat die wyse manne Jesus gesien het, Josef droom weer. Een engel van die Here sê: Neem die kind en sy ma en vlug na Egipte. Bly daar tot ek jou sê. Herodes soek die kind om hom dood te maak.
+**Een dag, lank, lank gelede,** nadat die wyse manne Jesus gesien het, Josef droom weer. Een engel van die Here sê: Maak gereed, neem die Kindjie en sy moeder en vlug na Egipte, en bly daar tot wanneer ek jou opdrag gee. Herodes soek die kind om hom dood te maak.
 
 Josef ontwaak. Die boodskap is dringend. God waarsku sy familie. 'n Engel het in 'n droom vir Josef gesê: Staan op en vlug na Egipte met die Kind en sy moeder.
 
@@ -54,7 +54,7 @@ Hulle het in Egipte gebly tot Herodes dood was — soos die profeet gesê het: U
 
 > **Beeldnota:** Engel in droomlig; Josef luister; Egipte in verte; pad na noorde oop.
 
-Na een tyd sterf Herodes. In een droom sê die engel vir Josef: Gaan terug na Israel. Die mens wat die kind soek, is dood. Josef neem sy familie en gaan terug. Maar Josef is bang vir Herodes se seun, Archelaus, wat nou regeer in Judea. God waarsku Josef weer in een droom: gaan na Galilea, na Nazaret. Herodes het al die seuntjies in Betlehem en omgewing laat doodmaak — twee jaar en jonger. In Betlehem het Herodes se soldate klein seuntjies doodgemaak.
+Na een tyd sterf Herodes. In een droom sê die engel vir Josef: Gaan terug na Israel. Die mens wat die kind soek, is dood. Josef neem sy familie en gaan terug. Maar Josef is bang vir Herodes se seun, Argelaos, wat nou regeer in Judea. God waarsku Josef weer in een droom: gaan na Galilea, na Nazaret. Herodes het al die seuntjies in Betlehem en omgewing laat doodmaak — twee jaar en jonger. In Betlehem het Herodes se soldate klein seuntjies doodgemaak.
 
 Herodes het al die seuntjies in Betlehem en omgewing laat doodmaak — twee jaar en jonger. In Betlehem het Herodes se soldate klein seuntjies doodgemaak.
 ---
@@ -88,6 +88,6 @@ God beskerm Jesus sodat sy belofte kan uitkom. Selfs wanneer konings vol haat is
 
 ### Vers om te onthou
 
-Neem die kind en sy ma en vlug na Egipte, en bly daar tot ek jou sê. — Matt. 2:13. 〔AFR20-kontrole〕
+Maak gereed, neem die Kindjie en sy moeder en vlug na Egipte, en bly daar tot wanneer ek jou opdrag gee; want Herodes is van plan om die Kindjie te soek en Hom dood te maak. — Matt. 2:13.
 
 ### Onthou jy?

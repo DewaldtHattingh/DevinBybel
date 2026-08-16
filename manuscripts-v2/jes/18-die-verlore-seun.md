@@ -8,7 +8,7 @@ must_include: ["ver land", "terugkeer", "vader hardloop", "ouer broer"]
 theology_centre: "Vader se genade"
 continuity_from: JES-17
 continuity_to: JES-19
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die verlore seun
@@ -95,6 +95,6 @@ God verwelkom wie terugkeer. Daar is vreugde wanneer iemand verlore was en gevin
 
 ### Vers om te onthou
 
-My seun was dood en leef weer. Hy was verlore en is gevind. — Luk. 15:24. 〔AFR20-kontrole〕
+Want hierdie seun van my was dood en het weer lewendig geword, hy was verlore en is weer gevind. — Luk. 15:24.
 
 ### Onthou jy?

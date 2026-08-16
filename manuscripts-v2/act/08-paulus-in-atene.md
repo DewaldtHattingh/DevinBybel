@@ -8,7 +8,7 @@ must_include: ["Onbekende god", "opstanding"]
 theology_centre: "Evangelie vir filosowe"
 continuity_from: ACT-07
 continuity_to: ACT-09
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Paulus in Atene
@@ -98,7 +98,7 @@ Die ware God is nie 'n beeld van klip nie — Hy het die wêreld gemaak en Jesus
 
 ### Vers om te onthou
 
-"Die God wat die wêreld en alles wat daarin is, gemaak het, Hy wat Here van hemel en aarde is, woon nie in tempels wat met hande gemaak is nie." — Hand. 17:24. 〔AFR20-kontrole〕
+Die God wat die wêreld en alles wat daarin is, gemaak het, Hy wat Here van hemel en aarde is, woon nie in tempels wat met hande gemaak is nie. — Hand. 17:24.
 
 ### Onthou jy?
 

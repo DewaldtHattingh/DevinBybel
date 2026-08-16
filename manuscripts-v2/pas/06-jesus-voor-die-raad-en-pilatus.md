@@ -8,7 +8,7 @@ must_include: ["vals getuies", "Barabbas", "skare"]
 theology_centre: "Onskuldige veroordeel"
 continuity_from: PAS-05
 continuity_to: PAS-07
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jesus voor die Raad en Pilatus
@@ -98,7 +98,7 @@ Jesus het die waarheid gesê, selfs toe mense Hom onregverdig veroordeel het. On
 
 ### Vers om te onthou
 
-"U sê dit. Maar Ek sê vir julle: Van nou af sal julle die Seun van die mens sien." — Matt. 26:64. 〔AFR20-kontrole〕
+Ú het dit gesê. Maar Ek sê vir julle: Van nou af sal julle die Seun van die Mens sien sit aan die regterhand van die Magtige, en Hom op die wolke van die hemel sien kom. — Matt. 26:64.
 
 ### Onthou jy?
 

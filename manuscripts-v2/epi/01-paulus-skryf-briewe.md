@@ -8,7 +8,7 @@ must_include: ["niks skei van liefde", "liefde beskryf"]
 theology_centre: "Briewe bou die kerk"
 continuity_from: ACT-09
 continuity_to: REV-01
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Paulus skryf briewe
@@ -98,7 +98,7 @@ Niks kan ons van God se liefde skei nie — en ware liefde gee nooit op nie. Ons
 
 ### Vers om te onthou
 
-"Ek is oortuig dat geen dood of lewe, en geen engle of magte… ons van die liefde van God sal kan skei nie." — Rom. 8:38–39. 〔AFR20-kontrole〕
+Ek is immers daarvan oortuig dat nóg dood, nóg lewe, nóg engele, nóg magte … ons sal kan skei van die liefde van God in Christus Jesus, ons Here. — Rom. 8:38–39.
 
 ### Onthou jy?
 

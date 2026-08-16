@@ -8,7 +8,7 @@ must_include: ["drie keer", "haan", "Jesus kyk", "Petrus ween"]
 theology_centre: "Mislukking; later herstel"
 continuity_from: PAS-06
 continuity_to: PAS-08
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Petrus verloën Jesus
@@ -98,7 +98,7 @@ Selfs wanneer ons faal, kyk Jesus na ons — en daar is plek vir berou. Ons kan 
 
 ### Vers om te onthou
 
-"Die Here het omgedraai en na Petrus gekyk." — Luk. 22:61. 〔AFR20-kontrole〕
+Die Here het omgedraai en stip na Petrus gekyk. — Luk. 22:61.
 
 ### Onthou jy?
 

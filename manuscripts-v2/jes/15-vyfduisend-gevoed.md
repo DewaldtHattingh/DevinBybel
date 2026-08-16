@@ -8,7 +8,7 @@ must_include: ["brood/visse", "seën", "twaalf mandjies"]
 theology_centre: "Jesus voorsien"
 continuity_from: JES-14
 continuity_to: JES-16
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Vyfduisend gevoed
@@ -43,9 +43,9 @@ Andrew het gesê: Hier is 'n seun met vyf gerste-brode en twee vis — maar wat 
 
 Jesus neem die brode. Hy neem die vis. Hy gee dank — hy bedank God. Dan breek hy en gee aan die dissipels. Die dissipels gee aan die mense. Almal eet. Almal word vol.
 
-Die klein seun se brood en vis is nie genoeg op papier nie — maar Jesus gee genoeg. Jesus het die brode en vis geneem, God gedank en dit aan die dissipels gegee om uit te deel. Hy het die brood en vis geneem, God gedank en uitgedeel.
+Die klein seun se brood en vis is nie genoeg op papier nie — maar Jesus gee genoeg. Jesus het die brode geneem, die seëngebed uitgespreek en laat uitdeel. Hy het die brode geneem, die seëngebed uitgespreek en laat uitdeel.
 
-Jesus het die brode en vis geneem, God gedank en dit aan die dissipels gegee om uit te deel. Hy het die brood en vis geneem, God gedank en uitgedeel.
+Jesus het die brode geneem, die seëngebed uitgespreek en laat uitdeel. Hy het die brode geneem, die seëngebed uitgespreek en laat uitdeel.
 ---
 ## Bladsy 4 — Hoofdraai
 ![Beeld: hoofdraai](../../assets/images/JES-15-p4.png)
@@ -88,6 +88,6 @@ Jesus gee genoeg — meer as genoeg. Wie in hom glo, vind dat God sorg vir hulle
 
 ### Vers om te onthou
 
-Jesus neem die brode, en nadat hy God gedank het, breek en gee dit aan die dissipels. — Joh. 6:11. 〔AFR20-kontrole〕
+Toe het Jesus die brode geneem, en nadat Hy die seëngebed uitgespreek het, het Hy dit laat uitdeel aan dié wat daar gesit het. — Joh. 6:11.
 
 ### Onthou jy?

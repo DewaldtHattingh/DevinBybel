@@ -8,7 +8,7 @@ must_include: ["engel", "Jesus red", "Immanuel"]
 theology_centre: "Josef gehoorsaam"
 continuity_from: JES-01
 continuity_to: JES-03
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Josef se droom
@@ -90,6 +90,6 @@ God roep Josef om Jesus te beskerm en te noem. Die naam Jesus wys dat God verlos
 
 ### Vers om te onthou
 
-Jy moet hom Jesus noem, want hy sal sy volk verlos van hulle sondes. — Matt. 1:21. 〔AFR20-kontrole〕
+jy moet Hom Jesus noem, want Hy sal sy volk van hulle sondes verlos. — Matt. 1:21.
 
 ### Onthou jy?

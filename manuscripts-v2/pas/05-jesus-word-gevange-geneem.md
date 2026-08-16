@@ -8,7 +8,7 @@ must_include: ["kus", "arrestasie", "swaard", "dissipels vlug"]
 theology_centre: "Hy gee Homself oor"
 continuity_from: PAS-04
 continuity_to: PAS-06
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jesus word gevange geneem
@@ -98,7 +98,7 @@ Jesus het geweet wat sou kom en het Homself oorgegee — sonder geweld. Ons kan 
 
 ### Vers om te onthou
 
-"Steek jou swaard weg, want hy wat die swaard neem, sal deur die swaard sterf." — Matt. 26:52. 〔AFR20-kontrole〕
+Bêre jou swaard op sy plek. Want almal wat die swaard opneem, sal deur die swaard omkom. — Matt. 26:52.
 
 ### Onthou jy?
 

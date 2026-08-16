@@ -8,7 +8,7 @@ must_include: ["reiniging", "grootste gebooie"]
 theology_centre: "Huis van gebed; liefde"
 continuity_from: PAS-01
 continuity_to: PAS-03
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jesus in die tempel
@@ -98,7 +98,7 @@ God se huis is vir gebed, en die grootste gebooie is om God en jou naaste lief t
 
 ### Vers om te onthou
 
-"Jy moet die Here jou God liefhê met jou hele hart en met jou hele siel en met jou hele verstand." — Matt. 22:37. 〔AFR20-kontrole〕
+Jy moet die Here jou God liefhê met jou hele hart en met jou hele siel en met jou hele verstand. — Matt. 22:37.
 
 ### Onthou jy?
 

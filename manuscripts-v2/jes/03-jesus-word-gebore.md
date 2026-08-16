@@ -8,7 +8,7 @@ must_include: ["sensus", "Betlehem", "krip"]
 theology_centre: "Nederige geboorte"
 continuity_from: JES-02
 continuity_to: JES-04
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jesus word gebore
@@ -23,11 +23,11 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Wye landskap; pad vol mense na Bethlehem; Josef en Maria klein op die pad; groot hemel.
 
-**Een dag, lank, lank gelede,** die keiser in Rome, Caesar Augustus, wou weet hoeveel mense in sy land woon. Hy beveel een sensus. Elke mens moet na sy eie stad gaan om geregistreer te word. Josef woon in Nazaret, maar sy familie kom uit Bethlehem. Bethlehem is die stad van koning Dawid.
+**Een dag, lank, lank gelede,** die keiser in Rome, Caesar Augustus, wou weet hoeveel mense in sy land woon. Hy het 'n dekreet uitgevaardig dat die bevolking geregistreer moet word. Elke mens moet na sy eie stad gaan om geregistreer te word. Josef woon in Nazaret, maar sy familie kom uit Bethlehem. Bethlehem is die stad van koning Dawid.
 
-Die sensus beteken dat elke familie moet gaan waar hulle voorvaders gewoon het. Josef se familie kom van Bethlehem, die stad van koning Dawid. Die pad van Nazaret na Bethlehem is lank vir een swanger vrou. Keiser Augustus het beveel dat almal ingeskryf moet word — elkeen na sy eie stad.
+Die volkstelling beteken dat elke familie moet gaan waar hulle voorvaders gewoon het. Josef se familie kom van Bethlehem, die stad van koning Dawid. Die pad van Nazaret na Bethlehem is lank vir een swanger vrou. Keiser Augustus het beveel dat almal geregistreer moet word — elkeen na sy eie stad.
 
-Keiser Augustus het beveel dat almal ingeskryf moet word — elkeen na sy eie stad.
+Keiser Augustus het beveel dat almal geregistreer moet word — elkeen na sy eie stad.
 ---
 ## Bladsy 2 — Probleem
 ![Beeld: probleem](../../assets/images/JES-03-p2.png)
@@ -62,9 +62,9 @@ Maria wikkel die kind in lap. Sy lê hom in die krip. Geen paleis. Geen goue bed
 
 Dit is Jesus. Die Seun van God. Die Seun van die Allerhoogste. God hou sy belofte. Die kind is hier.
 
-Die kind is klein en stil. Maria en Josef kyk na hom. Geen paleis. Geen goue bed. Maar God se belofte is hier — in Bethlehem, soos die profete gesê het. Maria het haar Seun toegedraai en Hom in die krip gelê.
+Die kind is klein en stil. Maria en Josef kyk na hom. Geen paleis. Geen goue bed. Maar God se belofte is hier — in Bethlehem, soos die profete gesê het. Maria het Hom in doeke toegedraai en in 'n krip neergelê.
 
-Maria het haar Seun toegedraai en Hom in die krip gelê.
+Maria het Hom in doeke toegedraai en in 'n krip neergelê.
 ---
 ## Bladsy 5 — Ontknoping
 ![Beeld: ontknoping](../../assets/images/JES-03-p5.png)
@@ -96,6 +96,6 @@ God se beloofde Koning kom nie in een paleis nie — hy kom in Bethlehem, klein 
 
 ### Vers om te onthou
 
-En sy het haar eerstegebore seun gebore en hom in een krip geleg. — Luk. 2:7. 〔AFR20-kontrole〕
+sy het geboorte geskenk aan haar eerste kind, 'n seun. Sy het Hom in doeke toegedraai en in 'n krip neergelê, omdat daar nie vir hulle plek in die herberg was nie. — Luk. 2:7.
 
 ### Onthou jy?

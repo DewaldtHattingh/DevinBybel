@@ -8,7 +8,7 @@ must_include: ["Saligsprekinge", "Ons Vader", "wyse/dwase bouer"]
 theology_centre: "Koninkryk se etos"
 continuity_from: JES-12
 continuity_to: JES-14
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jesus leer op die berg
@@ -95,6 +95,6 @@ Jesus leer ons bid en bou op sy woord. Wie sy woorde hoort en doen, bly staan so
 
 ### Vers om te onthou
 
-Ons Vader in die hemel, laat u naam geheilig word. — Matt. 6:9. 〔AFR20-kontrole〕
+Ons Vader in die hemel, laat u Naam geheilig word. — Matt. 6:9.
 
 ### Onthou jy?

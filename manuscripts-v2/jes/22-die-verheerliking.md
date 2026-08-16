@@ -8,7 +8,7 @@ must_include: ["berg", "Moses/Elia", "stem"]
 theology_centre: "Luister na Hom"
 continuity_from: JES-21
 continuity_to: JES-23
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die verheerliking
@@ -92,6 +92,6 @@ Jesus is God se geliefde Seun. God sê: luister na hom. Die glorie wys wie Jesus
 
 ### Vers om te onthou
 
-Dit is my geliefde Seun. Luister na hom! — Mark. 9:7. 〔AFR20-kontrole〕
+Dit is my geliefde Seun. Luister na Hom! — Mark. 9:7.
 
 ### Onthou jy?

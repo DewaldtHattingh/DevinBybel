@@ -8,7 +8,7 @@ must_include: ["storm", "skipbreuk", "huisgevangenis"]
 theology_centre: "Evangelie tot die einde van die aarde"
 continuity_from: ACT-08
 continuity_to: EPI-01
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Paulus se reis na Rome
@@ -98,7 +98,7 @@ God was by Paulus in die storm — en die goeie nuus het selfs in Rome geklink. 
 
 ### Vers om te onthou
 
-"Moet nie bang wees nie, Paulus. Jy moet voor Caesar staan; en God het jou al die mense saam met jou op die skip geskenk." — Hand. 27:24. 〔AFR20-kontrole〕
+Moenie bang wees nie, Paulus. Jy moet voor Caesar staan; en God het jou al die mense saam met jou op die skip geskenk. — Hand. 27:24.
 
 ### Onthou jy?
 

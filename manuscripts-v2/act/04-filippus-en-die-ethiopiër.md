@@ -8,7 +8,7 @@ must_include: ["Jesaja", "Jesus", "doop"]
 theology_centre: "Evangelie gaan uit"
 continuity_from: ACT-03
 continuity_to: ACT-05
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Filippus en die Ethiopiër
@@ -98,7 +98,7 @@ Die goeie nuus van Jesus reik ver — na alle volke en lande. Ons kan hierdie wa
 
 ### Vers om te onthou
 
-"Filippus het hom die evangelie van Jesus Christus verkondig." — Hand. 8:35. 〔AFR20-kontrole〕
+Filippus het hom die evangelie van Jesus Christus verkondig. — Hand. 8:35.
 
 ### Onthou jy?
 

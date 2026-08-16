@@ -8,7 +8,7 @@ must_include: ["gesig gerig", "lyde voorspel"]
 theology_centre: "Pad na die kruis"
 continuity_from: JES-22
 continuity_to: PAS-01
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jesus gaan na Jerusalem
@@ -90,6 +90,6 @@ Jesus gaan na Jerusalem om te ly en op te staan — en om alle mense tot hom te 
 
 ### Vers om te onthou
 
-En ek, wanneer ek van die aarde opgehef word, sal alle mense tot myself trek. — Joh. 12:32. 〔AFR20-kontrole〕
+En Ek, wanneer Ek van die aarde opgehef word, sal almal na My toe trek. — Joh. 12:32.
 
 ### Onthou jy?

@@ -8,7 +8,7 @@ must_include: ["Volg My", "Kana"]
 theology_centre: "Jesus se heerlikheid begin"
 continuity_from: JES-09
 continuity_to: JES-11
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Eerste dissipels; water word wyn
@@ -90,7 +90,7 @@ Jesus roep mense: Kom en sien. Hy openbaar sy glorie — en sy dissipels glo in 
 
 ### Vers om te onthou
 
-Kom en sien. — Joh. 1:39. 〔AFR20-kontrole〕
+Kom kyk! — Joh. 1:39.
 
 ### Onthou jy?
 

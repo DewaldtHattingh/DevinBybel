@@ -8,7 +8,7 @@ must_include: ["dissipels verhinder", "Jesus ontvang", "soos kind"]
 theology_centre: "Koninkryk vir kinders"
 continuity_from: JES-20
 continuity_to: JES-22
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jesus en die kinders
@@ -87,6 +87,6 @@ God se koninkryk is vir wie ontvang soos ’n kind — oop en bereid om te ontva
 
 ### Vers om te onthou
 
-“Laat die kinders na My toe kom; moenie hulle verhinder nie.” — Markus 10:14. 〔AFR20-kontrole〕
+Laat die kindertjies na My toe kom en moet hulle nie langer verhinder nie. — Mark. 10:14.
 
 ### Onthou jy?

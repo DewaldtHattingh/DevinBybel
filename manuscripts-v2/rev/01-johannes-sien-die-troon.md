@@ -8,7 +8,7 @@ must_include: ["Patmos", "Seun van Mens (ingetoë)", "heilig heilig"]
 theology_centre: "Aanbidding"
 continuity_from: EPI-01
 continuity_to: REV-02
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Johannes sien die troon
@@ -98,7 +98,7 @@ God sit op die troon — en die hemel aanbid Hom as Heilig, Heilig, Heilig. Ons 
 
 ### Vers om te onthou
 
-"Heilig, Heilig, Heilig is die Here God, die Almagtige, wat was en wat is en wat kom!" — Openb. 4:8. 〔AFR20-kontrole〕
+Heilig, Heilig, Heilig is die Here God, die Almagtige, wat was en wat is en wat kom! — Openb. 4:8.
 
 ### Onthou jy?
 

@@ -8,7 +8,7 @@ must_include: ["Gees en bruid sê kom", "genade"]
 theology_centre: "Maranata"
 continuity_from: REV-05
 continuity_to: null
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Kom, Here Jesus
@@ -98,7 +98,7 @@ Jesus kom weer — en Hy nooi ons om te kom drink van die water van die lewe. Sy
 
 ### Vers om te onthou
 
-"Die Gees en die bruid sê: Kom!… En laat die een wat wil, die water van die lewe neem, verniet." — Openb. 22:17. 〔AFR20-kontrole〕
+Kom! En laat elkeen wat dors het, kom. En laat elkeen wat dit begeer, die water van die lewe kom kry, verniet! — Openb. 22:17.
 
 ### Onthou jy?
 

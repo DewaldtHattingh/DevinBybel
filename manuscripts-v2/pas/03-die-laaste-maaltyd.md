@@ -8,7 +8,7 @@ must_include: ["brood/beker", "verraad", "voete was"]
 theology_centre: "Nuwe verbond"
 continuity_from: PAS-02
 continuity_to: PAS-04
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die laaste maaltyd
@@ -98,7 +98,7 @@ Jesus dien sy vriende en gee Homself vir hulle — en ons moet mekaar ook dien. 
 
 ### Vers om te onthou
 
-"Dit is my liggaam wat vir julle gegee word." — Luk. 22:19. 〔AFR20-kontrole〕
+Dit is my liggaam, wat vir julle gegee word. — Luk. 22:19.
 
 ### Onthou jy?
 

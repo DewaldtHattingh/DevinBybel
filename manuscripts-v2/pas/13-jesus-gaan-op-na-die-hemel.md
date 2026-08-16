@@ -8,7 +8,7 @@ must_include: ["belofte van Gees", "wolk", "sal terugkom"]
 theology_centre: "Hy kom weer"
 continuity_from: PAS-12
 continuity_to: ACT-01
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jesus gaan op na die hemel
@@ -98,7 +98,7 @@ Jesus is by die Vader — maar Hy sal terugkom, en die Gees sal sy volk krag gee
 
 ### Vers om te onthou
 
-"Hierdie Jesus wat van julle weggeneem is, sal op dieselfde manier terugkom." — Hand. 1:11. 〔AFR20-kontrole〕
+Hierdie Jesus, wat van julle na die hemel weggeneem is, sal net so terugkom soos wat julle Hom na die hemel sien weggaan het. — Hand. 1:11.
 
 ### Onthou jy?
 

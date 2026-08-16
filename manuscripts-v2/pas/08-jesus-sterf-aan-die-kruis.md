@@ -8,7 +8,7 @@ must_include: ["kruis", "vergewe", "Dit is volbring", "duisternis"]
 theology_centre: "Plaasvervangende dood"
 continuity_from: PAS-07
 continuity_to: PAS-09
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jesus sterf aan die kruis
@@ -23,9 +23,9 @@ afr20_quote_check: pending
 
 > **Beeldnota:** Jesus dra 'n kruis op 'n pad; Simon van Sirene help; skare kyk van ver; geen bloed nie.
 
-**Een dag, lank, lank gelede,** het die soldate Jesus na 'n plek buite Jerusalem gelei wat Golgota genoem is. Jesus was te swak om die kruis alleen te dra. Simon van Sirene het gehelp.
+**Een dag, lank, lank gelede,** het die soldate Jesus na 'n plek buite Jerusalem gelei wat Kopbeenplek genoem is. Jesus was te swak om die kruis alleen te dra. Simon van Sirene het gehelp.
 
-Golgota was buite Jerusalem — die plek van die kruis. Mense het van ver af gestaan en gekyk. Die soldate het Jesus se klere verdeel en vir sy kleed loot gewerp.
+Kopbeenplek was buite Jerusalem — die plek van die kruis. Mense het van ver af gestaan en gekyk. Die soldate het Jesus se klere verdeel en vir sy kleed loot gewerp.
 
 Die soldate het Jesus se klere verdeel en vir sy kleed loot gewerp.
 ---
@@ -37,7 +37,7 @@ Die soldate het Jesus se klere verdeel en vir sy kleed loot gewerp.
 
 Daar is Jesus gekruisig, saam met twee misdadigers — een aan elke kant. Die soldate het loot gewerp vir sy klere. Mense het gestaan en gekyk van ver af.
 
-Simon van Sirene het gehelp om die kruis te dra. By Golgota is Jesus gekruisig saam met twee misdadigers. By die kruis het mense Hom bespot — die leiers het gesê: Hy het ander gered, laat Hom Homself red. Jesus is gekruisig tussen twee misdadigers.
+Simon van Sirene het gehelp om die kruis te dra. By Kopbeenplek is Jesus gekruisig saam met twee misdadigers. By die kruis het mense Hom bespot — die leiers het gesê: Hy het ander gered, laat Hom Homself red. Jesus is gekruisig tussen twee misdadigers.
 
 By die kruis het mense Hom bespot — die leiers het gesê: Hy het ander gered, laat Hom Homself red. Jesus is gekruisig tussen twee misdadigers.
 ---
@@ -45,7 +45,7 @@ By die kruis het mense Hom bespot — die leiers het gesê: Hy het ander gered, 
 ## Bladsy 3 — Stygende aksie
 ![Beeld: stygende-aksie](../../assets/images/PAS-08-p3.png)
 
-> **Beeldnota:** Donker hemel oor Golgota; Jesus se gesig opgehef; geen wonde sigbaar in beeld nie.
+> **Beeldnota:** Donker hemel oor Kopbeenplek; Jesus se gesig opgehef; geen wonde sigbaar in beeld nie.
 
 Jesus het gebid: Vader, vergeef hulle, want hulle weet nie wat hulle doen nie. Een misdadiger het Hom bespot. Die ander het gesê: Onthou my wanneer U in u koninkryk kom. Jesus het vir hom gesê: Vandag sal jy saam met My in die paradys wees.
 
@@ -59,9 +59,9 @@ Jesus het gebid: Vader, vergeef hulle, want hulle weet nie wat hulle doen nie. H
 
 > **Beeldnota:** Volle duisternis; kruis as donker silhoeet; stil skare; geen gore detail nie.
 
-Om die middaguur het duisternis oor die hele land gekom. Dit het tot die middag drie ure geduur. Jesus het hardop geroep: Vader, in u hande beveel Ek my gees. En Hy het sy laaste asem gehaal.
+Om die middaguur het duisternis oor die hele land gekom. Dit het tot die middag drie ure geduur. Jesus het hardop geroep: Vader, in u hande gee Ek my gees oor. En Hy het sy asem uitgeblaas.
 
-Om die middaguur het duisternis gekom en drie ure aangehou. Jesus het sy gees in die Vader se hande beveel. Om die middaguur het duisternis oor die hele land gekom en drie ure aangehou.
+Om die middaguur het duisternis gekom en drie ure aangehou. Jesus het geroep: Vader, in u hande gee Ek my gees oor — en Hy het sy asem uitgeblaas.
 
 Om die middaguur het duisternis oor die hele land gekom en drie ure aangehou.
 ---
@@ -71,13 +71,13 @@ Om die middaguur het duisternis oor die hele land gekom en drie ure aangehou.
 
 > **Beeldnota:** Romeinse hoofman kyk op na die kruis; ernstige eerbied; sagte lig breek deur.
 
-Die Romeinse hoofman het gesê: Waarlik, hierdie Man was die Seun van God. Jesus het ook gesê: Dit is volbring — sy werk vir die Vader was klaar. Die aarde het gebeef. Dit was die swaarste dag — maar ook die dag waarop Jesus vir ons gesterf het.
+Die Romeinse hoofman het gesê: Waarlik, hierdie man was onskuldig! Jesus het ook gesê: Dit is volbring — sy werk vir die Vader was klaar. Die aarde het gebeef. Dit was die swaarste dag — maar ook die dag waarop Jesus vir ons gesterf het.
 
-Jesus het gesê: Dit is volbring. Die Romeinse hoofman het gesê: Waarlik, hierdie Man was die Seun van God.
+Jesus het gesê: Dit is volbring. Die Romeinse hoofman het gesê: Waarlik, hierdie man was onskuldig!
 
-Dit was die swaarste dag — maar ook die dag waarop Jesus vir ons gesterf het. Sy liefde het geen einde nie. Jesus het hardop geroep: Dit is volbring — en sy gees in die Vader se hande beveel. Die Romeinse hoofman het gesê: Waarlik, hierdie Man was die Seun van God. Jesus het gesterf aan die kruis — Dit is volbring, het Hy gesê. Die Romeinse hoofman het erken: Hy is die Seun van God.
+Dit was die swaarste dag — maar ook die dag waarop Jesus vir ons gesterf het. Sy liefde het geen einde nie. Jesus het hardop geroep: Dit is volbring! — en sy gees in die Vader se hande oorgegee. Die Romeinse hoofman het gesê: Waarlik, hierdie man was onskuldig! Jesus het gesterf aan die kruis — Dit is volbring, het Hy gesê. Die Romeinse hoofman het erken: Hy was onskuldig.
 
-Jesus het hardop geroep: Dit is volbring — en sy gees in die Vader se hande beveel. Die Romeinse hoofman het gesê: Waarlik, hierdie Man was die Seun van God. Jesus het gesterf aan die kruis — Dit is volbring, het Hy gesê. Die Romeinse hoofman het erken: Hy is die Seun van God.
+Jesus het hardop geroep: Dit is volbring! — en sy gees in die Vader se hande oorgegee. Die Romeinse hoofman het gesê: Waarlik, hierdie man was onskuldig! Jesus het gesterf aan die kruis — Dit is volbring, het Hy gesê. Die Romeinse hoofman het erken: Hy was onskuldig.
 ---
 
 ## Bladsy 6 — Geheue
@@ -98,7 +98,7 @@ Jesus het vir ons gesterf en het selfs sy laaste woorde vir vergifnis en voltooi
 
 ### Vers om te onthou
 
-"Vader, vergeef hulle, want hulle weet nie wat hulle doen nie." — Luk. 23:34. 〔AFR20-kontrole〕
+Vader, vergeef hulle, want hulle weet nie wat hulle doen nie. — Luk. 23:34.
 
 ### Onthou jy?
 

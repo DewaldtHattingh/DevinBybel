@@ -8,7 +8,7 @@ must_include: ["lig", "Waarom vervolg jy My?", "Ananias"]
 theology_centre: "Vyand word dienaar"
 continuity_from: ACT-04
 continuity_to: ACT-06
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Saul ontmoet Jesus
@@ -98,7 +98,7 @@ Jesus kan selfs iemand verander wat Hom vervolg het — niemand is te ver vir Go
 
 ### Vers om te onthou
 
-"Ek is Jesus, die Een wat jy vervolg." — Hand. 9:5. 〔AFR20-kontrole〕
+Ek is Jesus, die Een wat jy vervolg. — Hand. 9:5.
 
 ### Onthou jy?
 

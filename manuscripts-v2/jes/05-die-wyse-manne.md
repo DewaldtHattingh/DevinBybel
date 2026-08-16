@@ -8,7 +8,7 @@ must_include: ["ster", "Herodes", "geskenke", "aanbidding"]
 theology_centre: "Heidene soek die Koning"
 continuity_from: JES-04
 continuity_to: JES-06
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Die wyse manne
@@ -54,9 +54,9 @@ Herodes was bekommerd — die skrifgeleerdes het gesê: In Betlehem van Juda.
 ## Bladsy 4 — Hoofdraai
 ![Beeld: hoofdraai](../../assets/images/JES-05-p4.png)
 
-> **Beeldnota:** Ster helder bo Bethlehem; wyse manne by huis; kind klein; goud, mirre en spesiale reuk in skatte.
+> **Beeldnota:** Ster helder bo Bethlehem; wyse manne by huis; kind klein; goud, wierook en mirre in skatte.
 
-Die ster gaan voor hulle uit tot Bethlehem. Hulle is vol vreugde. Hulle vind die kind by Maria. Hulle val neer en aanbid hom. Hulle gee geschenke: goud, mirre en spesiale reuk. Hulle erken: hier is die koning.
+Die ster gaan voor hulle uit tot Bethlehem. Hulle is vol vreugde. Hulle vind die kind by Maria. Hulle val neer en aanbid hom. Hulle gee geschenke: goud, wierook en mirre. Hulle erken: hier is die koning.
 
 Dit is nie een gewone baba nie. Hulle kom om Jesus te aanbid — die koning wat God beloof het.
 
@@ -94,6 +94,6 @@ Jesus is die koning wat aanbid word. God lei mense wat soek — en waarsku hulle
 
 ### Vers om te onthou
 
-En toe hulle die ster gesien het, was hulle buitensporig verheug. — Matt. 2:10. 〔AFR20-kontrole〕
+Toe hulle die ster sien, het hulle 'n onbeskryflike groot vreugde ervaar. — Matt. 2:10.
 
 ### Onthou jy?

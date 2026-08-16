@@ -8,7 +8,7 @@ must_include: ["God by mense", "trane afvee", "alles nuut"]
 theology_centre: "Hoop se einde"
 continuity_from: REV-03
 continuity_to: REV-05
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # 'n Nuwe hemel en aarde
@@ -25,9 +25,9 @@ afr20_quote_check: pending
 
 **Een dag, lank, lank gelede,** in Johannes se visioen het hy 'n nuwe hemel en 'n nuwe aarde gesien. Die eerste hemel en die eerste aarde was verby. Die see was ook nie meer nie.
 
-God belowe 'n nuwe wêreld — sonder trane, sonder dood, sonder hartseer. Hy sal by sy mense woon. Johannes het 'n nuwe hemel en 'n nuwe aarde gesien — die eerste hemel en aarde was verby.
+God belowe 'n nuwe wêreld — sonder trane, sonder dood, sonder hartseer. Hy sal by sy mense woon. Johannes het 'n nuwe hemel en 'n nuwe aarde gesien — die eerste hemel en die eerste aarde het tot niet gegaan.
 
-Johannes het 'n nuwe hemel en 'n nuwe aarde gesien — die eerste hemel en aarde was verby.
+Johannes het 'n nuwe hemel en 'n nuwe aarde gesien — die eerste hemel en die eerste aarde het tot niet gegaan.
 ---
 
 ## Bladsy 2 — Probleem
@@ -47,11 +47,11 @@ Die heilige stad, die nuwe Jerusalem, het uit die hemel van God afgekom.
 
 > **Beeldnota:** Stem uit die hemel; God se tent by die mense; warm, veilige lig.
 
-Johannes het 'n harde stem gehoor: Kyk, die tent van God is by die mense! Hy sal by hulle woon. Hulle sal sy volk wees, en God self sal by hulle wees as hul God.
+Johannes het 'n harde stem gehoor: Kyk, God se woonplek is by die mense! Hy sal by hulle woon. Hulle sal sy volk wees, en God self sal by hulle wees as hul God.
 
-Hy het die nuwe Jerusalem gesien — soos 'n bruid versier, helder met die heerligheid van God. 'n Groot stem het gesê: Kyk, die tent van God is by die mense — Hy sal by hulle woon.
+Hy het die nuwe Jerusalem gesien — soos 'n bruid versier, helder met die heerligheid van God. 'n Groot stem het gesê: Kyk, God se woonplek is by die mense — Hy sal by hulle woon.
 
-'n Groot stem het gesê: Kyk, die tent van God is by die mense — Hy sal by hulle woon.
+'n Groot stem het gesê: Kyk, God se woonplek is by die mense — Hy sal by hulle woon.
 ---
 
 ## Bladsy 4 — Hoofdraai
@@ -61,9 +61,9 @@ Hy het die nuwe Jerusalem gesien — soos 'n bruid versier, helder met die heerl
 
 God sal elke traan van hul oë afvee. Die dood sal nie meer wees nie. Geen hartseer of gekla meer nie. Die vroeë dinge het verbygegaan. Alles wat seer gemaak het, is weg.
 
-'n Stem het gesê: Kyk, die tent van God is by die mense! Hy sal by hulle woon en hulle sal sy volk wees. God sal hulle trane afvee — die dood sal nie meer wees nie, noch hartseer of pyn.
+'n Stem het gesê: Kyk, God se woonplek is by die mense! Hy sal by hulle woon en hulle sal sy volk wees. God sal hulle trane afvee — die dood sal nie meer daar wees nie.
 
-God sal hulle trane afvee — die dood sal nie meer wees nie, noch hartseer of pyn.
+God sal hulle trane afvee — die dood sal nie meer daar wees nie.
 ---
 
 ## Bladsy 5 — Ontknoping
@@ -73,11 +73,11 @@ God sal hulle trane afvee — die dood sal nie meer wees nie, noch hartseer of p
 
 Hy wat op die troon sit, het gesê: Kyk, Ek maak alles nuut! En Hy het gesê: Skryf, want hierdie woorde is getrou en waar. Vir die wat dors het, sal Ek fonteine van lewende water gee. God belowe 'n nuwe wêreld — veilig en vol liefde.
 
-God sal elke traan afvee. Die dood en hartseer sal nie meer wees nie. Hy het gesê: Ek maak alles nuut!
+God sal elke traan afdroog. Die dood en hartseer sal nie meer wees nie. Hy het gesê: Ek maak alles nuut!
 
-Dit is die tuiste wat God van die begin af belowe het. Alles sal nuut wees — en veilig, en vol liefde. Hy wat op die troon sit, het gesê: Kyk, Ek maak alles nuut. Ek is die Alfa en die Omega, die begin en die einde. God sal by sy mense woon — alles word nuut.
+Dit is die tuiste wat God van die begin af belowe het. Alles sal nuut wees — en veilig, en vol liefde. Hy wat op die troon sit, het gesê: Kyk, Ek maak alles nuut. Ek is die Alfa en die Omega, die Begin en die Einde. God sal by sy mense woon — alles word nuut.
 
-Hy wat op die troon sit, het gesê: Kyk, Ek maak alles nuut. Ek is die Alfa en die Omega, die begin en die einde. God sal by sy mense woon — alles word nuut.
+Hy wat op die troon sit, het gesê: Kyk, Ek maak alles nuut. Ek is die Alfa en die Omega, die Begin en die Einde. God sal by sy mense woon — alles word nuut.
 ---
 
 ## Bladsy 6 — Geheue
@@ -98,7 +98,7 @@ God maak alles nuut — Hy woon by sy mense en vee elke traan af. Ons kan hierdi
 
 ### Vers om te onthou
 
-"En Hy sal elke traan van hul oë afvee, en die dood sal nie meer wees nie." — Openb. 21:4. 〔AFR20-kontrole〕
+Hy sal elke traan uit hulle oë afdroog. En die dood sal nie meer daar wees nie. — Openb. 21:4.
 
 ### Onthou jy?
 

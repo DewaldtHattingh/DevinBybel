@@ -8,7 +8,7 @@ must_include: ["donkie", "Hosanna", "Seun van Dawid"]
 theology_centre: "Koning kom nederig"
 continuity_from: JES-23
 continuity_to: PAS-02
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Jesus ry Jerusalem binne
@@ -98,7 +98,7 @@ Jesus kom as die beloofde Koning — nie met 'n leër nie, maar nederig, soos Go
 
 ### Vers om te onthou
 
-"Hosanna vir die Seun van Dawid! Geseënd is Hy wat in die Naam van die Here kom!" — Matt. 21:9. 〔AFR20-kontrole〕
+Hosanna vir die Seun van Dawid! Geseënd is Hy wat kom in die Naam van die Here! Hosanna in die hoogste! — Matt. 21:9.
 
 ### Onthou jy?
 

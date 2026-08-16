@@ -8,7 +8,7 @@ must_include: ["Filippi", "liedere", "aardbewing", "cipier"]
 theology_centre: "God oop tronkdeure"
 continuity_from: ACT-06
 continuity_to: ACT-08
-afr20_quote_check: pending
+afr20_quote_check: verified
 ---
 
 # Paulus en Silas in die tronk
@@ -98,7 +98,7 @@ Selfs in die donker kan ons God prys — en Hy kan mense se harte verander. Ons 
 
 ### Vers om te onthou
 
-"Glo in die Here Jesus, en jy sal gered word." — Hand. 16:31. 〔AFR20-kontrole〕
+Glo in die Here Jesus, en jy sal gered word. — Hand. 16:31.
 
 ### Onthou jy?
 
